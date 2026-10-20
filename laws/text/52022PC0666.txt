@@ -1,0 +1,1327 @@
+### Community Design Regulation (listed in the table as a Directive) | CELEX 52022PC0666 | text version 52022PC0666 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 28.11.2022
+ COM(2022) 666 final
+ 2022/0391(COD)
+ Proposal for a
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ amending Council Regulation (EC) No 6/2002 on Community designs and repealing Commission Regulation (EC) No 2246/2002
+ (Text with EEA relevance)
+ {SEC(2022) 422 final} - {SWD(2022) 367 final} - {SWD(2022) 368 final} - {SWD(2022) 369 final}
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ Industrial design rights protect the appearance of a product. Industrial design is what makes a product appealing. Visual appeal is one of the key factors that influence consumers' choice of preferring one product to another. Well-designed products create an important competitive advantage for producers. To encourage innovation and the creation of new product design in the digital age, there is an increasing need for accessible, future-proofed, effective and consistent legal protection of design rights. 
+ The industrial design protection system in Europe is more than twenty years old. The laws of the Member States relating to industrial designs were partially aligned by Directive 98/71/EC of the European Parliament and of the Council of 13 October 1998 (‘the Directive’). 
+ Alongside the national design protection systems, Council Regulation (EC) No 6/2002 of 12 December 2001 (‘the Regulation’) established a stand-alone system for protecting unitary rights that have equal effect throughout the EU in form of the registered Community design (‘RCD’) and the unregistered Community design. It is only once that the Regulation was amended in 2006 to give effect to the EU joining the international Hague registration system. 
+ In addition, a transitional legal regime still exists in relation to design protection for repair spare parts. As no agreement could be reached on that point, the Directive includes a ‘freeze-plus clause’, under which Member States may retain their existing laws on whether spare parts should benefit from protection until amendments to the Directive are adopted on a proposal from the Commission. For that reason, Regulation (EC) No 6/2002 exempts repair spare parts from Community design protection until the Council has decided its policy on this issue on the basis of a Commission proposal. 
+ A proposal presented by the Commission in 2004 
+ 1 
+ to align design protection for visible spare parts by introduc ing a ‘repair clause’ into the Directive (as already contained in the Regulation ) , di d not receive sufficient support in the Council, despite overwhelming support by the European Parliament 
+ 2 
+ , and was withdrawn in 2014. 
+ I n line with the Commission’s Better Regulation agenda 
+ 3 
+ to review EU policies regularly, in 2014 the Commission launched an evaluation of the operation of the design protection systems in the EU, involving a comprehensive economic and legal assessment, supported by a series of studies. O n 11 November 2020 , t he Council of the European Union adopted conclusions on intellectual property policy and the revision of the industrial designs system in the E U 
+ 4 
+ . The Council called on the Commission to present proposals for revisin g the E U’s designs legislation , with a view to modernis ing the design protection systems and mak ing design protection more attractive for individual designers and businesses, especially small and medium-sized enterprises (SMEs) . 
+ Based on the final results of the evaluation 
+ 5 
+ , the Commission announced in its communication of 25 November 2020 entitled ‘Making the most of the EU’s innovative potential – An intellectual property action plan to support the EU’s recovery and resilience’ 
+ 6 
+ that it will revise the EU legislation on design protection, following the successful reform of the EU trade mark legislation. O n 25 June 2021 , t he Council adopted further conclusions on intellectual property policy 
+ 7 
+ , urging the Commission to prioritise the timely presentation of a proposal as soon as possible on revisin g and modernis ing the legislation on industrial designs. Furthermore, in its supportive Opinion on the IP Action Plan, the European Parliament stressed the need for revisin g the design protection system since it had been established 20 years ago 
+ 8 
+ . 
+ Considered together as a package within the Regulatory Fitness Programme (REFIT), the main common objective of this initiative and of the parallel proposal for recasting the Directive is to promote design excellence, innovation and competitiveness in the EU. This is to be done by ensuring that the overall design protection system is fit for purpose in the digital age and becomes substantially more accessible and efficient for individual designers, SMEs and design intensive industries in terms of lower costs and complexity, increased speed, greater predictability and legal certainty. 
+ Specifically, the present initiative to amend the Regulation is driven by the following objectives: 
+ – Modernising and im proving existing provisions , by amending outdated provisions, increasing legal certainty and clarifying rights in terms of scope and limitations; 
+ – Improving the accessibility, efficiency and affordability of RCD protection , by simplifying and streamlining procedures , and adjusting and optimising the level and structure of payable fees. 
+ • Consistency with existing legislative provisions in th is field 
+ This proposal is to amend Council Regulation (EC) No 6/2002. Together with the parallel proposal for recasting Directive 98/71/EC, this proposal forms a coherent package in implementing the IP Action Plan and with the purpose of modernising and further aligning the current EU legislation on design protection. 
+ This proposal is also consistent with Regulation (EU) 2017/1001 of the European Parliament and of the Council on the European Union trade mark. This is, for example, the case with regard to the scope of design rights which, like the scope of EU trade marks, is extended to cover counterfeit goods in transit and other customs situations. It is also true for certain provisions on procedures which at present only form part of the EU trade mark regime and are proposed to be inserted into the revision of Regulation (EC) No 6/2002, such as those regarding the continuation of proceedings or the revocation of decisions (see also below under alignment with EU trade mark proceedings). Furthermore, for the sake of consistency, it is proposed to confer the same delegated and implementing powers to the Commission as was done in Regulation (EU) 2017/1001. 
+ • Consistency with other EU policies 
+ Because this proposal plans to convert the transitional repair clause, currently in Article 110 of Regulation (EC) No 6/2002, into a permanent provision to be found in the proposed new Article 20a of that Regulation, in line with the insertion of a repair clause into the Directive, the proposal is consistent with and complementary to Regulation (EU) 461/2010 (the Motor Vehicle Block Exemption Regulation or ‘MVBER’) in the field of antitrust policy. 
+ The proposal to maintain that repair clause in Regulation (EC) No 6/2002 is also consistent with and complements efforts put forward in the Sustainable Product Initiative that aims to promote repairs and the circular economy. 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ The proposal is based on Article 118(1) TFEU empowering the European Parliament and the Council to establish measures to create European intellectual property rights throughout the EU, including setting up centralised EU-wide authorisation, coordination and supervision arrangements. 
+ This is a change from the legal base applied to Regulation (EC) No 6/2002, which, like the first Community Trade Mark Regulation (Regulation 40/94 on the Community trade mark), was based on Article 308 of the EC Treaty. 
+ Article 118 was introduced by the Treaty on the Functioning of the European Union (TFEU) and now provides an express legal base for EU-wide intellectual property rights. It is also now the legal basis for Regulation (EU) 2017/1001 of the European Parliament and of the Council on the European Union trade mark. 
+ • Subsidiarity (for non-exclusive competence) 
+ Article 118(1) TFEU can only be applied to create European intellectual property titles. The Union design system is an autonomous regime created by an EU Regulation and applies independently of any national system. 
+ The EUIPO (formerly OHIM) is a regulatory agency with legal, administrative and financial autonomy, which was created by the Council to manage the registration system for the RCD and Community trade mark (now the EU trade mark). As was the case with the changes introduced to the trade marks regime under Regulation (EU) 2017/1001, the analysis carried out in the impact assessment to this initiative proved that certain provisions in Regulation (EC) No 6/2002 need to be amended, in particular to improve and streamline the registration system for the RCD. 
+ • Proportionality 
+ The proposal has been designed to reduce the administrative burden and compliance costs for businesses and individual designers using the Community design system and for the EUIPO. The proposal involves targeted amendments to the self-standing Regulation (EC) No 6/2002 and does not go beyond what is necessary to achieve the identified objectives. 
+ • Choice of instrument 
+ The objectives of this proposal can only be achieved by a legislative act that will amend the existing substantive and procedural provisions governing the Community design, which is in the form of a regulation. Therefore, a regulation amending Regulation (EC) No 6/2002 is required. 
+ 3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Ex-post evaluations/fitness checks of existing legislation 
+ The Commission carried out a n overall evaluat i on of the current Directive and Regulation, which was published in November 2020 
+ 9 
+ . It concluded that the EU legislation on design protection had met the objectives and was still largely fit for purpose . 
+ However, with respect to Regulation (EC) No 6/2002, the evaluation identified certain shortcomings. In particular, the procedures for registering RCDs are partly outdated or involve unnecessary administrative burden, and the level and structure of payable fees are sub-optimal. 
+ Based on the findings of the evaluation, the European Commission conducted an impact assessment and thereafter decided to revise the legislation. The various steps in the impact assessment, from defining problems and their causes to identifying objectives and possible policy options, relied on the findings of the evaluation report. 
+ • Stakeholder consultations 
+ A comprehensive first public consultation was conducted between 18 December 2018 and 30 April 2019 
+ 10 
+ with the aim of (i) gathering sufficient stakeholder evidence and views to support the evaluation of the EU designs legislation and (ii) establishing the degree to which that legislation works as intended and can still be considered fit for purpose. 
+ Almost two thirds of respondents considered that the industrial design protection system in the EU (national design system under the Directive and the Community design regime altogether) works well. At the same time, almost half of the respondents pointed at unintended consequences or shortcomings in the Regulation and/or the Directive. 
+ As a complement to the extensive consultation for the evaluation, the Commission carried out a second public consultation between 29 April and 22 July 2021 
+ 11 
+ to obtain additional stakeholder evidence and views on selected issues and potential options and their impacts , to support the review of the legislation on designs . 
+ • Collection and use of expertise 
+ T he i mpact assessment on the revision of Regulation (EC) No 6/2002 and Directive 98/71/EC relied in particular on two external studies, considering both economic 
+ 12 
+ and legal 
+ 13 
+ aspects of the functioning of the design protection systems in the EU. In addition, as for the issue of spare parts protection specifically, the impact assessment was supported by two further studies on the effect that protection has on price and price dispersion 
+ 14 
+ and on the market structure of motor vehicle spare parts in the EU 
+ 15 
+ . 
+ Further information in support of the impact assessment was drawn from close collaboration with the EUIPO and several other studies and reports it had prepared, as well as other available studies and data collections prepared by national and international public authorities, including national IP offices, academics and other stakeholders. 
+ • 
+ Impact assessment 
+ As this proposal is presented in a package alongside the proposal to revise Directive 98/71/EC , the Commission conducted a joint impact assessment for both it and the parallel proposal to recast Directive 98/71/EC 
+ 16 
+ . Th is impact assessment was submitted to the Regulatory Scrutiny Board on 27 October and was given a positive opinion by the B oard on 26 November 2021. The final impact assessment takes into account comments contained in that opinion. 
+ In the impact assessment the Commission considered two main problems: 
+ 1. The disruption in intra-EU trade and barriers to competition in some Member States with regard to repair spare parts. 
+ 2. The discouragement of businesses, in particular SMEs and individual designers from seeking registered design protection at EU or national level - due to the high costs, burdens and delays in obtaining protection and the limited predictability around it. 
+ While the spare parts issue (first problem) and the issue of divergent (procedural) provisions as part of the second problem are due to be addressed in the parallel revision of the Directive, the partly outdated procedures for registering Community designs and sub-optimal fees to be paid for registered Community designs must be dealt with in the revision of Regulation (EC) 6/2002. 
+ The following sole (straightforward) option was considered for resolving the problem of complex procedures for registering RCDs and tackling the objective of making protection more accessible and efficient: 
+ Option 2: Simplification and streamlining of RCD procedures (including through alignment with the EU trade mark reform). This option involves in particular updating the requirements for representing designs, deleting the ‘unity of class’ requirement for multiple design applications, and aligning RCD proceedings with EU trade mark proceedings. 
+ The following option with sub-options was considered for resolving the problem of sub-optimal RCD fees and tackling the objective of making RCD protection more affordable: 
+ Option 3 : Lower RCD registration fee and easier multiple applications. This option requires the removal of the ‘unity of class’ requirement for multiple applications and the adjustment of payable fee amounts. To ensure equal treatment of applicants with smaller and larger filing volumes, adjusting the payable fee amounts also involves introducing a flat fee per additional design and thus abolishing bulk discounts granted at different levels dependent on the number of designs contained in a multiple application. 
+ To counterbalance these benefits at filing stage, the above measure is coupled with an increase in subsequent renewal fees. This model allows easier access to RCD protection, in particular for SMEs (cheaper acquisition of the right and first renewal), while at the same time ensuring that only those RCDs utilised in the market place remain on the register, by progressively increasing subsequent renewal fees for second, third and fourth renewals. 
+ In both sub-option s 3.1 and 3.2 , the headline fee for obtain ing a single RCD would be reduced from EUR 350 to EUR 250. And then f or each additional design forming part of a multiple application, the fee would be EUR 125 
+ 17 
+ under sub-option 3.1, and EUR 100 under sub-option 3.2 . 
+ The fees for renewals under sub-option 3.1 are as follows: 
+ - 
+ first renewal – EUR 70; 
+ - 
+ second renewal – EUR 140; 
+ - 
+ third renewal – EUR 280; 
+ - 
+ fourth renewal EUR 560 
+ 18 
+ . 
+ For this sub- option, the sum of fees for the first two renewals are equivalent to those under the current fee level, that is EUR 210 in total 
+ 19 
+ . 
+ In contrast, under sub-option 3.2 all renewal fees would be higher than under the current system. 
+ The adjustment of fees would in any case be coupled with a simplification of the fee structure by abolishing the publication fee and adding this fee to the registration fee. To align RCD rules with those for the EU trade mark, the transfer fee for RCDs would be abolished. 
+ The benefits of the fee reduction would primarily go to users of the RCD system. Businesses would get more value for money and would not pay more for the EUIPO services than is strictly necessary. This would enable SMEs and individual designers in particular to limit their costs and to compete with larger firms under more advantageous conditions. This would benefit consumers and, ultimately, society as a whole. 
+ To make RCD protection more accessible and affordable for businesses and keep abreast of technological advancement, Option 2 on simplification and streamlining of procedures combined with Sub-option 3.1 on fees (which does not entail an excessive, disproportionate increase in renewal fees compared to Sup-option 3.2), promises to generate positive impacts and clear benefits for businesses, in particular SMEs and individual designers. 
+ • Regulatory fitness and simplification 
+ This proposal and the parallel proposal for recast ing Directive 98/71/EC was included in Annex II of the 2022 Commission work programme 
+ 20 
+ - therefore they are part of the regulatory fitness programme (REFIT). 
+ This proposal aims to align the RCD protection system in the EU with the digital age and make it more accessible and efficient for applicants. In terms of digitalisation, the proposed update of the requirements for representing designs would allow applicants to reproduce their designs in a clear and precise manner using generally available technology. This would facilitate in particular the filing of new digital design types. 
+ The detailed overhaul of the representation requirements (which is to follow under the required new secondary legislation to be enacted) would be greatly beneficial for both applying businesses and the EUIPO, as it would significantly reduce the potential for deficiencies and increase legal certainty. 
+ In terms of simplification, the proposed abandonment of the ‘unit-of-class’ requirement would allow businesses to file (more) multiple design applications by combining several designs in one application without being restricted to products of the same nature. In addition, the proposed adjustment and simplification of the RCD fee schedule would reduce administrative burdens (in particular by abolishing the publication fee and introducing a flat fee per additional design filed within a multiple application) and make registration easier and more transparent for RCD applicants. 
+ Relevant cost savings are specified and summarised in Table 8.1 of the impact assessment. 
+ • 
+ Fundamental rights 
+ The initiative would improve the possibilities for designers to protect their rights, bringing a positive impact on fundamental rights such as the right to property and the right to an effective remedy. To make the design protection system in the EU more balanced, it also aims to provide for a more robust catalogue of limitations on design rights, taking account of fairness- and competition-based considerations. 
+ 4. 
+ BUDGETARY IMPLICATIONS 
+ This proposal would not have an impact on the European Union budget and is therefore not accompanied by the financial statement provided for under Article 35 of the Financial Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union and repealing Regulation (EU, Euratom) No 966/2012. 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ The Commission will use EUIPO annual reports and statistics to monitor in particular the evolution of design filings at the EUIPO, the usage of design protection by SMEs (based on future statistical disaggregation) and changes in (i) the number of multiple applications (ii) the number of designs with renewed protection and (iii) the number of renewals. 
+ The monitoring activities would take into account the required implementation period (including to enact the necessary new secondary legislation based on the delegated and implementing powers to be conferred to the Commission) as well as sufficient time for market participants to adapt to the new situation. 
+ A set of pertinent indicators as referred to in Section 9 of the impact assessment would be considered for evaluating the changes. Such evaluation would be done five years after full implementation of all the required changes, including at the level of secondary legislation to supplement and implement the provisions of Regulation (EC) No 6/2002. 
+ • Detailed explanation of the specific provisions in the proposal 
+ - Update of terminology and provisions on EUIPO governance 
+ For the sake of consistency, and following the entry into force of the Lisbon Treaty, the use of the term “Community” is obsolete. Therefore, the terminology used in Regulation (EC) No 6/2002 is aligned to both the Lisbon Treaty and Regulation (EU) 2017/1001 on the EU trade mark. Henceforth, registered Community designs or RCDs will be known as registered EU designs (REUDs). 
+ - Provisions on EUIPO governance (Title XI) 
+ As the main provisions on governance of the EUIPO were amended in Regulation (EU) 2017/1001, the supplementary provisions contained in Regulation (EC) No 6/2002 are adapted accordingly. 
+ - Definition of design and product (Article 3) 
+ The definitions are updated, clarified and broadened with the purpose of (i) making the proposal for a Regulation future-proof in the light of technological advancement and (ii) providing greater legal certainty and transparency as to the eligible subject matter of design protection. 
+ In particular, in response to the advent of new technological designs which are not embodied in physical products, it is proposed to update and broaden the product notion so as to better cover and distinguish those products visualised in a graphic, embodied in a physical object or apparent from the spatial arrangement of items to form an interior environment. 
+ - Object of protection (Article 18a) 
+ For greater legal certainty in relation to the ‘visibility requirement’, a specific provision is proposed to be added whereby design protection is conferred only on those features of appearance, which are shown visibly in the application for registration. 
+ - Scope of rights conferred by a registered design (Article 19) 
+ To enable design right holders to more effectively address the challenges brought by the increased deployment of 3D printing technologies, it is proposed to adjust the scope of design rights accordingly. 
+ In addition, following the EU trade mark reform, it is considered important for the effective fight against ever increasing counterfeiting activities to also add to the legal framework on RCDs a corresponding provision, permitting right holders to prevent counterfeit products transiting through EU territory or being placed in another customs situation without being released for free circulation there. 
+ - Limitation of the rights conferred (Article 20) 
+ T o ensure a better balance of legitimate interests involved and taking account of the case law of the Court of Justice of the European Union (CJEU) 
+ 21 
+ , it is prop osed to complement the lis t of permissible uses by addi n g ‘ referential use ’ and ‘ critique and parody ’ . 
+ - Repair clause (Article 20a) 
+ In line with the insertion of a repair clause into the Directive, the transitional repair clause currently contained in Article 110 of Regulation (EC) No 6/2002 is proposed to be converted into a permanent provision. 
+ For the sake of co nsistency with the repair clause inserted into the Directive and in view of the case law of the CJEU 
+ 22 
+ , it is proposed to explicitly restrict the scope of application of the repair clause to component parts whose appearance is dependent on the appearance of the complex product concerned. 
+ In addition, it should be made explicit that the repair clause can be used as a defence against infringement claims only if consumers are duly informed of the origin of the product to be used for repairing the complex product. 
+ - Design notice (Article 26a) 
+ A design notice is made available to holders of registered EU designs, permitting them to inform the public that the design has been registered. 
+ - Principle of cumulation (Article 96(2)) 
+ The principle of cumulation of design and copyright protection is maintained, while taking account of the fact that, since the original legislation was adopted, harmonisation has progressed in the copyright area. 
+ - Requirements of design representation (Articles 36 and 36a) 
+ The proposed amendment to Article 36(1)(c) of Regulation (EC) No 6/2002 intends to ensure that the representation of the design allows all the details of the subject-matter for which protection is sought to be clearly distinguished and published, regardless of the means of representation used. Given the negligible number of specimens filed, it is further proposed to abolish the option of filing a specimen instead of a representation of the design. 
+ The aim of the proposed new Article 36a is to empower the Commission to specify the details to be contained in the application for a registered EU design, including the updating of the standards of design representation to be fit for the digital age (see also above under regulatory fitness and simplification). 
+ - Multiple applications (Article 37) 
+ It is proposed to abolish the so-called ‘unity of class’ requirement so that applicants are able to combine several designs in one multiple application without being limited to products of the same Locarno Class and with the possibility of benefiting from a bulk discount. 
+ - Alignment with EU trade mark proceedings 
+ Several amendments are proposed to make RCD proceedings more efficient while ensuring consistency with the EU trade mark regime. Such amendments include (i) the abandonment of the option to file an RCD application through one of the central industrial property offices of the Member States or the Benelux IP Office, (ii) the introduction of the option to apply for the continuation of proceedings or the revocation of a decision by the EUIPO, and (iii) the extension of the rules on professional representation to cover the whole European Economic Area. 
+ - Payable fees (Annex I) 
+ Given the essential importance of the amounts of RCD fees for the overall functioning of the design protection system in the EU and its complementary relationship as regards national design protection systems, and for the sake of consistency with Regulation (EU) 2017/1001 on the EU trade mark, both the amounts of RCD fees and the rules on payment currently laid down in Commission Regulation (EC) No 2246/2002 (the Fees Regulation) are proposed to be integrated into Regulation (EC) No 6/2002. The Fees Regulation will therefore become obsolete and is proposed to be repealed. 
+ Compared to the amount of RCD fees currently set out in the Fees Regulation, it is further proposed to reduce the level of the application fee, which together with the abolition of the ‘unity of class’ requirement for multiple applications, shall make access to registered EU design protection more affordable, in particular, for SMEs and individual designers, which tend to file fewer design applications than larger firms. 
+ In addition, it is proposed to simplify the schedule of RCD fees (such as by merging the registration fee with the publication fee to become a single application fee) to further increase the accessibility, transparency and user-friendliness of the system for companies and designers applying for registered EU design protection. 
+ - Alignment with Articles 290 and 291 TFEU 
+ The Regulation confers powers on the Commission to adopt certain rules. Those rules are currently provided in (i) Commission Regulation (EC) No 2245/2002 of 21 October 2002 implementing Council Regulation (EC) No 6/2002 on Community designs and (ii) Commission Regulation (EC) No 2246/2002 of 16 December 2002 on the fees payable to the Office for Harmonisation in the Internal Market. 
+ As this has not been done yet, it is necessary to align the powers conferred on the Commission under the Regulation with Articles 290 and 291 TFEU. The proposal therefore intends to insert a number of specific new empowerments for the Commission to adopt delegated and implementing acts. 
+ 2022/0391 (COD) 
+ Proposal for a 
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ amending Council Regulation (EC) No 6/2002 on Community designs and repealing Commission Regulation (EC) No 2246/2002 
+ (Text with EEA relevance) 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 118, first paragraph, thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Economic and Social Committee 
+ 23 
+ , 
+ Having regard to the opinion of the Committee of the Regions 
+ 24 
+ , 
+ Acting in accordance with the ordinary legislative procedure, 
+ Whereas: 
+ (1) Council Regulation (EC) No 6/2002 
+ 25 
+ created a system of design protection specific to the European Union which provided for the protection of designs at Union level in parallel to the protection of designs available at national level in the Member States in accord ance with the respective national design protection laws , harmonised by Directive 98/71/EC of the European Parliament and of the Council 
+ 26 
+ . 
+ (2) In line with its Communication on Better Regulation 
+ 27 
+ and its commitment to review Union policies regularly, the Commission carried out a n extensive evaluation of the design protection systems in the Union , involving a comprehensive economic and legal assessment, supported by a series of studies 
+ 28 
+ . 
+ (3) In its conclusions of 11 November 2020 on intellectual property policy and the revision of the industrial design system in the Union 
+ 29 
+ , the Council called on the Commission to present proposals for the revision of Regulation (EC) No 6/2002 and Directive 98/71/EC. The purpose of th at revision should be to modernise the protection systems relating to industrial designs in the Union and to make design protection more attractive for individual designers and businesses, especially small and medium-sized enterprises (SMEs) . 
+ (4) Since t he establishment of the Community design system , experience has shown that individual designers and undertakings from within the Union and from third countries have accepted the system which has become a successful and viable complement or alternative to the protection of designs at the national level of the Member States. 
+ (5) National design protection systems continue nevertheless to be necessary for those individual designers and undertakings that do not want protection of their designs at Union level, or that are unable to obtain Union-wide protection while national protection does not face any obstacles. It should be left to each person seeking design protection to decide whether the protection is sought only as a national design in one or more Member States, or only as an EU design, or both . 
+ (6) While the Commission’s evaluation of the Union’s legislation on design protection confirmed that it is still largely fit for purpose, it announced in its communication ‘Making the most of the EU’s innovative potential – An intellectual property action plan to support the EU’s recovery and resilience’ 
+ 30 
+ of 25 November 2020 that following the successful reform of the EU trade mark legislation , among others, it will revise the Union legislation on design protection with a view to improving the accessibility and affordability of design protection in the Union . 
+ (7) In parallel with the improvements and amendments to the EU design system , national design laws and practices should be further harmonised and brought into line with the EU design system to the extent appropriate in order to create , as far as possible , equal conditions for the registration and protection of designs throughout the Union. This should be complemented by further efforts of the European Union Intellectual Property Office (EUIPO , ‘the Office’ ), the central industrial property offices of the Member States and the Benelux Office for Intellectual Property to promote convergence of practices and tools in the field of designs under the cooperation framework laid down in Article 152 of Regulation (EU) 2017/1001 of the European Parliament and of the Council 
+ 31 
+ . 
+ (8) It is necessary to update t he terminolog y of Regulation (EC) No 6/2002 to conform with the Lisbon Treaty . This entails the replacement of ‘Community design’ by ‘European Union design’ (‘EU design’). In addition, the terminology needs to be aligned with that of Regulation (EU) 2017/1001 . This involves in particular the replacement of the name ‘Office for Harmonization in the Internal Market (trade marks and designs)’ by ‘European Union Intellectual Property Office’. 
+ (9) Since the establishment of the Community design system, the rise of information technology entailed the advent of new designs which are not embodied in physical products. Th at calls for a broadening of the definition of products eligible for design protection to clearly cover those visualised in a graphic, embodied in a physical object or apparent from the spatial arrangement of items intended to form, in particular, an interior environment . In this context, it should also be recognised that the movement, transition or animation of features can contribute to the visual appearance of designs, in particular for designs that are not embodied in a physical object . 
+ (10) In order to ensure legal certainty, it is appropriate to clarify that p rotection is conferred upon the right holder for those design features of a product, in whole or in part, which are shown visibly in an application for a registered EU design and made available to the public by way of publication or consultation of the relevant file. While otherwise design features of a given product do not need to be visible at any particular time or in any particular situation of use in order to attract design protection, an exception should apply to the design protection of component parts of a complex product that need to remain visible during normal use of that product. 
+ (11) The use of 3D printing technologies in different areas of industry is growing, which result s in challenges for design right holders to effectively prevent illegitimate copying of their protected designs . Therefore , it is appropriate to provide that the creation, downloading, copying and making available of any medium or software recording the design for the purpose of reproduc ing a product that infringes the design, amounts to use of the design being subject to the right holder’s authorisation. 
+ (12) In order to ensure design protection and combat counterfeiting effectively, and in line with international obligations of the Union under the framework of the World Trade Organisation (WTO), in particular Article V to the General Agreement on Tariffs and Trade (GATT) , which provides for fre edom of transit, and, as regards generic medicines, the Declaration on the TRIPS Agreement and Public Health, the holder of a registered EU design should be entitled to prevent third parties from bringing products, in the course of trade, into the Union without being released for free circulation there, where such products come from third countries and without authorisation incorporate a design which is identical or essentially identical to the registered EU design or where a design is applied to those products which is identical or essentially identical to the registered EU design . 
+ (13) To th at effect, it should be permissible for holders of registered EU designs to prevent entry of infringing products and their placement in all customs situations , also when such products are not intended to be placed on the market of the Union. In performing customs controls, the customs authorities should make use of the powers and procedures laid down in Regulation (EU) No 608/2013 of the European Parliament and the Council 
+ 32 
+ , including at the request of the right holders. In particular, the customs authorities should carry out the relevant controls on the basis of risk analysis criteria . 
+ (14) It is necessary to reconcile the need to ensure the effective enforcement of design rights with the necessity to avoid hampering the free flow of trade in legitimate products . Therefore , the entitlement of the holder of the registered EU design should lapse where, during proceedings before the European Union design court (‘EU design court’) competent to take a substantive decision on whether the EU design has been infringed, the declarant or the holder of the products is able to prove that the holder of the registered EU design is not entitled to prohibit the placing of the products on the market in the country of final destination . 
+ (15) T he exclusive rights conferred by a registered EU design should be subject to an appropriate set of limitations. Apart from private and non-commercial use and acts carried out for experimental purposes, permissible use should include acts of reproduction for the purpose of making citations or acts of teaching, referential use in the context of comparative advertising, and use for the purpose of comment , critique or parody, provided that those acts are compatible with fair trade practice s and do not unduly prejudice the normal exploitation of the design. Use of a registered EU design by third parties for the purpose of artistic expression should be considered as being fair as long as it is in accordance with honest practices in industrial and commercial matters. Furthermore, the rules on the EU design should be applied in a way that ensures full respect of fundamental rights and freedoms, and in particular the freedom of expression. 
+ (16) Directive (EU) [xxx] harmonise s t he laws of the Member States with regard to the use of protected designs for the purpose of permitting the repair of a complex product so as to restore its original appearance, where the design is applied to or incorporated in a product which constitutes a component part of a complex product upon whose appearance the protected design is dependent . Accordingly, the current transitional repair clause contained in Regulation (EC) No 6/2002 should be converted into a permanent provision . As the intended effect of that provision is to make registered and unregistered Community design rights unenforceable where the design of the component part of a complex product is used for the purpose of the repair of a complex product so as to restore its original appearance , t h e repair clause should be placed among the available defences to EU design right infringement under Regulation (EC) No 6/2002 . Furthermore , for the sake of coherence with the repair clause inserted into Directive (EU) [XXX] , and in order to ensure that the scope of design protection is only restricted to prevent design right holders from actually be ing granted product monopolies, it is necessary to explicitly limit the application of the repair clause set out in Regulation (EC) No 6/2002 to component parts of a complex product upon whose appearance the protected design is dependent. In addition , in order to ensure that consumers are not mislead but are able to make an informed decision between competing products that can be used for the repair, it should also be made explicit in the law that the repair clause cannot be invoked by the manufacturer or the seller of a component part who have failed to du ly inform consumers about the origin of the product to be used for the purpose of repair of the complex product. 
+ (17) In order to facilitate the marketing of design protected products , in particular by SMEs and individual design er s, and to increase awareness of the design registration regimes existing both at Union and national level , a commonly accepted notice consisting of the symbol (D) should be available for use by design right holders and others with their consent. 
+ (18) In view of the insignificant number of EU design applications filed at the central industrial property offices of the Member States and the Benelux Office for Intellectual Property, and in order to align the system for EU design applications to the system set out in Regulation (EU) 2017/1001 , it should henceforth only be possible to file an EU design application at the Office . 
+ (19) Both technological advancement and t he experience gained in the application of the current EU design registration system has revealed the need for improvement of certain aspects of procedure. Consequently, certain measures should be taken to update, simplify and speed up procedures where appropriate and to enhance legal certainty and predictability where required. 
+ (20) To this e nd , it is of key importance to provide the appropriate means to allow a clear and precise representation for all designs, which is adaptable to the technical advance for the visualisation of designs and the needs of the Union industry. In order to ensure that the same graphic representation can be used for design applications in one or more Member States and for applications for registered EU designs , the Office, the central industrial property offices of the Member States and the Benelux Office for Intellectual Property should be required to cooperate with each other to establish common standards for the formal requirements that the repr esentation must fulfil . 
+ (21) F or greater efficiency it is also appropriate to facilitate the filing of multiple applications for registered EU design s by allowing applicants to combine designs in one application without being subject to the condition that the products in which the designs are intended to be incorporated or to which they are intended to be applied all belong to the same class of the Locarno Classification 
+ 33 
+ . However, a maximum limit should be provided for to avoid potential abuse of multiple filings . 
+ (22) For reasons of efficiency and to streamline proceedings, the means of notifications and communications sh ould be electronic only. 
+ (23) In order to render the access to registered EU design protection more affordable and transparent , in particular for SMEs and individual designers that tend to file less designs compared to larger enterprises, it is appropriate to adjust the structure and amount of fees for the application of registered EU designs . 
+ (24) Given the essential importance of the amounts of fees payable to the Office for the functioning of the EU design protection system and its complementary relationship as regards national design systems, and in order to align the legislative approach with Regulation (EU) 2017/1001, it is appropriate to set those fee amounts directly in Regulation (EC) No 6/2002 in the form of an annex . The amounts of the fees should be fixed at a level which ensures both that the revenue they produce is in principle sufficient for the budget of the Office to be balanced and that there is coexistence and complementarity between the EU design and the national design systems, also taking into account the size of the market covered by the EU design and the needs of SMEs . 
+ (25) Regulation (EC) 6/2002 confers powers on the Commission to adopt rules implementing that Regulation. As a consequence of the entry into force of the Treaty , the powers conferred upon the Commission under Regulation (EC) No 6/2002 need to be aligned with Articles 290 and 291 of the Treaty on the Functioning of the European Union ( ‘ TFEU ’ ) . 
+ (26) In order to ensure an effective, efficient and expeditious examination and registration of EU design applications by the Office using procedures which are transparent, thorough, fair and equitable, the power to adopt delegated acts in accordance with Article 290 TFEU should be delegated to the Commission in respect of specifying the details on the procedure for amending an application. 
+ (27) In order to ensure that a registered EU design can be declared invalid in an effective and efficient way by means of a transparent, thorough, fair and equitable procedure, the power to adopt delegated acts in accordance with Article 290 TFEU should be delegated to the Commission in respect of specifying the procedure for declar ing a registered EU design invalid. 
+ (28) In order to allow for an effective, efficient and complete review of decisions of the Office by the Boards of Appeal by means of a transparent, thorough, fair and equitable procedure, the power to adopt delegated acts in accordance with Article 290 TFEU should be delegated to the Commission in respect of specifying the details of appeal proceedings where proceedings relating to EU designs require derogation s from the provisions set out in delegated acts adopted pursuant to Article 73 of Regulation (EU) 2017/1001. 
+ (29) In order to ensure a smooth, effective and efficient operation of the EU design system, the power to adopt delegated acts in accordance with Article 290 TFEU should be delegated to the Commission in respect of specifying the requirements as to the details on oral proceedings and the detailed arrangements for taking of evidence, the detailed arrangements for notification, the means of communication and the forms to be used by the parties to proceedings, the rules governing the calculation and duration of time limits, the procedures for the revocation of a decision or for cancellation of an entry in the Register of EU designs , the detailed arrangements for the resumption of proceedings, and the details on representation before the Office. 
+ (30) In order to ensure an effective and efficient organisation of the Boards of Appeal, the power to adopt delegated acts in accordance with Article 290 TFEU should be delegated to the Commission in respect of specifying the details on the organisation of the Boards of Appeal where proceedings relating to EU designs require derogation from the delegated acts adopted pursuant to Article 168 of Regulation (EU) 2017/1001 . 
+ (31) I t is of particular importance that the Commission carr y out appropriate consultations during its preparatory work, including at expert level , and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making 
+ 34 
+ . In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States' experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts . 
+ (32) In order to ensure uniform conditions for the implementation of Regulation (E C ) No 6/2002 , implementing powers should be conferred on the Commission in respect of specifying the details concerning applications, requests, certificates, claims, regulations, notifications and any other document under the relevant procedural requirements established by Regulation (E C ) No 6/2002 as well as in respect of maximum rates for costs essential to the proceedings and actually incurred, details concerning publications in the European Union Designs Bulletin and the Official Journal of the Office , the detailed arrangements for exchange of information between the Office and national authorities, detailed arrangements concerning translations of supporting documents in written proceedings, and exact types of decisions to be taken by a single member of the I nvalidity D ivisions . Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council 
+ 35 
+ . 
+ (33) Given the advanced harmonisation of copyright law in the Union, it is appropriate to adjust the principle of cumul ation of protection under Regulation (EC) No 6/2002 and under copyright law by allowing designs protected by EU design rights to be protected as copyright works, provided that the requirements of Union copyright law are met. 
+ (34) Regulation (EC) No 6/2002 should therefore be amended accordingly and Regulation (EC) No 2246/2002 should be repealed . 
+ (35) Since the objectives of this Regulation cannot be sufficiently achieved by the Member States but can rather, by reason of the autonomous nature of the EU design system being independent from national systems , be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve those objectives. 
+ (36) The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council 
+ 36 
+ and delivered an opinion on ... , 
+ HAVE ADOPTED THIS REGULATION: 
+ Article 1 
+ Regulation (EC) No 6/2002 is amended as follows: 
+ (1) t he title is replaced by the following: 
+ ‘Council Regulation (EC) No 6/2002 of 12 December 2001 on European Union designs’; 
+ (2) i n Article 1, paragraph 1 is replaced by the following: 
+ ‘1. A design which complies with the conditions contained in this Regulation is hereinafter referred to as a “European Union design” (‘EU design’).’; 
+ (3) t hroughout the articles, the words ‘Community design’ are replaced by ‘EU design’ and any necessary grammatical changes are made ; 
+ (4) t hroughout the Regulation, the term ‘Community design court’ is replaced by “EU design court’ and any necessary grammatical changes are made ; 
+ (5) i n A rticle 1(3), Article 7(1), Article 11(1), Article 22(1), Article 27(1), Article 96(1), Article 98(1), Article 98(5), Article 106a(1), Article 106a(2), Article 106d(1), Article 106d(2), and Article 110a(1) , the word s ‘ the Community ’ are replaced by ‘ the Union ’ and any necessary grammatical changes are made ; 
+ (6) Article 2 is replaced by the following: 
+ ‘Article 2 
+ European Union Intellectual Property Office 
+ The European Union Intellectual Property Office (‘the Office’), established by Regulation (EU) 2017/1001 of the European Parliament and of the Council*, shall carry out the tasks entrusted to it by this Regulation. 
+ * Regulation (EU) 2017/1001 of the European Parliament and of the Council of 14 June 2017 on the European Union trade mark (OJ L 154, 16.6.2017, p.1).’; 
+ (7) t he following A rticle is inserted: 
+ ‘Article 2a 
+ Capacity to act 
+ For the purpose of implementing this Regulation, companies or firms and other legal bodies shall be regarded as legal persons if, under the terms of the law governing them, they have the capacity in their own name to have rights and obligations of all kinds, to make contracts or accomplish other legal acts, and to sue and be sued.’; 
+ (8) Article 3 is replaced by the following: 
+ ‘Article 3 
+ Definitions 
+ For the purposes of this Regulation, the following definitions apply: 
+ (1) ‘d esign ’ means the appearance of the whole or a part of a product resulting from the features, in particular, the lines, contours, colours , shape, texture, materials of the product itself and/or its decoration, including the movement, transition or any other sort of animation of those features ; 
+ (2) ‘ product ’ means any industrial or handicraft item other than computer programs , regardless of whether it is embodied in a physical object or materialises in a digital form, including : 
+ (a) packaging, sets of articles , get-up, spatial arrangement of items intended to form, in particular, an interior environment, and parts intended to be assembled into a complex product ; 
+ (b) graphic works or symbols, logos, surface patterns, typographic typefaces , and graphical user interfaces ; 
+ (3) ‘ complex product ’ means a product that is composed of multiple components which can be replaced , permitting disassembly and reassembly of the product. ’ ; 
+ (9) i n Article 4, paragraph 1 is replaced by the following: 
+ ‘1. A design shall be protected by an EU design, if it is new and has individual character.’; 
+ (10) i n Article 7(2), the introductory words are replaced by the following: 
+ ‘2. A disclosure shall not be taken into consideration for the purpose of applying Articles 5 and 6 if the disclosed design, which is identical with or does not differ in its overall impression from the design for which protection is claimed under a registered EU design, has been made available to the public:’; 
+ (11) Article 12 is replaced by the following: 
+ ‘Article 12 
+ Commencement and term of protection of the registered EU design 
+ 1. Protection by a registered EU design of a design which meets the requirements set out in Section 1 shall arise with registration by the Office. 
+ 2. A registered EU design shall be registered for a period of five years calculated from the date of filing of the application for registration. The right holder may have the term of protection renewed for one or more periods of 5 years each, up to a total term of 25 years from the date of filing of the application for registration.’; 
+ (12) Article 13 is deleted ; 
+ (13) Article s 15 and 16 are replaced by the following : 
+ ‘Article 15 
+ Claims relating to the entitlement to an EU design 
+ 1. If an unregistered EU design is disclosed or claimed by a person who is not entitled to it under Article 14 or if a registered EU design has been applied for or registered in the name of such a person, the person entitled to it under that provision may, without prejudice to any other remedy which may be open to him, claim before the competent court or authority of the Member State concerned to become recognised as the legitimate holder of the EU design. 
+ 2. Where a person is jointly entitled to an EU design, that person may, in accordance with paragraph 1, claim to become recognised as joint holder. 
+ 3. Legal proceedings under paragraphs 1 or 2 shall be barred three years after the date of publication of a registered EU design or the date of disclosure of an unregistered EU design. This provision shall not apply if the person who is not entitled to the EU design was acting in bad faith at the time when such design was applied for, disclosed or acquired. 
+ 4. The person entitled to an EU design under Article 14 may submit a request, pursuant to paragraph 1 of this Article, for a change of ownership to the Office, together with a final decision of the competent court or authority of the Member State concerned. 
+ 5. In the case of a registered EU design, the following shall be entered in the Register of EU designs referred to in Article 72 (‘the Register’): 
+ (a) an indication that legal proceedings under paragraph 1 have been instituted before the competent court or authority of the Member State concerned ; 
+ (b) the date and particulars of the final decision of the competent court or authority of the Member State concerned or any other termination of the proceedings; 
+ (c) any change in the ownership of the registered EU design resulting from the final decision of the competent court or authority of the Member State concerned . 
+ Article 16 
+ Effects of a judgment on entitlement to a registered EU design 
+ 1. Where there is a complete change of ownership of a registered EU design as a result of legal proceedings under Article 15(1), licences and other rights shall lapse upon the entering in the Register of the new holder of the registered EU design. 
+ 2. If, before the institution of the legal proceedings under Article 15(1) has been registered, the holder or a licensee of the registered EU design has exploited the design within the Union or made serious and effective preparations to do so, that holder or licensee may continue such exploitation provided that they request, within a period of 3 months of the date of the entering in the Register of the new holder, a non-exclusive licence from the new holder whose name is entered in the Register. The licence shall be granted for a reasonable period and upon reasonable terms. 
+ 3. Paragraph 2 shall not apply if the holder of the registered EU design or the licensee was acting in bad faith at the time when that holder or licensee began to exploit the design or to make preparations to do so.’; 
+ (14) i n Article 18, the following sentence is added: 
+ ‘That right includes the right to enter a change of the name of the designer or of the team in the Register.’; 
+ (15) t he following A rticle 18a is inserted after the heading of Section 4 : 
+ ‘Article 18a 
+ Object of protection 
+ Protection shall be conferred for those features of the appearance of a registered EU design which are shown visibly in the application for registration.’; 
+ (16) Article s 19 to 21 are replaced by the following: 
+ ‘Article 19 
+ Rights conferred by the EU design 
+ 1. A registered EU design shall confer on its holder the exclusive right to use it and to prevent any third party not having the consent of the holder from using it. 
+ 2. The following, in particular, may be prohibited under paragraph 1: 
+ (a) making, offering, putting on the market , or using a product in which the design is incorporated or to which the design is applied; 
+ (b) importing or exporting a product referred to in point (a); 
+ (c) stocking a product referred to in point (a) for the purposes referred to in points (a) and (b); 
+ (d) creating , downloading, copying and sharing or distributing to others any medium or software recording the design for the purpose of enabling a product referred to in point (a) to be made. 
+ 3. By way of derogation from Article 10(1), the holder of a registered EU design shall be entitled to prevent all third parties from bringing products, in the course of trade, from third countries into the Union, that are not released for free circulation in the Union, where the design is identically incorporated in or applied to those products, or the design cannot be distinguished in its essential aspects from such products, and an authorisation has not been given. 
+ The right referred to in the first subparagraph shall lapse, if, during proceedings to determine whether the EU design has been infringed, initiated in accordance with Regulation (EU) No 608/2013 of the European Parliament and of the Council*, evidence is provided by the declarant or the holder of the products that the holder of the registered EU design is not entitled to prohibit the placing of the products on the market in the country of final destination. 
+ 4. The holder of an unregistered EU design shall be entitled to prevent acts referred to in paragraphs 1 and 2 only if the contested use results from copying that design. 
+ The contested use referred above shall not be deemed to result from copying the unregistered EU design if it results from an independent work of creation by a designer who may be reasonably thought not to be familiar with the design made available to the public by the holder. 
+ 5. Paragraph 4 shall also apply to a registered EU design subject to deferment of publication as long as the relevant entries in the Register and the file have not been made available to the public in accordance with Article 50(4). 
+ Article 20 
+ Limitation of the rights conferred by an EU design 
+ 1. The rights conferred by an EU design shall not be exercised in respect of: 
+ (a) acts carried out privately and for non-commercial purposes; 
+ (b) acts carried out for experimental purposes; 
+ (c) acts of reproduction for the purpose of making citations or of teaching ; 
+ (d) acts carried out for the purpose of identifying or referring to a product as that of the design right holder ; 
+ (e) acts carried out for the purpose of comment, critique or parody ; 
+ (f) the equipment on ships and aircraft that are registered in a third country and that temporarily enter the territory of the Union; 
+ (g) the importation into the Union of spare parts and accessories for the purpose of repairing ships and aircraft referred to in point ( f ); 
+ (h) the execution of repairs on ships and aircraft referred to in point ( f ). 
+ 2. Paragraph 1, points (c), (d) and (e), shall only apply where the acts are compatible with fair trade practices and do not unduly prejudice the normal exploitation of the design, and in the case of point (c), where mention is made of the source of the product in which the design is incorporated or to which the design is applied. 
+ Article 20a 
+ Repair clause 
+ 1. Protection shall not be conferred on an EU design which constitutes a component part of a complex product, upon whose appearance the design of the component part is dependent, and which is used within the meaning of Article 19(1) for the sole purpose of the repair of that complex product so as to restore its original appearance. 
+ 2. Paragraph 1 cannot be invoked by the manufacturer or the seller of a component part of a complex product who have failed to duly inform consumers, through a clear and visible indication on the product or in another appropriate form, about the origin of the product to be used for the purpose of the repair of the complex product, so that they can make an informed choice between competing products that can be used for the repair. 
+ Article 21 
+ Exhaustion of rights 
+ The rights conferred by an EU design shall not extend to acts relating to a product in which a design included within the scope of protection of the EU design is incorporated or to which it is applied, when the product has been put on the market in the European Economic Area (EEA) by the holder of the EU design or with his consent.’; 
+ * Regulation (EU) No 608/2013 of the European Parliament and of the Council of 12 June 2013 concerning customs enforcement of intellectual property rights and repealing Council Regulation (EC) No 1383/2003 (OJ L 181, 29.6.2013, p. 15). 
+ (17) i n Article 24, paragraph 2 is replaced by the following: 
+ ‘2. An EU design may be declared invalid even after the EU design has lapsed or has been surrendered, if the applicant shows a legitimate interest in obtaining a decision on the merits.’; 
+ (18) Article 25 is replaced by the following: 
+ ‘Article 25 
+ Grounds for invalidity 
+ 1. An EU design may be declared invalid only in the following situations: 
+ (a) the EU design does not correspond to the definition under Article 3 , point ( 1 ); 
+ (b) the EU design does not fulfil the requirements laid down in Articles 4 to 9; 
+ (c) by virtue of a decision of the competent court or authority , the right holder is not entitled to the EU design under Article 14; 
+ (d) the EU design is in conflict with a prior design which has been made available to the public, and which is protected from a date prior to th e date of filing of the application, or if priority is claimed, the date of priority of the EU design : 
+ (i) by a registered EU design or an application for such a design subject to its registration, 
+ (ii) by a registered design right of a Member State, or by an application for such a right subject to its registration, or 
+ (iii) by a design right registered under the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs of 1999 (‘the Geneva Act’), which has effect in the Union, or by an application for such a right subject to its registration; 
+ (e) a distinctive sign is used in a subsequent design, and Union law or the law of the Member State governing that sign confers on the right holder of the sign the right to prohibit such use ; 
+ (f) the design constitutes an unauthorised use of a work protected under the copyright law of a Member State; 
+ (g) the design constitutes an improper use of any of the items listed in Article 6ter of the Paris Convention for the Protection of Industrial Property ( ’ the Paris Convention ’ ) , or of badges, emblems and escutcheons other than those cove red by that Article and which are of particular public interest in a Member State. 
+ 2. The grounds for invalidity provided for in paragraph 1, points (a) and (b), may be invoked by the following: 
+ (a) any natural or legal person ; 
+ (b) any group or body set up for the purpose of representing the interests of manufacturers, producers, suppliers of services, traders or consumers if that group or body has the capacity to sue and be sued in its own name under the terms of the law governing it . 
+ 3. The ground for invalidity provided for in paragraph 1, point (c), may be invoked solely by the person who is entitled to the EU design under Article 14. 
+ 4. The grounds for invalidity provided for in paragraph 1, points (d), (e) and (f), may be invoked solely by the following: 
+ (a) the applicant for or the holder of the earlier right ; 
+ (b) the persons who are entitled under Union legislation or the law of the Member State concerned to exercise the rights in question ; 
+ (c) a licensee authorised by a proprietor of a trade mark or a holder of a design right . 
+ 5. The ground for invalidity provided for in paragraph 1, point (g), may be invoked solely by the person or entity concerned by the improper use. 
+ 6. By way of derogation from paragraphs 4 and 5, Member States may provide that the grounds provided for in paragraph 1, points (d) and (g) may also be invoked by the appropriate authority of the Member State in question on its own initiative. 
+ 7. An EU design may not be declared invalid where the applicant for or holder of one of the rights referred to in paragraph 1, points (d) to (g), has consented expressly to the registration of the EU design before submitting the application for a declaration of invalidity or the counterclaim. 
+ 8. Where the applicant for or a holder of one of the rights referred to in paragraph 1, points (d) to (g), has previously applied for a declaration that an EU design is invalid or made a counterclaim in infringement proceedings, they may not submit a new application for a declaration of invalidity or lodge a new counterclaim on the basis of any of the other rights referred to in those points, which could have been invoked in support of the first application or counterclaim.’; 
+ (19) i n Article 2 6 , paragraph 1 is replaced by the following: 
+ ‘1. An EU design which is declared invalid shall be deemed not to have had the effects specified in this Regulation as from the outset.’; 
+ (20) t he following heading is inserted after Article 26 : 
+ ‘Section 6 
+ Notice of registration’ 
+ (21) t he following Article 26a is inserted after the heading of Section 6 : 
+ ‘Article 26a 
+ Registration symbol 
+ The holder of a registered EU design may inform the public that the design is registered by displaying on the product in which the design is incorporated or to which it is applied the letter D enclosed within a circle. Such design notice may be accompanied by the registration number of the design or hyperlinked to the entry of the design in the Register.’; 
+ (22) Article 28 is replaced by the following: 
+ ‘Article 28 
+ Transfer of the registered EU design 
+ 1. An assignment of a registered EU design shall be made in writing and shall be signed by the parties to the contract, except when it is the result of a judgment. 
+ An assignment of a registered EU design that does not comply with the requirements set out in the first subparagraph shall be void. 
+ 2. On request of one of the parties, a transfer of a registered EU design shall be entered in the Register and published. 
+ 3. A request for registration of a transfer in the Register shall contain information identifying the registered EU design, the new holder and, where applicable, the representative of the new holder. It shall also contain documents duly establishing the transfer in accordance with paragraph 1. 
+ 4. Where the conditions for the registration of a transfer, as laid down in paragraph 1 or in the implementing acts referred to in Article 28a, are not fulfilled, the Office shall notify the applicant of the deficiencies. If the deficiencies are not remedied within the time limit specified by the Office, it shall reject the application for registration of the transfer. 
+ 5. A single application for registration of a transfer may be submitted for two or more registered EU designs, provided that the registered holder and the successor in title are the same for all these registered EU designs. 
+ 6. As long as the transfer has not been entered in the Register, the successor in title may not invoke the rights arising from the registration of the registered EU design. 
+ 7. Where there are time limits to be observed vis-à-vis the Office, the successor in title may make the corresponding statements to the Office once the request for registration of the transfer has been received by the Office. 
+ 8. All documents which require notification to the holder of the registered EU design in accordance with Article 66 shall be addressed to the person registered as holder in the Register.’; 
+ (23) t he following Article 28a is inserted: 
+ ‘Article 28a 
+ Conferral of implementing powers regarding transfer 
+ The Commission shall adopt implementing acts specifying: 
+ (a) the details to be contained in the request for registration of a transfer referred to in Art 28(3) ; 
+ (b) the kind of documentation required to establish a transfer as referred to in Article 28(3) , taking account of the agreements given by the registered holder and the successor in title . 
+ Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2).’; 
+ (24) Article s 31 to 3 4 are replaced by the following: 
+ ‘ Article 31 
+ Insolvency proceedings 
+ 1. The only insolvency proceedings in which an EU design may be involved are those opened in the Member State within the territory of which the debtor has his centre of main interests. 
+ 2. For insurance undertakings as defined in Article 13, point (1), of Directive 2009/138/EC of the European Parliament and of the Council* and credit institutions as defined in Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council**, the centre of main interests referred to in paragraph 1 shall be the Member State where the undertaking or institution has been authorised. 
+ 3. In the case of joint holdership of an EU design, paragraph 1 shall apply to the share of the joint holder. 
+ 4. Where an EU design is involved in insolvency proceedings, an entry to this effect shall, on request of the competent national authority, be made in the Register and published. 
+ Article 32 
+ Licensing 
+ 1. An EU design may be licensed for the whole or part of the Union. A licence may be exclusive or non-exclusive. 
+ 2. The holder may invoke the rights conferred by the EU design against a licensee who contravenes any provision in the licensing contract with regard to: 
+ (a) the duration of the licen c e; 
+ (b) the form in which the design may be used ; 
+ (c) the range of products for which the licen c e is granted ; 
+ (d) the quality of the products manufactured by the licensee under the licen c e . 
+ 3. If not stated otherwise in the licensing contract, the licensee may bring proceedings for infringement of an EU design only if its holder consents thereto. However, the holder of an exclusive licence may bring such proceedings if the holder of the EU design, after a formal notice, does not bring infringement proceedings within an appropriate period. 
+ 4. A licensee shall, for the purpose of obtaining compensation for damage suffered, be entitled to intervene in infringement proceedings brought by the holder of the EU design. 
+ Article 32a 
+ Procedure for entering licences and other rights in the Register 
+ 1. Article 28(2) and (3), the rules adopted pursuant to Article 28a, and Article 28(6) shall apply mutatis mutandis to the registration of a right in rem or transfer of a right in rem referred to in Article 29, the levy of execution referred to in Article 30, the involvement in insolvency proceedings referred to in Article 31, as well as to the registration of a licence or transfer of a licence as referred to in Article 32. However, the requirement concerning documentary evidence set out in Article 28(3) shall not apply where the request is made by the holder of the EU design. 
+ 2. The application for registration of the rights referred to in paragraph 1, where applicable, shall not be deemed to have been filed until the required fee has been paid. 
+ 3. The application for registration of a licence may contain a request to record a licence in the Register as one or more of the following: 
+ (a) an exclusive licence; 
+ (b) a sub-licence in the event that the licence is granted by a licensee whose licence is recorded in the R egister; 
+ (c) a licence limited to a specific range of products; 
+ (d) a licence limited to part of the Union; 
+ (e) a temporary licence. 
+ Where a request is made to record the licence as a licence referred to in the first subparagraph, point (c), (d), or (e), the application for registration shall indicate the specific product range, the part of the Union or the time period for which the licence is granted. 
+ 4. Where the conditions for registration of licences and other rights set out in this Regulation are not fulfilled, the Office shall notify the applicant of the deficiency. If the deficiency is not remedied within a time limit specified by the Office, it shall reject the application for registration. 
+ Article 33 
+ Effects vis-à-vis third parties 
+ 1. Legal acts referred to in Articles 28, 29 and 32 concerning an EU design shall only have effect vis-à-vis third parties in all the Member States after entry in the Register. Nevertheless, such an act, before it is so entered, shall have effect vis-à-vis third parties who have acquired rights in the registered EU design after the date of that act but who knew of the act at the date on which the rights were acquired. 
+ 2. Paragraph 1 shall not apply to a person who acquires the registered EU design or a right concerning the registered EU design by way of transfer of the whole of the undertaking or by any other universal succession. 
+ 3. The effects vis-à-vis third parties of the legal acts referred to in Article 30 shall be governed by the law of the Member State determined in accordance with Article 27. 
+ 4. The effects vis-à-vis third parties of bankruptcy or similar proceedings shall be governed by the law of the Member State in which such proceedings are first brought within the meaning of national law or of conventions applicable in this field. 
+ Article 33a 
+ Procedure for cancelling or modifying registrations of licences and other rights 
+ 1. A registration effected under Article 32a(1) shall be cancelled or modified upon application by one of the parties concerned. 
+ 2. The application shall contain the registration number of the registered EU design, or in the case of a multiple registration, the number of each design, and the particulars of the right for which registration is requested to be cancelled or modified. 
+ 3. The application shall be accompanied by documents showing that the registered right no longer exists or that the licensee or the holder of another right consents to the cancellation or modification of the registration. 
+ 4. Where the requirements for cancellation or modification of the registration are not satisfied, the Office shall notify the applicant of the deficiencies. If the deficiencies are not remedied within the time limit specified by the Office, it shall reject the application for cancellation or modification of the registration. 
+ Article 34 
+ The application for a registered EU design as an object of property 
+ Articles 27 to 33a shall apply to applications for registered EU designs. Where the effect of one of those provisions is conditional upon an entry in the Register, that formality shall be performed upon entry of the registered EU design in the Register.’; 
+ * Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335 17.12.2009, p. 1). 
+ ** Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012 (OJ L 176 27.6.2013, p. 1). 
+ (25) Article 35 is replaced by the following : 
+ ‘Article 35 
+ Filing of applications 
+ 1. An application for a registered EU design shall be filed at the Office. 
+ 2. The Office shall issue to the applicant, without delay, a receipt which shall include at least the file number, a representation, description or other identification of the design, the nature and the number of documents and the date of their receipt. In the case of a multiple application, the receipt issued by the Office shall specify the first design and the number of designs filed.’; 
+ (26) Article 36 is amended as follows : 
+ (a) paragraphs 1 to 4 are replaced by the following: 
+ ‘1. An application for a registered EU design shall contain: 
+ (a) a request for registration; 
+ (b) information identifying the applicant; 
+ (c) a representation of the design suitable for reproduction, permitting all the details of the subject matter for which protection is sought to be clearly distinguished and permitting publication . 
+ 2. The application shall further contain an indication of the products in which the design is intended to be incorporated or to which it is intended to be applied. 
+ 3. In addition, the application may contain: 
+ (a) a description explaining the representation; 
+ (b) a request for deferment of publication of the registration in accordance with Article 50; 
+ (c) information identifying the representative if the applicant has appointed one; 
+ (d) the classification of the products in which the design is intended to be incorporated or to which it is intended to be applied according to class and subclass of the Locarno Agreement Establishing an International Classification for Industrial Designs (‘the Locarno Classification’), as amended and in force at the date of filing of the design; 
+ (e) the citation of the designer or of the team of designers or a statement under the applicant’s responsibility that the designer or the team of designers has waived the right to be cited. 
+ 4. The application shall be subject to the payment of the application fee. Where a request for deferment under paragraph 3, point (b), is filed, it shall be subject to an additional fee for deferment of publication.’; 
+ (b) paragraph 5 is replaced by the following : 
+ ‘5. In addition to the requirements referred to in paragraphs 1 to 4, an application for a registered EU design shall comply with the formal requirements laid down in this Regulation and in the implementing acts adopted pursuant to it. To the extent that those requirements relate to the design representation and the means thereof as referred to in paragraph 1, point (c), the Executive Director shall determine the manner of numbering different views in the event of representation by static views, the formats and size of the electronic file as well as any other relevant technical specification. If those requirements provide for the identification of a subject matter for which no protection is sought by way of certain types of visual disclaimers or for the filing of certain specific types of views, the Executive Director may determine additional types of visual disclaimers and specific types of views.’; 
+ (27) t he following Article 36a is inserted: 
+ ‘Article 36a 
+ Conferral of implementing powers regarding the application 
+ The Commission shall adopt implementing acts specifying the details to be contained in the application for a registered EU design. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2).’; 
+ (28) Article 37 is amended as follo ws: 
+ (a) paragraphs 1 and 2 are replaced by the following: 
+ 1. A maximum number of 50 designs may be combined in one multiple application for registered EU designs. Each design contained in a multiple application shall be numbered by the Office in accordance with a system determined by the Executive Director. 
+ 2. In addition to the fees referred to in Article 36(4), the multiple application shall be subject to payment of an application fee in respect of each additional design included in the multiple application and, in case the application contains a request for deferment of publication, a fee for deferment of publication in respect of each design included in the multiple application for which deferment is requested.’; 
+ (b) paragraph 3 is replaced by the following: 
+ ‘3. The multiple application shall comply with the conditions of representation laid down in the implementing acts adopted pursuant to Article 37a.’; 
+ (c) 
+ paragraph 4 is replaced by the following: 
+ ‘4. Each of the designs contained in a multiple application or a registration based on such application may be dealt with separately from the others. Such a design may, separately from the others, be enforced, be licensed, be the subject of a right in rem, a levy of execution or insolvency proceedings, be surrendered, renewed or assigned, be the subject of deferred publication or be declared invalid.’; 
+ (29) t he following Article 37a is inserted: 
+ ‘Article 37a 
+ Conferral of implementing powers regarding multiple applications 
+ The Commission shall adopt implementing acts specifying the details to be contained in the multiple application. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2).’; 
+ (30) Articles 38 and 39 are replaced by the following: 
+ ‘Article 38 
+ Date of filing 
+ The date of filing of an application for a registered EU design shall be the date on which documents containing the information specified in Article 36(1) are filed with the Office by the applicant, subject to the payment of the application fees referred to in Articles 36(4) and 37(2) within one month of filing those documents. 
+ Article 39 
+ Equivalence of Union filing with national filing 
+ An application for a registered EU design which has been accorded a date of filing shall, in the Member States, be equivalent to a regular national filing, including where appropriate the priority claimed for the EU design application.’; 
+ (31) Articles 40 , 41 and 42 are replaced by the following: 
+ ‘Article 40 
+ Classification and product indications 
+ 1. Products in which an EU design is intended to be incorporated or to which it is intended to be applied shall be classified in accordance with the Locarno Classification, as amended and in force at the date of filing of the design. 
+ 2. The product indication shall identify clearly and precisely the nature of the products and shall enable each product to be classified in only one class and subclass of the Locarno Classification, if possible using the harmonised database of product indications made available by the Office. The product indication shall accord with the representation of the design. 
+ 3. The products shall be grouped according to the classes of the Locarno Classification, each group being preceded by the number of the class to which that group of products belongs and presented in the order of the classes and subclasses under that classification. 
+ 4. When the applicant uses product indications which are not contained in the database referred to in paragraph 2, or which do not accord with the representation of the design, the Office may propose product indications from that database. The Office may proceed with the examination based on the proposed product indications when the applicant does not reply within the time limit specified by the Office. 
+ Article 41 
+ Right of priority 
+ 1. A person who has duly filed an application for a design right or for a utility model in or for any State party to the Paris Convention, or to the Agreement establishing the World Trade Organisation, or his successors in title, shall enjoy, for the purpose of filing an application for a registered EU design in respect of the same design or utility model, a right of priority during a period of 6 months from the date of filing of the first application. 
+ 2. Every filing that under the national law of the State where it was made or under bilateral or multilateral agreements is sufficient to establish the date on which the application was filed, whatever may be the outcome of the application, shall be recognised as giving rise to a right of priority. 
+ 3 . A subsequent application for a design which was the subject of a previous first application, and which is filed in or in respect of the same State, shall be considered as the first application for the purpose of determining priority, provided that, at the date of the filing of the subsequent application, the previous application has been withdrawn, abandoned or refused without being open to public inspection and without leaving any rights outstanding, and has not served as a basis for claiming a right of priority. The previous application may not thereafter serve as a basis for claiming a right of priority. 
+ 4. If the first filing has been made in a State which is not a party to the Paris Convention, or to the Agreement establishing the World Trade Organisation, paragraphs 1 to 3 shall apply only in so far as that State, according to published findings, grants, on the basis of the first filing made at the Office and subject to conditions equivalent to those laid down in this Regulation, a right of priority having equivalent effect. The Executive Director shall, where necessary, request the Commission to consider enquiring as to whether the State referred to in the first sentence accords such reciprocal treatment. If the Commission determines that reciprocal treatment is accorded, it shall publish a communication to that effect in the Official Journal of the European Union . 
+ 5. The right of priority referred to in paragraph 4 shall apply from the date of publication in the Official Journal of the European Union of the communication determining that reciprocal treatment is accorded, unless the communication states an earlier date from which it is applicable. It shall cease to apply from the date of publication in the Official Journal of the European Union of a communication of the Commission to the effect that reciprocal treatment is no longer accorded, unless the communication states an earlier date from which it is applicable. 
+ 6. Communications referred to in paragraphs 4 and 5 shall also be published in the Official Journal of the Office. 
+ Article 42 
+ Claiming priority 
+ 1. An applicant for a registered EU design desiring to take advantage of the priority of a previous application shall file a declaration of priority either together with the application or within two months of the date of filing. Such declaration of priority shall include the date and country of the previous application. The file number of the previous application and the documentation in support of the priority claim shall be filed within three months of the date of filing of the declaration of priority. 
+ 2. The Executive Director may determine that the documentation to be provided by the applicant in support of the priority claim may consist of less than the documentation required under the implementing acts adopted pursuant to Article 42a, provided that the information required is available to the Office from other sources.’; 
+ (32) t he following Article 42a is inserted: 
+ ‘Article 42a 
+ Conferral of implementing powers regarding the claim of priority 
+ The Commission shall adopt implementing acts specifying the kind of documentation to be filed for claiming the priority of a previous application in accordance with Article 42(1). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2).’; 
+ (33) Article 43 is replaced by the following: 
+ ‘Article 43 
+ Effect of priority right 
+ The right of priority shall have the effect that the date of priority shall count as the date of the filing of the application for a registered EU design for the purposes of Articles 5, 6, 7 and 22, Article 25(1), points (d), (e) and (f), and Article 50(1).’; 
+ (34) Article 44 is replaced by the following: 
+ ‘Article 44 
+ Exhibition priority 
+ 1. If an applicant for a registered EU design has disclosed products in which the design is incorporated, or to which it is applied, at an official or officially recognised international exhibition falling within the 1928 Convention on International Exhibitions as last revised on 30 November 1972, the applicant may, if the application is filed within a period of 6 months from the date of the first disclosure of such products, claim a right of priority from that date. 
+ 2. An applicant who wishes to claim priority pursuant to paragraph 1 shall file a declaration of priority either together with the application or within 2 months of the date of filing. The applicant shall, within 3 months of the declaration of priority, file evidence that the products in which the design is incorporated, or to which it is applied, have been disclosed within the meaning of paragraph 1. 
+ 3. An exhibition priority granted in a Member State or in a third country does not extend the period of priority laid down in Article 41.’; 
+ (35) t he following Article 44a is inserted: 
+ ‘Article 44a 
+ Conferral of implementing powers 
+ The Commission shall adopt implementing acts specifying the type and details of evidence to be filed for claiming an exhibition priority in accordance with Article 44(2). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2).’; 
+ (36) t he heading of Title V is replaced by the following: 
+ ‘TITLE V 
+ REGISTRATION PROCEDURE, RENEWAL AND ALTERATION ’ 
+ (37) Article 45 is amended as follows : 
+ (a) paragraph 1 is replaced by the following: 
+ ‘1. The Office shall examine whether the application for a registered EU design complies with the requirements for the accordance of a date of filing laid down in Article 38.’. 
+ (b) paragraph s 2 and 3 are replaced by the following: 
+ ‘2. The Office shall examine whether: 
+ (a) the application for a registered EU design complies with the conditions and requirements referred to in Article 36 (5) and, in the case of a multiple application, in Article 37( 3 ) ; 
+ (b) where relevant , the additional fee for deferment of publication pursuant to Article 36(4) has been paid within the prescribed period ; 
+ (c) where relevant , the additional application fees for a multiple application pursuant to Article 37(2) have been paid within the prescribed period . 
+ 3. Where the application for a registered EU design does not satisfy the requirements referred to in paragraph 1, the Office shall request the applicant to remedy the deficiencies or the default on payment within 2 months of the notification of that request. 
+ 4. If the applicant does not comply with the request with regard to the requirements referred to in paragraph 1, the application shall not be dealt with as an application for a registered EU design. If the applicant complies with the request with regard to those requirements, the Office shall accord as the date of filing of the application the date on which the deficiencies or the default on payment are remedied. 
+ 5. If the applicant does not comply with the request with regard to the requirements referred to in paragraph 2, points (a) and (b), the Office shall refuse the application. 
+ 6. If the applicant does not comply with the request with regard to the requirements referred to in paragraph 2, point (c), the application shall not be dealt with as an application for a registered EU design in respect of the additional designs unless it is clear which designs the amount paid is intended to cover. In the absence of other criteria to determine which designs are intended to be covered, the Office shall treat the designs in the numerical order in which they are represented in accordance with the rules adopted pursuant to Article 37a. The application shall not be dealt with as an application for a registered EU design in respect of those designs for which the additional application fees have not been paid or have not been paid in full. 
+ 7. Failure to satisfy the requirements concerning a priority claim shall result in the loss of the right of priority for the application.’; 
+ (38) Article 4 6 is deleted ; 
+ (39) Article 4 7 is replaced by the following: 
+ ‘Article 47 
+ Grounds for non-registrability 
+ 1. If the Office, in carrying out the examination pursuant to Article 45, notices that the design for which protection is sought does not correspond to the definition in Article 3, point (1), or is contrary to public policy or to accepted principles of morality, it shall notify the applicant that the design is non-registrable, specifying the ground for non-registrability. 
+ 2. In the notification referred to in paragraph 1, the Office shall specify a period within which the applicant may submit observations, withdraw the application or the objected views or submit an amended representation of the design that differs only in immaterial details from the representation as originally filed. 
+ 3. Where the applicant fails to overcome the grounds for non-registrability, the Office shall refuse the application. If those grounds concern only some of the designs contained in a multiple application, the Office shall refuse the application only in so far as those designs are concerned.’; 
+ (40) t he following Article 47 a is inserted: 
+ ‘Article 47a 
+ Withdrawal and amendment 
+ 1. The applicant may at any time withdraw an EU design application or, in the case of a multiple application, withdraw some of the designs contained in the application. 
+ 2. The applicant may at any time amend the representation of the EU design applied for in immaterial details.’; 
+ (41) t he following Article 47b is inserted: 
+ ‘Article 47b 
+ Delegation of power regarding the amendment of the application 
+ The Commission is empowered to adopt delegated acts in accordance with Article 109(2) to supplement this Regulation by specifying the details of the procedure for the amendment of the application as referred to in Article 47a(2).’; 
+ (42) Article 4 8 is replaced by the following: 
+ ‘Article 48 
+ Registration 
+ 1. If the requirements for an application for a registered EU design have been fulfilled, and to the extent that the application has not been refused pursuant to Article 47, the Office shall enter the design contained in the application and the particulars referred to in Article 72(2) in the Register. 
+ 2. If the application contains a request for deferment of publication pursuant to Article 50, an indication of that request and the date of expiry of the period of deferment shall also be entered in the Register. 
+ 3. The registration shall bear the date of filing of the application referred to in Article 38. 
+ 4. The fees payable pursuant to Articles 36(4) and 37(2) shall not be refunded even if the design applied for is not registered.’; 
+ (43) Article 49 is replaced by the following: 
+ ‘Article 49 
+ Publication 
+ Upon registration, the Office shall publish the registered EU design in the EU Designs Bulletin as referred to in Article 73(1), point (a).’. 
+ (44) t he following Article 49a is inserted: 
+ ‘Article 49a 
+ Conferral of implementing powers regarding publication 
+ The Commission shall adopt implementing acts laying down the details to be contained in the publication referred to in Article 49. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2).’; 
+ (45) Article 50 is replaced by the following: 
+ ‘Article 50 
+ Deferment of publication 
+ 1. The applicant for a registered EU design may request, when filing the application, that the publication of the registered EU design be deferred for a period of 30 months from the date of filing the application or, if a priority is claimed, from the date of priority. 
+ 2. Upon a request referred to in paragraph 1, where the conditions set out in Article 48 are satisfied, the registered EU design shall be registered, but neither the representation of the design nor any file relating to the application shall, subject to Article 74(2), be open to public inspection. 
+ 3. The Office shall publish in the EU Designs Bulletin an indication of a request referred to in paragraph 1. The indication shall be accompanied by information identifying the right holder of the registered design, the name of the representative, if any, the date of filing and registration, and the file number of the application. Neither the representation of the design nor any particulars identifying its appearance shall be published. 
+ 4. At the expiry of the period of deferment, or at any earlier date on request by the right holder, the Office shall open to public inspection all the entries in the Register and the file relating to the application and shall publish the registered EU design in the EU Designs Bulletin. 
+ 5. The right holder may prevent publication of the registered EU design as referred to in paragraph 4, by submitting a request for surrender of the EU design in accordance with Article 51 at the latest 3 months before expiry of the period of deferment. Any requests for the entry of the surrender in the Register that do not comply with the requirements set out in Article 51 and the implementing acts adopted pursuant to Article 51a, or that are submitted after the time limit referred to in the first sentence, shall be rejected. 
+ 6. In the case of a registration on the basis of a multiple application, the holder shall, together with the request for earlier publication referred to in paragraph 4 or the request for surrender referred to in paragraph 5, clearly indicate which of the designs contained in the application are to be published earlier or surrendered and for which designs deferment of publication is to be continued. 
+ 7. If the holder fails to comply with the requirement set out in paragraph 6, the Office shall request the holder to remedy the deficiency within a specified time limit, which shall in no case expire after the 30-month deferment period. 
+ 8. Failure to remedy the deficiency referred to in paragraph 7 within the specified time limit shall result in the request for early publication being deemed not to have been filed or the request for surrender being rejected. 
+ 9. The institution of legal proceedings on the basis of a registered EU design during the period of deferment of publication shall be subject to the condition that the information contained in the Register and in the file relating to the application has been communicated to the person against whom the action is brought.’; 
+ (46) t he following Article 50a is inserted: 
+ ‘Article 50a 
+ Publication after the period of deferment 
+ The Office shall, at the expiry of the period of deferment referred to in Article 50 or, in the case of a request for earlier publication, as soon as technically possible: 
+ (a) publish the registered EU design in the EU Designs Bulletin, with the indications set out in the rules adopted pursuant to Article 49 a , together with an indication of the fact that the application contained a request for deferment of publication pursuant to Article 50; 
+ (b) make available for public inspection any file relating to the design; 
+ (c) open to public inspection all the entries in the Register, including any entries withheld from inspection pursuant to Article 7 4(5) . ’ ; 
+ (47) t he following Article 50b is inserted: 
+ ‘Article 50b 
+ Registration certificates 
+ After publication of the registered EU design, the Office shall issue a certificate of registration. The Office shall provide certified or uncertified copies of the certificate subject to the payment of a fee, where those copies are issued by other than electronic means.’; 
+ (48) The following Article s 50 c and 50d are inserted: 
+ ‘Article 50c 
+ Conferral of implementing powers 
+ The Commission shall adopt implementing acts specifying the details to be contained in and the form of the certificate of registration referred to in Article 50b. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2). 
+ Article 50d 
+ Renewal 
+ 1. The registration of the EU design shall be renewed at the request of the right holder or of any person expressly authorised by the right holder, provided that the renewal fees have been paid. 
+ 2. The Office shall inform the right holder of the registered EU design and any person having a registered right in respect of the EU design of the expiry of the registration at least 6 months before the date of such expiry. Failure to give such information shall not involve the responsibility of the Office and shall not affect the expiry of the registration. 
+ 3. The request for renewal shall be submitted within a 6 months period prior to the expiry of the registration. The renewal fee shall also be paid within that period. Failing this, the request may be submitted and the fee paid within a further period of 6 months following the expiry of the registration, provided that an additional fee for late payment of the renewal fee or late submission of the request for renewal is paid within this further period. 
+ 4. The request for renewal referred to in paragraph 1 shall include: 
+ (a) the name of the person requesting renewal; 
+ (b) the registration number of the EU design to be renewed; 
+ (c) in case of a registration on the basis of a multiple application , an indication of the designs for which renewal is requested. 
+ If the renewal fees are paid, the payment shall be deemed to constitute a request for renewal provided that it contains all necessary indications to establish the purpose of the payment. 
+ 5. In the case of a registration on the basis of a multiple application, where the fees paid are insufficient to cover all the designs for which renewal is requested, registration shall be renewed if it is clear which designs the amount paid is intended to cover. In the absence of other criteria for determining which designs are intended to be covered, the Office shall treat the designs in the numerical order in which they are represented in accordance with the rules adopted under Article 37a. 
+ 6. Renewal shall take effect from the day following the date on which the existing registration expires. The renewal shall be entered in the Register. 
+ 7. Where the request for renewal is filed within the periods provided for in paragraph 3, but the other conditions governing renewal provided for in this Article are not satisfied, the Office shall inform the applicant of the deficiencies found. 
+ 8. Where a request for renewal is not submitted or is submitted after the expiry of the period provided for in paragraph 3, or where the fees are not paid or are paid only after the period in question has expired, or where the deficiencies referred to in paragraph 7 are not remedied within that period, the Office shall determine that the registration has expired and shall notify the holder of the EU design accordingly. Where the determination has become final, the Office shall cancel the design from the Register. The cancellation shall take effect from the day following the date on which the existing registration expired. Where the renewal fees have been paid but the registration is not renewed, those fees shall be refunded. 
+ 9. A single request for renewal may be submitted for two or more designs provided that the holder or the representative is the same for all designs covered by the request. The required renewal fee shall be paid in respect of each design to be renewed.’; 
+ (49) t he following Article 50 e is inserted: 
+ ‘Article 50e 
+ Alteration 
+ 1. The representation of the registered EU design shall not be altered in the Register during the period of registration or on renewal thereof except in immaterial details. 
+ 2. A request by the holder for alteration shall include the representation of the registered EU design in its altered version. 
+ 3. A request for alteration shall be deemed not to have been filed until the required fee has been paid. If the fee has not been paid or has not been paid in full, the Office shall inform the holder accordingly. A single request may be made for the alteration of the same element in two or more registrations, provided that the holder is the same for all designs. The required alteration fee shall be paid in respect of each registration to be altered. If the requirements governing the alteration of the registration set out in this Article and the implementing acts adopted pursuant to Article 50f are not fulfilled, the Office shall communicate the deficiency to the holder. If the deficiency is not remedied within a period to be specified by the Office, the Office shall reject the request for alteration. 
+ 4. The publication of the registration of the alteration shall contain a representation of the registered EU design as altered.’; 
+ (50) t he following Article 50 f is inserted: 
+ ‘Article 50f 
+ Conferral of implementing powers regarding alteration 
+ The Commission shall adopt implementing acts specifying the details to be contained in the request for alteration referred to in Article 50e(2). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2).’; 
+ (51) t he following Article 50 g is inserted: 
+ ‘Article 50g 
+ Change of name or address 
+ 1. The holder of an EU design shall inform the Office about a change of its name or address, which is not the consequence of a transfer or a change of ownership of the registered EU design. 
+ 2. A single request may be made for a change of the name or address in respect of two or more registrations of the same holder. 
+ 3. If the requirements for a change of name or address set out in this Article and in the implementing acts adopted pursuant to Article 50h are not fulfilled, the Office shall communicate the deficiency to the holder of the EU design. If the deficiency is not remedied within the time limit specified by the Office, the Office shall reject the request. 
+ 4. Paragraphs 1, 2 and 3 shall also apply to a change of the name or address of the registered representative. 
+ 5. The Office shall enter the particulars referred to in Article 72(3), points (a) and (b), in the Register. 
+ 6. Paragraphs 1 to 4 shall apply to applications for EU designs. The change shall be entered in the files kept by the Office concerning the EU design application.’; 
+ (52) The following Article 50 h is inserted: 
+ ‘Article 50h 
+ Conferral of implementing powers regarding change of name or address 
+ The Commission shall adopt implementing acts specifying the details to be contained in a request for a change of name or address pursuant to Article 50g(1). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2).’; 
+ (53) Article 51 is replaced by the following: 
+ ‘Article 51 
+ Surrender 
+ 1. The surrender of a registered EU design shall be declared to the Office in writing by the right holder. It shall not have effect until it has been entered in the Register. 
+ 2. If an EU design which is subject to deferment of publication is surrendered it shall be deemed from the outset not to have had the effects specified in this Regulation. 
+ 3. A surrender shall be registered only with the agreement of the proprietor of a right entered in the Register. If a licence has been registered, a surrender shall be entered in the Register only if the holder of the registered EU design proves that the licensee has been informed about his intention to surrender. The entry of the surrender shall be made on expiry of the three-month period after the date on which the holder satisfies the Office that the licensee has been informed of the intention to surrender, or before the expiry of that period, as soon as the holder proves that the licensee has given his consent. 
+ 4. If an action pursuant to Article 15 relating to the entitlement to a registered EU design has been brought before the competent court or authority, the Office shall not enter the surrender in the Register without the agreement of the claimant. 
+ 5. If the requirements governing surrender set out in this Article and in the implementing acts adopted pursuant to Article 51a are not fulfilled, the Office shall communicate the deficiencies to the declarant. If the deficiencies are not remedied within the time limit specified by the Office, the Office shall not enter the surrender in the Register.’; 
+ (54) t he following Article 5 1 a is inserted: 
+ ‘Article 51a 
+ Conferral of implementing powers regarding surrender 
+ The Commission shall adopt implementing acts specifying: 
+ (a) the details to be contained in a declaration of surrender pursuant to Article 51(1) ; 
+ (b) the kind of documentation required to establish the agreement of a third party pursuant to Article 51( 3 ) and that of a claimant pursuant to Article 51( 4 ) . 
+ Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2).’; 
+ (55) Article 52 is amended as follows: 
+ (a) paragraph 1 is replaced by the following: 
+ ‘1. Subject to Article 25(2) to (5), any natural or legal person, as well as a public authority empowered to do so, may submit to the Office an application for a declaration of invalidity of a registered EU design.’; 
+ (b) paragraph 3 is replaced by the following: 
+ ‘3. An application for a declaration of invalidity shall not be admissible if an application relating to the same subject matter and cause of action, and involving the same parties, has been adjudicated on its merits, either by the Office or by an EU design court as referred to in Article 80, and the decision of the Office or the EU design court on such application has become final.’; 
+ (56) Article 5 3 is replaced by the following : 
+ ‘Article 53 
+ Examination of the application 
+ 1. If the Office finds that the application for a declaration of invalidity is admissible, the Office shall examine whether the grounds for invalidity referred to in Article 25 prejudice the maintenance of the registered EU design. 
+ 2. When examining the application for a declaration of invalidity, the Office shall invite the parties, as often as necessary, to file observations, within a period to be fixed by the Office, on communications from the other parties or issued by the Office itself. 
+ 3. If the holder of the registered EU design so requests, an applicant for a declaration of invalidity invoking an earlier EU or national trade mark as a distinctive sign within the meaning of Article 25(1), point (e), shall furnish proof of genuine use of such mark in accordance with Article 64(2) and (3) of Regulation (EU) 2017/1001 and the rules adopted pursuant to Article 53a of this Regulation. 
+ 4. A record of the Office's decision on the application for a declaration of invalidity shall be entered in the Register once it has become final. 
+ 5. The Office may invite the parties to make a friendly settlement.’; 
+ (57) t he following Article 53a is inserted: 
+ ‘Article 53a 
+ Delegation of powers regarding the declaration of invalidity 
+ The Commission is empowered to adopt delegated acts in accordance with Article 109a to supplement this Regulation by specifying the details of the procedure for the declaration of invalidity of an EU design as referred to in Articles 52 and 53, including the possibility to examine an application for a declaration of invalidity as a matter of priority where the holder of the registered EU design does not contest the grounds of invalidity or the relief sought.’; 
+ (58) A rticle 55 is replaced by the following : 
+ ‘Article 55 
+ Decisions subject to appeal 
+ 1. An appeal shall lie from the decisions of the Office referred to in Article 102, points (a), (b), (c), and (e). 
+ 2. Articles 66 to 72 of Regulation (EU) 2017/1001 shall apply to appeals dealt with by the Boards of Appeal under this Regulation, unless otherwise provided in this Regulation.’; 
+ (59) t he following Article 55a is inserted: 
+ ‘Article 55a 
+ Delegation of powers regarding appeal proceedings 
+ The Commission is empowered to adopt delegated acts in accordance with Article 109a to supplement this Regulation by specifying the details of appeal proceedings under this Regulation.’; 
+ (60) Articles 5 6 to 61 are deleted ; 
+ (61) Article 62 is replaced by the following : 
+ ‘Article 62 
+ Decisions and communications of the Office 
+ 1. Decisions of the Office shall state the reasons on which they are based. They shall be based only on reasons or evidence on which the parties concerned have had an opportunity to present their comments. Where oral proceedings are held before the Office, the decision may be given orally. Subsequently, the decision shall be notified in writing to the parties. 
+ 2. Any decision, communication or notice from the Office shall indicate the department or division of the Office as well as the name or the names of the official or officials responsible. They shall be signed by that official or those officials, or, instead of a signature, carry a printed or stamped seal of the Office. The Executive Director may determine that other means of identifying the department or division of the Office and the name of the official or officials responsible or an identification other than a seal may be used where decisions, communications or notices are transmitted by any technical means of communication. 
+ 3. Decisions of the Office which are open to appeal shall be accompanied by a written communication indicating that any notice of appeal is to be filed in writing at the Office within 2 months of the date of notification of the decision in question. The communications shall also draw the attention of the parties to the provisions laid down in Articles 66, 67, 68, 71 and 72 of Regulation (EU) 2017/1001, which also apply to appeals under this Regulation pursuant to Article 55(2) of this Regulation. The parties may not plead any failure on the part of the Office to communicate the availability of appeal proceedings.’; 
+ (62) i n Article 6 3, paragraph 1 is replaced by the following: 
+ ‘1. In proceedings before it the Office shall examine the facts of its own motion. However, in proceedings relating to a declaration of invalidity, the Office shall be restricted in this examination to the grounds, facts, evidence and arguments provided by the parties and the relief sought.’; 
+ (63) Article 64 is replaced by the following : 
+ ‘Article 64 
+ Oral proceedings 
+ 1. If the Office considers that oral proceedings would be expedient, they shall be held either at the instance of the Office or at the request of any party to the proceedings. 
+ 2. Oral proceedings before the examiners and the Department in charge of the Register shall not be public. 
+ 3. Oral proceedings, including delivery of the decision, before the Invalidity Divisions and the Boards of Appeal shall be public, unless the department before which the proceedings are taking place decides otherwise in cases where admission of the public could have serious and unjustified disadvantages, in particular for a party to the proceedings.’; 
+ (64) t he following Article 64a is inserted: 
+ ‘Article 64a 
+ Delegation of powers regarding oral proceedings 
+ The Commission is empowered to adopt delegated acts in accordance with Article 109a to supplement this Regulation by setting out the detailed arrangements for oral proceedings referred to in Article 64, including the detailed arrangements for the use of languages in accordance with Article 98.’; 
+ (65) Article 65 is amended as follows: 
+ (a) in paragraph 3, the following sentence is added : 
+ ‘The period of notice provided in such summons shall be at least one month, unless the party, witness or expert agrees to a shorter period.’; 
+ (b) the following paragraph 5 is added : 
+ ‘5. The Executive Director shall determine the amounts of expenses to be paid, including advances, as regards the costs of taking of evidence as referred to in this Article.’; 
+ (66) t he following Article 65a is inserted: 
+ ‘Article 65a 
+ Delegation of powers regarding the taking of evidence 
+ The Commission is empowered to adopt delegated acts in accordance with Article 109a to supplement this Regulation by setting out the detailed arrangements for the taking of evidence referred to in Article 65.’; 
+ (67) Article 66 is replaced by the following: 
+ ‘Article 66 
+ Notification 
+ 1. The Office shall, as a matter of course, notify those concerned of decisions and summonses and of any notice or other communication from which a time limit is reckoned, or of which those concerned are to be notified under other provisions of this Regulation or of acts adopted pursuant to this Regulation, or of which notification has been ordered by the Executive Director. 
+ 2. Notification shall be effected by electronic means. The details regarding electronic means shall be determined by the Executive Director. 
+ 3. Where notification has proved to be impossible by the Office, notification shall be effected by public notice. The Executive Director shall determine how the public notice is to be given and shall fix the beginning of the 1-month period on the expiry of which the document shall be deemed to have been notified.’; 
+ (68) t he following Article 66a is inserted: 
+ ‘Article 66a 
+ Delegation of powers regarding notification 
+ The Commission is empowered to adopt delegated acts in accordance with Article 109a supplementing this Regulation by setting out the detailed arrangements for notification referred to in Article 66.’; 
+ (69) t he following A rticle s 66 b and 66c are inserted: 
+ ‘Article 66b 
+ Notification of loss of rights 
+ Where the Office finds that the loss of any rights results from this Regulation or acts adopted pursuant to this Regulation, without any decision having been taken, it shall communicate this to the persons concerned in accordance with Article 66. The persons concerned may apply for a decision on the matter within 2 months of notification of the communication, if they consider that the finding of the Office is incorrect. The Office shall adopt such a decision only where it disagrees with the persons requesting it. If that is not the case, the Office shall amend its finding and inform the persons requesting the decision hereof. 
+ Article 66c 
+ Communications to the Office 
+ Communications addressed to the Office shall be effected by electronic means. The Executive Director shall determine the electronic means to be used and the manner and technical conditions under which such electronic means shall be used.’; 
+ (70) t he following Article 66d is inserted: 
+ ‘Article 66d 
+ Delegation of power regarding communications to the Office 
+ The Commission is empowered to adopt delegated acts in accordance with Article 109a supplementing this Regulation by specifying the rules on communications addressed to the Office as referred to in Article 66c and the forms for such communication that shall be made available by the Office.’; 
+ (71) t he following Article 66 e is inserted: 
+ ‘Article 66e 
+ Time limits 
+ 1. Time limits shall be laid down in terms of full years, months, weeks or days. Calculation shall start on the day following the day on which the relevant event occurred. The duration of time limits shall be no less than one month and no more than 6 months, unless otherwise set out in this Regulation or in any acts adopted pursuant to this Regulation. 
+ 2. The Executive Director shall determine, before the commencement of each calendar year, the days on which the Office is not open for receipt of documents. 
+ 3. The Executive Director shall determine the duration of the period of interruption in the case of an actual interruption of the Office's connection to admitted electronic means of communication. 
+ 4. If an exceptional occurrence, such as a natural disaster or strike, interrupts or interferes with proper communication from the parties to the proceedings to the Office or vice-versa, the Executive Director may determine that for parties to the proceedings that have their residence or registered office in the geographical area affected by the exceptional occurrence, or who have appointed a representative with a place of business in that area, all time limits that otherwise would expire on or after the date of commencement of such occurrence shall be extended until a certain date. When determining that date, the Executive Director shall assess when the exceptional occurrence comes to an end. If the occurrence affects the seat of the Office, such determination of the Executive Director shall specify that it applies in respect of all parties to the proceedings.’; 
+ (72) t he following Article 66f is inserted: 
+ ‘Article 66f 
+ Delegation of power regarding calculation and duration of time limits 
+ The Commission is empowered to adopt delegated acts in accordance with Article 109a to supplement this Regulation by specifying the details regarding the calculation and duration of time limits referred to in Article 66e.’; 
+ (73) t he following Article s 66g and 66h are inserted: 
+ ‘Article 66g 
+ Correction of errors and manifest oversights 
+ 1. The Office shall correct any linguistic errors or errors of transcription and manifest oversights in its decisions, errors in registering an EU design or errors in publishing the registration of its own motion or at the request of a party. 
+ 2. Where the correction of errors in the registration of an EU design or the publication of the registration is requested by the holder, Article 50g shall apply mutatis mutandis. 
+ 3. Corrections of errors in the registration of an EU design and in the publication of the registration shall be published. 
+ Article 66h 
+ Cancellation of entries in the Register and revocation of decisions 
+ 1. Where the Office has made an entry in the Register or taken a decision which contains an obvious error attributable to the Office, it shall ensure that the entry is cancelled or the decision is revoked. Where there is only one party to the proceedings and the entry or the act affects its rights, cancellation or revocation shall be determined even if the error was not evident to the party. 
+ 2. Cancellation or revocation as referred to in paragraph 1 shall be determined, ex officio or at the request of one of the parties to the proceedings, by the department which made the entry or took the decision. The cancellation of the entry in the Register or the revocation of the decision shall be effected within one year of the date on which the entry was made or the decision was taken, after consultation with the parties to the proceedings and any proprietor of rights to the EU Design in question that are entered in the Register. The Office shall keep records of any such cancellation or revocation. 
+ 4. This Article shall be without prejudice to the right of the parties to submit an appeal under Articles 55 and 55a or to the possibility of correcting errors and manifest oversights under Article 66g. Where an appeal has been filed against a decision of the Office containing an error, the appeal proceedings shall become devoid of purpose upon revocation by the Office of its decision pursuant to paragraph 1 of this Article. In the latter case, the appeal fee shall be reimbursed to the appellant.’; 
+ (74) t he following Article 66 i is inserted: 
+ ‘Article 66i 
+ Delegation of power regarding cancellation of entries and revocation of decisions 
+ The Commission is empowered to adopt delegated acts in accordance with Article 109a to supplement this Regulation by setting out the procedure for the cancellation of an entry in the Register or the revocation of a decision as referred to in Article 66h.’; 
+ (75) Article 67 is amended as follows: 
+ (a) in paragraph 2, the fourth sentence is replaced by the fol l owing: 
+ ‘In the case of non-submission of the request for renewal of registration or of non-payment of a renewal fee, the application shall be filed and the omitted act completed within 12 months from the date of expiration of the further period of 6 months following the expiry of registration provided in the third sentence of Article 50d(3).’; 
+ (b) in paragraph 3 , the following sentence is added: 
+ ‘If the request for restitutio in integrum is granted, the fee shall be reimbursed.’; 
+ (c) paragraph 5 is replaced by the following: 
+ ‘5. Non-observance of the time limits laid down in paragraph 2 and in Article 67a shall not give rise to re-establishment of rights as referred to in paragraph 1 of this Article.’; 
+ (76) t he following A rticle s 67a and 67b are inserted: 
+ ‘Article 67a 
+ Continuation of proceedings 
+ 1. An applicant for or a holder of a registered EU design or any other party to proceedings before the Office who has not observed a time limit vis-à-vis the Office may, upon request, obtain the continuation of proceedings, provided that at the time the request is made the omitted act has been carried out. The request for continuation of proceedings shall be admissible only if it is submitted within 2 months of the expiry of the unobserved time limit. The request shall not be deemed to have been filed until the fee for continuation of the proceedings has been paid. 
+ 2. Continuation of proceedings shall not be granted in case of non-observance of the time limits laid down in: 
+ (a) Article 38 and Article s 41(1) , 44(1), 4 5 ( 3 ), 50 d (3) , and Article 67(2) ; 
+ (b) Article 68 and Article 72 (5) of Regulation (EU) 2017/1001 in conjunction with Article 5 5(2) of this Regulation ; 
+ (c) paragraph 1 of this Article . 
+ 3. The department competent to decide on the omitted act shall decide upon the request for continuation. 
+ 4. If the Office accepts the request for continuation, the consequences of having failed to observe the time limit shall be deemed not to have occurred. If a decision has been taken between the expiry of that time limit and the request for the continuation of proceedings, the department competent to decide on the omitted act shall review the decision and, where completion of the omitted act itself is sufficient, take a different decision. If, following the review, the Office concludes that the original decision does not require to be altered, it shall confirm that decision in writing. 
+ 5. If the Office rejects the request for continuation, the fee shall be refunded. 
+ Article 67b 
+ Interruption of proceedings 
+ 1. Proceedings before the Office shall be interrupted: 
+ (a) in the event of the death or legal incapacity of the applicant for, or holder of, a registered EU design or of the person authorised by national law to act on behalf of the applicant or holder . 
+ (b) in the event of the applicant for, or holder of , a registered EU design being prevented, for legal reasons resulting from action taken against his property, from continuing the proceedings before the Office; 
+ (c) in the event of the death or legal incapacity of the representative of an applicant for, or holder of, a registered EU design, or of that representative being prevented, for legal reasons resulting from action taken against his property, from continuing the proceedings before the Office. 
+ To the extent that the death or incapacity referred to in the first subparagraph, point (a), does not affect the authorisation of a representative appointed under Article 78, proceedings shall be interrupted only on application by such representative. 
+ 2. Proceedings before the Office may be resumed as soon as the identity of the person authorised to continue them has been established or the Office has exhausted all reasonable attempts to establish the identity of such person.’; 
+ (77) t he following Article 67c is inserted: 
+ ‘Article 67c 
+ Delegation of power regarding the resumption of proceedings 
+ The Commission is empowered to adopt delegated acts in accordance with Article 109a to supplement this Regulation by setting out the detailed arrangements for the resumption of proceedings before the Office referred to in Article 67b(2).’; 
+ (78) Article 68 is replaced by the following: 
+ ‘ Article 68 
+ Reference to general principles 
+ In the absence of procedural provisions in this Regulation or in acts adopted pursuant to this Regulation, the Office shall take into account the principles of procedural law generally recognised in the Member States.’; 
+ (79) i n Article 69 , paragraphs 1 and 2 are replaced by the following: 
+ ‘1. Rights of the Office to the payment of fees shall be extinguished after four years from the end of the calendar year in which the fee fell due. 
+ 2. Rights against the Office for the refunding of fees or sums of money paid in excess of a fee shall be extinguished after four years from the end of the calendar year in which the right arose.’; 
+ (80) Article 70 is replaced by the following: 
+ ‘Article 70 
+ Apportionment of costs 
+ 1. The losing party in proceedings for a declaration of invalidity of a registered EU design or appeal proceedings shall bear the fees paid by the other party for the application for a declaration of invalidity and for appeal. The losing party shall also bear the costs incurred by the other party that are essential to the proceedings, including travel and subsistence and the remuneration of a representative within the meaning of Article 78(1), within the maximum rates set for each category of costs in the implementing act adopted pursuant to Article 70a. 
+ 2. Where each party succeeds on some and fails on other heads, or where reasons of equity so dictate, the Invalidity Division or Board of Appeal shall decide on another apportionment of costs than the one set out in paragraph 1. 
+ 3. The party who terminates the proceedings by withdrawing the EU design application, the application for a declaration of invalidity or the appeal, by not renewing the registration of the EU design, or by surrendering the registered EU design, shall bear the fees and the costs incurred by the other party as set out in paragraphs 1 and 2. 
+ 4. Where a case does not proceed to judgment, the costs shall be at the discretion of the Invalidity Division or Board of Appeal. 
+ 5. Where the parties conclude before the Invalidity Division or Board of Appeal a settlement of costs differing from that provided for in paragraphs 1 to 4, the body concerned shall take note of that agreement. 
+ 6. The Invalidity Division or Board of Appeal shall fix ex officio the amount of the costs to be paid pursuant to paragraphs 1 to 5 of this Article when the costs to be paid are limited to the fees paid to the Office and the representation costs. In all other cases, the registry of the Board of Appeal or Invalidity Division shall fix, on request, the amount of the costs to be paid. The request shall be admissible only for a period of 2 months following the date on which the decision for which an application was made for the costs to be fixed becomes final and shall be accompanied by a bill and supporting evidence. For the costs of representation pursuant to Article 78(1), an assurance by the representative that the costs have been incurred shall be sufficient. For other costs, it shall be sufficient if their plausibility is established. Where the amount of the costs is fixed pursuant to the first sentence of this paragraph, representation costs shall be awarded at the level laid down in the implementing act adopted pursuant to Article 70a and irrespective of whether they have been actually incurred. 
+ 7. Decisions on the fixing of costs adopted in accordance with paragraph 6 shall state the reasons on which it is based and may be reviewed by the Invalidity Division or Board of Appeal on a request filed within 1 month of the date of notification of the decision. It shall not be deemed to be filed until the fee for reviewing the amount of the costs has been paid. The Invalidity Division or the Board of Appeal, as the case may be, shall take a decision on the request for a review of the decision on the fixing of costs without oral proceedings.’; 
+ (81) t he following Article 70a is inserted: 
+ ‘Article 70a 
+ Conferral of implementing powers regarding maximum rates for costs 
+ The Commission shall adopt implementing acts specifying the maximum rates for costs essential to the proceedings and actually incurred by the successful party as referred to in Article 70(1). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2). 
+ When specifying the maximum rates with respect to travel and subsistence costs, the Commission shall take into account the distance between the place of residence or business of the party, representative or witness or expert and the place where the oral proceedings are held, the procedural stage at which the costs have been incurred, and, as far as costs of representation within the meaning of to Article 78(1) are concerned, the need to ensure that the obligation to bear the costs may not be misused for tactical reasons by the other party. In addition, subsistence expenses shall be calculated in accordance with the Staff Regulations of Officials of the Union and the Conditions of Employment of Other Servants of the Union, laid down in Council Regulation (EEC, Euratom, ECSC) No 259/68*. The losing party shall bear the costs for one party in the proceedings only and, where applicable, one representative only. 
+ * Regulation (EEC, Euratom, ECSC) No 259/68 of the Council of 29 February 1968 laying down the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Commission and instituting special measures temporarily applicable to officials of the Commission (OJ L 56, 4.3.1968, p. 1.)’; 
+ (82) in Article 7 1 , paragraph 2 is replaced by the following : 
+ ‘2. Enforcement shall be governed by the rules of civil procedure in force in the Member State in the territory of which it is carried out. Each Member State shall designate a single authority responsible for verifying the authenticity of the decision referred to in paragraph 1 and shall communicate its contact details to the Office, the Court of Justice and the Commission. The order for enforcement shall be appended to the decision by that authority, with the verification of the authenticity of the decision as the sole formality.’; 
+ (83) Article 72 is replaced by the following: 
+ ‘Article 72 
+ Register of EU designs 
+ 1. The Office shall keep a Register of registered EU designs which it shall keep up to date. 
+ 2. The Register shall contain the following entries relating to EU design registrations: 
+ (a) the date of filing the application; 
+ (b) the file number of the application and the file number of each individual design included in a multiple application; 
+ (c) the date of the publication of the registration; 
+ (d) the name and city and country of the applicant; 
+ (e) the name and business address of the representative , other than a representative referred to in Article 77(3) , first sentence ; 
+ (f) the representation of the design; 
+ (g) the names of the products, preceded by the numbers of the classes and subclasses of the Locarno classification; 
+ (h) particulars of claims of priority pursuant to Article 42; 
+ (i) particulars of claims of exhibition priority pursuant to Article 44; 
+ (j) the citation of the designer or of the team of designers pursuant to Article 18, or a statement that the designer or the team of designers has waived the right to be cited; 
+ (k) the language in which the application was filed and the second language which the applicant has indicated in his application, pursuant to Article 98(3); 
+ (l) the date of registration of the design in the R egister and the registration number pursuant to Article 48; 
+ (m) a n indication of any request for deferment of publication pursuant to Article 50(3), specifying the date of expiry of the period of deferment; 
+ (n) a n indication that a description was filed pursuant to Article 36(3) , point (a) . 
+ 3. The Register shall also contain the following entries, each accompanied by the date of their recording: 
+ (a) changes in the name or the city and country of the holder pursuant to Article 50 g ; 
+ (b) changes in the name or business address of the representative, other than a representative referred to in Article 77(3) , first sentence; 
+ (c) where a new representative is appointed, the name and business address of that representative; 
+ (d) changes in the name of the designer or the team of designers pursuant to Article 18; 
+ (e) withdrawals, amendments and corrections of the design, pursuant to Article 47a and corrections of errors and manifest oversights pursuant to Article 66 g ; 
+ (f) alterations of the design pursuant to Article 50 e ; 
+ (g) an indication that entitlement proceedings have been instituted before the competent court under Article 15( 5 ) , point (a) ; 
+ (h) the date and particulars of the final decision of the competent court or other termination of proceedings pursuant to Article 15( 5 ) , point (b); 
+ (i) a change of ownership pursuant to Article 15( 5 ) , point (c); 
+ (j) a transfer pursuant to Article 28; 
+ (k) the creation or transfer of a right in rem pursuant to Article 29 and the nature of the right in rem; 
+ (l) a levy of execution pursuant to Article 30 and insolvency proceedings pursuant to Article 31; 
+ (m) the grant or transfer of a licence pursuant to Article 16(2) or Article 32 and, where applicable, the type of licence pursuant to Article 32a(3); 
+ (n) t he renewal of the registration pursuant to Article 50 d and the date from which that renewal takes effect; 
+ (o) the determination of the expiry of the registration pursuant to Article 50 d (8) ; 
+ (p) a declaration of surrender by the holder pursuant to Article 51(1); 
+ (q) the date of submission and the particulars of an application for a declaration of invalidity under Article 52, of a counterclaim for a declaration of invalidity pursuant to Article 84(5) or of an appeal pursuant to Article 55; 
+ (r) the date and particulars of the final decision on the application for a declaration of invalidity pursuant to Article 53, of the final decision on a counterclaim for a declaration of invalidity pursuant to Article 86(3), of the final decision on an appeal pursuant to Article 55, or of any other termination of proceedings pursuant, to those Articles ; 
+ (s) the cancellation of the representative recorded pursuant to paragraph 2 , point (e); 
+ (t) the modification or cancellation from the R egister of the items referred to in paragraph 3 , points (l), (m) and (n). 
+ (u) the revocation of a decision or an entry in the R egister pursuant to Article 66 h , where the revocation concerns a decision or entry which has been published . 
+ 4. The Executive Director may determine that items other than those referred to in paragraphs 2 and 3 shall be entered in the Register. 
+ 5. The Register may be maintained in electronic form. The Office shall collect, organise, make public and store the items referred to in paragraphs 1, 2 and 3, including any personal data, for the purposes laid down in paragraph 8. The Office shall keep the Register easily accessible for public inspection. 
+ 6. The holder of a registered EU design shall be notified of any change in the Register. 
+ 7. The Office shall, where access to the Register is not restricted pursuant to Article 74(5), provide certified or uncertified extracts from the Register on request, subject to the payment of a fee where those extracts are issued other than by electronic means. 
+ 8. The processing of the data concerning the entries set out in paragraphs 2 and 3, including any personal data, shall take place for the purposes of: 
+ (a) administering the applications and/or registrations as described in this Regulation and any acts adopted pursuant to it; 
+ (b) maintaining a public R egister for inspection by, and the information of, public authorities and economic operators, in order to enable them to exercise the rights conferred on them by this Regulation and be informed about the existence of prior rights belonging to third parties; 
+ (c) producing reports and statistics enabling the Office to optimise its operations and improve the functioning of the system for registration of EU designs . 
+ 9. All the data, including personal data, concerning the entries in paragraphs 2 and 3 shall be considered to be of public interest and may be accessed by any third party except to the extent that Article 50(2) provides otherwise. The entries in the Register shall be kept for an indefinite period of time.’; 
+ (84) t he following Article s 7 2 a and 72b are inserted: 
+ ‘Article 72a 
+ Database 
+ 1. In addition to the obligation to keep a Register as set out in Article 72, the Office shall collect and store in an electronic database all the particulars provided by holders or any other party to the proceedings pursuant to this Regulation or acts adopted pursuant to it. 
+ 2. The electronic database may include personal data, beyond those included in the Register pursuant to Article 72, to the extent that such data is required by this Regulation or by acts adopted pursuant to it. The collection, storage and processing of personal data shall serve the purposes of: 
+ (a) administering the applications and/or registrations as described in this Regulation and in acts adopted pursuant to it; 
+ (b) accessing the information necessary for conducting the relevant proceedings more easily and efficiently; 
+ (c) communicating with the applicants and other parties to the proceedings; 
+ (d) producing reports and statistics enabling the Office to optimise its operations and improve the functioning of the system. 
+ 3. The Executive Director shall determine the conditions of access to the database and the manner in which the contents, other than the personal data referred to in paragraph 2 of this Article but including the data listed in Article 72, may be made available in machine-readable form, including the charges for such access. 
+ 4. Access to the personal data referred to in paragraph 2 shall be restricted and such data shall not be made publicly available unless the party concerned has given his express consent. 
+ 5. All data shall be kept indefinitely. However, the party concerned may request the removal of any personal data from the database after 18 months from the expiry of the registered EU design or the closure of the relevant inter partes procedure. The party concerned shall have the right to obtain the correction of inaccurate or erroneous data at any time. 
+ Article 72b 
+ Online access to decisions 
+ 1. The decisions of the Office regarding registered EU designs shall be made available online for the information and consultation of the general public. Any party to the proceedings that led to the adoption of the decision may request the removal of any personal data included in the decision. 
+ 2. The Office may provide online access to judgments of national and Union courts related to its tasks in order to raise public awareness of intellectual property matters and promote convergence of practices. The Office shall respect the conditions of the initial publication with regard to personal data.’; 
+ (85) Article 73 is replaced by the following : 
+ ‘Article 73 
+ Periodical publications 
+ 1. The Office shall periodically publish: 
+ (a) an European Union Designs Bulletin containing publications of entries made in the R egister, as well as other particulars relating to registrations of EU designs the publication of which is required under this Regulation or by acts adopted pursuant to it; 
+ (b) an Official Journal of the Office containing notices and information of a general character issued by the Executive Director, as well as any other information relevant to this Regulation or its implementation. 
+ The publications referred to in the first subparagraph, points (a) and (b), may be effected by electronic means. 
+ 2. The European Union Designs Bulletin shall be published in a manner and at a frequency to be determined by the Executive Director. 
+ 3. The Official Journal of the Office shall be published in the languages of the Office. However, the Executive Director may determine that certain items shall be published in the Official Journal of the Office in the official languages of the Union.’; 
+ (86) t he following Article 73a is inserted: 
+ ‘Article 73a 
+ Conferral of implementing powers regarding periodical publications 
+ The Commission shall adopt implementing acts specifying: 
+ (a) the date to be considered as the date of publication in the European Union Designs Bulletin; 
+ (b) the manner of publication of entries regarding the registration of a design which do not contain changes as compared to the publication of the application; 
+ (c) the forms in which editions of the Official Journal of the Office may be made available to the public. 
+ Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2).’; 
+ (87) Article 74 is amended as follows: 
+ (a) paragraph 4 is replaced by the following : 
+ ‘4. Where the files are inspected pursuant to paragraph 2 or 3, the following parts of the file shall be excluded from inspection: 
+ (a) documents relating to exclusion or objection pursuant to Article 1 69 of Regulation ( EU) 2017/1001 ; 
+ (b) draft decisions and opinions, and all other internal documents used for the preparation of decisions and opinions; 
+ (c) parts of the file which the party concerned showed a special interest in keeping confidential before the request for inspection of the files was made, unless inspection of such part of the file is justified by overriding legitimate interests of the party seeking inspection.’ ; 
+ (b) the following paragraph 5 is added: 
+ ‘5. Where the registration is subject to a deferment of publication pursuant to Article 50(1), access to the Register for persons other than the holder shall be limited to the name of the holder, the name of any representative, the date of filing and registration, the file number of the application and the indication that publication is deferred. In such cases, the certified or uncertified extracts from the register shall contain only the name of the holder, the name of any representative, the date of filing and registration, the file number of the application and the indication that publication is deferred, except where the request for extracts has been made by the holder or by his representative.’; 
+ (88) t he following A rticles 74a, 74b and 74c are inserted: 
+ ‘Article 74a 
+ Procedures for the inspection of files 
+ 1. Inspection of the files of registered EU designs shall be of the original document, or of copies thereof, or of technical means of storage if the files are stored in that way. The request for inspection of the files shall not be deemed to have been made until the required fee has been paid. No fee shall be payable if inspection of technical means of storage takes place online. The Executive Director shall determine the means of inspection. 
+ 2. Where the request for inspection of the files relates to an application for a registered EU design or to a registered EU design which has been subject to deferment of publication and which has been surrendered before or on the date of expiry of the period of deferment, the request shall contain evidence to the effect that: 
+ (a) the applicant for or holder of the EU design has consented to the inspection; or 
+ (b) the person requesting the inspection has established a legitimate interest in the inspection of the fil e. 
+ 3. Inspection of the files shall take place on the premises of the Office. On request, inspection of the files shall be effected by means of copies of file documents. The issuing of such copies shall be conditional on the payment of a fee. The Office shall also, on request, issue certified or uncertified copies of the application for an EU design upon payment of a fee. 
+ Article 74b 
+ Communication of information contained in the files 
+ Subject to the restrictions provided for in Article 74 of this Regulation, the Office may, upon request, communicate information from any file of any procedure relating to an EU design application or to a registered EU design, subject to payment of a fee. However, if the Office finds it appropriate due to the quantity of information to be supplied, it may require the person requesting the inspection to inspect the file in situ on the premises of the Office. 
+ Article 74c 
+ Keeping of files 
+ 1. The Office shall keep the files of any procedure relating to EU design applications and to registered EU designs. The Executive Director shall determine the form in which those files shall be kept. 
+ 2. Where the files are kept in electronic format, the electronic files, or back-up copies thereof, shall be kept indefinitely. The original documents filed by parties to the proceedings, and forming the basis of such electronic files, shall be disposed of after a period following their reception by the Office, which shall be determined by the Executive Director. 
+ 3. Where, and to the extent that, files or parts of the files are kept in any form other than electronically, documents or items of evidence constituting part of such files shall be kept for at least five years from the end of the year in which: 
+ (a) the application is rejected or withdrawn; 
+ (b) the registration of the EU design expires definitively; 
+ (c) the surrender of the registered EU design is entered in the Register pursuant to Article 51 of this Regulation; 
+ (d) the registered EU design is definitively removed from the R egister.’ ; 
+ (89) Article 75 is replaced by the following: 
+ ‘Article 75 
+ Administrative cooperation 
+ 1. Unless otherwise provided in this Regulation or in national laws, the Office and the courts or authorities of the Member States shall on request give assistance to each other by communicating information or opening files for inspection. Where the Office opens files to inspection by courts, Public Prosecutors' Offices or central industrial property offices, the inspection shall not be subject to the restrictions laid down in Article 74. 
+ 2. The Office shall not charge fees for the communication of information or the opening of files for inspection.’; 
+ (90) t he following Article 75a is inserted: 
+ ‘Article 75a 
+ Conferral of implementing powers regarding administrative cooperation 
+ The Commission shall adopt implementing acts setting out the detailed arrangements for the exchange of information between the Office and the authorities of the Member States and for the opening of files for inspection as referred to in Article 75, taking into account the restrictions to which the inspection of files relating to EU design applications or registrations is subject, pursuant to Article 74, when they are opened to third parties. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2).’; 
+ (91) Article 76 is deleted ; 
+ (92) Article 77 is replaced by the following : 
+ ‘Article 77 
+ General principles of representation 
+ 1. Subject to paragraph 2, no person shall be compelled to be represented before the Office. 
+ 2. Without prejudice to the second sentence of paragraph 3 of this Article, natural or legal persons having neither their domicile nor their principal place of business or a real and effective industrial or commercial establishment in the EEA shall be represented before the Office in accordance with Article 78(1) in all proceedings provided for by this Regulation, other than the filing of an application for a registered EU design. 
+ 3. Natural or legal persons having their domicile or principal place of business or a real and effective industrial or commercial establishment in the EEA may be represented before the Office by an employee. An employee of a legal person to which this paragraph applies may also represent other legal persons which have economic connections with the first legal person, even if those other legal persons have neither their domicile nor their principal place of business nor a real and effective industrial or commercial establishment within the EEA. Employees who represent persons within the meaning of this paragraph shall, at the request of the Office or, where appropriate, of the party to the proceedings, provide the Office with a signed authorisation for insertion in the files. 
+ 4. Where there is more than one applicant or more than one third party acting in common, a common representative shall be appointed.’; 
+ (93) Article 78 is amended as follows: 
+ (a) paragraphs 1 to 6 are replaced by the following: 
+ ‘1. Representation of natural or legal persons in proceedings before the Office under this Regulation may only be undertaken by any of the following: 
+ (a) a legal practitioner qualified in one of the Member States of the E EA and having his place of business within the E EA , to the extent that he is entitled, within th at Member State, to act as a representative in industrial property matters; 
+ (b) professional representatives whose names appear on the list of professional representatives referred to in Article 120(1)(b) of Regulation (EU) 2017/1001 ; 
+ (c) professional representatives whose names appear on the special list of professional representatives for design matters referred to in paragraph 4. 
+ 2. The persons referred to in paragraph 1, point (c), shall only be entitled to represent third persons in proceedings on design matters before the Office. 
+ 3. Representatives acting before the Office shall, at the request of the Office or, where appropriate, of the other party to the proceedings, provide the Office with a signed authorisation for insertion on the files. 
+ 4. The Office shall establish and maintain a special list of professional representatives in design matters (the ‘list of professional representatives in design matters’). Any natural person who fulfils all the following conditions may be included in that list: 
+ (a) being a national of one of the Member States of the E EA ; 
+ (b) having his place of business or employment in the E EA ; 
+ (c) being entitled to represent natural or legal persons in design matters before the Benelux Office for Intellectual Property or before the central industrial property office of a Member State of the E EA . 
+ Where the entitlement referred to in the first subparagraph, point (c), is not conditional upon the requirement of special professional qualifications, the person applying to be entered on the list who acts in design matters before the Benelux Office for Intellectual Property or a central industrial property office shall have habitually so acted for at least five years. However, persons whose professional qualification to represent natural or legal persons in design matters before the Benelux Office for Intellectual Property or a central industrial property office is officially recognised in accordance with the regulations laid down by the State concerned shall not be required to have exercised the profession. 
+ 5. Entry on the list of professional representatives in design matters shall be effected upon request, accompanied by a certificate furnished by the Benelux Office for Intellectual Property or the central industrial property office of the Member State concerned, indicating that the conditions laid down in paragraph 4 are fulfilled. The entries in the list of professional representatives in design matters shall be published in the Official Journal of the Office. 
+ 6. The Executive Director may grant an exemption from any of the following: 
+ (a) the requirement set out in paragraph 4 , point (a) , in the case of highly qualified professionals, provided that the requirements set out in paragraph 4 , points (b) and (c) , are fulfilled ; 
+ (b) the requirement set out in the first sentence of the second subparagraph of paragraph 4, if the person applying to be entered on the list furnishes proof that he has acquired the requi red qualification in another way .’ ; 
+ (b) paragraph 7 is replaced by the following: 
+ ‘7. A person may be removed from the list of professional representatives in design matters at the request of the person or when that person is no longer in a capacity to act as a professional representative. The amendments of the list of professional representatives in design matters shall be published in the Official Journal of the Office.’; 
+ (c) the following paragraph is added: 
+ ‘ 8. Representatives acting before the Office shall be entered in the database referred to in Article 72a and obtain an identification number. The Office may require the representative to prove the real and effective nature of their establishment or employment at any of the addresses identified. The Executive Director may determine the formal requirements for obtaining an identification number, in particular for associations of representatives, and for the entries of the representatives in the database. ’ ; 
+ (94) t he following Article 78a is inserted: 
+ ‘Article 78a 
+ Delegation of powers regarding professional representation 
+ The Commission is empowered to adopt delegated acts in accordance with Article 208 to supplement this Regulation by specifying: 
+ (a) the conditions and the procedure for the appointment of a common representative as referred to in Article 77(4); 
+ (b) the conditions under which employees referred to in Article 77(3) and professional representatives referred to in Article 78(1) shall file with the Office a signed authorisation in order to undertake representation, and the content of that authorisation; 
+ (c) the circumstances in which a person may be removed from the list of professional representatives in design matters referred to in Article 78( 7 ). ’; 
+ (95) Article 79 is replaced by the following: 
+ ‘Article 79 
+ Application of Union rules on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters 
+ 1. Unless otherwise specified in this Regulation, the Union rules on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters shall apply to proceedings relating to EU designs and applications for registered EU designs, as well as to proceedings relating to simultaneous and successive actions on the basis of EU designs and national designs. 
+ 2. In the case of proceedings in respect of the actions and claims referred to in Article 81: 
+ (a) Articles 4 and 6, Article 7, points 1, 2, 3 and 5 , and Article 35 of Regulation (EU) No 1215/2012 of the European Parliament and of the Council* shall not apply; 
+ (b) Articles 25 and 26 of Regulation (EU) No 1215/2012 shall apply subject to the limitations set out in Article 82(4) of this Regulation; 
+ (c) the provisions of Chapter II of Regulation (EU) No 1215/2012 which are applicable to persons domiciled in a Member State shall apply also to persons who do not have a domicile in any Member State but have an establishment therein. 
+ 3. References in this Regulation to Regulation (EU) No 1215/2012 shall include, where appropriate, the Agreement between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters done on 19 October 2005. 
+ * Regulation (EU) No 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 351, 20.12.2012, p.1).’; 
+ (96) i n Article 80 , paragraph 5 is deleted ; 
+ (97) Article 8 2 is amended as follows: 
+ (a) paragraph 1 is replaced by the following: 
+ ‘1. Subject to the provisions of this Regulation and to any provisions of Regulation (EU) No 1215/2012 applicable by virtue of Article 79, proceedings in respect of the actions and claims referred to in Article 81 shall be brought in the courts of the Member State in which the defendant is domiciled or, if the defendant is not domiciled in any of the Member States, in any Member State in which the defendant has an establishment.’; 
+ (a) paragraph 4 is replaced by the following: 
+ ‘4. By way of derogation from paragraphs 1, 2 and 3: 
+ (a) Article 25 of Regulation (EU) No 1215/2012 shall apply if the parties agree that a different EU design court shall have jurisdiction; 
+ (b) Article 26 of Regulation (EU) No 1215/2012 shall apply if the defendant enters an appearance before a different EU design court. ’ ; 
+ (98) i n Article 8 4, the following paragraphs 5 and 6 are added: 
+ ‘5. The EU design court with which a counterclaim for a declaration of invalidity of a registered EU design has been filed shall not proceed with the examination of the counterclaim, until either the interested party or the court has informed the Office of the date on which the counterclaim was filed. The Office shall record that information in the Register in accordance with Article 72(3), point (q). If an application for a declaration of invalidity of the registered EU design had been filed with the Office before the counterclaim was filed, the court shall be informed thereof by the Office and stay the proceedings in accordance with Article 91(1) until the decision on the application is final or the application is withdrawn. 
+ 6. The EU design court hearing a counterclaim for a declaration of invalidity of a registered EU design may, on application by the right holder of the registered EU design and after hearing the other parties, stay the proceedings and request the defendant to submit an application for a declaration of invalidity to the Office within a time limit which the court shall determine. If the application is not made within the time limit, the proceedings shall continue; the counterclaim shall be deemed withdrawn. Article 91(3) shall apply.’; 
+ (99) Article 86 is replaced by the following : 
+ ‘Article 86 
+ Judgments of invalidity 
+ 1. Where in a proceeding before an EU design court the EU design has been put in issue by way of a counterclaim for a declaration of invalidity: 
+ (a) if any of the grounds mentioned in Article 25 are found to prejudice the maintenance of the EU design, the court shall declare the EU design invalid; 
+ (b) if none of the grounds mentioned in Article 25 is found to prejudice the maintenance of the EU design, the court shall reject the counterclaim . 
+ 2. An EU design court shall reject a counterclaim for a declaration of invalidity of a registered EU design if a decision taken by the Office relating to the same subject matter and cause of action and involving the same parties has already become final. 
+ 3. Where an EU design court has given a judgment which has become final on a counterclaim for a declaration of invalidity of a registered EU design, a copy of the judgment shall be sent to the Office without delay, either by the court or by any of the parties to the national proceedings. The Office or any other interested party may request information about such judgment. The Office shall enter the judgment in the Register in accordance with Article 72(3), point (r).’; 
+ (100) i n Article 88, paragraph 2 is replaced by the following: 
+ ‘2. On all matters not covered by this Regulation, an EU design court shall apply the applicable national law.’; 
+ (101) Article 8 9 is replaced by the following: 
+ ‘Article 89 
+ Sanctions in actions for infringement 
+ 1. Where an EU design court finds that the defendant has infringed or threatened to infringe an EU design, it shall, unless there are special reasons for not doing so, issue an order prohibiting the defendant from proceeding with the acts which infringed or would infringe the EU design. It shall also take such measures in accordance with its national law as are aimed at ensuring that this prohibition is complied with. 
+ 2. The EU design court may also apply measures or orders available under the applicable law which it deems appropriate in the circumstances of the case.’; 
+ (102) i n Article 90 , p aragraph 3 is replaced by the following: 
+ ‘3. An EU design court whose jurisdiction is based on Article 82(1), (2), (3) or (4) shall have jurisdiction to grant provisional measures, including protective measures, which, subject to any necessary procedure for recognition and enforcement pursuant to Chapter III of Regulation (EU) No 1215/2012, are applicable in the territory of any Member State. No other court shall have such jurisdiction.’; 
+ (103) Article 93 is replaced by the following : 
+ ‘Article 93 
+ Supplementary provisions on the jurisdiction of national courts other than EU design courts 
+ 1. Within the Member State whose courts have jurisdiction under Article 79(1), the courts which would have jurisdiction ratione loci and ratione materiae in the case of actions relating to a national design right in that Member State shall have jurisdiction for actions relating to EU designs other than the actions referred to in Article 81. 
+ 2. Actions relating to an EU design, other than the actions referred to in Article 81, for which no court has jurisdiction pursuant to Article 79(1) and paragraph 1 of this Article may be heard before the courts of the Member State in which the Office has its seat.’; 
+ (104) i n Article 96, paragraph 2 is replaced by the following : 
+ ‘2. A design protected as an EU design shall also be eligible for protection by copyright as from the date on which the design was created or fixed in any form, provided that the requirements of Union copyright law are met. ’; 
+ (105) Article 97 is replaced by the following: 
+ ‘Article 97 
+ Application of Regulation (EU) 2017/1001 
+ Unless otherwise provided in this Title, Articles 142 to 146, Articles 148 to 158, Article 162, and Articles 165 to 177 of Regulation (EU) 2017/1001 shall apply to the Office with regard to its tasks under this Regulation.’; 
+ (106) Article 98 is amended as follows: 
+ (a) the following paragraph 4a is inserted: 
+ ‘4a. Without prejudice to paragraph 4: 
+ (a) any application or declaration relating to an application for a registered EU design may be filed in the language used for filing the application for a registered EU design or in the second language indicated by the applicant in that application; 
+ (b) any application or declaration relating to a registered EU design other than an application for declaration of invalidity pursuant to Article 52 or a declaration of surrender pursuant to Article 51 may be filed in one of the languages of the Office . 
+ However, when any of the forms provided by the Office as referred to in Article 66d is used, such forms may be used in any of the official languages of the Union, provided that the form is completed in one of the languages of the Office, as far as textual elements are concerned.’; 
+ (b) the following paragraphs 6 and 7 are added: 
+ ‘6. Without prejudice to paragraphs 3 and 5 and unless provided otherwise, in written proceedings before the Office a party may use any language of the Office. If the language chosen is not the language of the proceedings, the party shall supply a translation into that language within 1 month of the date of the submission of the original document. Where the applicant for a registered EU design is the sole party to proceedings before the Office and the language used for the filing of the application for the registered EU design is not one of the languages of the Office, the translation may also be filed in the second language indicated by the applicant in the application. 
+ 7. The Executive Director shall determine the manner in which translations are to be certified.’; 
+ (107) t he following Article 98a is inserted: 
+ ‘Article 98a 
+ Conferral of implementing powers regarding need and standards of translation 
+ The Commission shall adopt implementing acts specifying: 
+ (a) the extent to which supporting documents to be used in written proceedings before the Office may be filed in any language of the Union, and the need to supply a translation; 
+ (b) the requisite standards of translations to be filed with the Office. 
+ Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2) . ’; 
+ (108) Article 99 is replaced by the following : 
+ ‘Article 99 
+ Publication and entries in the Register 
+ 1. All information the publication of which is prescribed by this Regulation or an act adopted pursuant to this Regulation shall be published in all the official languages of the Union. 
+ 2. All entries in the Register shall be made in all the official languages of the Union. 
+ 3. In cases of doubt, the text in the language of the Office in which the application for the registered EU design was filed shall be authentic. If the application was filed in an official language of the Union other than one of the languages of the Office, the text in the second language indicated by the applicant shall be authentic.’; 
+ (109) Article 100 is replaced by the following: 
+ ‘Article 100 
+ Supplementary powers of the Executive Director 
+ In addition to the powers conferred upon the Executive Director by Article 157(4), point (o), of Regulation (EU) 2017/1001, the Executive Director shall exercise the powers conferred under Article 36(5), Article 37(1), Article 41(5), Article 42(2), Article 62(2), Article 65(5), Articles 66, 66c, 66e, Article 72(4), Article 72a(3), Article 73, Article 74a(1), Articles 74c, 78, Article 98(7), Article -106aa, Article -106ab(1), Articles -106ac and -106ad in accordance with the criteria set out in this Regulation and in the acts adopted pursuant to this Regulation.’; 
+ (110) Article 101 is deleted ; 
+ (111) Article s 102 , 103 and 104 are replaced by the following : 
+ ‘Article 102 
+ Competence 
+ For taking decisions in connection with the procedures laid down in this Regulation the following shall be competent: 
+ (a) examiners; 
+ (b) the Department in charge of the Register; 
+ (c) Invalidity Divisions; 
+ (d) Boards of Appeal ; 
+ (e) any other unit or person appointed by the Executive Director to that effect. 
+ Article 103 
+ Examiners 
+ The examiners shall be responsible for taking decisions on behalf of the Office in relation to an application for a registered EU design. 
+ Article 104 
+ The Department in charge of the Register 
+ 1. In addition to the powers conferred upon it by Regulation (EU) 2017/1001, the Department in charge of the Register shall be responsible for taking decisions in respect of entries in the Register under this Regulation and other decisions required by this Regulation which do not fall within the competence of the examiners or an Invalidity Division. 
+ 2. The Department in charge of the Register shall also be responsible for maintaining the list of professional representatives in design matters.’; 
+ (112) i n Article 10 5 , the following paragraph 3 is added: 
+ ‘3. Decisions relating to costs or to procedures shall be taken by a single member of the Invalidity Division.’; 
+ (113) t he following Article 105a is inserted: 
+ ‘Article 105a 
+ Conferral of implementing powers regarding decisions taken by a single member 
+ The Commission shall adopt implementing acts specifying the exact types of decisions that are to be taken by a single member as referred to in Article 105(3). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 109(2).’; 
+ (114) Article 106 is replaced by the following: 
+ ‘Article 106 
+ Boards of Appeal 
+ In addition to the powers conferred upon it by Article 165 of Regulation (EU) 2017/1001, the Boards of Appeal shall be responsible for deciding on appeals of decisions of the instances of the Office referred to in Article 102, points (a), (b) and (c), and, where appropriate, Article 102, point (e), in connection with the procedures laid down in this Regulation.’; 
+ (115) t he following Article -106a is inserted : 
+ ‘Article -106a 
+ Delegation of power regarding the Boards of Appeal 
+ The Commission is empowered to adopt delegated acts in accordance with Article 109a specifying the details concerning the organisation of the Boards of Appeal in proceedings relating to designs under this Regulation where such proceedings require a different organisation than what is laid down in the delegated acts adopted pursuant to Article 168 of Regulation (EU) 2017/1001.’; 
+ (116) t he following Section 3 is added in Title XI : 
+ ‘Section 3 
+ Fees and their payment 
+ Article -106aa 
+ Fees and charges and due date 
+ 1. The Executive Director shall lay down the amount to be charged for any services rendered by the Office other than those set out in Annex, as well as the amount to be charged for publications issued by the Office. The amounts of charges shall be set in euros and shall be published in the Official Journal of the Office. The amount of each charge shall not exceed what is necessary to cover the costs of the specific service rendered by the Office. 
+ 2. Fees and charges in respect of which the due date is not specified in this Regulation shall be due on the date of receipt of the request for the service for which the fee or the charge is incurred. 
+ With the consent of the Budget Committee, the Executive Director may determine which of the services mentioned in the first subparagraph shall not be dependent upon the advance payment of the corresponding fees or charges. 
+ Article -106ab 
+ Payment of fees and charges 
+ 1. Fees and charges due to the Office shall be paid by the methods of payment determined by the Executive Director with the consent of the Budget Committee. 
+ Determinations made pursuant to the first subparagraph shall be published in the Official Journal of the Office. All payments shall be made in euros. 
+ 2. Payments through means of payment other than those referred to in paragraph 1 shall be considered not to have been made and the amount which has been paid shall be refunded. 
+ 3. Payments shall contain the necessary information to enable the Office to establish immediately the purpose of the payment. 
+ 4. If the purpose of the payment referred to in paragraph 2 cannot immediately be established, the Office shall require the person making the payment to notify it in writing of that purpose within a certain period. If the person does not comply with the request within that period, the payment shall be considered not to have been made and the amount which has been paid shall be refunded. 
+ Article -106ac 
+ Deemed date of payment 
+ The Executive Director shall establish the date on which payments shall be considered to have been made. 
+ Article -106ad 
+ Insufficient payments and refund of insignificant amounts 
+ 1. A time limit for payment shall be considered to have been observed only if the full amount of the fee or charge has been paid in due time. If the fee or charge is not paid in full, the amount which has been paid shall be refunded after the period for payment has expired. 
+ 2. The Office may, however, in so far as is possible within the time remaining before the end of the period for payment, give the person making the payment the opportunity to pay the amount lacking or, where this is considered justified, overlook any small amounts lacking, without prejudice to the rights of the person making the payment. 
+ 3. With the consent of the Budget Committee, the Executive Director may waive action for the enforced recovery of any sum due where the sum to be recovered is minimal or where such recovery is too uncertain. 
+ 4. Where an excessive sum is paid to cover a fee or a charge, the excess shall not be refunded if the amount is insignificant and the party concerned has not expressly requested a refund. 
+ With the consent of the Budget Committee, the Executive Director may determine the amount below which an excessive sum paid to cover a fee or a charge shall not be refunded. 
+ Determinations pursuant to the second subparagraph shall be published in the Official Journal of the Office.’; 
+ (117) i n Article 106d, paragraph 3 is replaced by the following: 
+ ‘3. The Office shall provide information on international registrations referred to in paragraph 2 in the form of an electronic link to the searchable database of international registrations of designs maintained by the International Bureau.’; 
+ (118) Article 106 e is replaced by the following: 
+ ‘Article 106e 
+ Examination of grounds for refusal 
+ 1. Where the Office finds, in the course of carrying out an examination of an international registration, that the design for which protection is sought does not correspond to the definition in Article 3, point (1), or that the design is contrary to public policy or to accepted principles of morality, it shall send to the International Bureau a notification of refusal not later than 6 months from the date of publication of the international registration, specifying the grounds for refusal pursuant to Article 12(2) of the Geneva Act. 
+ 2. Where the holder of the international registration is obliged to be represented before the Office pursuant to Article 77(2), the notification referred to in paragraph 1 of this Article shall contain a reference to the obligation of the holder to appoint a representative as referred to in Article 78(1). 
+ 3. The Office shall specify a time limit by which the holder of the international registration may renounce the international registration in respect of the Union, limit the international registration to one or some of the industrial designs in respect of the Union or submit observations, and, where appropriate, shall appoint a representative. The time period shall start on the day on which the Office issues the provisional refusal. 
+ 4. If the holder fails to appoint a representative within the time limit referred to in paragraph 3, the Office shall refuse the protection of the international registration. 
+ 5. Where the holder submits observations that satisfy the Office within the specified time limit, the Office shall withdraw the refusal and notify the International Bureau in accordance with Article 12(4) of the Geneva Act. Where, pursuant to Article 12(2) of the Geneva Act, the holder does not submit observations that satisfies the Office within the specified time limit, the Office shall confirm the decision refusing protection for the international registration. That decision shall be subject to appeal in accordance with Articles 66 to 72 of Regulation (EU) 2017/1001 in conjunction with Article 55(2) of this Regulation. 
+ 6. Where the holder renounces the international registration or limits the international registration to one or some of the industrial designs in respect of the Union, the holder shall inform the International Bureau by way of the recording procedure in accordance with Article 16(1), points (iv) and (v), of the Geneva Act.’; 
+ (119) t he following A rticle 106g is added in Title XI a : 
+ ‘Article 106g 
+ Renewals 
+ The international registration shall be renewed directly at the International Bureau in compliance with Article 17 of the Geneva Act.’; 
+ (120) Article 107 is amended as follows: 
+ (a) paragraph 1 is replaced by the following: 
+ ‘1. The Commission shall adopt an implementing act setting out rules for the implementation of this Regulation. That implementing regulation shall be adopted in accordance with the examination procedure laid down in Article 109(2).’; 
+ (b) paragraphs 2 and 3 are deleted; 
+ (121) Article 107 is deleted; 
+ (122) Article 108 is deleted ; 
+ (123) Article 10 9 is replaced by the following: 
+ ‘Article 109 
+ Committee Procedure 
+ 1. The Commission shall be assisted by the Committee on Implementation Rules established by Regulation (EU) 2017/1001. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011. 
+ 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.’; 
+ (124) t he following A rticle 109a is inserted: 
+ ‘Article 109a 
+ Exercise of the delegation 
+ 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article. 
+ 2. The power to adopt delegated acts referred to in Articles 47b, 53a, 55a, 64a, 65a, 66a, 66d, 66f, 66i, 67c, 78a and -106a shall be conferred on the Commission for an indeterminate period of time from [OP: please insert the date = the date of entry into force of this Regulation]. 
+ 3. The delegation of power referred to in Articles 47b, 53a, 55a, 64a, 65a, 66a, 66d, 66f, 66i, 67c, 78a and -106a may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force. 
+ 4. Before adopting a delegated act, the Commission shall carry out consultations with experts, including experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making. 
+ 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council. 
+ 6. A delegated act adopted pursuant to Articles 47b, 53a, 55a, 64a, 65a, 66a, 66d, 66f, 66i, 67c, 78a and -106a shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of 2 months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 2 months at the initiative of the European Parliament or of the Council.’; 
+ (125) Article 110 is deleted ; 
+ (126) in Article 110a, paragraph 5, the second sentence is deleted; 
+ (127) t he following A rticle 110b is inserted: 
+ ‘Article 110b 
+ Evaluation 
+ 1. By [OP please insert the date = the first day of the month following 84 months after the date of entry into force of this Regulation], and every five years thereafter, the Commission shall evaluate the implementation of this Regulation. 
+ 2. The Commission shall forward the evaluation report together with its conclusions drawn on the basis of that report to the European Parliament, the Council and the Management Board. The findings of the evaluation shall be made public.’; 
+ (128) i n Article 111, paragraph 2 is replaced by the following: 
+ ‘2. Applications for registered EU designs may be filed at the Office from 1 April 2003.’; 
+ (129) the Annex as set out in Annex I to this Regulation is added . 
+ Article 2 
+ Regulation (EC) No 2246/2002 is repealed. 
+ References to the repealed Regulation shall be construed as references to Regulation (EC) No 6/2002 and shall be read in accordance with the correlation table set out in Annex II. 
+ Article 3 
+ This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . 
+ Article 1, points … and Article 2 shall apply from [OP: please insert the date = the first day of the month following 3 months after the date of entry into force of this Regulation] 
+ Article 1, points (18), (19), (22), (24), (26)(b), (28)(b), (31), (34), (36), (37)(b), (38), (39), (40), (43), (47), (49), (51), (53), (56), (58), (60), (61), (65), (67), (69), (71), (73), (75)(c), (76), (80), (85), (93)(b), (106), (108), and (121) shall apply from [OP please insert the date = the first day of the month following 18 months after the date of entry into force of this Regulation]. 
+ This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+ Done at Brussels, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The President 
+ (1) 
+ Proposal for a Directive of the European Parliament and of the Council amending Directive 98/71/EC on the legal protection of designs, COM(2004) 582 (final). 
+ (2) 
+ European Parliament legislative resolution of 12 December 2007 on the proposal for a directive of the European Parliament and of the Council amending Directive 98/71/EC on the legal protection of designs (COM(2004)0582-C6-0119/2004-2004/0203(COD)). 
+ (3) 
+ Communication from the Commission: Better regulation for better results - An EU agenda, COM(2015)215, European Commission, 19 May 2015, p. 4. 
+ (4) 
+ Council document 2020/C 379 I/01. 
+ (5) 
+ SWD(2020) 264 final. 
+ (6) 
+ COM(2020) 760 final. 
+ (7) 
+ Council document 2021/C 247/02. 
+ (8) 
+ Report on an intellectual property action plan to support the EU’s recovery and resilience, as adopted by the Legal Affairs Committee on 30 September 2021 (A9-0284/2021 ), para 32. 
+ (9) 
+ SWD(2020) 264 final. 
+ (10) 
+ https://ec.europa.eu/info/law/better-regulation/initiatives/ares-2018-3527248/public-consultation_en 
+ (11) 
+ https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12609-Intellectual-property-review-of-EU-rules-on-industrial-design-Design-Directive-/public-consultation_en 
+ (12) 
+ https://ec.europa.eu/growth/content/economic-review-industrial-design-europe-0_en 
+ (13) 
+ https://ec.europa.eu/growth/content/legal-review-industrial-design-protection-europe-0_en 
+ (14) 
+ Herz, B., & Mejer, M. (2020). 
+ The effect of design protection on price and price dispersion: Evidence from automotive spare parts 
+ . 
+ (15) 
+ Nikolic, Z. (September, 2021). Market structure of motor vehicle visible spare parts in the EU. Study commissioned to Wolk After Sales Experts GmbH. Available at 
+ https://op.europa.eu/s/sMA8 
+ (16) 
+ Add link to IA and Executive summary 
+ (17) 
+ Under the current system it is EUR 115 for each design from the second to the tenth design and EUR 50 for each design from the eleventh design onwards. 
+ (18) 
+ Under the current system it is EUR 90 for the first renewal, EUR 120 for the second, EUR 150 for the third and EUR 180 for the fourth period of renewal. 
+ (19) 
+ EUR 90 + EUR 120. 
+ (20) 
+ 2022 Commission Work Programme – key documents | European Commission (europa.eu) 
+ (21) 
+ Judgment in Joined Cases C-24/16 and C-25/16, Nintendo , ECLI:EU:C:2017:724. 
+ (22) 
+ Judgment in Joined Cases C-397/16 and C-435/16, Acacia, ECLI:EU:C:2017:992. 
+ (23) 
+ OJ C , , p. . 
+ (24) 
+ OJ C , , p. . 
+ (25) 
+ Council Regulation (EC) No 6/2002 of 12 December 2001 on Community designs (OJ L 3, 5.1.2002, p. 1). 
+ (26) 
+ Directive 98/71/EC of the European Parliament and of the Council of 13 October 1998 on the legal protection of designs (OJ L 289, 28.10.1998, p. 28). 
+ (27) 
+ Communication from the Commission: Better regulation for better results – An EU agenda, COM(2015) 215 final, p. 4. 
+ (28) 
+ Commission Staff Working Document Evaluation of EU legislation on design protection (SWD(2020) 2 64 final). 
+ (29) 
+ Council conclusions on intellectual property policy and the revision of the industrial designs system in the Union 2020/C 379 I/01 (OJ C 379I, 10.11.2020, p. 1). 
+ (30) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on Making the most of the EU’s innovative potential. An intellectual property action plan to support the EU’s recovery and resilience (COM/2020/760 final). 
+ (31) 
+ Regulation (EU) 2017/1001 of the European Parliament and of the Council of 14 June 2017 on the European Union trade mark (OJ L 154, 16.6.2017, p. 1). 
+ (32) 
+ Regulation (EU) No 608/2013 of the European Parliament and of the Council of 12 June 2013 concerning customs enforcement of intellectual property rights and repealing Council Regulation (EC) No 1383/2003 (OJ L 181, 29.6.2013, p. 15). 
+ (33) 
+ International Classification for Industrial Designs under the Locarno Agreement (Locarno Classification), 13 th Edition. 
+ (34) 
+ OJ L 123, 12.5.2016, p. 1. 
+ (35) 
+ Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13). 
+ (36) 
+ Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+EUROPEAN COMMISSION
+ Brussels, 28.11.2022
+ COM(2022) 666 final
+ ANNEXES
+ to the
+ Proposal for a Regulation of the European Parliament and of the Council 
+ amending Council Regulation (EC) No 6/2002 on Community designs and repealing Commission Regulation (EC) No 2246/2002 
+ {SEC(2022) 422 final} - {SWD(2022) 367 final} - {SWD(2022) 368 final} - {SWD(2022) 369 final}
+ ANNEX I 
+ ‘ANNEX 
+ Amounts of fees as referred to in Article -106aa(1) 
+ The fees to be paid to the Office under this Regulation shall be as follows (in EUR): 
+ 1. Application fee referred to in Article 36(4) : 
+ EUR 250. 
+ 2. Individual d esignation fee for an international registration referred to in Article 106c : 
+ EUR 62 per design. 
+ 3. Fee for deferme nt of publication referred to in Article 36(4) : 
+ EUR 40. 
+ 4. Additional application fee in respect of each additional design included in a multiple application referred to in Article 37(2) : 
+ EUR 125. 
+ 5. Additional fee for deferment of publication in respect of each additional design included in a multiple application that is subject to deferment of publication referred to in Article 37(2) : 
+ EUR 20. 
+ 6. Renewal fee referred to in Article 50 d (1) , (3) and (9) : 
+ (a) for the first period of renewal : EUR 70 per design ; 
+ (b) for the second period of renewal : EUR 140 per design ; 
+ (c) for the third period of renewal : EUR 280 per design ; 
+ (d) for the fourth period of renewal : EUR 560 per design . 
+ 7. Individual renewal fee for an international registration referred to in Article 106 c : 
+ (a) for the first period of renewal : EUR 62 per design ; 
+ (b) for the second period of renewal : EUR 62 per design ; 
+ (c) for the third period of renewal : EUR 62 per design ; 
+ (d) for the fourth period of renewal : EUR 62 per design . 
+ 8. Fee for late payment of the renewal fee referred to in Article 50 d (3) : 
+ 25% of the renewal fee. 
+ 9. Fee for the application for a declaration of invalidity referred to in Article 52(2) : 
+ EUR 320. 
+ 10. Fee fo r continuation of proceedings referred to in Article 67a (1) : 
+ EUR 400. 
+ 11. Fee for restitutio in integrum referred to in Article 67(3) : 
+ EUR 200. 
+ 12. Fee for the registration of a licence or another right in respect of a registered EU design referred to in Article 32a(1) and (2) or for the registration of a licence or another right in respect of an application for a n EU design referred to in Article 32a(1) and (2) and Article 34 : 
+ (a) for a grant of a licence : EUR 200 per design ; 
+ (b) for a transfer of a licence : EUR 200 per design ; 
+ (c) for a creation of a right in rem : EUR 200 per design ; 
+ (d) for a transfer of a right in rem : EUR 200 per design ; 
+ (e) for a levy of execution : EUR 200 per design ; 
+ up to a maximum of EUR 1000 where multiple requests are submitted in the same application for registration of a licence or another right or at the same time. 
+ 13. Fee for the alteration of a registered EU design referred to in Article 50 e ( 3 ) : 
+ EUR 200. 
+ 14. Fee for the issue of a copy of the application for a registered EU design referred to in Article 74a( 3 ) , for the issue of a copy of the certificate of registration referred to in Article 50b or for an extract from the R egister referred to in Article 72 (7) : 
+ (a) for an uncertified copy or extract : EUR 10 ; 
+ (b) for a certified copy or extract : EUR 30 . 
+ 15. Fee for the inspection of the files referred to in Article 74a(1 ) : 
+ EUR 30. 
+ 16. Fee for the issue of copies of file documents referred to in Article 74a(3) : 
+ (a) for an uncertified copy : EUR 10 + EUR 1 for each page exceeding 10 ; 
+ (b) for a certified copy : EUR 30 + EUR 1 for each page exceeding 10 . 
+ 17. Fee for the communication of information in a file referred to in Article 74b : 
+ EUR 10 + EUR 1 for each page exceeding 10. 
+ 18. Fee for review of the determination of the procedural costs to be refunded referred to in Article 70( 7 ) : 
+ EUR 100. 
+ 19. Appeal fee referred to in Article 68(1) of Regulation (E U ) 2017/ 1001 , which also applies to appeals under this Regulation pursuant to Article 55(2) : 
+ EUR 720.’ 
+ ANNEX II 
+ CORRELATION TABLE 
+ Regulation (EC) No 2246/2002 
+ Regulation (EC) No 6/2002 
+ Article 1 
+ -- 
+ Article 2 
+ Article -106aa(1) 
+ Article 3 
+ Article -106aa(1) 
+ Article 4 
+ Article -106aa(2) 
+ Article 5 
+ Article -106ab(1) 
+ Article 6 
+ Article -106ab(3) and (4) 
+ Article 7 
+ Article -106ac 
+ Article 8 
+ Article -106ad(1) and (2) 
+ Article 9 
+ Annex 
+ Article -106ad(3) and (4) 
+ Annex

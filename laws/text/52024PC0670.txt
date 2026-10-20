@@ -1,0 +1,1339 @@
+### Digitalisation of travel documents | CELEX 52024PC0670 | text version 52024PC0670 | role proposal
+EUROPEAN COMMISSION
+ Strasbourg, 8.10.2024
+ COM(2024) 670 final
+ 2024/0670(COD)
+ Proposal for a
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ establishing an application for the electronic submission of travel data (“EU Digital Travel application”) and amending Regulations (EU) 2016/399 and (EU) 2018/1726 of the European Parliament and of the Council and Council Regulation (EC) No 2252/2004, as regards the use of digital travel credentials
+ {SEC(2024) 670 final} - {SWD(2024) 670 final} - {SWD(2024) 671 final} - {SWD(2024) 672 final}
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ Uniform measures on border control at its external borders 
+ 1 
+ are an essential element in ensuring the proper functioning of the EU’s area without internal border controls (‘the Schengen area’) , as well as the internal security of the EU . 
+ The robust and efficient management of these external borders also bolsters the EU’s comprehensive asylum and migration policy, ensuring that third-country nationals are channelled to the appropriate processes, with full respect for their fundamental rights. 
+ Having in place systematic border checks and highly secure travel documents facilitates legitimate entry and stay for both EU citizens and third-country nationals, while guaranteeing that security is maintained through proper controls on identity, by checking both documents and databases to determine potential security risks. 
+ Since the entry into force of the Schengen Borders Code in 2006 
+ 2 
+ , great advances in standardising controls at its external border s have been made . However, with the emergence of new technologies and the large-scale IT systems used at these borders , as well as the significant increases in traveller flows, the environment in which border checks are carried out has changed remark ably . 
+ Since the entry into force of Regulation (EU) 2017/458 reinforc ing checks against relevant databases at the Schengen area’s external borders 
+ 3 
+ , EU citizens have also been subject to systematic checks when crossing the se external borders , resulting in longer waiting times, albeit increased security as demonstrated by the increase in hits against relevant databases . Third-country nationals have been subject to such checks on entry and exit since the entry into force of the Schengen Borders Code. 
+ Border checks comprise verification of people’s identity and nationality, the validity and authenticity of their travel documents a nd checks in relevant databases, in particular the Schengen Information System, Interpol’s Stolen and Lost Travel Documents (SLTD) database a nd certain national databases 
+ 4 
+ . 
+ For third-country nationals, it also includes a verification that the entry conditions are fulfilled and a n entry in the Entry/Exit System 
+ 5 
+ , expected to enter into operation in 2024 , is registered . These entry conditions pertain, among other things, to having a valid visa or travel authorisation, justifying the purpose of the visit and means of subsistence. 
+ In recent years, the number of people crossing the external borders have steadily increased to close to pre-pandemic levels. In 2019, 605 million such border crossings were recorded, while in 2020 the figure dropped to 186 million. In 2023 , a total of 593 million crossings were recorded. From these crossings, 65 % were at air borders, 31 % at land borders and the remaining 4% via sea borders 
+ 6 
+ . The fact that over half a billion passengers enter or leave the EU every year puts a strain on its external borders. High volumes of travellers are a challenge for the authorities responsible for carrying out checks at external borders, as well as for all travellers crossing those borders on a daily basis. 
+ Given the pressure on the verification processes at external borders 
+ 7 
+ , combined with varying rates of digital isation 
+ 8 
+ by Member States, new challenges are emerging . They include security risks and inefficient border management as well as obstacles to smooth travel across borders. 
+ The absence of (fully) digitalised processes, along with increasing traveller volumes, have resulted in longer waiting times at border-crossing points. Travellers are required to physically present their travel documents at all external border-crossing points into and out of the Schengen area, either to border authorities for manual verification or at e-gates. Even with the use of e-gates, a border authority official is required to supervise the process and make a decision on admission or refusal of entry (or refusal to leave). 
+ Carriers transporting passengers in and out of the EU territory and Schengen area also face difficulties and are impacted by high traveller volumes and the need for manual verification of traveller data. In addition to longer waiting times, processing times per passenger (verification of identity, inspection of travel document, consultation of databases etc.) have increased with the introduction of systematic and thorough checks that are nonetheless crucial for security. 
+ As border checks on both EU citizens and third-country nationals are carried out only once the traveller arrives at the physical border-crossing point and presents a physical travel document, authorities are unable to verify in advance whether the person concerned (with the exception of visa holders) has a valid and authentic travel document. In case of third-country nationals, border authorities are unable to verify in advance whether they fulfil the entry conditions. 
+ The 2021 Commission Communication on a Schengen Strategy 
+ 9 
+ put forward the European Commission’s plans towards further digitalising procedures at the external borders of the Schengen area, including an initiative on digitalising travel documents and facilitating travel. 
+ The aim is to contribute to a safer area of freedom, security and justice, a stronger common EU policy on external border management and facilitated travel for both EU citizens and third-country nationals who fulfil the entry conditions. More specifically, it is necessary to increase security in the Schengen area and the EU and allow for a smoother and faster border crossing for travellers. 
+ Therefore this proposal for a regulation aims at (i) establishing a uniform standard for digital travel credentials and a common EU application (EU Digital Travel application) for using them, (ii) allowing people to use digital travel credentials to cross external air, land and sea borders based on a uniform EU technical solution, and (iii) enabling border authorities to carry out checks based on these credentials, to reduce bottlenecks and time spent at border-crossing points. 
+ By introducing the possibility for travellers to have and submit a digital version of their travel document through an application for an advance check ahead of travel, they could pass through border control in a smoother fashion. 
+ Creating the possibility for border authorities to receive digital versions of travel documents in advance would allow them to carry out the checks in advance and thereby focus their resources on detecting cross-border crime and irregular migration more efficiently. The situation today is that w hile passenger volumes continue to increase and authorities are required to carry out all checks at the time of the actual border crossing, their capacity to manage resources, pre-screen (to focus on high-risk profiles ) and detect irregular migration and cross-border crimes (such as human trafficking or migrant smuggling ) is not fully optimised . Moreover, while border guards are required to verify the authenticity and integrity of chip data in travel documents 
+ 10 
+ , this step may be at times skipped, due to travel peaks and technical malfunctions 
+ 11 
+ . I n these cases , the border guards will rely more on a manual inspection of the document ’s physical security features 
+ 12 
+ . Physical security features are more susceptible to manipulation than the electronic data stored on the document’s chip , given that the data is protected by the issuing authority’s digital signature . 
+ It is important to address such risks in view of the fact that document fraud i s a key enabler for cross-border crime , which has an impact on the internal security of the EU. In 2023 alone, national authorities detected over 17 000 fraudsters either using or in possession of over 22 000 fraudulent documents 
+ 13 
+ . By advancing the verification of the authenticity and integrity of travel documents with the use of digital travel credentials, border authorities will have more time and resources to focus on risk profiles, detect fraudulent documents and prevent irregular migration and cross-border crime. 
+ While modern travel documents, including the ones issued by EU Member States and most third countries, are already equipped with a contactless chip and provide high security, the data in the chip cannot currently be sufficiently used for remote processing in the EU. 
+ The International Civil Aviation Organization (ICAO) already started work in 2016 on digitalis ing travel documents, with a view to facilitating air travel. This digital representation of the person’s identity that is derived from an existing travel document , referred to in the ICAO context as ‘digital travel credential’ ( DTC ) , is essentially a replica of the personal data (excluding fingerprints) held on the chip of a travel document, and it can be stored securely – for example on a mobile phone – either for a single interaction or multiple usage . The digital travel credential can be shared with other stakeholders , such as border authorities and carriers , through an interface (e.g. a mobile app) ahead of travel , including for pre-registering data, such as in the Entry/Exit System or for the purposes of collecting and transmitting advance passenger information . The first version of the ICAO DTC technical standard 
+ 14 
+ has already been finalised and piloted . 
+ O ngoing EU-funded pilot projects 
+ 15 
+ on the use of digital travel credentials based on the ICAO technical standard at the external borders have shown the indisputable added value of incorporating the use of digital travel credentials to cross-border travel. Authorities have more time to process individual travellers (before they even arrive) , while the waiting and processing times per traveller at the physical border-crossing point can be remarkably reduced 
+ 16 
+ due to the fact that most checks have been carried out in advance . 
+ Overall, the EU initiative on digitalising travel documents and facilitating travel offers the opportunity to improve the travel experience for individual travellers and increase security by enabling border authorities to carry out checks in advance and in a new way, based on digital data in travel documents submitted by travellers before they travel. This proposal moreover supports the implementation of the Entry/Exit System by enabling third-country nationals to pre-enrol their data remotely, as opposed to registering data once they arrive at the physical border crossing point. This will result in less waiting times at the physical border crossing points and allow additional time for border authorities to carry out the necessary checks. 
+ • Consistency with existing provisions in the policy area 
+ The introduction and implementation of digital travel credentials in the context of border checks is consistent with several major policy initiatives and recent developments in the field of the common EU policy on the external borders: 
+ · The recently adopted Regulation on d igital visa s 
+ 17 
+ : digital travel credentials could be used by visa applicants to pre-fill information in visa applications and by the competent authorities to verify ahead of travel that the person has a valid visa; 
+ · The European Travel Authorisation and Information System (ETIAS) 
+ 18 
+ : digital travel credentials could be used by the traveller to pre-fill information in travel authorisation applications and by the competent authorities to verify ahead of travel that the person has a valid travel document ; 
+ · The E ntry/Exit System (EES) 
+ 19 
+ : digital travel credentials can be used by the traveller to remotely pre-enr ol travel data needed for the EES , meaning less time spent at border-crossing points ; 
+ · Proposal for Regulations on advance passenger information (API) : air carriers will be required to collect travel document data for API purposes in an automated way , to ensure data accuracy. D igital travel credentials , among other types of verifiable digital credentials, can be used by carriers for this automated collection , resulting in accurate and reliable data . 
+ The added value of digital travel credentials for the purposes of EES and API, allowing for remote processing and increasing data accuracy, will materialise immediately with the adoption of this regulation. 
+ Finally, the proposal contributes to the further development of European integrated border management by introducing uniform standards for managing external borders more effectively and efficiently. 
+ • Consistency with other Union policies 
+ This proposal is accompanied by a Commission proposal for a Council Regulation on the issuance of and technical standards for digital travel credentials based on identity cards 
+ 20 
+ . The technical standard for digital travel credentials based on either a passport or EU identity card should be the same, to ensure they are interoperable and can be used for the purposes of crossing the external borders. 
+ This initiative responds to the global digitalisation trend as well as travellers’ evolving expectations for increasingly faster and more seamless procedures by achieving the key objectives of the Commission’s Digital Europe strategy of 2020 , which aim s to ensure the integrity and resilience of the EU’s data infrastructure and support the uptake of technology that will make a real difference to people’s daily lives. This initiative also supports the Digital Compass for the EU’s digital decade , which r evolves around four cardinal points, one of which is the digitalisation of public services ( with the specific objective of 80% of citizens using a digital identity by the end of 2030 
+ 21 
+ ) . In the European Declaration on European digital rights and principles 
+ 22 
+ , the Commission and the co-legislators committed to ensur ing that people living in the EU are offered the possibility to use an accessible, voluntary, secure and trusted digital identity. The proposed regulation lives up to this commitment. 
+ Finally, t he initiative and the implementation of digital travel credentials in the EU is closely linked with ongoing developments on the European digital identity and the European D igital I dentity W allet 
+ 23 
+ . Digital travel credentials could be stored alongside digital driving licences, medical prescriptions and other documents in the EU digital identity wallet , constituting an electronic attestation that can be used for purposes that go beyond travel, e.g. as a digital identity document for both remote and in-person transactions. 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ The proposal is based on Article 77(2)(b) and (d) of the Treaty on the Functioning of the European Union (TFEU). 
+ Article 77(2)(b) TFEU empowers the EU to develop measures concerning the checks to which persons crossing external borders are subject. Article 77(2)(d) TFEU empowers the EU to adopt measures for the gradual establishment of an integrated management system for external borders. 
+ These two provisions provide the appropriate legal basis for specifying the measures on the crossing of external borders and for developing the standards, also with regard to digital travel credentials, that are to be followed in the context of carrying out border checks. 
+ With regard to the question of the appropriate legal basis for amending the EU Passport Regulation 
+ 24 
+ , in Schwarz 
+ 25 
+ , the Court explicitly held that as checks at external borders require documents to be presented for the identification of persons, whether third-country nationals or EU citizens, the EU Passport Regulation was correctly adopted under Art icle 62(2)(a) of the T reaty on European Community, the predecessor of Article 77(2)(b) TFEU . 
+ • Subsidiarity (for non-exclusive competence) 
+ The current EU legal framework does not allow for the use of digital solutions for remotely verifying the authenticity and integrity of travel documents in border checks. Due to the nature of the problem, Member States themselves cannot effectively introduce a uniform format for digital travel credentials based on travel documents regulated at EU level and so facilitate cross-border mobility. 
+ EU action would add considerable value in addressing the challenges related to security and travel facilitation. The current situation affects security at the EU’s borders as well as the proper functioning of the external borders and overall Schengen area. While the external borders and the EU as a whole are placed under considerable strain, joint EU action would allow us to put in place uniform measures to improve integrated border management and reach a minimum level of digital maturity among all EU Member States. 
+ The necessary amendments of the relevant parts of the Schengen acquis (most notably the Schengen Borders Code and the EU Passport Regulation) are only possible at Union level. Moreover, for reasons of scale, effects and expected impacts, the objectives can only be achieved efficiently and effectively at EU level. 
+ • Proportionality 
+ According to the principle of proportionality laid down in Article 5(4) of the Treaty on European Union, there is a need to ensure the nature and intensity of a given measure matches the identified problem. The problems addressed in this initiative call for EU‑level legislative action to enable Member States to adequately tackle them. 
+ This proposal for a regulation envisages the introduction of digital travel credentials based on travel documents that travellers may use, if they so wish, for the purpose of undergoing border checks. Member States would be obliged to allow travellers to use digital travel credentials to cross borders once the EU-wide technical solution is ready to be deployed. Before such a date, Member States may develop national solutions for the use of digital travel credentials at their external borders. 
+ Therefore, this proposal for a regulation helps Member States address the problems associated with increasing traveller volumes, while ensuring high(er) levels of security, with added convenience for individual travellers. While the initiative requires regulatory and technical intervention, it is proportionate in terms of attaining the objectives and does not go beyond what is necessary. 
+ • Choice of the instrument 
+ The objectives of this initiative can only be achieved by a legislative act that will establish an EU-wide technical solution which is directly applicable without a need to transpose the measure into the national legal orders, and amend the existing provisions of the regulations on border checks and travel documents. 
+ Therefore, an act in the form of a regulation establishing a uniform EU application for submitting travel data and for amending the Schengen Borders Code, the EU Passport Regulation and eu-LISA Regulation is needed. 
+ 3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Ex-post evaluations/fitness checks of existing legislation 
+ N/A 
+ • Stakeholder consultations 
+ The preparation of this initiative involved a wide range of consultations of concerned stakeholders, including: 
+ · national Member States’ authorities (border authorities, travel document ‑ issuing authorities, policymakers) ; 
+ · EU agencies (such as the European Border and Coast Guard Agency (Frontex), the EU Agency for the Operational Management of Large-Scale IT systems in the Area of Freedom, Security and Justice (eu-LISA) and the EU Agency for Fundamental Rights (FRA)) ; 
+ · international organisations involved in international travel ; 
+ · industry and private citizens. 
+ A public consultation was organised as part of the impact assessment. A special Eurobarometer survey was also carried out to gain further insights into public perception in the EU of the use of digital travel credentials for cross-border travel. 
+ Most stakeholders expressed wide support for the initiative, underlining the expected benefits and convenience for both border authorities and travellers of enabling travellers to use digital travel credentials to cross external borders. 
+ The need for a uniform European approach to enabling travellers to use digital travel credentials to cross external borders was confirmed by the targeted consultation of national representatives carried out: 
+ · 96% believe d that a uniform approach across EU Member States is essential or very essential ; 
+ · 82% consider ed the fully integrated management of borders and facilitation tools within the EU (without overlapping legislations and processes related to border management bringing operational inefficiencies) to be essential or very essential. 
+ Despite the impact on national systems, 65% of Member States’ authorities surveyed answered that it should be mandatory to accept digital travel credentials, and 71% responded that it should be mandatory to enable the use of digital travel credentials for facilitated travel. 
+ 76% of the Member State authorities surveyed preferred having one single application at EU level for the submission of travel data to the border authorities. All respondents said it was very essential to ensure compliance with international (ICAO) standards on digital travel credentials. 
+ The public consultation attracted much interest, with close to 7 000 replies in total, predominantly from Germany, Austria and Slovakia (with respectively 58%, 8% and 8% of the replies). 
+ Opinions were largely negative about the use of digital travel credentials and their willingness to use digital travel credentials when crossing external borders. 
+ · 83% of respondents thought that the possibilities of using digital travel credentials were not important or not at all important, while 12% said they were either very important or important. 
+ · When asked whether digital travel credentials could facilitate the border check procedure, 72% answered negatively. 
+ · Similarly, 58% of respondents indicated that it would not be at all useful to be able to use digital travel credentials for other administrative procedures, with another 19% indicating that this would not be useful. 
+ · Only 12% of respondents would consider using a digital travel credential if it were available, while 6% said they would consider this under certain conditions. 
+ As motivations for the lack of interest in uptake, respondents highlighted primarily data protection and privacy concerns, as well as overall satisfaction with the current processes. 
+ The Commission also received a considerable number of replies to the public consultation by post, all in the form of a standard letter, on which only the address had to be added. The possibility of a targeted campaign could not be ruled out. 
+ The special Eurobarometer survey EBS 539 
+ 26 
+ covered 26 358 interviews in the 27 EU Member States and yielded different results . 
+ The survey explored EU citizens’ views and perceptions of travel policies related to travel facilitation, including the introduction and use of digital travel credentials . Two thirds (67%) of Europeans had a positive perception of digital travel credentials . By contrast, one quarter (26%) of Europeans had a negative opinion about them. 
+ Opinions were most positive among younger respondents, students, managers and other white-collar workers, frequent travellers and those who have a positive view of the EU in general. 
+ Perceptions were least positive among those who hold a negative view about the EU, who do not travel and those who left full-time education at the age of 15 or before. 
+ Nonetheless, 68% of Europeans were in favour of using digital travel credentials for travel outside the Schengen area, while 28% opposed their use for this. While support among older respondents was lower, still 54% of respondents aged 55 or over, and 50% of retirees, were in favour of using digital travel credentials for travel outside Schengen. 
+ From the various concerns mentioned, almost half (49%) of Europeans considered that software failures were the most important concern related to the use of digital travel credentials. Concerns about data protection, device problems and cyberattacks were also raised. 
+ The positive results of the Eurobarometer survey are interesting in view of the largely negative feedback collected in the public consultation, also taking into account the larger and more representative sample population. 
+ The feedback received in the various consultation activities have been taken into account in the preparation of this initiative, e.g., by maintaining the voluntary nature of the use of digital travel credentials (as opposed to making it mandatory for travellers), establishing a uniform technical standard for digital travel credentials (as opposed to leaving it up to each Member State), including both EU citizens and third-country nationals in the scope of the initiative and opting for a common EU technical solution for the submission of digital travel credentials (as opposed to each Member State developing their own) with high security standards. 
+ • Collection and use of expertise 
+ The Commission contracted an external consultant to conduct a study on the EU initiative on the digitalisation of travel documents and facilitation of travel, to develop options and assess their impacts. The study supported the preparation of the impact assessment report. During the study, stakeholder views and expertise were collected in the form of strategic interviews, targeted consultations, in-depth interviews and the public consultation. In addition, as mentioned above, a special Eurobarometer survey was carried out. 
+ Three Member States (Finland, Croatia and Netherlands) are also carrying out EU-funded pilot activities to test digital travel credentials for cross-border travel purposes. The experiences and results received so far have also been taken into account and reflected in the impact assessment and this proposal. 
+ • Impact assessment 
+ In line with its Better Regulation policy, the Commission conducted an impact assessment 
+ 27 
+ on which the Regulatory Scrutiny Board delivered a positive opinion on 15 December 2023 
+ 28 
+ . The impact assessment evaluated three policy options, each of which entailed legislative changes as they all required amendments to existing EU acquis , especially concerning travel documents and border checks. A “soft law” approach was therefore ruled out from the outset. 
+ Each policy option had certain common building blocks , including: 
+ · a transition period /time of voluntary implementation until the EU technical solution is ready ; 
+ · reliance on an existing international technical standard; 
+ · the voluntary nature of the use of digital travel credentials by travellers (as also confirmed by the public consultation) ; 
+ · a central EU technical solution for creatin g and submi tting digital travel credentials . 
+ The main difference between the three policy options related to the level of flexibility enjoyed by the Member States concerning: 
+ 1) the possibility for pe ople to have digital travel credentials (as some have explicitly restricted access to the chip data in travel documents to the authorities ) 
+ 2) allowing travellers to use digital travel credentials for cross-border travel. 
+ Policy option 1 
+ This would allow Member States to make digital travel credentials available to travellers, and to facilitate border checks on people with digital travel credentials . 
+ Policy option 2 
+ This would oblige Member States to make digital travel credentials available to travellers, and allow them to implement measures at border crossing points for using these credentials. 
+ Policy option 3 
+ This would oblige Member States to make digital travel credentials available to travellers and to implement measures at border crossing points for their use. It would remove legal obstacles to using digital travel document data for border check purposes and establish a uniform approach to their use across Member States. 
+ Based on the findings of the impact assessment report, the preferred option was eventually option 3 , following the time it takes to develop the central EU technical solution, during which Member States could ‘opt in’ as in option 2, namely by: 
+ a) enabling EU citizens and third - country nationals to derive their digital travel credentials from existing ICAO-compliant travel documents; 
+ b) allowing them to use digital travel credentials to cross external borders in th os e Member States that choose to implement digital travel credentials before the entry into operation of the central EU technical solution ; 
+ c) allowing them to use digital travel credentials to cross external borders in all Member States , once the EU -wide technical solution is ready. 
+ The preferred option has, overall, the most positive impact on supporting the objectives of: 
+ 1) increasing security in the Schengen area and the efficiency of managing its external border s 
+ 2) offering individual travellers a smoother border crossing. 
+ This is mainly due to the eventual ‘dual’ obligation on Member States to allow individuals to have digital travel credentials and to actually use them to cross borders, leading to the highest expected uptake of digital travel credentials out of all the policy options. It therefore most effectively enables the authorities to carry out advance checks and pre-clear travellers as well as giving every traveller (with a travel document containing a chip) the possibility to opt in. 
+ Standardising the digital travel credentials and its use for external border management across the Member States would also bring further benefits. It could increase efficiency for carriers on a voluntary basis, as they could integrate digital travel credentials into their current workflows. It also enables further use cases of digital travel credentials by EU citizens, by establishing an electronic attribute for the EU digital identity wallet that can be used for e.g. proving one’s identity within the EU or even abroad, if accepted by third countries. 
+ The preferred option has a limited burden on national authorities, which is offset by the expected positive impact of the measures. That consists of making border checks more effective and efficient, allowing also for a better use of resources at local level, allowing them e.g. to focus on risk analyses, patrolling and other tasks. The preferred option mostly consists of improving existing provisions rather than creating new obligations, especially by enabling “pre-arrival border checks” and “pre-cleared” passengers, before their arrival at the border-crossing point. The ultimate benefits depend on the uptake of digital travel credentials , with further information and scenario-based evaluations provided in the impact assessment report. 
+ The obligation to allow travellers to use digital travel credentials for external border crossings would create one burden in particular: building a technical integration solution that allows the digital travel credential to be processed in national border management systems. 
+ Due to the resemblance of the ICAO DTC standard to existing travel documents, integrating this standard should not be overwhelmingly complex or expensive. Member States involved in the digital travel credential pilot projects have estimated such an integration to cost between EUR 300 000 and 700 000 per country. In addition, server capacity may need to be increased, depending on the country and the exact border crossing points, which could cost up to EUR 250 000 per country. 
+ To account for changes in national setups, differences in technological maturity and capacities as well as allowing for reasonable overhead, it is estimated that an average of EUR 2 million per Member State is required to implement digital travel credentials at their external borders. 
+ The costs on EU institutions are limited to those incurred by eu-LISA for developing, operating and maintaining the central EU system for deriving a digital travel credential from an existing physical travel document and for submitting that digital travel credential (along with necessary travel data) to the responsible authority. eu-LISA has estimated the one-off costs for developing and operating such an application at EUR 55.6 million (by 2030) and an annual cost of EUR 6.2 million per year for its maintenance as of 2030. 
+ • Regulatory fitness and simplification 
+ As per the Commission’s Regulatory Fitness and Performance Programme (REFIT), all initiatives aimed at changing existing EU legislation should aim to simplify and deliver stated policy objectives more efficiently (i.e. by reducing unnecessary regulatory costs). While this proposal for a regulation has not been part of the REFIT scheme, it will reduce the overall administrative costs incurred by national authorities in carrying out border checks, as demonstrated by the impact assessment. 
+ There are no direct impacts for SMEs. Despite time savings for travellers, including business people, any indirect impact on SMEs, for whom these individuals might be travelling, is too remote to measure and negligible at best. 
+ • Fundamental rights 
+ This proposal positively affects the fundamental right to freedom of movement and residence under Article 45 of the EU Charter of Fundamental Rights by giving beneficiaries of the right to free movement the possibility to create a digital travel credential based on their physical passport, which will allow them to exercise their right more easily. 
+ The proposal has limited impact on the protection of other fundamental rights. 
+ With regard to the protection of personal data, border authorities already process personal data for all people crossing the external borders, as do the authorities responsible for issuing travel documents. The amount and categories of personal data, as currently processed in the areas of border control and document issuance under Union and national law, are not affected by this proposal. 
+ Only the time element (that is the time at which the data is processed) changes, since the border authorities would be able to carry out in advance most of the same checks that are currently carried out once the traveller arrives at the border-crossing point. If a traveller uses the EU Digital Travel application for the creation of their digital travel credential based on their existing physical travel document, a verification of their identity would be carried out automatically by the application in addition to the verification of identity at the physical border crossing point. 
+ On the other hand, data quality will improve, if travellers are able to use digital travel credentials for travel purposes, as opposed to manually self-declaring data, where errors may occur and which may ultimately lead to increased processing times, penalties or even refusal of entry. 
+ Despite the use of a central EU technical solution for the creation and submission of digital travel credentials based on EU passports or passports issued by third countries, the digital travel credential would not be centrally stored. The proposal does not envisage the creation of a new database. Once the digital travel credential is created/derived from an existing travel document, it would be stored on the holder’s mobile device. Data subjects therefore remain in control of their own data and choose if and when to use it. If the person chooses to use it for an advance check and facilitated travel, they can submit it, via the application developed and operated by eu-LISA, to the responsible authorities. 
+ Appropriate safeguards, such as encryption of personal data and cybersecurity measures, should be employed by eu-LISA and the national authorities to prevent data leaks and breaches and to protect against cyberattacks and software applications that run automated tasks. 
+ To use the digital travel credential, the submitted digital travel credential submitted by the user must be temporarily stored in a local database in the responsible Member State. This temporary database/gallery would be populated with the facial images that are contained in the submitted digital travel credentials. This is necessary to biometrically match the traveller to the submitted digital travel credential when they present themselves at the border-crossing point. 
+ This entails a one-to-few match, with a view to verifying the identity of the person, as opposed to the one-to-many biometric matching needed to identify an individual. Once the border check has been carried out, the data should be deleted from the temporary database – similar to what is currently done when reading chip data from physical travel documents during border checks. 
+ As the use of digital travel credentials would be voluntary for travellers, in addition to having the legal basis under both EU and national law for processing the personal data of travellers for border check purposes, travellers would actively consent to the processing of their data and the temporary storage of the digital travel credential in the local database. They can revoke their consent at any time without it affecting their right to cross-border travel. 
+ While EU travel documents as well as certain third country travel documents contain fingerprint data of the holder, fingerprints are excluded from the contents of digital travel credentials. This is in line with the ICAO DTC technical specification. 
+ In terms of impacts on fundamental rights other than the right to privacy and the protection of personal data, the proposal would not affect the protection of fundamental rights negatively. Due to the voluntary nature of using digital travel credentials, the principles of non-discrimination and inclusivity are respected. 
+ Any possible negative outcome associated with the use of digital travel credentials, e.g. leading to a refusal of entry, data breach or unlawful use, would be subject to the existing and applicable legal remedies under EU and national law. 
+ This proposal respects the fundamental rights and observes the principles set out in the EU Charter of Fundamental Rights. 
+ 4. BUDGETARY IMPLICATIONS 
+ This proposal would have an impact on the budget and staff needs of eu-LISA and mainly one-time costs for border authorities of Member States. 
+ For eu-LISA, it is estimated that an additional budget of approximately EUR 49.5 million (EUR 6 million under the current 7-year EU budget, the ‘multiannual financial framework’) and 20 full-time equivalent (FTE) staff members are needed to develop the ‘EU Digital Travel’ application and for eu-LISA to carry out its tasks in accordance with the eu-LISA Regulation and this proposal. 
+ These costs and FTEs cover all activities: preparatory activities, software and hardware acquisition, analysis and design, development and testing, data centre preparations, licence costs, operations and maintenance. 
+ For Member States, while it is not possible to accurately determine the costs associated with implementing this proposal, it is estimated that the one-off investment for each country amount to approximately EUR 2 million. This includes: 
+ · increasing server and storage capacity to temporarily store digital travel credentials submitted by travellers (EUR 250 000) ; 
+ · developing the secure connection to the Traveller Router , allowing integration into existing national border management systems (EUR 300 000 to 700 000) ; 
+ · upgrades or procurement of hardware to process digital travel credentials and to support facial recognition , and training of personnel (EUR 30 000). 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ The Commission will ensure that the necessary arrangements are in place to monitor the functioning of the measures proposed and evaluate them against the main policy objectives. Five years after the commencement of operations of the proposed regulation and the entry into operation of the ‘EU Digital Travel’ application to be developed and operated by eu-LISA, the Commission will submit a report to the European Parliament and the Council assessing the implementation of the regulation and its added value, including any direct or indirect impacts on relevant fundamental rights. 
+ Since it would be mandatory for the competent authorities to allow travellers to use digital travel credentials for cross-border travel once the common EU technical solution is operational, it will allow for a comprehensive view on the uptake of digital travel credentials by travellers, their added value in terms of increased security and easier travel as well as any potential drawbacks. 
+ Moreover, the collection of statistics by eu-LISA will provide the Commission with reliable data on the volumes of users, travel habits and other useful information to further develop the processes for the benefit of both travellers and Member States’ authorities. 
+ The ‘ Practical Handbook for Border Guards ’ 
+ 29 
+ should be updated to address the changes in the legal framework and provide relevant guidelines/recommendations to national authorities on implement ing digital travel credentials in the context of external border management. 
+ Finally, the implementation of the measures under this proposal, including data protection aspects, will be monitored and evaluated in the context of the Schengen evaluation and monitoring mechanism 
+ 30 
+ . 
+ • Detailed explanation of the specific provisions of the proposal 
+ Article 1 sets out the establishment of an application for the electronic submission of travel data (the ‘EU Digital Travel’ application), its subject matter and scope. 
+ Article 2 sets out the definitions for the purpose of this Regulation. 
+ Article 3 sets out the general structure of the EU Digital Travel application, including the purpose of each of its technical components. 
+ Article 4 provides the general rules on the creation and use of digital travel credentials within the EU Digital Travel application, including on the possibility to use previously created digital travel credentials that may be stored on the person’s EU digital identity wallet. 
+ Article 5 sets out the travel data that travellers can submit through the EU Digital Travel application to the border authority. Data, in addition to the digital travel credential, are needed to support the border check and pre-clearance. 
+ Article 6 sets out the rules on transmitting travel data to the responsible border authorities as well as the necessary arrangements concerning designation and notification by Member States of responsible authorities. 
+ Articles 7 establishes the rules on the processing of personal data and the roles of data controller and data processor for the purpose of processing personal data submitted through the EU Digital Travel application. 
+ Article 8 sets out the rules on the development, operation and maintenance of the EU Digital Travel application and the consequent obligations of eu-LISA. 
+ Article 9 establishes the obligations of the Member States in ensuring that they can receive data submitted through the EU Digital Travel application. 
+ Article 10 sets out an information campaign to inform the public about digital travel credentials and the use of the EU Digital Travel application. 
+ Article 11 establishes the rules on costs incurred by eu-LISA and the Member States in relation to their obligations under Articles 8 and 9 respectively. 
+ Article 12 contains provisions on amending Regulation (EC) No 2252/2004 to establish the technical standard for digital travel credentials and the possibility for applicants to request one. 
+ Article 13 contains provisions on amending Regulation (EU) 2016/399 concerning the carrying out of border checks as well as the further use of self-service systems and the EU Digital Travel application for those purposes. 
+ Article 14 sets out the amendments to Regulation (EU) 2018/1726 with regard to eu-LISA’s tasks in relation to the EU Digital Travel application. 
+ Articles 15 to 20 contain the final provisions of this Regulation, concerning the adoption of implementing acts, the monitoring and evaluation of this Regulation and its entry into force and application. 
+ 2024/0670 (COD) 
+ Proposal for a 
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ establishing an application for the electronic submission of travel data (“EU Digital Travel application”) and amending Regulations (EU) 2016/399 and (EU) 2018/1726 of the European Parliament and of the Council and Council Regulation (EC) No 2252/2004, as regards the use of digital travel credentials 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 77(2)(b) and (d) thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Acting in accordance with the ordinary legislative procedure, 
+ Whereas: 
+ (1) The carrying out of effective and efficient border checks at the external borders contributes to the proper functioning of the area without internal border controls ( ‘the Schengen area ’ ) and the internal security of the Union . The inclusion in travel documents issued by Member States of a storage medium (chip), with a facial image of the holder , by Council Regulation (EC) 2252/2004 
+ 31 
+ and Regulation (EU) 2019/1157 
+ 32 
+ , and the entry into force of Regulation (EC) No 562/2006 of the European Parliament and of the Council 
+ 33 
+ have significantly contributed to high security standards and robust external border management. Border checks carried out in accordance with Regulation (EU) 2016/399 of the European Parliament and of the Council 
+ 34 
+ , serve the purposes of reliably identifying travellers, preventing threats to the internal security, public policy, public health and international relations of Member States as well as combatting irregular migration while respect ing fundamental rights . 
+ (2) With the current reliance on physical travel documents and physical interactions for the examination of travel documents and the carrying out of border checks, Member States’ border authorities are unable to remotely verify the authenticity and integrity of travel documents and to carry out the relevant checks against databases before travellers arrive at the physical border crossing point , with the exception of air passengers for whom advance passenger information has been transmitted and processed . In light of increasing traveller flows across the external borders of the Schengen area as well as the entry into operation of the Entry/Exit System established by Regulation (EU) 2017/2226 of the European Parliament and of the Council 
+ 35 
+ that will require third-country nationals to whom it applies to provide additional data as part of border checks, it is essential to enable border authorities to use secure technical solutions to carry out relevant checks before travellers arrive at the border-crossing points. 
+ (3) The existing legal framework on travel documents and border checks, consisting notably of Regulation s (EC) No 2252/2004 , (EU) XXXX/XXXX 
+ 36 
+ [ COM(2024) 316 final ] and (EU) 2016/399, does not allow for the use of data contained in the storage medium of travel documents for the purpose of carrying out such advance border checks and pre-clearing travellers or using that data for other purposes. Following recent developments at international level, namely in the context of standardisation work carried out by the International Civil Aviation Organization (ICAO) , and on the capabilities and reliability of facial recognition, that technology is available and responds to the calls for facilitating cross-border travel while ensuring high levels of security in full respect of fundamental rights, including the right to privacy and the protection of personal data. 
+ (4) Therefore, the existing legal framework should be updated to ensure that both travellers and border authorities can benefit from more efficient and effective border checks using so-called digital travel credentials , that is, a digital representation of the person’s identity that is derived from the information stored in the storage medium ( chip ) of the travel document (i.e. passport or EU identity card) and that can be validated , leading ultimately to shorter waiting and processing times at border-crossing points and improving the authorities’ ability to pre-screen travellers, plan and manage resources and focus on higher risk travellers . 
+ (5) In order to achieve its objectives, this Regulation should cover persons enjoying the right of free movement under Union law as well as third-country nationals. 
+ (6) In the interest of achieving a uniform approach at Union level and maximising gains in travel facilitation and economies of scale , a common technical solution for the submission of electronic travel data should be established, as opposed to each Member State developing their own . This application for the electronic submission of travel data (‘the EU Digital Travel application ’) should consist of a user-friendly mobile application, a backend validation service that can verify the authenticity and integrity of travel documents and match the facial image of the user to the image stored on the travel document’s chip and a technical component for the secure communication of travel data from the application to the receiving authority (‘Traveller Router’) . In the longer term, t he EU Digital Travel application should be developed with new functionalities with a vie w to establishing a comprehensive one-stop shop application at Union level to support external border management . 
+ (7) The EU Digital Travel application should allow travellers to create a digital travel credential for single or multiple use and to retriev e of an already created digital travel credential . For reasons of security and for combatting identity fraud, the EU Digital Travel application backend validation service should be able to verify , before the creation of the digital travel credential , the authenticity and integrity of the travel document and verify that the user is the legitimate holder of the travel document by comparing the facial image stored on the chip of the travel document to the user’s live facial image. D igital travel credentials to be used several times should be able to be stored in the user’s European Digital Identity Wallet that complies with Regulation (EU) No 9 1 0/2014 of the European Parliament and of the Council 
+ 37 
+ . Persons not having a European Digital Identity Wallet established by that Regulation should be able to store the digital travel credential locally in the mobile application. 
+ (8) In order to support the carrying out of advance border check s o n persons enjoying the r ight of free movement under Union law when these apply to them and the pre-cl earance of third-country national s , travellers using digital travel credentials should also declare certain relevant travel data, such as the intended time of crossing the border and the Member State in which the external border is crossed . Such data should be limited to what is necessary for the purpose of carrying out the border check , including for the purposes of support ing the verification of the fulfilment of entry conditions . 
+ (9) The Traveller Router should transmit the travel data submitted by the traveller to the border authorit ies for the advance border check and pre-clearance . Consequently, Member States should be obliged to designate the border authorities authorised to receive such data. 
+ (10) The creation, submission and use of digital travel credentials for the purpose of carrying out border checks impacts the right to privacy and the protection of personal data . In order to fully respect the fundamental rights of travellers, adequate limits and safeguards should be in place. Any data that is submitted by travellers to border authorities ahead of travel, and in particular personal data, should be limited to what is necessary and proportionate to the objectives of increasing security, facilitating travel and ensuring the well-functioning of the Schengen area pursued by this Regulation. It should be guaranteed that the processing of data under this Regulation does not lead to any form of discrimination. No personal data should be stored at EU level beyond the stage that is necessary for its submission to the border authority . 
+ (11) T ravellers should be free to choose whether they use a digital travel credential or a physical travel document for the purpose of undergoing border checks and should be able to withdraw their consent for the processing of their personal data at any time without it affecting the eligibility to cross external borders . Any processing of personal data under this Regulation should be carried out in compliance with the provisions of R egulation (EU) 2016/679 of the European Parliament and of the Council 
+ 38 
+ and Regulation (EU) 2018/1725 of the European Parliament and of the Council 
+ 39 
+ , within their respective scope of application. 
+ (12) In the interest of ensuring compliance with the fundamental right to privacy and the protection of personal data and to promote legal clarity , the controller and processor should be identified . To ensure adequate safeguards and security, all communication between the Traveller Router and the competent authority should be protected by strong encryption methods so that any potential data breaches would not involve the disclosure of data that can be traced back to a person . Member States should also provide adequate training , covering data security and data protection aspects , to border authorities before they can process data transmitted through the EU Digital Travel application . 
+ (13) The European Agency for the O perational M anagement of L arge- S cale IT S ystems in the A rea of F reedom, S ecurity and J ustice (eu-LISA) established by Regulation (EU) 2018/1726 of the European Parliament and of the Council 
+ 40 
+ should be responsible for the development and maintenance of the EU Digital Travel application . Consequently, eu-LISA should put in place the necessary measures for the operational management of the EU Digital Travel application , including for the development , monitoring and reporting of the system. Before the star t of operation of the EU Digital Travel application , a test should be carried out in accordance with the technical specifications by eu-LISA in cooperation with the relevant authorities. eu-LISA should also collect statistics on the use of the EU Digital Travel application . 
+ (14) While eu-LISA should be responsible for the overall development , operation and maintenance of the EU Digital Travel application , including the Traveller Router that transmits the travel data to the competent authorities, each Member State should be responsible for ensuring , at national level, a secure connection in its national system in order to receive the travel data, including the development, operation and maintenance of that connection. Member States should also be responsible for the management and arrangements for access of duly authorised staff of border authorities to the travel data. 
+ (15) In order to increase public awareness of digital travel credentials and to promote the uptake of their use, the Commission should , together with eu-LISA , the European Border and Coast Guard Agency and national border authorities carry out information campaigns on the objectives, use and other important aspects, including on data protection and data security, of the EU Digital Travel application . 
+ (16) In view of the Union interests at stake, the costs incurred by eu-LISA for the performance of its tasks under this Regulation and Regulation (EU) 2018/1726 in respect of the development, operation, maintenance and overall management of the EU Digital Travel application should be borne by the Union budget. Member States should remain liable for the costs incurred at national level for developing, operating and maintaining the secure connection for the reception of the travel data transmitted via the Traveller Router. 
+ (17) eu-LISA should regularly report on the progress of the design and development of the EU Digital Travel application to the European Parliament and to the Council , including on costs, financial impacts and any possible technical problems and risks that may arise . A separate report should be submitted to the European Parliament and the Council once the development of the EU Digital Travel application is finalised. 
+ (18) As the EU Digital Travel application should be designed, developed, hosted and technically managed by eu-LISA, it is necessary to amend Regulation (EU) 2018/1726 by adding the necessary task s . 
+ (19) In order to establish the Union standard specification for digital travel credentials based on travel documents, it is necessary to amend Regulation (EC) No 2252/2004 . To boost the uptake of digital travel credentials , w hen applying for or renewing a travel document , applicants should be allowed to request that the competent authority issues , together with the physical document, a corresponding digital travel credential . Holders of valid travel documents should also be able to create a digital travel credential based on their existing physical travel document. The digital travel credentials should also be stor able in the European Digital Identity Wallet . 
+ (20) In order to ensure a consistent approach at international level and global interoperability of digital travel credentials , the updated legal framework should as far as possible be based on the relevant international standards and practices agreed upon in the framework of ICAO . 
+ (21) While the use of digital travel credentials should be voluntary for travellers, in order to achieve the objectives of increasing security throughout the Schengen area , of facilitating travel and of reaching a minimum level of digital maturity among all Member States in the area of border management, all Member States should be obliged to allow travellers to use digital travel credentials for the purpose of crossing external borders once the EU Digital Travel application is operational. Before that, Member States may develop national solutions for the use of digital travel credentials , in accordance with the uniform format, for the purpose of border checks. 
+ (22) To further speed up processes and reduce overall time spent at border-crossing points, third-country nationals subject to the Entry/Exit S ystem should be allowed to use the EU Digital Travel application for pre-enrolling certain data required for the border-crossing. For third-country nationals whose data are not yet recorded in the Entry/Exit system, as an alternative to being referred to a border guard for the physical verification of identity, Member States should be allowed to use effective and proportionate technical measures , including self-service systems and e-gates , for the verification of identity as long as physical verifications are performed at random and as long as the alternative verification is not based solely on the EU Digital Travel application . 
+ (23) The Commission should, five years after the start of operations of the EU Digital Travel application , carry out an evaluation of that application and its use and prepare a report , including recommendations , to be submitted to the European Parliament, the Council, the European Data Protection Supervisor and the European Union Agency for Fundamental Rights. The evaluation and report should consider how the objectives of this regulation have been met and how, if at all, fundamental rights have been impacted. 
+ (24) I n order to ensure uniform conditions for the implementation of this Regulation, as regards the technical standard for digital travel credentials , the technical architecture and technical specifications for the EU Digital Travel application and its testing , the collection of statistics as well as the start of operations of the EU Digital Travel application and how checks are done on travel documents and digital travel credentials , implementing powers should be conferred on the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council 
+ 41 
+ . 
+ (25) This Regulation should not affect the possibility to provide, under Union or national law, for the use of digital travel credentials for other purposes than the carrying out of border checks, provided that such national law complies with Union law. 
+ (26) Since the objectives of this Regulation, notably increasing security and facilitating travel in the context of external border management cannot be sufficiently achieved by the Member States , but can rather, by reason of their inherently cross-border nature, be better achieved at Union level , the Union may therefore adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on the European Union. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve those objectives. 
+ (27) In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, Denmark is not taking part in the adoption of this Regulation and is not bound by it or subject to its application. Given that this Regulation builds upon the Schengen acquis, Denmark shall, in accordance with Article 4 of that Protocol, decide within a period of six months after the Council has decided on this Regulation whether it will implement it in its national law. 
+ (28) This Regulation does not constitute a development of the provisions of the Schengen acquis in which Ireland take s part in accordance with Council Decision 200 2 / 192 /EC 
+ 42 
+ ; Ireland is therefore not taking part in the adoption of this Regulation and is not bound by it or subject to its application. 
+ (29) As regards Iceland and Norway, this Regulation constitutes a development of the provisions of the Schengen acquis within the meaning of the Agreement concluded by the Council of the European Union and the Republic of Iceland and the Kingdom of Norway concerning the latter’s association with the implementation , application and development of the Schengen acquis 
+ 43 
+ which fall within the area referred to in Article 1, point A of Council Decision 1999/437/EC 
+ 44 
+ . 
+ (30) As regards Switzerland, this Regulation constitutes a development of the provisions of the Schengen acquis within the meaning of the Agreement between the European Union, the European Community and the Swiss Confederation on the Swiss Confederation’s association with the implementation, application and development of the Schengen acquis 
+ 45 
+ which fall within the area referred to in Article 1, point A of Decision 1999/437/EC read in conjunction with Article 3 of Council Decision 2008/146/EC 
+ 46 
+ . 
+ (31) As regards Liechtenstein, this Regulation constitutes a development of the provisions of the Schengen acquis within the meaning of the Protocol between the European Union, the European Community, the Swiss Confederation and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the European Union, the European Community and the Swiss Confederation on the Swiss Confederation’s association with the implementation, application and development of the Schengen acquis 
+ 47 
+ which fall within the area referred to in Article 1, point A, of Decision 1999/437/EC read in conjunction with Article 3 of Council Decision 2011/350/EU 
+ 48 
+ . 
+ (32) As regards Cyprus, this Regulation constitutes an act building upon, or otherwise relating to, the Schengen acquis within the meaning of Article 3(1) of the 2003 Act of Accession. 
+ (33) The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 and delivered an opinion on [XX] 
+ 49 
+ , 
+ HAVE ADOPTED THIS REGULATION: 
+ Article 1 
+ Subject matter and scope 
+ 1. This Regulation establishes an application for the electronic submission of travel data (‘the EU Digital Travel application ’) for: 
+ (a) the creation of digital travel credentials as defined in Article 2 , point 31 of Regulation (EU) 2016/399; 
+ (b) the entry of self-declared travel data; 
+ (c) the secure submission of digital travel credentials and the self-declared travel data to the competent authority for the purposes of facilitating travel and of carrying out border checks on persons in accordance with Article 8 (2g) and (3), point (j) , of Regulation (EU) 2016/399. 
+ 2. This Regulation lays down the conditions under which the EU Digital Travel application shall be developed , operated and maintained. 
+ Article 2 
+ Definitions 
+ For the purposes of this Regulation, the following definitions apply: 
+ (a) ‘border checks’ means the checks as defined in Article 2, point (11) of Regulation (EU) 2016/399; 
+ (b) ‘persons enjoying the right of free movement under Union law’ means the persons as defined in Article 2, point (5) of Regulation (EU) 2016/399; 
+ (c) ‘third-country national’ means the persons as defined in Article 2, point (6) of Regulation (EU) 2016/399; 
+ (d) ‘ Traveller Router’ means the technical component referred to in Article 5. 
+ Article 3 
+ General structure of the EU Digital Travel application 
+ The EU Digital Travel application shall be composed of: 
+ (a) a mobile application, enabling the creation of digital travel credentials for single or multiple use and the entry of self-declared travel data; 
+ (b) a backend validation service, ensuring the confirmation of the authenticity and integrity of the chip data or the digital travel credential using available certificates and where applicable, the matching of the facial image taken from the user to the travel document or digital travel credential ; 
+ (c) a Traveller Router, which shall ensure secure and encrypted communication between the mobile application and the receiving authority. 
+ Article 4 
+ Creation and use of digital travel credentials 
+ 1. Persons enjoying the right of free movement under Union law who are in possession of a ny of the following travel documents may use the EU Digital Travel application to create a digital travel credential based on that travel document for single or multiple use: 
+ (a) a travel document issued in accordance with Regulation (EC) No 2252/2004 ; 
+ (b) an identity card issued in accordance with Regulation (EU) XXXX/XXXX [ COM(2024) 316 final ] ; 
+ (c) a travel document that contains the same data and that is based on technical specifications compatible with those provided for by Regulation (EC) No 2252/2004 and allowing for the verification of its authenticity, validity and integrity . 
+ 2. The EU Digital Travel application shall provide for the possibility to store a d igital travel credential for multiple use in the European Digital Identity Wallet , provisions for which are laid down in Regulation (EU) No 910/2014 . 
+ 3. The EU Digital Travel application shall be able to retrieve : 
+ (a) a digital travel credential previously issued or created in accordance with Article 1(1a) of Regulation (EC) No 2252/2004 or Article 2 of Regulation (EU) XXXX/XXXX 
+ 50 
+ [ COM(2024) 67 1 final ] ; 
+ (b) a digital travel credential that was created in accordance with paragraph 1 of this Article . 
+ 4. Third-country nationals who are in possession of a travel document containing a storage medium may, subject to the availability of valid certificates necessary for the checking of its authenticity, use the EU Digital Travel application to create a digital travel credential for single or multiple use. 
+ 5. Before the creation of a digital travel credential in accordance with paragraphs 1 and 4 , the EU Digital Travel application shall verify the integrity and authenticity of the storage medium of the travel document and mat c h the facial image of the person seeking to create the digital travel credential against the facial image stored on the storage medium . 
+ 6. The use of the EU Digital Travel application and the creation and use of digital travel credentials by persons enjoying the right of free movement under Union law and third-country nationals shall be voluntary and based on their consent . 
+ 7. Digital travel credentials created pursuant to this Article shall not include the fingerprints of the holder. 
+ Article 5 
+ Travel data to be submitted by travellers 
+ 1. The travel data shall consist of the following data relating to each traveller: 
+ (a) a digital travel credential as defined in Article 2 , point ( 31 ) , of Regulation (EU) 2016/399; 
+ (b) intended date and time of arrival or departure; 
+ (c) the Member State in which the external border is crossed; 
+ 2. T he travel data may also consist , where applicable, of the following information relating to each traveller: 
+ (a) flight identification number, cruise line registration number, ship identification number and vehicle registration number ; 
+ (b) documents justifying the purpose and conditions of the intended stay as required by Article 6 of Regulation (EU) 2016/399 . 
+ 3. Travel data in each case shall be limited to that which is necessary for the purpose of carrying out border checks in accordance with Regulation (EU) 2016/399. 
+ Article 6 
+ Transmission of travel data to the competent border authorities 
+ 1. The Traveller Router shall transmit the travel data submitted by the traveller to the competent border authority in accordance with the technical specifications adopted in accordance with Article 16 (1), point (a) . 
+ 2. Member States shall designate the competent border authorities authorised to receive the travel data transmitted to them from the Traveller Router in accordance with this Regulation. They shall notify, by [ the entry into operation of the EU Digital Travel application ] , eu-LISA of the name and contact details of the competent border authorities and shall, where necessary, update the notified information. 
+ Article 7 
+ Processing of personal data 
+ 1. The competent border authorities shall be data controllers, within the meaning of Article 4, point 7 , of Regulation (EU) 2016/679 in relation to the processing of travel data, constituting personal data, received through the Traveller Router. 
+ 2. Each Member State shall designate a competent authority as data controller and communicate those authorities to the Commission, eu-LISA and the other Member States. 
+ 3. eu-LISA shall be the data processor within the meaning of Article 3, point 12, of Regulation (EU) 2018/1725 for the processing of travel data constituting personal data in the mobile application and through the Traveller Router. eu-LISA shall be the data controller within the meaning of Article 3, point 9, of Regulation (EU) 2018/1725 for the processing of travel data through the backend validation service. 
+ 4. No personal data shall be stored on the backend validation service or the Traveller Router beyond what is necessary for the creation of the digital travel credential and transmission of the travel data to the competent border authorities. 
+ 5. Users of the EU Digital Travel application shall be able to revoke their consent to process their personal data on the EU Digital Travel application at any time. 
+ Article 8 
+ Establishment and operation of the EU Digital Travel application 
+ 1. eu-LISA shall develop the EU Digital Travel application and its components in accordance with the technical specifications adopted pursuant to Article 16 (1) , point (a) . 
+ 2. The Programme Management Board referred to in Article 54 of Regulation (EU) 2019/817 shall ensure the adequate management of the development phase of the EU Digital Travel application . The Programme Management Board shall meet regularly and submit written reports every month to eu-LISA’s Management Board on the progress of that phase . 
+ 3. eu-LISA shall ensure the operational management of the EU Digital Travel application as well as its adequate security. The EU Digital Travel application shall be hosted by eu-LISA. 
+ 4. eu-LISA shall ensure that the EU Digital Travel application is interoperable with the European Digital Identity Wallet established under Regulation (EU) No 910/2014 . 
+ 5. Where eu-LISA considers that the development of the EU Digital Travel application has been completed, it shall, without undue delay, conduct a test of the application in cooperation with the competent border authorities and other relevant Member States’ authorities, in accordance with the technical specifications adopted pursuant to Article 16(1) , point (c) , and inform the Commission of the outcome of that test. 
+ 6. eu-LISA shall collect statistics on the use of the EU Digital Travel application in accordance with Article 16(1) , point (b) . 
+ 7. eu-LISA shall perform tasks related to provision of training of the competent national authorities on the technical use of the EU Digital Travel application . 
+ Article 9 
+ Responsibilities of the Member States 
+ 1. Each Member State shall be responsible for: 
+ (a) ensuring a secure connection between its national system and the Traveller Router to receive data transmitted through the Traveller Router; 
+ (b) the development, operation and maintenance of the connection referred to in point (a); 
+ (c) the management of and arrangements for access of duly authorised staff of border authorities to the data received through the Traveller Router for the purpose of carrying out border checks in accordance with Regulation (EU) 2016/399. 
+ 2. Each Member State shall provide the staff of border authorities who have a right to access the data transmitted through the Traveller Router with appropriate training covering, in particular, data security and data protection rules and applicable fundamental rights before authorising them to process such data. 
+ Article 10 
+ Information campaign 
+ The Commission shall, in cooperation with eu-LISA, the European Border and Coast Guard Agency and national border authorities, support the start of operation of the EU Digital Travel application with an information campaign informing the public about the objectives, purposes, the main processing operations and other data protection and data security aspects and use cases of the EU Digital Travel application. 
+ Article 11 
+ Costs 
+ 1. Costs incurred by eu-LISA in relation to the development, operation, hosting and technical management of the EU Digital Travel application under this Regulation shall be borne by the general budget of the Union. 
+ 2. Costs incurred by Member States in relation to the development, operation and maintenance of their secure connections to receive data transmitted through the Traveller Router shall be borne by Member States. 
+ Article 12 
+ Amendments to Regulation (EC) No 2252/2004 
+ Regulation (EC) No 2252/2004 is amended as follows: 
+ (1) in Article 1 , the following paragraph is inserted : 
+ “1a. Upon request from the applicant, passports and travel documents issued by Member States to their own nationals shall be accompanied by a digital travel credential, which shall: 
+ (a) be based on the technical specifications adopted pursuant to Article 2, point (d); 
+ (b) be in a format that enables their storage in the European Digital Identity Wallets , provisions for which are laid down in Regulation (EU) No 910/2014 of the European Parliament and of the Council; 
+ (c) be free of charge; 
+ (d) contain the same personal data, including facial image, as the passport or travel document based on which they are issued or created. 
+ For the purpose of point (d), digital travel credentials issued or created pursuant to this Article shall not include the fingerprints of the holder. 
+ Member States shall enable the authentication and validation of the digital travel credentials in accordance with the technical specifications set out pursuant to Article 2, point (d). 
+ _____________ 
+ * Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73).”; 
+ (2) in Article 2 , the following point is added: 
+ “(d) technical specifications, including procedures and requirements for digital travel credentials, their data schema and format, issuance, disclosure process, authentication and validation, revocation, trust model and validity.”. 
+ (3) in Article 4, the following paragraph is added: 
+ “4. Member States shall allow relevant stakeholders, involved in the process of crossing the external borders, to access the storage medium in passports and travel documents, with the exception of fingerprints, with the consent of the person to whom the passport or travel document has been issued.” 
+ Article 13 
+ Amendments to Regulation (EU) 2016/399 
+ Regulation (EU) 2016/399 is amended as follows: 
+ (1) i n Article 2, the points 31 to 34 are added: 
+ “31. ‘digital travel credential’ means the digital representation of a person’s identity issued or created pursuant to Article 4 of Regulation (EU) XXXX/XXXX [ COM(2024) 670 final ]*, Article 1(1a) of Regulation (EC) No 2252/2004**, or Article 2 of Regulation (EU) XXXX/XXXX [ COM(2024) 671 final ]***; 
+ 32. ‘EU Digital Travel application’ means the system established by Regulation (EU) …/… [ COM(2024) 670 final ] of the European Parliament and of the Council; 
+ 33. ‘advance border check’ means the checks carried out on persons enjoying the right of free movement under Union law on the basis of a digital travel credential and other relevant data; 
+ 34. ‘advance clearance’ means the verification of the fulfilment of some or all entry conditions for third-country nationals on the basis of a digital travel credential and other relevant data and that support the carrying out of border checks. 
+ _______________ 
+ * Regulation (EU) …/… of … establishing an application for the electronic submission of travel data (“EU Digital Travel application”) and amending Regulations (EU) 2016/399 and (EU) 2018/1726 of the European Parliament and of the Council and Council Regulation (EC) No 2252/2004, as regards the use of digital travel credentials (OJ…), […], p. […], ELI: …). ]. 
+ ** Council Regulation (EC) No 2252/2004 of 13 December 2004 on standards for security features and biometrics in passports and travel documents issued by Member States (OJ L 385, 29.12.2004, p. 1). 
+ *** Council Regulation (EU) …./…. of … on the issuance of and technical standards for digital travel credentials based on identity cards (OJ L …], […], p. […], ELI:…).”; 
+ (2) Article 8 is amended as follows: 
+ (a) the following paragraph is added: 
+ “2g. The checks referred to in paragraph 2 of this Article shall be carried out in advance no more than 36 hours before the intended date and time of arrival or departure, as referred to in Article 5 of Regulation (EU) …/… [ COM(2024) 670 final ] , where data has been received in accordance with Article 8ba(1) of this Regulation. Where those checks are carried out in advance, the data received may be checked at the border crossing point against the data in the physical travel document or digital travel credential. The identity of the person concerned as well as the authenticity and integrity of the physical travel document or digital travel credential shall be verified. 
+ Before the start of operations of the EU Digital Travel application, as referred to in Article 15 of Regulation (EU) …/… [ COM(2024) 670 final ], the checks referred to in paragraph 2 of this Article may be carried out in advance no more than 36 hours before the intended date and time of arrival or departure, where data has been received in advance on the basis of the digital travel credential. Where those checks are carried out in advance, the data received may be checked at the border crossing point against the data in the physical travel document or digital travel credential. The identity of the person concerned as well as the authenticity and integrity of the physical travel document or digital travel credential shall be verified.”; 
+ (b) in para graph 3, the following point is added: 
+ “(j) where a digital travel credential has been received in advance, paragraph 3a of this Article shall apply.”; 
+ (c) the following paragraph is inserted : 
+ “3a. The fulfilment of entry conditions referred to in Article 6 of this Regulation shall be verified in advance no more than 36 hours before the intended date and time of arrival or departure, as referred to in Article 5 of Regulation (EU) …/… [ COM(2024) 670 final ] , where data has been received in accordance with Article 8ba(2) of this Regulation. Where those checks are carried out in advance, the data received may be checked at the border crossing point against the data in the physical travel document or digital travel credential. The identity of the person concerned as well as the authenticity and integrity of the physical travel document or digital travel credential shall be verified. 
+ Before the start of operations of the EU Digital Travel application, as referred to in Article 15 of Regulation (EU) …/… [ COM(2024) 670 final ] , the fulfilment of entry conditions referred to in Article 6 of this Regulation may be carried out in advance no more than 36 hours before the intended date and time of arrival or departure, where data has been received in advance on the basis of the digital travel credential. Where those checks are carried out in advance, the data received may be checked at the border crossing point against the data in the physical travel document or digital travel credential. The identity of the person concerned as well as the authenticity and integrity of the physical travel document or digital travel credential shall be verified.”; 
+ (d) the following paragraph is inserted: 
+ “10. The Commission shall adopt implementing acts to establish minimum standards with regard to technology, methods and procedures to be used for the verification of the authenticity and validity of travel documents, including residence permits, visas and long-stay visas, and digital travel credentials according to this Article. 
+ Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 38(2).”; 
+ (3) in Article 8a , the following paragraph is inserted : 
+ “4a. Alternatively to paragraph 4, point (b)(ii), the verification may be carried out: 
+ (a) using effective and proportionate technical measures and; 
+ (b) performing random verifications referred to in paragraph 4, point (b)(ii). 
+ This alternative verification shall not rely only on the EU Digital Travel application.”; 
+ (4) the following article is inserted: 
+ “Article 8ba 
+ Use of the EU Digital Travel application 
+ 1. Persons enjoying the right of free movement under Union law who are in possession of a digital travel credential may use the EU Digital Travel application for the purposes of advance border checks in accordance with Article 8(2g). 
+ 2. Third-country nationals, including those subject to registration in the EES, may use the EU Digital Travel application for the purposes of advance clearance in accordance with Article 8(3), point (j).” 
+ Article 14 
+ Amendments to Regulation (EU) 2018/1726 
+ Regulation (EU) 2018/1726 is amended as follows: 
+ (1) t he following article is inserted: 
+ “Article 8d 
+ Tasks relating to the EU Digital Travel application 
+ In relation to the EU Digital Travel application, the Agency shall perform: 
+ (a) the tasks conferred on it by Regulation (EU) …/… [ COM(2024) 670 final ] of the European Parliament and of the Council*; 
+ (b) tasks relating to training on the technical use of the EU Digital Travel application. 
+ ___________ 
+ * Regulation (EU) …/… of … establishing an application for the electronic submission of travel data (“EU Digital Travel application”) and amending Regulations (EU) 2016/399 and (EU) 2018/1726 of the European Parliament and of the Council and Council Regulation (EC) No 2252/2004, as regards the use of digital travel credentials (OJ…), […], p. […], ELI: …).”; 
+ (2) i n Article 14, paragraph 1 is replaced by the following: 
+ “1. The Agency shall monitor developments in research relevant for the operational management of SIS II, VIS, Eurodac, the EES, ETIAS, DubliNet, ECRIS-TCN, the e-CODEX system, the JITs collaboration platform, the EU Digital Travel application and other large-scale IT systems as referred to in Article 1(5).”; 
+ (3) in Article 19 , paragraph 1 is amended as follows: 
+ (a) point (ee) is replaced by the following: 
+ “(ee) adopt the reports on the development of the EES pursuant to Article 72(2) of Regulation (EU) 2017/2226, the reports on the development of ETIAS pursuant to Article 92(2) of Regulation (EU) 2018/1240, the reports on the development of ECRIS-TCN and of the ECRIS reference implementation pursuant to Article 36(3) of Regulation (EU) 2019/816 and the reports on the development of the EU Digital Travel application pursuant to Article 18 of Regulation (EU) …/…[ COM(2024) 670 final ] ;”; 
+ (b) in point (ff), the following point is inserted : 
+ “(x) the EU Digital Travel application pursuant to Article 18(1) of Regulation (EU) …/… [ COM(2024) 670 final ] ;”; 
+ (c) the following point is inserted: 
+ “(llb) compile and publish statistics related to the use of the EU Digital Travel application pursuant to Article 8(6) of Regulation (EU) …/… [ COM(2024) 670 final ];”; 
+ (4) in Article 22 (4), the following subparagraph is inserted after the seventh subparagraph : 
+ “The European Border and Coast Guard Agency may attend the meetings of the Management Board as an observer when a question concerning the EU Digital Travel application in relation with the application of Regulation (EU) 2016/399 is on the agenda.”; 
+ (5) in Article 24 (3), point (u) is replaced by the following: 
+ “(u) preparing the reports on the development of the EES referred to in Article 72(2) of Regulation (EC) No 2017/2226, on the development of ETIAS referred to in Article 92(2) of Regulation (EU) 2018/1240 and on the development of the EU Digital Travel application referred to in Article 18 of Regulation (EU) …/… [ COM(2024) 670 final ] and submitting them to the Management Board for adoption;”. 
+ FINAL PROVISIONS 
+ Article 15 
+ Start of operations of the EU Digital Travel application 
+ 1. The Commission shall determine the date from which the EU Digital Travel application starts operations by means of an implementing act once eu-LISA has informed the Commission of the successful completion of the test of the application referred to in Article 8( 5 ). 
+ 2. The Commission shall set the date referred to in the first paragraph to be no later than 30 days from the date of adoption of that implementing act. 
+ Article 16 
+ Implementing acts 
+ 1. The Commission shall , by means of implementing acts: 
+ (a) establish the technical architecture of the EU Digital Travel application and establish the technical specifications for the mobile application, backend services and Traveller Router; 
+ (b) establish the statistics to be collected by eu-LISA on the use of the EU Digital Travel application ; 
+ (c) establish the specifications for the test of the EU Digital Travel application before its start of operation; 
+ (d) determine the start of operations of the EU Digital Travel application by eu-LISA . 
+ 2. Th e implementing acts referred to in paragraph 1 shall be adopted in accordance with the examination procedure referred to in Article 1 7 (2). 
+ Article 17 
+ Committee procedure 
+ 1. The Commission shall be assisted by the committee established by Article 6 of Council Regulation (EC) No 1683/95. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011. 
+ 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. 
+ Article 18 
+ Monitoring and evaluation 
+ 1. eu-LISA shall ensure that procedures are in place to monitor the development of the EU Digital Travel application in light of the objectives relating to planning and costs and to monitor the functioning of the EU Digital Travel application in light of the objectives relating to the technical output, cost-effectiveness, security and quality of service. 
+ 2. By 1 January 2028 and every twelve months thereafter during the development phase, eu-LISA shall submit a report to the European Parliament and the Council on the state of play of the development of the EU Digital Travel application . 
+ 3. The report referred to in paragraph 2 shall include detailed information about the costs incurred and information as to any risks which may impact the overall costs of the EU Digital Travel application to be borne by the general budget of the Union. The report shall also include detailed information about the technical implementation of the project and any technical problems and risks that may impact the overall development and entry into operations of the EU Digital Travel application . 
+ 4. Once the development phase of the EU Digital Travel application is finalised, eu-LISA shall submit a report to the European Parliament and to the Council explaining how the objectives, in particular relating to planning and costs, were achieved and justifying any divergences. 
+ 5. By… [f ive years after the start of operations of the EU Digital Travel application ] , the Commission shall conduct an overall evaluation of the EU Digital Travel application and its use. The overall evaluation report established on this basis shall include an assessment of the application of this Regulation and an examination of results that have been achieved relative to the objectives that were set and of the impact on fundamental rights. The report shall also include an overall assessment of whether the underlying rationale for operating the EU Digital Travel application continues to hold, of the appropriateness of the technical features of the application, of the security of the application and of any implications for future operations. The evaluation shall include necessary recommendations. The Commission shall transmit the report to the European Parliament, the Council, the European Data Protection Supervisor and the European Union Agency for Fundamental Rights. 
+ Article 19 
+ Advisory group 
+ The responsibilities of eu-LISA’s Interoperability Advisory Group referred to in Article 75 of Regulation (EU) 2019/817 shall be extended to cover the EU Digital Travel application. The Advisory Group shall meet regularly until the start of operations of the EU Digital Travel application. It shall report after each meeting to the Programme Management Board. That Advisory Group shall provide eu-LISA with expertise related to the EU Digital Travel application in particular in the context of the preparation of its annual work programme and its annual activity report. It shall also provide the technical expertise to support the tasks of the Programme Management Board and shall follow up on the state of preparation in the Member States. 
+ Article 20 
+ Entry into force and application 
+ This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . 
+ However, Article 12(1) shall apply from [ twelve months after the entry into force of the implementing act referred to in Article 2, point (d) of Regulation (EC) No 2252/2004 ]. 
+ This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties. 
+ Done at Strasbourg, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The President 
+ (1) 
+ External borders throughout refers to the external borde r s of the Schengen area. 
+ (2) 
+ Regulation (EC) No 562/2006 of the European Parliament and of the Council of 15 March 2006 establishing a Community Code on the rules governing the movement of persons across borders (Schengen Borders Code) ( OJ L 105, 13.4.2006, p. 1 ) . 
+ (3) 
+ Regulation (EU) 2017/458 of the European Parliament and of the Council of 15 March 2017 amending Regulation (EU) 2016/399 as regards the reinforcement of checks against relevant databases at external borders ( OJ L 74, 18.3.2017, p. 1 ) . 
+ (4) 
+ Regulation (EU) 2016/399 of the European Parliament and of the Council of 9 March 2016 on a Union Code on the rules governing the movement of persons across borders (Schengen Borders Code) (OJ L 77, 23.3.2016, p. 1). 
+ (5) 
+ Regulation (EU) 2017/2226 of the European Parliament and of the Council of 30 November 2017 establishing an Entry/Exit System (EES) to register entry and exit data and refusal of entry data of third-country nationals crossing the external borders of the Member States and determining the conditions for access to the EES for law enforcement purposes, and amending the Convention implementing the Schengen Agreement and Regulations (EC) No 767/2008 and (EU) No 1077/2011 (OJ L 327, 9.12.2017, p. 20). 
+ (6) 
+ Statistics provided by the European Border and Coast Guard Agency (Frontex). 
+ (7) 
+ SWD(2022) 422 final, p. 3. 
+ (8) 
+ Digital Economy and Society Index (DESI): 
+ The Digital Economy and Society Index (DESI) | Shaping Europe’s digital future (europa.eu) 
+ . 
+ (9) 
+ Communication from the Commission to the European Parliament and the Council "A strategy towards a fully functioning and resilient Schengen area" (COM/2021/277 final). 
+ (10) 
+ Second subparagraph of Article 8(2), second subparagraph of Article 8(3)(a)(i) and second subparagraph of Article 8(3)(g)(i) of the Schengen Borders Code. 
+ (11) 
+ This has been observed in several recent Schengen evaluations. 
+ (12) 
+ Deficiencies have also been observed during Schengen evaluations in the physical inspection of travel documents in several Member States. This may be due to insufficient capacities , particularly during peak times, lack of training or lack of inspection equipment. 
+ (13) 
+ Based on data reported by the European Border and Coast Guard Agency in its document entitled European Union Document Fraud, Risk Analysis for 2023 . ‘ Fraudulent documents ’ is an umbrella term covering forged documents, counterfeit documents and authentic documents used by a person other than the rightful holder (impostor/lookalike fraud). 
+‘ Counterfeit documents ’ refer s to documents that were unlawfully produced from scratch to closely imitate an authentic document. 
+‘ Forged documents ’ refers to documents that were issued by a legitimate authority, but were unlawfully altered in some way, e.g. by changing the photo, pages or data or compromising entry/exit stamps. In addition to passports and identity cards, the figures include residence permits and visas . 
+ (14) 
+ Digital Travel Credentials (DTC), Virtual Component Data Structure and PKI Mechanisms, Technical report version 1.2, October 2020 . 
+ (15) 
+ Raja Rajavartiolaitos, “Finland and Croatia are testing digital travel credentials in external border traffic in a DTC Pilot project”, 03.02.2023, available online at : 
+ https://raja.fi/-/suomi-ja-kroatia-kokeilevat-digitaalisen-matkustusasiakirjan-kayttoa-ulkorajaliikenteessa-dtc-pilottiprojektissa?languageId=en_US 
+ ; Government of Netherlands, “Dutch participation in European DTC pilot ”, 27.10.2023, available online at 
+ https://www.government.nl/documents/publications/2023/02/23/dtc 
+ . 
+ (16) 
+ See the impact assessment report ( SWD(2024) 671 final ) for more details. 
+ (17) 
+ Regulation (EU) 2023/2667 of the European Parliament and of the Council of 22 November 2023 amending Regulations (EC) No 767/2008, (EC) No 810/2009 and (EU) 2017/2226 of the European Parliament and of the Council, Council Regulations (EC) No 693/2003 and (EC) No 694/2003 and Convention implementing the Schengen Agreement, as regards the digitalisation of the visa procedure ( OJ L, 2023/2667, 7.12.2023 ). 
+ (18) 
+ Regulation (EU) 2018/1240 of the European Parliament and of the Council of 12 September 2018 establishing a European Travel Information and Authorisation System (ETIAS) and amending Regulations (EU) No 1077/2011, (EU) No 515/2014, (EU) 2016/399, (EU) 2016/1624 and (EU) 2017/2226 (OJ L 236, 19.9.2018, p. 1). 
+ (19) 
+ Regulation (EU) 2017/2226 of the European Parliament and of the Council of 30 November 2017 establishing an Entry/Exit System (EES) to register entry and exit data and refusal of entry data of third-country nationals crossing the external borders of the Member States and determining the conditions for access to the EES for law enforcement purposes, and amending the Convention implementing the Schengen Agreement and Regulations (EC) No 767/2008 and (EU) No 1077/2011 (OJ L 327, 9.12.2017, p. 20). 
+ (20) 
+ Council Regulation (EU) XXXX/XXXX of XXX on the issuance of and technical standards for digital travel credentials based on identity cards (OJ L […], […], p. […], ELI: XXXX). 
+ (21) 
+ Europe’s Digital Decade: digital targets for 2030 | European Commission (europa.eu) 
+ . 
+ (22) 
+ OJ C 23, 23.1.2023, p. 1. 
+ (23) 
+ Regulation (EU) 2024/1183 of the European Parliament and of the Council of 11 April 2024 amending Regulation (EU) No 910/2014 as regards establishing the European Digital Identity Framework ( OJ L, 2024/1183, 30.4.2024 ). 
+ (24) 
+ Council Regulation (EC) No 2252/2004 of 13 December 2004 on standards for security features and biometrics in passports and travel documents issued by Member States ( OJ L 385, 29.12.2004, p. 1 ). 
+ (25) 
+ CJEU, judgment of 17.10.2013, C ase C-291/12 Michael Schwarz v Stadt Bochum . 
+ (26) 
+ Special E urobarometer survey 539, “Digitalisation of travel documents and facilitation of travel”, September 2023, available online: 
+ https://europa.eu/eurobarometer/surveys/detail/2967 
+ . 
+ (27) 
+ SWD (2024)671 final 
+ (28) 
+ SEC(2024) 670; Ares(2023)86 16773 
+ (29) 
+ Annex to the Commission Recommendation establishing a common "Practical Handbook for Border Guards (Schengen Handbook)" to be used by Member States' competent authorities when carrying out the border control of persons and replacing Recommendation (C (2019) 7131 final). 
+ (30) 
+ Council Regulation (EU) 2022/922 of 9 June 2022 on the establishment and operation of an evaluation and monitoring mechanism to verify the application of the Schengen acquis , and repealing Regulation (EU) No 1053/2013 (OJ L 160, 15.6.2022, p. 1). 
+ (31) 
+ Council Regulation (EC) No 2252/2004 of 13 December 2004 on standards for security features and biometrics in passports and travel documents issued by Member States ( OJ L 385, 29.12.2004, p. 1 ). 
+ (32) 
+ Regulation (EU) 2019/1157 of the European Parliament and of the Council of 20 June 2019 on strengthening the security of identity cards of Union citizens and of residence documents issued to Union citizens and their family members exercising their right of free movement (OJ L 188, 12.7.2019, p. 67, ELI: http://data.europa.eu/eli/reg/2019/1157/oj). 
+ (33) 
+ Regulation (EC) No 562/2006 of the European Parliament and of the Council of 15 March 2006 establishing a Community Code on the rules governing the movement of persons across borders (Schengen Borders Code) ( OJ L 105, 13.4.2006, p. 1 ). 
+ (34) 
+ Regulation (EU) 2016/399 of the European Parliament and of the Council of 9 March 2016 on a Union Code on the rules governing the movement of persons across borders (Schengen Borders Code) ( OJ L 77, 23.3.2016, p. 1 ). 
+ (35) 
+ Regulation (EU) 2017/2226 of the European Parliament and of the Council of 30 November 2017 establishing an Entry/Exit System (EES) to register entry and exit data and refusal of entry data of third-country nationals crossing the external borders of the Member States and determining the conditions for access to the EES for law enforcement purposes, and amending the Convention implementing the Schengen Agreement and Regulations (EC) No 767/2008 and (EU) No 1077/2011 (OJ L 327, 9.12.2017, p. 20 , ELI… ) 
+ (36) 
+ Council Regulation (EU) XXXX/XXXX of XXX on strengthening the security of identity cards of Union citizens and of residence documents issued to Union citizens and their family members exercising their right of free movement (OJ LXX, XXX, p. X, ELI XXX) 
+ (37) 
+ Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC ( OJ L 257, 28.8.2014, p. 73 ). 
+ (38) 
+ Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI: 
+ http://data.europa.eu/eli/reg/2016/679/oj 
+ ). 
+ (39) 
+ Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: 
+ http://data.europa.eu/eli/reg/2018/1725/oj 
+ ). 
+ (40) 
+ Regulation (EU) 2018/1726 of the European Parliament and of the Council of 14 November 2018 on the European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA), and amending Regulation (EC) No 1987/2006 and Council Decision 2007/533/JHA and repealing Regulation (EU) No 1077/2011 ( OJ L 295, 21.11.2018, p. 99 ). 
+ (41) 
+ Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers ( OJ L 55, 28.2.2011, p. 13 ). 
+ (42) 
+ Council Decision 2002/192/EC of 28 February 2002 concerning Ireland’s request to take part in some of the provisions of the Schengen acquis (OJ L 64, 7.3.2002, p. 20). 
+ (43) 
+ OJ L 176, 10.7.1999, p. 36 . 
+ (44) 
+ Council Decision 1999/437/EC of 17 May 1999 on certain arrangements for the application of the Agreement concluded by the Council of the European Union and the Republic of Iceland and the Kingdom of Norway concerning the association of those two States with the implementation, application and development of the Schengen acquis (OJ L 176, 10.7.1999, p. 31). 
+ (45) 
+ OJ L 53, 27.2.2008, p. 52. 
+ (46) 
+ Council Decision 2008/146/EC of 28 January 2008 on the conclusion, on behalf of the European Community, of the Agreement between the European Union, the European Community and the Swiss Confederation on the Swiss Confederation’s association with the implementation, application and development of the Schengen acquis (OJ L 53, 27.2.2008, p. 1). 
+ (47) 
+ OJ L 160, 18.6.2011, p. 21. 
+ (48) 
+ Council Decision 2011/350/EU of 7 March 2011 on the conclusion, on behalf of the European Union, of the Protocol between the European Union, the European Community, the Swiss Confederation and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the European Union, the European Community and the Swiss Confederation on the Swiss Confederation’s association with the implementation, application and development of the Schengen acquis , relating to the abolition of checks at internal borders and movement of persons (OJ L 160, 18.6.2011, p. 19). 
+ (49) 
+ [ OJ C …] 
+ (50) 
+ Council Regulation (EU) XXXX/XXXX of XXX on the issuance of and technical standards for digital travel credentials based on identity cards (OJ L […],[…], p. […], ELI: XXXX ).
+
+EUROPEAN COMMISSION
+ Strasbourg, 8.10.2024
+ COM(2024) 670 final
+ ANNEX
+ to the
+ Proposal for a
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ establishing an application for the electronic submission of travel data ("EU Digital Travel application") and amending Regulations (EU) 2016/399 and (EU) 2018/1726 of the European Parliament and of the Council and Council Regulation (EC) No 2252/2004, as regards the use of digital travel credentials
+ {SEC(2024) 670 final} - {SWD(2024) 670 final} - {SWD(2024) 671 final} - {SWD(2024) 672 final}
+ ANNEX 
+ LEGISLATIVE FINANCIAL STATEMENT 
+ 1. FRAMEWORK OF THE PROPOSAL/INITIATIVE 
+ 1.1. Title of the proposal/initiative 
+ 1.2. Policy area(s) concerned 
+ 1.3. The proposal/initiative relates to: 
+ 1.4. Objective(s) 
+ 1.4.1. General objective(s) 
+ 1.4.2. Specific objective(s) 
+ 1.4.3. Expected result(s) and impact 
+ 1.4.4. Indicators of performance 
+ 1.5. Grounds for the proposal/initiative 
+ 1.5.1. Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative 
+ 1.5.2. Added value of Union involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this point 'added value of Union involvement' is the value resulting from Union intervention, which is additional to the value that would have been otherwise created by Member States alone. 
+ 1.5.3. Lessons learned from similar experiences in the past 
+ 1.5.4. Compatibility with the Multiannual Financial Framework and possible synergies with other appropriate instruments 
+ 1.5.5. Assessment of the different available financing options, including scope for redeployment 
+ 1.6. Duration and financial impact of the proposal/initiative 
+ 1.7. Method(s) of budget implementation planned 
+ 2. MANAGEMENT MEASURES 
+ 2.1. Monitoring and reporting rules 
+ 2.2. Management and control system(s) 
+ 2.2.1. Justification of the management mode(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed 
+ 2.2.2. Information concerning the risks identified and the internal control system(s) set up to mitigate them 
+ 2.2.3. Estimation and justification of the cost-effectiveness of the controls (ratio of "control costs ÷ value of the related funds managed"), and assessment of the expected levels of risk of error (at payment & at closure) 
+ 2.3. Measures to prevent fraud and irregularities 
+ 3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE 
+ 3.1. Heading(s) of the multiannual financial framework and expenditure budget line(s) affected 
+ 3.2. Estimated financial impact of the proposal on appropriations 
+ 3.2.1. Summary of estimated impact on operational appropriations 
+ 3.2.2. Estimated output funded with operational appropriations 
+ 3.2.3. Summary of estimated impact on administrative appropriations 
+ 3.2.3.1. Estimated requirements of human resources 
+ 3.2.4. Compatibility with the current multiannual financial framework 
+ 3.2.5. Third-party contributions 
+ 3.3. Estimated impact on revenue 
+ 1. FRAMEWORK OF THE PROPOSAL/INITIATIVE 
+ 1.1. Title of the proposal/initiative 
+ Proposal for a Regulation of the European Parliament and of the Council establishing an application for the electronic submission of travel data (“EU Digital Travel application”) and amending Regulations (EU) 2016/399 and (EU) 2018/1726 of the European Parliament and of the Council and Council Regulation (EC) No 2252/2004, as regards the use of digital travel credentials 
+ 1.2. Policy area(s) concerned 
+ Home affairs 
+ 1.3. The proposal/initiative relates to: 
+ ☒ a new action 
+  a new action following a pilot project/preparatory action 
+ 1 
+  the extension of an existing action 
+  a merger or redirection of one or more actions towards another/a new action 
+ 1.4. Objective(s) 
+ 1.4.1. General objective(s) 
+ Enhance the effectiveness and efficiency of external border management, contributing to a safer area of freedom, security and justice and the well-functioning of the area without internal border controls (Schengen area). 
+ 1.4.2. Specific objective(s) 
+ Specific objectives: 
+ 1. To increase security in the Schengen area and the efficiency of external border management: 
+  Establish a uniform standard for digital travel credentials ( DTCs ) for the external borders in a coordinated way by all Member States, fostering the future interoperability and the opportunities for cooperation; 
+  Allow for the submission of a DTC by the traveller in a secure and timely manner ahead of his or her trip, increasing also the reliability of the data submitted to the border control authorities; 
+  Allow border control authorities to carry out advance checks against such data in order to reduce bottlenecks and time spent at the border crossing point; 
+  Reach a minimum level of digital maturity among all Member States in the area of border management; 
+ 2. To allow for a smoother and faster border crossing for travellers. 
+ 1.4.3. Expected result(s) and impact 
+ Specify the effects which the proposal/initiative should have on the beneficiaries/groups targeted. 
+ The crossing of external borders by all travellers, regardless of their nationality, is facilitated and sped up by more efficient border checks based on the advance checks based on the digital travel credentials submitted by travellers. The processes, third-country nationals subject to the Entry/Exit System, are also accelerated by allowing them to remotely pre-enrol data using digital travel credentials. 
+ eu-LISA will set up and operate the EU Digital Travel application as soon as possible from the date of adoption of the legislative proposal. 
+ Operators of ports of entry (e.g., airports and seaports) will benefit from shorter border crossing times. 
+ Carriers can indirectly benefit from the fact that travellers may have digital travel credentials, by integrating the possibility to use these credentials in their applications for purchasing tickets, check-in as well as for collecting advance passenger information in an automated and accurate manner. 
+ Border management authorities will benefit from being able to carry out advance border checks on persons based on digital travel credentials, which is currently not possible. Border authorities can verify, ahead of travel, the authenticity and integrity of travel documents and better plan and manage resources by pre-clearing travellers that use digital travel credentials. 
+ The EU as such and its citizens will indirectly and directly benefit from increased security as well as the better functioning of the area without internal border controls. 
+ 1.4.4. Indicators of performance 
+ Specify the indicators for monitoring progress and achievements. 
+ Specific objective No1 – establish a common technical standard and interface for the use of digital travel credentials 
+ - 
+ Successful adoption of the implementing acts laying down the technical specifications for digital travel credentials , the technical architecture of the EU Digital Travel application, the mobile application, backend services and Traveller Router, collection of statistics, the test of the Travel E urope application before its start of operation and the implementing act to determine the start of operation of the application 
+ - 
+ Start of operation of the EU Digital Travel application (target end of 2030 ) 
+ Specific objective No2 – allow travellers to create and submit digital travel credentials to border authorities and enable advance checks 
+ - 
+ Share of Member States connected to the Traveller Router by the date of entry into operation of the EU Digital Travel application (target 100%) 
+ - 
+ Number of national border authorities receiving information from the Traveller Router 
+ - 
+ Number of digital travel credentials created with the EU Digital Travel application (target: gradual increase from the entry into operation + 5 years) 
+ - 
+ Number of errors in the creation and submission of digital travel credentials based on ICAO-compliant 
+ 2 
+ travel documents (target 0% , if data has been filled in correctly ) 
+ - 
+ Number of digital travel credentials requested by EU citizens in conjunction with the application for physical travel documents (passports and identity cards) (target: to gradually increase from 0 to 25% of applicants from entry into force + 2 years) 
+ - 
+ Number of travellers using the EU Digital Travel application to submit their digital travel credentials ahead of travel 
+ - 
+ Ratio: number of travellers that use digital travel credentials for the purposes of crossing external borders vs number of travellers that use only their physical travel documents (target 30% 5 years after entry into operation of the EU Digital Travel application ) 
+ - 
+ Ratio: number of travellers pre-checked vs number of travellers that submitted their digital travel credentials (target 100%) 
+ - 
+ Share of fraudulent documents and hits detected during the advance checks against databases (target 100%) 
+ - 
+ Average time per border check at the physical border crossing point for travellers that have submitted their digital travel credential (target < 10 seconds per person) 
+ Specific objective No3 – facilitation of cross-border travel 
+ - 
+ Average waiting times for EU citizens at border crossing points (target: to gradually decrease from current waiting times after the entry into operation of the EU Digital Travel application – impossible to quantify as major difference in infrastructural setups exist) 
+ - 
+ Average waiting times for third-country nationals at border crossing points (target: to gradually decrease from current waiting times after the entry into operation of the EU Digital Travel application – impossible to quantify as major difference in infrastructural setups exist) 
+ - 
+ Average time it takes third-country nationals that have used digital travel credentials to pre-enrol data for the Entry/Exit System (target: to decrease by at least 20 seconds per person) 
+ - 
+ Average time it takes travellers that have submitted their digital travel credential s to undergo the check at the physical border crossing point (target: < 10 seconds per person). 
+ 1.5. Grounds for the proposal/initiative 
+ 1.5.1. Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative 
+ The initiative requires the development, followed by maintenance and operation of the EU Digital Travel application. 
+ In the design and development phase, eu-LISA will develop the technical components needed to operate the application. The exact timeline will depend on the adoption of the proposed regulation (and its exact content) and the delivery of the technical components, some of which may be linked with other ongoing development projects in eu-LISA. It is envisaged that the finalisation of other development projects within eu-LISA would free human resources that could be reassigned for the development of the EU Digital Travel application. 
+ Assumptions were made that the proposed regulation would be adopted by the end of 2025, allowing the start of preparations, including recruitment for certain profiles within 2026 and early 2027. eu-LISA envisages a three-year implementation period for the project due to the requirements definition process, complex stakeholders’ involvement as well as extensive external testing. 
+ The EU Digital Travel application should start operation by 2030. This is conditional on the successful carrying out of a test of the application. No separate transition period is provided for, and Member States should have developed the necessary technical components at national level to connect to the Traveller Router component of the EU Digital Travel application by the time the EU Digital Travel application starts operation. 
+ However, prior to the development of the EU Digital Travel application, Member States could opt-in and implement digital travel credentials (according to the provisions of the proposed regulation) under national projects. 
+ 1.5.2. Added value of Union involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this point 'added value of Union involvement' is the value resulting from Union intervention, which is additional to the value that would have been otherwise created by Member States alone. 
+ Reasons for action at European level (ex-ante) 
+ The Treaty on the Functioning of the European Union (TFEU) explicitly empowers the Union to develop a common policy on the checks to which persons crossing external borders are subject to and to adopt measures for the gradual establishment of an integrated management system for external borders. These are clear objectives to be pursued at EU level for ensuring the well-functioning of the external borders and of the area without internal border controls, to promote security in the Union and to combat illegal immigration. 
+ While the current EU legal framework does not allow the use of digital travel credentials for remotely verifying the authenticity and integrity of travel documents in border checks, Member States themselves cannot effectively introduce digital travel credentials in a uniform way for achieving the objectives. 
+ Therefore, this proposal would add considerable value in addressing the challenges related to security and travel facilitation that impact security throughout the Union and the proper functioning of the external borders. Joint action at EU level would put in place harmonised measures to establish digital travel credentials and enable their use in the context of border checks at external borders. 
+ Expected generated Union added value (ex-post) 
+ Border authorities should benefit from the introduction of digital travel credentials by enabling them to verify the authenticity and integrity of travel documents as well as consult the relevant databases before travellers arrive at the border crossing point more efficiently than today. This would allow for better management of resources and better detection of high-risk travellers and fraudulent documents, since several travellers would have been pre-cleared and quickly processed at the border crossing point. 
+ While the proposed regulation focuses on the use of digital travel credentials for crossing external borders, the introduction of a legal definition for digital travel credentials could also serve to benefit authorities responsible for processing visa and European Travel Information and Authorisation System (ETIAS) applications and enable them to verify the authenticity and integrity of travel documents (remotely) used by applicants. This also applies to immigration authorities that process residence permit applications submitted by third-country nationals in a third country. 
+ The proposed regulation would enable individual travellers (both EU citizens and third-country nationals) to use digital travel credentials for external border crossing purposes. This brings benefits in terms of less time spent at border crossing points and less hassle due to misspelled or incorrect manually declared data. Errors in self-declared data can lead to additional waiting time or even refusals of entry or a refusal to board a transport vehicle. 
+ As the initiative would establish a legal standard for digital travel credentials, its uses could be incorporated into national systems, particularly with the rollout of digital identity and the European Digital Identity Wallets. EU citizens could better leverage the chip data in their passport or identity card for secure identification in both online and physical transactions. 
+ The initiative will also benefit individuals, if carriers (e.g., airlines, coaches, trains and ships) integrate the processing of digital travel credentials into their booking and check-in systems. This could allow passengers to undergo certain checks – that are currently done physically at transport hubs, e.g., during check-in, baggage drop or boarding – fully remotely and save additional time with less hassle, too. 
+ Since the use of a digital travel credential would be voluntary and free of charge for individuals, no financial costs are envisaged. The only investment required from individuals would relate to the time it takes to derive a digital travel credential from the traveller’s existing passport or identity card, which could be done remotely. 
+ 1.5.3. Lessons learned from similar experiences in the past 
+ While this is the first time the EU (or any other entity) introduces digital travel credentials for border check purposes, some lessons have been learned from previous IT development projects and the ongoing pilot projects in three Member States on the use of digital travel credentials (see Annex 5 of the impact assessment for more details). 
+ In the context of developing other centralised EU systems (Visa Information System, Schengen Information System), it was noted that the implementation of the central component (the actual EU Digital Travel application with all its components) may suffer from cost overruns and delays due to changing requirements before the legal instruments setting out its purpose, scope, functions, and technical specifications are in place. Therefore, the preparatory design phase should not start until the respective technical specifications are adopted by the Commission. Furthermore, the best use of synergies and efficiency gains should be sought within staff profiles/areas of expertise, e.g., by building the Traveller Router on top of the Carrier Interface and API Router. 
+ While a clear impact of the proposed regulation on waiting times at the border is difficult to ascertain, the results from the ongoing EU pilot projects demonstrate that the processing time of pre-cleared DTC travellers (EU citizens) decreased significantly from between 30 and 90 seconds to less than 9 seconds per traveller. This impact is multiplied with the eventual uptake of DTCs, resulting in shorter queuing times even for those travellers that will not use the DTC themselves, but whose monetary value is at this point impossible to evaluate. 
+ Important questions also arose in the context of those pilot projects that need to be considered when drafting the implementing acts laying down the technical specifications for the EU Digital Travel application. These questions pertain to the security of storage of digital travel credentials, secure messaging, transmission protocol and the importance of developing the application in a modular way to allow additional functionalities and the transition from one technical standard to the next as global standards evolve in the future. 
+ 1.5.4. Compatibility with the Multiannual Financial Framework and possible synergies with other appropriate instruments 
+ The investments required at EU level during the current 2021-2027 multiannual financial framework (MFF) are limited to EUR 1.3 million. The bulk of the investments required at EU level (EUR 60.2 million) should therefore be financed from the next MFF. 
+ 1.5.5. Assessment of the different available financing options, including scope for redeployment 
+ The appropriations needed to finance the development of the EU Digital Travel application by eu-LISA (EUR 61.5 million) have not been planned under the 2021-2027 MFF allocations for eu-LISA, as this is a new proposal for which amounts were not known at the time when the 2021-2027 MFF was tabled. 
+ Therefore, it is proposed to ensure adequate financing of eu-LISA for the amounts needed in 2027 by reducing the corresponding thematic facilities of the Border Management and Visa Policy Instrument or by reallocating funds from other decentralised agencies. 
+ 1.6. Duration and financial impact of the proposal/initiative 
+  limited duration 
+ –  
+ in effect from [DD/MM]YYYY to [DD/MM]YYYY 
+ –  
+ Financial impact from YYYY to YYYY for commitment appropriations and from YYYY to YYYY for payment appropriations. 
+ ☒ unlimited duration 
+ – Implementation with a start-up period from YYYY to YYYY, 
+ – followed by full-scale operation. 
+ 1.7. Method(s) of budget implementation planned 
+ 3 
+  Direct management by the Commission 
+ –  by its departments, including by its staff in the Union delegations; 
+ –  
+ by the executive agencies 
+  Shared management with the Member States 
+ ☒ Indirect management by entrusting budget implementation tasks to: 
+ –  third countries or the bodies they have designated; 
+ –  international organisations and their agencies (to be specified); 
+ –  the EIB and the European Investment Fund; 
+ – ☒ bodies referred to in Articles 70 and 71 of the Financial Regulation; 
+ –  public law bodies; 
+ –  bodies governed by private law with a public service mission to the extent that they are provided with adequate financial guarantees; 
+ –  bodies governed by the private law of a Member State that are entrusted with the implementation of a public-private partnership and that are provided with adequate financial guarantees; 
+ –  bodies or persons entrusted with the implementation of specific actions in the CFSP pursuant to Title V of the TEU, and identified in the relevant basic act. 
+ – If more than one management mode is indicated, please provide details in the ‘Comments’ section. 
+ Comments 
+ The design and development phase of the EU Digital Travel application is expected to last between 2026 and 2030. The Travel Europe application should be operational by the end of 2030. 
+ 2. MANAGEMENT MEASURES 
+ 2.1. Monitoring and reporting rules 
+ Specify frequency and conditions. 
+ The monitoring and reporting of the proposal will follow the principles outlined in eu-LISA’s Regulation, the EU Financial Regulation and in line with the Common Approach on decentralised agencies. Notably, eu-LISA must each year submit to the Commission, the European Parliament and the Council a Single Programming Document containing multi-annual and annual work programmes and resources programming. This Document sets out the objectives, expected results and performance indicators to monitor the achievement of the objectives and the results. eu-LISA must also submit a Consolidated Annual Activity Report to the management board, which includes information on the achievement of the objectives and results set out in the Single Programming Document. The report is also sent to the Commission, the European Parliament and the Council. 
+ According to Article 39 of eu-LISA’s Regulation, every five years, the Commission shall, after consulting the management board, evaluate the performance of the Agency in relation to its objectives, mandate, locations and tasks. This evaluation also includes an examination of the implementation of this proposed regulation and the way and extent to which the Agency effectively contributes to the operational management of large-scale IT systems and to the establishment of a coordinated, cost-effective and coherent IT environment at Union level in the area of freedom, security and justice. That evaluation assesses the possible need to modify the mandate of the Agency and the financial implications of any such modification. The management board may issue recommendations regarding amendments to this regulation to the Commission. 
+ Finally, the proposed regulation would mandate eu-LISA to ensure it has the procedures in place to monitor the development of the EU Digital Travel application in light of the objectives relating to planning and costs and to monitor the functioning of the application. eu-LISA should, by 1 January 2028 and every twelve months thereafter during the design and development phase, submit a report to the European Parliament and to the Council on the state of play of the development of the application. This report should include detailed information about the costs incurred and information as to any risks which may impact the overall costs of the EU Digital Travel application as well as detailed information about the technical implementation of the project and any technical problems and risks that may impact the overall development and entry into operation of the application. 
+ 2.2. Management and control system(s) 
+ 2.2.1. Justification of the management mode(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed 
+ The development of the EU Digital Travel application will be implemented via eu-LISA budget, through indirect management. Pursuant to the principle of sound financial management, the budget of eu-LISA shall be implemented in compliance with effective and efficient internal control. The Agency is therefore bound to implement an appropriate control strategy coordinated among appropriate actors involved in the control chain. 
+ Regarding ex-post controls, eu-LISA as a decentralised agency, is subject to: 
+ - 
+ Internal audit by the Internal Audit Service of the Commission; 
+ - 
+ Annual reports by the European Court of Auditors, giving a statement of assurance as to the reliability of the annual counts and the legality and regularity of the underlying transactions; 
+ - 
+ Annual discharge granted by the European Parliament; 
+ - 
+ Possible investigations by the European Anti-Fraud Office ( OLAF ) to ensure that the resources allocated to agencies are put to proper use. 
+ As partner DG to eu-LISA, DG HOME will implement its Control Strategy on decentralised agencies to ensure reliable reporting in the framework of its Annual Activity Report. While decentralised agencies have full responsibility for the implementation of their budget, DG HOME is responsible for regular payment of annual contributions established by the EU Budgetary Authorities. 
+ The European Ombudsman provides a further layer of control and accountability over eu-LISA’s administrative actions. 
+ 2.2.2. Information concerning the risks identified and the internal control system(s) set up to mitigate them 
+ No risks have been identified at this stage. 
+ For the budget implemented by eu-LISA, a specific Internal Control Framework based on the Internal Control Framework of the European Commission is required. 
+ The Single Programming Document must provide information on the internal control systems, while the Consolidated Annual Activity Report (CAAR) must contain information on the efficiency and effectiveness of the internal control systems, including as regards risk assessment. The CAAR 2021 reports that, the management of the Agency was reasonably confident that, overall, suitable controls are in place and that they are functioning as intended. Additionally, risks were being monitored and mitigated appropriately, and various improvements and reinforcements are implemented as necessary. 
+ Another level of internal supervision is also provided by eu-LISA’s Internal Audit Capability, on the basis of an annual audit plan notably taking into consideration the assessment of risks in eu-LISA. The Internal Audit Capability helps eu-LISA in accomplishing its objectives by bringing a systematic and disciplined approach to evaluate the effectiveness of risk management, control, and governance processes, and by issuing recommendations for their improvement. 
+ Moreover, the European Data Protection Supervisor and eu-LISA’s data protection officer (an independent function attached directly to the Management Board Secretariat) supervise eu-LISA’s processing of personal data. 
+ Finally, as partner DG of eu-LISA, DG HOME runs an annual risk management exercise to identify and assess potential high risks related to agencies’ operations, including eu-LISA. Risks considered as critical are reported annually in DG HOME management plan and are accompanied by an action plan stating the mitigating actions envisaged. 
+ 2.2.3. Estimation and justification of the cost-effectiveness of the controls (ratio of "control costs ÷ value of the related funds managed"), and assessment of the expected levels of risk of error (at payment & at closure) 
+ The ratio of “control costs/value of the related funds managed” is reported on by the Commission. The 2021 AAR of DG HOME reports 0.08% for this ratio in relation to indirect management entrusted entities and decentralised agencies, including eu-LISA. 
+ 2.3. Measures to prevent fraud and irregularities 
+ Specify existing or envisaged prevention and protection measures, e.g. from the Anti-Fraud Strategy. 
+ DG HOME will apply its Anti-Fraud Strategy in line with the Commission’s Anti-Fraud Strategy (CAFS) in order to ensure that its internal anti-fraud related controls are fully aligned with the CAFS and that its fraud risk management approach is geared to identify fraud risk areas and adequate responses. 
+ The measures related to combating fraud, corruption and any other illegal activities are outlined in Article 50 of eu-LISA’s Regulation and under Title X of eu-LISA’s Financial Regulation. 
+ The Agency shall notably participate in fraud prevention activities of OLAF and inform the Commission without delay on cases of presumed fraud and other financial irregularities – in line with its internal anti-fraud strategy covering the period 2022-2024. 
+ As partner DG, in October 2021, DG HOME adopted a new Anti-Fraud Strategy, together with an accompanying Action Plan, which further strengthens the DG’s anti-fraud capacities and adapts them to a constantly evolving environment. It takes into account the novelties introduced by the 2019 Commission Anti-Fraud Strategy and the adjustments required by the MFF 2021-2027. 
+ Decentralised agencies, including eu-LISA, fall within the scope of this strategy. DG HOME 2021 AAR concluded that the fraud prevention and detection processes worked satisfactorily and therefore contributed to the assurance on the achievement of the internal control objectives. 
+ 3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE 
+ 3.1. Heading(s) of the multiannual financial framework and expenditure budget line(s) affected 
+ · Existing budget lines 
+ In order of multiannual financial framework headings and budget lines. 
+ Heading of multiannual financial framework 
+ Budget line 
+ Type of 
+ expenditure 
+ Contribution 
+ Number 
+ Diff./Non-diff. 
+ 4 
+ from EFTA countries 
+ 5 
+ from candidate countries and potential candidates 
+ 6 
+ from other third countries 
+ other assigned revenue 
+ 4 
+ 11 10 02 European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (‘eu-LISA’) 
+ Non-diff. 
+ NO 
+ NO 
+ NO 
+ NO 
+ · New budget lines requested 
+ In order of multiannual financial framework headings and budget lines. 
+ Heading of multiannual financial framework 
+ Budget line 
+ Type of 
+ expenditure 
+ Contribution 
+ Number 
+ Diff./Non-diff. 
+ from EFTA countries 
+ from candidate countries and potential candidates 
+ from other third countries 
+ other assigned revenue 
+ [XX.YY.YY.YY] 
+ YES/NO 
+ YES/NO 
+ YES/NO 
+ YES/NO 
+ 3.2. Estimated financial impact of the proposal on appropriations 
+ 3.2.1. Summary of estimated impact on operational appropriations 
+ –  
+ The proposal/initiative does not require the use of operational appropriations 
+ –  
+ The proposal/initiative requires the use of operational appropriations, as explained below: 
+ EUR million (to three decimal places) 
+ Heading of multiannual financial 
+ framework 
+ 4 
+ Migration and border management 
+ EU-LISA 
+ Indicative budgetary implications* 
+ Year 
+ 2027 
+ Year 
+ 2028 
+ Year 
+ 2029 
+ Year 
+ 2030 
+ Year 
+ 2031 
+ TOTAL 28-31 
+ □ Operational appropriations 
+ Title 1 Staff expenditure 
+ Commitments 
+ (1a) 
+ 0.178 
+ 1.383 
+ 2.481 
+ 2.600 
+ 2.647 
+ 9.288 
+ Payments 
+ (2a) 
+ 0.178 
+ 1.383 
+ 2.481 
+ 2.600 
+ 2.647 
+ 9.288 
+ Title 2 Infrastructure and operating expenditure 
+ Commitments 
+ (1a) 
+ Payments 
+ (2a) 
+ Title 3 Operational expenditure 
+ Commitments 
+ (1b) 
+ 0.550 
+ 5.517 
+ 25.492 
+ 11.133 
+ 6.803 
+ 49.494 
+ Payments 
+ (2b) 
+ 0.550 
+ 5.517 
+ 25.492 
+ 11.133 
+ 6.803 
+ 49.494 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 7 
+ TOTAL appropriations 
+ for eu -LISA 
+ Commitments 
+ =1a+1b +3 
+ 0.728 
+ 6.900 
+ 27.972 
+ 13.732 
+ 9.450 
+ 58.782 
+ Payments 
+ =2a+2b 
+ +3 
+ 0.728 
+ 6.900 
+ 27.972 
+ 13.732 
+ 9.450 
+ 58.782 
+ □ TOTAL operational appropriations 
+ Commitments 
+ (4) 
+ 0.728 
+ 6.900 
+ 27.972 
+ 13.732 
+ 9.450 
+ 58.782 
+ Payments 
+ (5) 
+ 0.728 
+ 6.900 
+ 27.972 
+ 13.732 
+ 9.450 
+ 58.782 
+ □ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes 
+ (6) 
+ TOTAL appropriations 
+ under HEADIN G 4 
+of the multiannual financial framework 
+ Commitments 
+ =4+ 6 
+ 0.728 
+ 6.900 
+ 27.972 
+ 13.732 
+ 9.450 
+ 58.782 
+ Payments 
+ =5+ 6 
+ 0.728 
+ 6.900 
+ 27.972 
+ 13.732 
+ 9.450 
+ 58.782 
+ The estimated impact on expenditure and staffing for the years 2028 and beyond in this legislative financial statement is added for illustrative purposes only and does not pre-judge the next multi-annual financial framework. 
+ The additional funding needs will be covered by reducing the amounts available in the BMVI Thematic Facilities, safeguarding the limited margins available under the MFF for future policy initiatives or emergencies including situations of migratory pressure. 
+ EUR million (to three decimal places) 
+ Heading of multiannual financial 
+ framework 
+ 7 
+ Administrative expenditure 
+ DG HOME 
+ Year 
+ 2027 
+ Year 
+ 2028 
+ Year 
+ 2029 
+ Year 
+ 2030 
+ Year 
+ 2031 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ TOTAL 
+ Human resources 
+ Commitments 
+ (1a) 
+ 0.534 
+ 0.534 
+ 0.534 
+ 0.534 
+ 0.534 
+ 2.670 
+ Payments 
+ (2a) 
+ 0.534 
+ 0.534 
+ 0.534 
+ 0.534 
+ 0.534 
+ 2.670 
+ Other administrative expenditure 
+ Commitments 
+ (1a) 
+ Payments 
+ (2a) 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 8 
+ TOTAL appropriations 
+ for DG HOME 
+ Commitments = payments 
+ =1a+1b +3 
+ 0.534 
+ 0.534 
+ 0.534 
+ 0.534 
+ 0.534 
+ 2.670 
+ The estimated impact on expenditure and staffing for the years 2028 and beyond in this legislative financial statement is added for illustrative purposes only and does not pre-judge the next multi-annual financial framework. 
+ TOTAL appropriations 
+ under HEADIN G 7 
+of the multiannual financial framework 
+ Total commitments = total payments 
+ =4+ 6 
+ 0.534 
+ 0.534 
+ 0.534 
+ 0.534 
+ 0.534 
+ 2.670 
+ TOTAL appropriations 
+ under HEADINGS 1 to 7 
+of the multiannual financial framework 
+ 9 
+ Commitments 
+ =4+ 6 
+ 1.262 
+ 7.434 
+ 28.506 
+ 14.266 
+ 9.984 
+ 61.452 
+ Payments 
+ =5+ 6 
+ 1.262 
+ 7.434 
+ 28.506 
+ 14.266 
+ 9.984 
+ 61.452 
+ The estimated impact on expenditure and staffing for the years 2028 and beyond in this legislative financial statement is added for illustrative purposes only and does not pre-judge the next multi-annual financial framework. 
+ 3.2.2. Estimated output funded with operational appropriations 
+ Commitment appropriations in EUR million (to three decimal places) 
+ Indicate objectives and outputs 
+  
+ Year 
+ 2027 
+ Year 
+ 2028 
+ Year 
+ 2029 
+ Year 
+ 2030 
+ Year 
+ 2030 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ TOTAL 
+ OUTPUTS 
+ Type 
+ 10 
+ Average cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ Total No 
+ Total cost 
+ SPECIFIC OBJECTIVE No 1 development of the EU Digital Travel application 
+ - Output 
+ Hardware, software, analysis, design, development, testing, data centre preparation, MS training activities 
+ 0.550 
+ 3.412 
+ 16.644 
+ 4.200 
+ 1.250 
+ 26.056 
+ - Output 
+ Operational costs, Ddos + Global DNS, SW licences, maintenance and support (corrective and adaptive) 
+ - 
+ 2.105 
+ 8.848 
+ 6.933 
+ 5.553 
+ 23.438 
+ Subtotal for specific objective No 1 
+ TOTALS 
+ 0.550 
+ 5.517 
+ 25.492 
+ 11.133 
+ 6.803 
+ 49.494 
+ The estimated impact on expenditure and staffing for the years 2028 and beyond in this legislative financial statement is added for illustrative purposes only and does not pre-judge the next multi-annual financial framework. 
+ 3.2.3. Summary of estimated impact on eu-LISA’s human resources 
+ –  
+ The proposal/initiative does not require the use of appropriations of an administrative nature 
+ –  
+ The proposal/initiative requires the use of appropriations of an administrative nature, as explained below: 
+ Year 
+ 2027 
+ Year 
+ 2028 
+ Year 
+ 2029 
+ Year 
+ 2030 
+ Year 
+ 2031 
+ Posts (FTE) 
+ Temporary agents (AD) 
+ 2.0 
+ 9.0 
+ 9.0 
+ 9.0 
+ 9.0 
+ Contract agents (FGIV) 
+ 8.5 
+ 10-0 
+ 11.0 
+ 11.0 
+ Total 
+ 2.0 
+ 17.5 
+ 19.0 
+ 20.0 
+ 20.0 
+ Calculation of salary costs (EUR million) 
+ Total 
+ Temporary agents (AD) 
+ 0.178 
+ 0.979 
+ 1.602 
+ 1.602 
+ 1.602 
+ 5.963 
+ Contract agents (FGIV) 
+ 0.404 
+ 0.879 
+ 0.998 
+ 1.045 
+ 3.325 
+ Total 
+ 0.178 
+ 1.383 
+ 2.481 
+ 2.600 
+ 2.647 
+ 9.288 
+ The appropriations required for human resources and other expenditure of an administrative nature will be met by appropriations from the Agency that are already assigned to management of the action and/or have been redeployed within the Agency, together if necessary with any additional allocation which may be granted to the managing Agency under the annual allocation procedure and in the light of budgetary constraints. 
+ The estimated impact on expenditure and staffing for the years 2028 and beyond in this legislative financial statement is added for illustrative purposes only and does not pre-judge the next multi-annual financial framework. 
+ 3.2.3.1. Estimated requirements of human resources in DG HOME 
+ –  
+ The proposal/initiative does not require the use of human resources. 
+ –  
+ The proposal/initiative requires the use of human resources, as explained below: 
+ Estimate to be expressed in full time equivalent units 
+ Year 
+ 2027 
+ Year 
+ 2028 
+ Year 2029 
+ Year 2030 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ □ Establishment plan posts (officials and temporary staff) 
+ 20 01 02 01 (Headquarters and Commission’s Representation Offices) 
+ 3 
+ 3 
+ 3 
+ 3 
+ 20 01 02 03 (Delegations) 
+ 01 01 01 01 (Indirect research) 
+ 01 01 01 11 (Direct research) 
+ Other budget lines (specify) 
+ □ External staff (in Full Time Equivalent unit: FTE) 
+ 11 
+ 20 02 01 (AC, END, INT from the ‘global envelope’) 
+ 20 02 03 (AC, AL, END, INT and JPD in the delegations) 
+ XX 01 xx yy zz 
+ 12 
+ - at Headquarters 
+ - in Delegations 
+ 01 01 01 02 (AC, END, INT - Indirect research) 
+ 01 01 01 12 (AC, END, INT - Direct research) 
+ Other budget lines (specify) 
+ TOTAL 
+ 3 
+ 3 
+ 3 
+ 3 
+ XX is the policy area or budget title concerned. 
+ The human resources required will be met by staff from the DG who are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints. 
+ The estimated impact on expenditure and staffing for the years 2028 and beyond in this legislative financial statement is added for illustrative purposes only and does not pre-judge the next multi-annual financial framework. 
+ Description of tasks to be carried out: 
+ Officials and temporary staff 
+ Three AD officials are needed for the follow-up of the proposal. The staff members will check compliance with the legislative proposal, address any potential issues with compliance, prepare reports to the European Parliament and the Council, assess Member States’ progress with the development of the national system to receive data submitted via the EU Digital Travel application, keep secondary legislation up to date, including by developing the standards and adopting implementing acts. As the initiative is an additional activity compared with existing workloads, additional staff is needed (3 FTE). 
+ External staff 
+ 3.2.4. Compatibility with the current multiannual financial framework 
+ The proposal/initiative: 
+ –  
+ can be fully financed through redeployment within the relevant heading of the Multiannual Financial Framework (MFF). 
+ The appropriations required for the development of the EU Digital Travel application by eu-LISA and recurring costs as from 2031 have neither been planned under the eu-LISA 2021-2027 MFF allocation, nor for DG HOME supplementary staff. The funding required for the development and maintenance of the EU Digital Travel application during the current MFF (EUR 6 million) may be made available via budgetary offsetting against BMVI (11.02.01 – Border management and visa instrument) or reallocation of other decentralised agencies budgets within DG HOME’s scope. 
+ –  
+ requires use of the unallocated margin under the relevant heading of the MFF and/or use of the special instruments as defined in the MFF Regulation. 
+ –  
+ requires a revision of the MFF. 
+ 3.2.5. Third-party contributions 
+ The proposal/initiative: 
+ –  
+ does not provide for co-financing by third parties 
+ –  
+ provides for the co-financing by third parties estimated below: 
+ Appropriations in EUR million (to three decimal places) 
+ Year 
+ N 
+ 13 
+ Year 
+ N+1 
+ Year 
+ N+2 
+ Year 
+ N+3 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ Total 
+ Specify the co-financing body 
+ TOTAL appropriations co-financed 
+ 3.3. Estimated impact on revenue 
+ –  
+ The proposal/initiative has no financial impact on revenue. 
+ –  
+ The proposal/initiative has the following financial impact: 
+ –  
+ on own resources 
+ –  
+ on other revenue 
+ – please indicate, if the revenue is assigned to expenditure lines  
+ EUR million (to three decimal places) 
+ Budget revenue line: 
+ Appropriations available for the current financial year 
+ Impact of the proposal/initiative 
+ 14 
+ Year 
+ N 
+ Year 
+ N+1 
+ Year 
+ N+2 
+ Year 
+ N+3 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ Article …………. 
+ For assigned revenue, specify the budget expenditure line(s) affected. 
+ The budget shall include a contribution from countries associated with the implementation, application and development of the Schengen acquis as laid down in the respective agreements in force. The estimates shall be based on calculations for revenues for the implementation of the Schengen acquis from the States that currently contribute (Iceland, Norway and Switzerland) to the general budget of the European Union (consumed payments) an annual sum for the relevant financial year, calculated in accordance with its gross domestic product as a percentage of the gross domestic product of all the participating States. The calculation shall be based on figures from EUROSTAT which are subject to considerable variation depending on the economic situation of the participating States. 
+ (1) 
+ As referred to in Article 58(2)(a) or (b) of the Financial Regulation. 
+ (2) 
+ Meaning compliant with an existing international technical standard developed by the International Civil Aviation Organization (ICAO). 
+ (3) 
+ Details of budget implementation methods and references to the Financial Regulation may be found on the BUDGpedia site: 
+ https://myintracomm.ec.europa.eu/corp/budget/financial-rules/budget-implementation/Pages/implementation-methods.aspx 
+ (4) 
+ Diff. = Differentiated appropriations / Non-diff. = Non-differentiated appropriations. 
+ (5) 
+ EFTA: European Free Trade Association 
+ (6) 
+ Candidate countries and, where applicable, potential candidates from the Western Balkans. 
+ (7) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (8) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (9) 
+ The resources for eu-L ISA will be aligned to the outcome of the negotiations on the MFF mid-term review. The estimated impact on expenditure and staffing for 2028 and beyond in this legislative financial statement is added for illustrative purposes only and does not pre-judge the next MFF. The new human resources will not be offset. 
+ (10) 
+ Outputs are products and services to be supplied (e.g.: number of student exchanges financed, number of km of roads built, etc.). 
+ (11) 
+ AC= Contract Staff; AL = Local Staff; END= Seconded National Expert; INT = agency staff; JPD= Junior Professionals in Delegations. 
+ (12) 
+ Sub-ceiling for external staff covered by operational appropriations (former ‘BA’ lines). 
+ (13) 
+ Year N is the year in which implementation of the proposal/initiative starts. Please replace "N" by the expected first year of implementation (for instance: 2021). The same for the following years. 
+ (14) 
+ As regards traditional own resources (customs duties, sugar levies), the amounts indicated must be net amounts, i.e. gross amounts after deduction of 20 % for collection costs.

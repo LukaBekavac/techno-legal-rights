@@ -1,0 +1,148 @@
+### Satellite and Cable I Directive | CELEX 31993L0083 | text version 01993L0083-20190606 | role in_force
+01993L0083 — EN — 06.06.2019 — 001.001
+ This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document
+ ►B 
+ COUNCIL DIRECTIVE 93/83/EEC
+ of 27 September 1993
+ on the coordination of certain rules concerning copyright and rights related to copyright applicable to satellite broadcasting and cable retransmission 
+ (OJ L 248 6.10.1993, p. 15)
+ Amended by:
+ Official Journal
+ No
+ page
+ date
+ ►M1 
+ DIRECTIVE (EU) 2019/789 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 17 April 2019
+ L 130
+ 82
+ 17.5.2019
+ ▼B 
+ COUNCIL DIRECTIVE 93/83/EEC
+ of 27 September 1993
+ on the coordination of certain rules concerning copyright and rights related to copyright applicable to satellite broadcasting and cable retransmission
+ CHAPTER I
+ DEFINITIONS 
+ Article 1
+ Definitions
+ 1. 
+ For the purpose of this Directive, ‘satellite’ means any satellilte operating on frequency bands which, under telecommunications law, are reserved for the broadcast of signals for reception by the public or which are reserved for closed, point-to-point communication. In the latter case, however, the circumstances in which individual reception of the signals takes place must be comparable to those which apply in the first case.
+ 2. 
+ (a) 
+ For the purpose of this Directive, ‘communication to the public by satellite’ means the act of introducing, under the control and responsibility of the broadcasting organization, the programme-carrying signals intended for reception by the public into an uninterrupted chain of communication leading to the satellite and down towards the earth.
+ (b) 
+ The act of communication to the public by satellite occurs solely in the Member State where, under the control and responsibility of the broadcasting organization, the programme-carrying signals are introduced into an uninterrupted chain of communication leading to the satellite and down towards the earth.
+ (c) 
+ If the programme-carrying signals are encrypted, then there is communication to the public by satellite on condition that the means for decrypting the broadcast are provided to the public by the broadcasting organization or with its consent.
+ (d) 
+ Where an act of communication to the public by satellite occurs in a non-Community State which does not provide the level of protection provided for under Chapter II,
+ (i) 
+ if the programme-carrying signals are transmitted to the satellite from an uplink situation situated in a Member State, that act of communication to the public by satellite shall be deemed to have occurred in that Member State and the rights provided for under Chapter II shall be exercisable against the person operating the uplink station; or
+ (ii) 
+ if there is no use of an uplink station situated in a Member State but a broadcasting organization established in a Member State has commissioned the act of communication to the public by satellite, that act shall be deemed to have occured in the Member State in which the broadcasting organization has its principal establishment in the Community arid the rights provided for under Chapter II shall be exercisable against the broadcasting organization.
+ ▼M1 
+ 3. 
+ For the purposes of this Directive, ‘cable retransmission’ means the simultaneous, unaltered and unabridged retransmission by a cable or microwave system for reception by the public of an initial transmission from another Member State, by wire or over the air, including that by satellite, of television or radio programmes intended for reception by the public, regardless of how the operator of a cable retransmission service obtains the programme-carrying signals from the broadcasting organisation for the purpose of retransmission.
+ ▼B 
+ 4. 
+ For the purposes of this Directive ‘collecting society’ means any organization which manages or administers copyright or rights related to copyright as its sole purpose or as one of its main purposes.
+ 5. 
+ For the purposes of this Directive, the principal director of a cinematographic or audiovisual work shall be considered as its author or one of its authors. Member States may provide for others to be considered as its co-authors.
+ CHAPTER II
+ BROADCASTING OF PROGRAMMES BY SATELLITE 
+ Article 2
+ Broadcasting right
+ Member States shall provide an exclusive right for the author to authorize the communication to the public by satellite of copyright works, subject to the provisions set out in this chapter.
+ Article 3
+ Acquisition of broadcasting rights
+ 1. 
+ Member States shall ensure that the authorization referred to in Article 2 may be acquired only be agreement.
+ 2. 
+ A Member State may provide that a collective agreement between a collecting society and a broadcasting organization concerning a given category of works may be extended to rightholders of the same category who are not represented by the collecting society, provided that:
+ — 
+ the communication to the public by satellite simulcasts a terrestrial broadcast by the same broadcaster,
+ and
+ — 
+ the unrepresented rightholder shall, at any time, have the possibility of excluding the extension of the collective agreement to his works and of exercising his rights either individually or collectively.
+ 3. 
+ Paragraph 2 shall not apply to cinematographic works, including works created by a process analogous to cinematography.
+ 4. 
+ Where the law of a Member State provides for the extension of a collective agreement in accordance with the provisions of paragraph 2, that Member States shall inform the Commission which broadcasting organizations are entitled to avail themselves of that law. The Commission shall publish this information in the Official Journal of the European Communities (C series).
+ Article 4
+ Rights of performers, phonogram producers and broadcasting organizations
+ 1. 
+ For the purposes of communication to the public by satellite, the rights of performers, phonogram producers and broadcasting organizations shall be protected in accordance with the provisions of Articles 6, 7, 8 and 10 of Directive 92/100/EEC.
+ 2. 
+ For the purposes of paragraph 1, ‘broadcasting by wireless means’ in Directive 92/100/EEC shall be understood as including communication to the public by satellite.
+ 3. 
+ With regard to the exercise of the rights referred to in paragraph 1, Articles 2 (7) and 12 of Directive 92/100/EEC shall apply.
+ Article 5
+ Relation between copyright and related rights
+ Protection of copyright-related rights under this Directive shall leave intact and shall in no way affect the protection of copyright.
+ Article 6
+ Minimum protection
+ 1. 
+ Member States may provide for more far-reaching protection for holders of rights related to copyright than that required by Article 8 of Directive 92/100/EEC.
+ 2. 
+ In applying paragraph 1 Member States shall observe the definitions contained in Article 1 (1) and (2).
+ Article 7
+ Transitional provisions
+ 1. 
+ With regard to the application in time of the rights referred to in Article 4 (1) of this Directive, Article 13 (1), (2), (6) and (7) of Directive 92/100/EEC shall apply. Article 13 (4) and (5) of Directive 92/100/EEC shall apply mutatis mutandis .
+ 2. 
+ Agreements concerning the exploitation of works and other protected subject matter which are in force on the date mentioned in Article 14 (1) shall be subject to the provisions of Articles 1 (2), 2 and 3 as from 1 January 2000 if they expire after that date.
+ 3. 
+ When an international co-production agreement concluded before the date mentioned in Article 14 (1) between a co-producer from a Member State and one or more co-producers from other Member States or third countries expressly provides for a system of division of exploitation rights between the co-producers by geographical areas for all means of communication to the public, without distinguishing the arrangement applicable to communication to the public by satellite from the provisions applicable to the other means of communication, and where communication to the public by satellite of the co-production would prejudice the exclusivity, in particular the language exclusivity, of one of the co-producers or his assignees in a given territory, the authorization by one of the co-producers or his assignees for a communication to the public by satellite shall require the prior consent of the holder of that exclusivity, whether co-producer or assignee.
+ CHAPTER III
+ CABLE RETRANSMISSION 
+ Article 8
+ Cable retransmission right
+ 1. 
+ Member States shall ensure that when programmes from other Member States are retransmitted by cable in their territory the applicable copyright and related rights are observed and that such retransmission takes place on the basis of individual or collective contractual agreements between copyright owners, holders of related rights and cable operators.
+ 2. 
+ Notwithstanding paragraph 1, Member States may retain until 31 December 1997 such statutory licence systems which are in operation or expressly provided for by national law on 31 July 1991.
+ Article 9
+ Exercise of the cable retransmission right
+ 1. 
+ Member States shall ensure that the right of copyright owners and holders or related rights to grant or refuse authorization to a cable operator for a cable retransmission may be exercised only through a collecting society.
+ 2. 
+ Where a rightholder has not transferred the management of his rights to a collecting society, the collecting society which manages rights of the same category shall be deemed to be mandated to manage his rights. Where more than one collecting society manages rights of that category, the rightholder shall be free to choose which of those collecting societies is deemed to be mandated to manage his rights. A rightholder referred to in this paragraph shall have the same rights and obligations resulting from the agreement between the cable operator and the collecting society which is deemed to be mandated to manage his rights as the rightholders who have mandated that collecting society and he shall be able to claim those rights within a period, to be fixed by the Member State concerned, which shall not be shorter than three years from the date of the cable retransmission which includes his work or other protected subject matter.
+ 3. 
+ A Member State may provide that, when a right-holder authorizes the initial transmission within its territory of a work or other protected subject matter, he shall be deemed to have agreed not to exercise his cable retransmission rights on an individual basis but to exercise them in accordance with the provisions of this Directive.
+ Article 10
+ Exercise of the cable retransmission right by broadcasting organizations
+ Member States shall ensure that Article 9 does not apply to the rights exercised by a broadcasting organization in respect of its own transmission, irrespective of whether the rights concerned are its own or have been transferred to it by other copyright owners and/or holders of related rights.
+ Article 11
+ Mediators
+ 1. 
+ Where no agreement is concluded regarding authorization of the cable retransmission of a broadcast. Member States shall ensure that either party may call upon the assistance of one or more mediators.
+ 2. 
+ The task of the mediators shall be to provide assistance with negotiation. They may also submit proposals to the parties.
+ 3. 
+ It shall be assumed that all the parties accept a proposal as referred to in paragraph 2 if none of them expresses its opposition within a period of three months. Notice of the proposal and of any opposition thereto shall be served on the parties concerned in accordance with the applicable rules concerning the service of legal documents.
+ 4. 
+ The mediators shall be so selected that their independence and impartiality are beyond reasonable doubt.
+ Article 12
+ Prevention of the abuse of negotiating positions
+ 1. 
+ Member States shall ensure by means of civil or administrative law, as appropriate, that the parties enter and conduct negotiations regarding authorization for cable retransmission in good faith and do not prevent or hinder negotiation without valid justification.
+ 2. 
+ A Member State which, on the date mentioned in Article 14 (1), has a body with jurisdiction in its territory over cases where the right to retransmit a programme by cable to the public in that Member State has been unreasonably refused or offered on unreasonable terms by a broadcasting organization may retain that body.
+ 3. 
+ Paragraph 2 shall apply for a transitional period of eight years from the date mentioned in Article 14 (1).
+ CHAPTER IV
+ GENERAL PROVISIONS 
+ Article 13
+ Collective administration of rights
+ This Directive shall be without prejudice to the regulation of the activities of collecting societies by the Member States.
+ Article 14
+ Final provisions
+ 1. 
+ Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 1 January 1995. They shall immediately inform the Commission thereof.
+ When Member States adopt these measures, the latter shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The methods of making such a reference shall be laid down by the Member States.
+ 2. 
+ Member States shall communicate to the Commission the provisions of national law which they adopt in the field covered by this Directive.
+ 3. 
+ Not later than 1 January 2000, the Commission shall submit to the European Parliament, the Council and the Economic and Social Committee a report on the application of this Directive and, if necessary, make further proposals to adapt it to developments in the audio and audiovisual sector.
+ Article 15
+ This Directive is addressed to the Member States.

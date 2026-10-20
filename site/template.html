@@ -1,0 +1,735 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style>
+<title>Techno-Legal Rights Catalogue</title>
+<meta name="description" content="Rights that people and organisations can exercise under 112 texts of EU digital law, with a techno-legal classification. Data for the paper Techno-Legal Rights and Exercise Friction in EU Digital Law.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400..600&display=swap">
+<style>
+/* Layout: the 2023 table's three cell colours are the navigation; a filter rail sits beside a register of rights grouped by status, then act. */
+:root {
+  --paper: #f3f6fa;
+  --surface: #ffffff;
+  --sunk: #e9eef5;
+  --ink: #142139;
+  --muted: #56647b;
+  --line: #d6dfea;
+  --accent: #1d5aa6;
+  --mark: #ffe58a;
+  --mark-ink: #142139;
+  /* Table 1 cell colours, sampled from the PDF */
+  --st-app: #3b74b7;   --on-app: #ffffff;
+  --st-neg: #62c6e8;   --on-neg: #0b2740;
+  --st-plan: #b6f0f8;  --on-plan: #0b2740;
+  /* state of the law today */
+  --ok: #23774a;  --ok-bg: #e2f3e9;
+  --wait: #9a5d00; --wait-bg: #fbefd9;
+  --prop: #3c5a86; --prop-bg: #e3ebf6;
+  --gone: #a93636; --gone-bg: #f8e3e3;
+  /* friction red from the paper's Figure 1 */
+  --friction: #b73a3a; --friction-bg: #f7e6e4;
+  --f-display: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --f-body: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --f-law: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --f-ref: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  --r: 6px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0d1522; --surface: #142034; --sunk: #1a2840; --ink: #e3eaf4; --muted: #97a6bd; --line: #26364f;
+    --accent: #84b6f2; --mark: #6a5612; --mark-ink: #fff6cf;
+    --ok: #6fd39b; --ok-bg: #173527; --wait: #f0b552; --wait-bg: #3a2c12; --prop: #9fbbe4; --prop-bg: #1e2f4b;
+    --gone: #f08c8c; --gone-bg: #3d1d22; --friction: #ef8a80; --friction-bg: #3a1e20;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0d1522; --surface: #142034; --sunk: #1a2840; --ink: #e3eaf4; --muted: #97a6bd; --line: #26364f;
+  --accent: #84b6f2; --mark: #6a5612; --mark-ink: #fff6cf;
+  --ok: #6fd39b; --ok-bg: #173527; --wait: #f0b552; --wait-bg: #3a2c12; --prop: #9fbbe4; --prop-bg: #1e2f4b;
+  --gone: #f08c8c; --gone-bg: #3d1d22; --friction: #ef8a80; --friction-bg: #3a1e20;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.5; }
+a { color: var(--accent); text-underline-offset: 2px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+button, input, select { font: inherit; color: inherit; }
+mark { background: var(--mark); color: var(--mark-ink); border-radius: 2px; padding: 0 1px; }
+.wrap { max-width: 1240px; margin: 0 auto; padding: 28px 20px 64px; }
+
+/* masthead */
+.mast { display: grid; gap: 10px; max-width: 70ch; }
+.eyebrow { font-family: var(--f-ref); font-size: 12px; letter-spacing: .04em; color: var(--muted); }
+h1 { font-family: var(--f-display); font-stretch: 112%; font-weight: 750; font-size: clamp(28px, 4.4vw, 44px); line-height: 1.05; margin: 0; text-wrap: balance; letter-spacing: -.01em; }
+.lede { margin: 0; color: var(--muted); font-size: 16px; text-wrap: pretty; }
+.lede strong { color: var(--ink); font-weight: 600; }
+
+/* status legend = primary filter */
+.legend { display: grid; grid-template-columns: 1fr 1.35fr 1.35fr 1.35fr; gap: 6px; margin-top: 24px; }
+.st { appearance: none; border: 0; text-align: left; cursor: pointer; border-radius: var(--r); padding: 14px 16px 13px; display: grid; gap: 2px; align-content: start; position: relative; min-width: 0; }
+.st .lab { font-size: 13px; font-weight: 600; letter-spacing: .02em; }
+.st .big { font-family: var(--f-display); font-stretch: 118%; font-weight: 700; font-size: 30px; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.st .sub { font-size: 12.5px; opacity: .85; font-variant-numeric: tabular-nums; }
+.st[aria-pressed="true"] { box-shadow: inset 0 0 0 3px var(--ink); }
+.st[aria-pressed="false"] { opacity: .78; }
+.st:hover { opacity: 1; }
+.st-all { background: var(--surface); color: var(--ink); box-shadow: inset 0 0 0 1px var(--line); }
+.st-all[aria-pressed="true"] { box-shadow: inset 0 0 0 3px var(--ink); }
+.st-applicable { background: var(--st-app); color: var(--on-app); }
+.st-in_negotiation { background: var(--st-neg); color: var(--on-neg); }
+.st-planned { background: var(--st-plan); color: var(--on-plan); }
+@media (max-width: 760px) { .legend { grid-template-columns: 1fr 1fr; } .st .big { font-size: 24px; } }
+
+/* tabs */
+.tabs { display: flex; gap: 4px; margin: 28px 0 18px; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+.tab { appearance: none; background: none; border: 0; padding: 10px 14px; font-weight: 600; color: var(--muted); cursor: pointer; border-bottom: 3px solid transparent; margin-bottom: -1px; }
+.tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--ink); }
+.tab .n { font-family: var(--f-ref); font-weight: 400; font-size: 12px; margin-left: 4px; }
+
+/* rights view */
+.cols { display: grid; grid-template-columns: 270px minmax(0, 1fr); gap: 28px; align-items: start; }
+@media (max-width: 900px) { .cols { grid-template-columns: minmax(0, 1fr); gap: 16px; } }
+.rail { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 12px); max-height: calc(100vh - 24px); overflow: auto; padding-right: 4px; }
+@media (max-width: 900px) { .rail { position: static; max-height: none; overflow: visible; } }
+.rail > summary { display: none; }
+@media (max-width: 900px) {
+  .rail > summary { display: flex; justify-content: space-between; cursor: pointer; padding: 10px 14px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); font-weight: 600; list-style: none; }
+  .rail > summary::-webkit-details-marker { display: none; }
+  .rail[open] > summary { margin-bottom: 12px; }
+}
+.fset { display: grid; gap: 8px; padding: 14px 0; border-top: 1px solid var(--line); }
+.fset:first-of-type { border-top: 0; padding-top: 0; }
+.fset h4 { margin: 0; font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+.search { width: 100%; padding: 10px 12px; border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); }
+.search::placeholder { color: var(--muted); }
+select.sel { width: 100%; padding: 8px 10px; border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { appearance: none; cursor: pointer; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 4px 10px; font-size: 13px; display: inline-flex; gap: 6px; align-items: baseline; }
+.chip .c { font-family: var(--f-ref); font-size: 11px; color: var(--muted); }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.chip[aria-pressed="true"] .c { color: inherit; opacity: .75; }
+.chip:disabled { opacity: .4; cursor: default; }
+.check { display: grid; grid-template-columns: auto 1fr; gap: 2px 8px; align-items: start; font-size: 14px; cursor: pointer; }
+.check input { margin: 3px 0 0; accent-color: var(--ink); }
+.check small { grid-column: 2; color: var(--muted); font-size: 12px; line-height: 1.4; }
+.catlist { display: grid; gap: 1px; }
+.cat { display: grid; grid-template-columns: auto 1fr auto; gap: 8px; align-items: baseline; font-size: 13.5px; padding: 3px 0; cursor: pointer; }
+.cat input { margin: 0; accent-color: var(--ink); align-self: center; }
+.cat .c { font-family: var(--f-ref); font-size: 11.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.cat.zero { opacity: .45; }
+.try { display: flex; flex-wrap: wrap; gap: 4px 10px; font-size: 12.5px; color: var(--muted); }
+.try .go { margin: 0; }
+.reset { appearance: none; border: 1px solid var(--line); background: none; border-radius: var(--r); padding: 7px 12px; cursor: pointer; font-size: 13px; justify-self: start; }
+
+.resbar { display: flex; flex-wrap: wrap; gap: 10px 16px; justify-content: space-between; align-items: baseline; margin-bottom: 12px; }
+.count { font-size: 15px; color: var(--muted); }
+.count b { color: var(--ink); font-variant-numeric: tabular-nums; }
+.actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.btn { appearance: none; cursor: pointer; border: 1px solid var(--line); background: var(--surface); border-radius: var(--r); padding: 6px 12px; font-size: 13px; }
+.btn:hover { border-color: var(--muted); }
+.active-filters { display: flex; flex-wrap: wrap; gap: 6px; margin: -4px 0 12px; }
+.af { font-size: 12.5px; border-radius: 999px; padding: 3px 4px 3px 10px; background: var(--sunk); display: inline-flex; gap: 4px; align-items: center; }
+.af button { appearance: none; border: 0; background: none; cursor: pointer; width: 20px; height: 20px; border-radius: 50%; line-height: 1; color: var(--muted); }
+.af button:hover { background: var(--line); color: var(--ink); }
+
+/* register */
+.grp { margin: 22px 0 0; padding: 9px 14px; border-radius: var(--r) var(--r) 0 0; font-size: 14px; font-weight: 700; letter-spacing: .02em; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.grp:first-child { margin-top: 0; }
+.grp span { font-weight: 400; font-variant-numeric: tabular-nums; }
+.grp-applicable { background: var(--st-app); color: var(--on-app); }
+.grp-in_negotiation { background: var(--st-neg); color: var(--on-neg); }
+.grp-planned { background: var(--st-plan); color: var(--on-plan); }
+.acth { background: var(--surface); border: 1px solid var(--line); padding: 14px 16px 10px; margin-top: 10px; display: grid; gap: 4px; }
+.grp + .acth { margin-top: 0; border-top: 0; }
+.acth h3 { margin: 0; font-family: var(--f-display); font-stretch: 104%; font-size: 17px; font-weight: 700; line-height: 1.25; text-wrap: balance; }
+.acth .meta { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 12.5px; color: var(--muted); align-items: baseline; }
+.ref { font-family: var(--f-ref); font-size: 12px; }
+.entrytag { font-size: 12px; color: var(--muted); }
+
+.right { background: var(--surface); border: 1px solid var(--line); border-top: 0; }
+.right > summary { list-style: none; cursor: pointer; display: grid; grid-template-columns: 116px minmax(0, 1fr) auto; gap: 4px 14px; padding: 10px 16px; align-items: baseline; }
+.right > summary::-webkit-details-marker { display: none; }
+.right > summary:hover { background: var(--sunk); }
+.right[open] > summary { background: var(--sunk); }
+.art { font-family: var(--f-ref); font-size: 12.5px; font-weight: 500; overflow-wrap: anywhere; }
+.rt { display: grid; gap: 1px; min-width: 0; }
+.rname { font-weight: 600; text-wrap: pretty; }
+.who { font-size: 13px; color: var(--muted); }
+.tags { display: flex; gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
+@media (max-width: 640px) {
+  .right > summary { grid-template-columns: minmax(0, 1fr); }
+  .tags { justify-content: flex-start; }
+}
+.eff { font-size: 12px; border-radius: 4px; padding: 1px 7px; white-space: nowrap; font-weight: 500; }
+.eff-yes { background: var(--ok-bg); color: var(--ok); }
+.eff-notyet { background: var(--wait-bg); color: var(--wait); }
+.eff-pending { background: var(--prop-bg); color: var(--prop); }
+.eff-withdrawn { background: var(--gone-bg); color: var(--gone); }
+.tl { font-size: 12px; border-radius: 4px; padding: 1px 7px; white-space: nowrap; display: inline-flex; gap: 6px; align-items: center; background: var(--friction-bg); color: var(--friction); font-weight: 600; letter-spacing: .03em; }
+.tl.bl { background: none; box-shadow: inset 0 0 0 1px var(--friction); font-weight: 500; }
+.dots { display: inline-flex; gap: 2px; }
+.dots i { width: 7px; height: 7px; border-radius: 50%; border: 1.5px solid var(--friction); display: block; }
+.dots i.on { background: var(--friction); }
+.paper { font-size: 12px; border-radius: 4px; padding: 1px 7px; white-space: nowrap; border: 1px dashed var(--muted); color: var(--muted); }
+.tlbox { display: grid; gap: 4px; padding: 10px 14px; border-radius: var(--r); background: var(--friction-bg); max-width: 80ch; font-size: 13.5px; }
+.tlbox .h { font-weight: 600; color: var(--friction); display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.tlbox.plain { background: var(--sunk); } .tlbox.plain .h { color: var(--ink); }
+.tlnote { margin: 0; font-size: 12px; color: var(--muted); line-height: 1.45; }
+.kind { font-size: 12px; border: 1px solid var(--line); border-radius: 4px; padding: 0 6px; white-space: nowrap; color: var(--muted); }
+.kind-0 { color: var(--ink); border-color: var(--muted); }
+
+.body { padding: 4px 16px 18px 146px; display: grid; gap: 12px; }
+@media (max-width: 640px) { .body { padding-left: 16px; } }
+.desc { margin: 0; max-width: 72ch; }
+.facts { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 4px 14px; margin: 0; font-size: 13.5px; max-width: 80ch; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; }
+@media (max-width: 520px) { .facts { grid-template-columns: minmax(0, 1fr); } .facts dd { margin-bottom: 6px; } }
+.verbatim { margin: 0; padding: 12px 16px; background: var(--sunk); border-radius: var(--r); max-width: 76ch; }
+.verbatim p { margin: 0; font-family: var(--f-law); font-size: 16px; line-height: 1.5; }
+.verbatim p::before { content: "\201C"; } .verbatim p::after { content: "\201D"; }
+.verbatim footer { margin-top: 8px; font-size: 12.5px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.ok-tick { color: var(--ok); }
+.more { display: flex; justify-content: center; margin-top: 18px; }
+.empty { padding: 40px 20px; text-align: center; color: var(--muted); background: var(--surface); border: 1px dashed var(--line); border-radius: var(--r); }
+
+/* laws view */
+.changes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin-bottom: 8px; }
+@media (max-width: 760px) { .changes { grid-template-columns: minmax(0, 1fr); } }
+.change { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 12px 14px; display: grid; gap: 6px; }
+.change h4 { margin: 0; font-size: 13px; display: flex; gap: 8px; align-items: center; }
+.sw { width: 12px; height: 12px; border-radius: 3px; flex: none; }
+.sw-applicable { background: var(--st-app); } .sw-in_negotiation { background: var(--st-neg); } .sw-planned { background: var(--st-plan); box-shadow: inset 0 0 0 1px var(--line); }
+.stack { display: flex; height: 8px; border-radius: 4px; overflow: hidden; background: var(--sunk); }
+.stack i { display: block; }
+.change p { margin: 0; font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.tablewrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-top: 0; border-radius: 0 0 var(--r) var(--r); }
+table.laws { width: 100%; border-collapse: collapse; font-size: 13.5px; min-width: 760px; }
+.laws th { text-align: left; font-size: 11.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); font-weight: 600; padding: 10px 12px; border-bottom: 1px solid var(--line); background: var(--surface); }
+.laws td { padding: 10px 12px; border-top: 1px solid var(--line); vertical-align: top; }
+.laws tr:first-child td { border-top: 0; }
+.laws .no { font-family: var(--f-ref); color: var(--muted); width: 36px; }
+.laws .lbl { font-weight: 600; }
+.laws .refs { font-family: var(--f-ref); font-size: 11.5px; color: var(--muted); }
+.now { display: inline-block; font-size: 12px; border-radius: 4px; padding: 1px 7px; font-weight: 500; white-space: nowrap; }
+.now-InForce, .now-Adopted, .now-Re-adopted { background: var(--ok-bg); color: var(--ok); }
+.now-Pending, .now-Proposed { background: var(--prop-bg); color: var(--prop); }
+.now-Withdrawn { background: var(--gone-bg); color: var(--gone); }
+.now-NotProposed, .now-Replaced { background: var(--sunk); color: var(--muted); }
+.curtext { display: block; color: var(--muted); font-size: 12.5px; margin-top: 4px; max-width: 46ch; }
+.txts { display: grid; gap: 3px; }
+.txt { font-size: 12.5px; }
+.txt .ref { color: var(--muted); }
+.nrights { display: grid; grid-template-columns: 34px 1fr; gap: 8px; align-items: center; min-width: 120px; }
+.nrights b { font-variant-numeric: tabular-nums; text-align: right; font-weight: 600; }
+.bar { height: 6px; border-radius: 3px; background: var(--sunk); overflow: hidden; }
+.bar i { display: block; height: 100%; }
+.go { appearance: none; border: 0; background: none; color: var(--accent); cursor: pointer; padding: 0; font-size: 12.5px; text-decoration: underline; text-underline-offset: 2px; margin-top: 4px; }
+
+.foot { margin-top: 48px; padding-top: 18px; border-top: 1px solid var(--line); display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 18px 32px; font-size: 13px; color: var(--muted); }
+.foot h4 { margin: 0 0 4px; color: var(--ink); font-size: 13px; }
+.foot p { margin: 0; }
+.toast { position: fixed; left: 50%; bottom: calc(env(safe-area-inset-bottom, 0px) + 20px); transform: translateX(-50%); background: var(--ink); color: var(--paper); padding: 9px 16px; border-radius: var(--r); font-size: 13.5px; max-width: calc(100% - 32px); }
+.copybox { width: 100%; height: 120px; margin-bottom: 12px; font-family: var(--f-ref); font-size: 11px; border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); color: var(--ink); padding: 8px; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+@media (prefers-reduced-motion: no-preference) { .st, .chip, .tab { transition: opacity .15s, background-color .15s, box-shadow .15s; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="mast">
+    <div class="eyebrow" id="eyebrow">Data for “Techno-Legal Rights and Exercise Friction in EU Digital Law” · legal texts as of 9 Oct 2026</div>
+    <h1>Rights you can exercise under EU digital law</h1>
+    <p class="lede" id="lede">Every right a person or an organisation can invoke under 112 texts of EU digital law, grouped by their status in a 2023 overview of EU digital legislation. Each quote appears word for word in the act. The rights were extracted and classified with a large language model. <strong>Only the 497 rights in the twelve acts analysed in the paper were checked by the author</strong>: choose “Paper sample” under <em>Techno-legal rights</em> to see them.</p>
+  </header>
+
+  <nav class="legend" id="legend" aria-label="Status in the 2023 table"></nav>
+
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" id="tab-rights" aria-selected="true" aria-controls="view-rights">Rights<span class="n" id="tabn-rights"></span></button>
+    <button class="tab" role="tab" id="tab-laws" aria-selected="false" aria-controls="view-laws">Laws in the table<span class="n" id="tabn-laws"></span></button>
+  </div>
+
+  <section id="view-rights" role="tabpanel" aria-labelledby="tab-rights">
+    <div class="cols">
+      <details class="rail" id="rail" open>
+        <summary><span>Filters</span><span id="railcount"></span></summary>
+        <div class="fset"><h4>Techno-legal rights</h4>
+          <label class="sr" for="f-tl">Techno-legal rights</label><select class="sel" id="f-tl"></select>
+          <p class="tlnote">The paper’s definition and test, applied to every right by the model: a mechanism the duty-bearer must provide or permit, and technical ability on the part of the holder. Dots show the level on the gradient, as in Figure 1 of the paper.</p>
+        </div>
+        <div class="fset">
+          <label class="sr" for="q">Search</label>
+          <input class="search" id="q" type="search" placeholder="Search: erasure, Art. 38, recommender…" autocomplete="off">
+          <div class="try" id="try">Try: <button class="go" type="button">rectification</button><button class="go" type="button">recommender</button><button class="go" type="button">portability</button><button class="go" type="button">human review</button><button class="go" type="button">compensation</button></div>
+          <label class="check" for="people"><input type="checkbox" id="people"><span>People only</span>
+            <small>Hides rights held only by organisations, plus procedural and market-access rights.</small></label>
+          <label class="check" for="explicit"><input type="checkbox" id="explicit"><span>Worded as a right</span>
+            <small>“shall have the right”, “may request” and similar. Unticked also shows options built into someone else’s duty.</small></label>
+        </div>
+        <div class="fset"><h4>In effect today</h4><div class="chips" id="f-eff"></div></div>
+        <div class="fset"><h4>Who holds it</h4><div class="chips" id="f-kind"></div></div>
+        <div class="fset"><h4>Law</h4>
+          <label class="sr" for="f-entry">Law</label><select class="sel" id="f-entry"></select>
+          <label class="sr" for="f-area">Policy area</label><select class="sel" id="f-area"></select>
+        </div>
+        <div class="fset"><h4>Kind of right</h4><div class="catlist" id="f-cat"></div></div>
+        <div class="fset"><button class="reset" id="reset" type="button">Clear all filters</button></div>
+      </details>
+
+      <div id="results-col" style="min-width:0">
+        <div class="resbar">
+          <div class="count" id="count" aria-live="polite"></div>
+          <div class="actions">
+            <button class="btn" id="expand" type="button">Open all shown</button>
+            <button class="btn" id="copy" type="button">Copy rows for Excel</button>
+          </div>
+        </div>
+        <div class="active-filters" id="active"></div>
+        <textarea class="copybox" id="copybox" hidden aria-label="Rows to copy"></textarea>
+        <div id="list"></div>
+        <div class="more"><button class="btn" id="morebtn" type="button" hidden></button></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="view-laws" role="tabpanel" aria-labelledby="tab-laws" hidden>
+    <div class="changes" id="changes"></div>
+    <div id="lawtables"></div>
+  </section>
+
+  <footer class="foot">
+    <div><h4>Paper and data</h4><p>Bekavac, <em>Techno-Legal Rights and Exercise Friction in EU Digital Law</em> (under submission). Data, legal texts, scripts and the instructions given to the model: <a href="https://github.com/LukaBekavac/techno-legal-rights">github.com/LukaBekavac/techno-legal-rights</a>.</p></div>
+    <div><h4>Source</h4><p>The legal texts behind Table 1 of J.&nbsp;Scott Marcus, Kamil Sekut and Kai Zenner, <a href="https://www.bruegel.org/sites/default/files/2023-07/Tables_Scott_Kai.pdf">A Dataset on EU Legislation for the Digital World</a> (Bruegel, 2023), with their status updated to 9 October 2026. The status groups follow the table’s cell colours. Texts were downloaded from the EU Publications Office.</p></div>
+    <div><h4>Which text was read</h4><p>Laws in force: the latest consolidated version. Files in negotiation in 2023: the adopted act where there is one, otherwise the Commission proposal. Withdrawn proposals are included and marked.</p></div>
+    <div><h4>Limits</h4><p>Extracted and classified by a large language model (Claude Opus 5.5) following written rules; every quote and article number was checked automatically. Only the twelve acts of the paper were checked by the author. Not legal advice. Rights in directives reach people through national law. Proposal texts can still change. Annexes were mostly not read.</p></div>
+  </footer>
+</div>
+<div class="toast" id="toast" role="status" hidden></div>
+
+<script type="application/json" id="data">/*DATA*/</script>
+<script>
+(function () {
+  const D = JSON.parse(document.getElementById('data').textContent);
+  const $ = (id) => document.getElementById(id);
+  const fmt = (n) => n.toLocaleString('en-GB');
+  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  const date = (iso) => { const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || ''); return m ? `${+m[3]} ${MONTHS[+m[2] - 1]} ${m[1]}` : iso; };
+
+  const STATUS = [
+    { key: 'applicable', label: 'Applicable law', hash: 'applicable' },
+    { key: 'in_negotiation', label: 'In negotiation', hash: 'negotiation' },
+    { key: 'planned', label: 'Planned initiative', hash: 'planned' },
+  ];
+  const STLABEL = Object.fromEntries(STATUS.map((s) => [s.key, s.label]));
+  const KIND = ['Natural persons', 'Any person', 'Organisations'];
+  const KIND_ONE = ['Natural persons only', 'Any person', 'Organisations only'];
+  const EFF = [
+    { key: 'yes', label: 'Yes' },
+    { key: 'notyet', label: 'Not yet' },
+    { key: 'pending', label: 'Proposal' },
+    { key: 'withdrawn', label: 'Withdrawn proposal' },
+  ];
+  const STRICT_OUT = new Set(['Procedural rights', 'Market access & business freedoms'].map((c) => D.cats.indexOf(c)));
+  const ENTRY = new Map(D.entries.map((e) => [e.no, e]));
+  const ORDER = { applicable: 0, in_negotiation: 1, planned: 2 };
+  const TL = ['Techno-legal', 'Borderline', 'Digitized', 'Not techno-legal'];
+  const LEVELS = ['CLICK', 'READ', 'OPERATE', 'BUILD', 'DELEGATE'];
+  const SCOPE = ['everyday life', 'specialists', 'businesses'];
+  const DOTN = { CLICK: 1, READ: 2, OPERATE: 3, BUILD: 4 };
+  const dots = (lv) => (!lv ? '' : lv === 'DELEGATE' ? '<span aria-hidden="true">⇄</span>'
+    : `<span class="dots" aria-hidden="true">${[1, 2, 3, 4].map((i) => `<i class="${i <= DOTN[lv] ? 'on' : ''}"></i>`).join('')}</span>`);
+  function tlMatch(r, v) {
+    switch (v) {
+      case 'tl': return r.tl === 0;
+      case 'tl-everyday': return r.tl === 0 && r.sc === 0;
+      case 'tlb': return r.tl <= 1;
+      case 'border': return r.tl === 1;
+      case 'digitized': return r.tl === 2;
+      case 'no': return r.tl === 3;
+      case 'v': return r.v === 1;
+      case 'v-tl': return r.v === 1 && r.tl === 0;
+      case 'v-bl': return r.v === 1 && r.tl === 1;
+    }
+    if (v.startsWith('lv:')) return r.tl === 0 && r.lv === v.slice(3);
+    if (v.startsWith('fam:')) return r.tl === 0 && r.fam === v.slice(4);
+    return true;
+  }
+
+  for (const r of D.rights) {
+    const e = ENTRY.get(r.no);
+    r.st = e.st;
+    r.area = e.area;
+    const ef = r.ef;
+    r.eff = ef === 'Yes' ? 'yes' : ef.startsWith('Not yet') ? 'notyet' : ef.includes('withdrawn') ? 'withdrawn' : 'pending';
+    r.from = r.eff === 'notyet' ? (/(\d{4}-\d{2}-\d{2})/.exec(ef) || [])[1] : '';
+    const act = D.acts[r.c];
+    r.hay = [r.a, r.r, r.h, r.to, r.d, r.x, r.q, r.nt, act.n, r.c, e.label, e.refs, D.cats[r.cat], r.why, r.lv, r.fam].join(' \u0001 ').toLowerCase();
+  }
+
+  /* ---------- state ---------- */
+  const blank = () => ({ status: 'all', tl: '', q: '', people: false, explicit: false, eff: new Set(), kind: new Set(), cats: new Set(), entry: '', area: '' });
+  let S = blank();
+  let view = 'rights';
+  let shown = 0, current = [], tokens = [];
+  const CHUNK = 120;
+
+  function test(r, skip) {
+    if (skip !== 'status' && S.status !== 'all' && r.st !== S.status) return false;
+    if (S.tl && !tlMatch(r, S.tl)) return false;
+    if (S.people && (r.k === 2 || STRICT_OUT.has(r.cat))) return false;
+    if (S.explicit && !r.ex) return false;
+    if (skip !== 'eff' && S.eff.size && !S.eff.has(r.eff)) return false;
+    if (skip !== 'kind' && S.kind.size && !S.kind.has(r.k)) return false;
+    if (skip !== 'cat' && S.cats.size && !S.cats.has(r.cat)) return false;
+    if (S.entry && r.no !== +S.entry) return false;
+    if (skip !== 'area' && S.area && r.area !== S.area) return false;
+    for (const t of tokens) if (!r.hay.includes(t)) return false;
+    return true;
+  }
+
+  /* ---------- static controls ---------- */
+  function buildLegend() {
+    const tot = { all: { n: 0, eff: 0, entries: D.entries.length, texts: 0 } };
+    for (const s of STATUS) tot[s.key] = { n: 0, eff: 0, entries: 0, texts: 0 };
+    for (const e of D.entries) { tot[e.st].entries++; tot[e.st].texts += e.texts.length; tot.all.texts += e.texts.length; }
+    for (const s in tot) tot[s].tl = 0;
+    for (const r of D.rights) { tot[r.st].n++; tot.all.n++; if (r.eff === 'yes') { tot[r.st].eff++; tot.all.eff++; } if (r.tl === 0) { tot[r.st].tl++; tot.all.tl++; } }
+    const card = (key, label) => {
+      const t = tot[key];
+      return `<button class="st st-${key}" type="button" data-st="${key}" aria-pressed="false">
+        <span class="lab">${label}</span>
+        <span class="big">${fmt(t.n)}</span>
+        <span class="sub">rights · ${fmt(t.eff)} in effect today</span>
+        <span class="sub">${fmt(t.tl)} techno-legal</span>
+        <span class="sub">${t.entries} table entries · ${t.texts} texts</span></button>`;
+    };
+    $('legend').innerHTML = card('all', 'All groups') + STATUS.map((s) => card(s.key, s.label)).join('');
+    $('legend').addEventListener('click', (ev) => {
+      const b = ev.target.closest('[data-st]'); if (!b) return;
+      S.status = b.dataset.st;
+      if (S.entry && S.status !== 'all' && ENTRY.get(+S.entry).st !== S.status) S.entry = '';
+      setHash(); update();
+      if (view === 'laws') renderLaws();
+    });
+    $('tabn-rights').textContent = fmt(D.rights.length);
+    $('tabn-laws').textContent = D.entries.length;
+  }
+
+  function buildFilters() {
+    $('f-eff').innerHTML = EFF.map((f) => `<button type="button" class="chip" data-v="${f.key}" aria-pressed="false">${f.label}<span class="c"></span></button>`).join('');
+    $('f-kind').innerHTML = KIND.map((k, i) => `<button type="button" class="chip" data-v="${i}" aria-pressed="false">${k}<span class="c"></span></button>`).join('');
+    $('f-cat').innerHTML = D.cats.map((c, i) => `<label class="cat" for="cat-${i}"><input type="checkbox" id="cat-${i}" data-v="${i}"><span>${esc(c)}</span><span class="c"></span></label>`).join('');
+    const areas = [...new Set(D.entries.map((e) => e.area))].sort();
+    $('f-area').innerHTML = '<option value="">All policy areas</option>' + areas.map((a) => `<option>${esc(a)}</option>`).join('');
+    fillEntrySelect();
+    const cnt = (v) => D.rights.filter((r) => tlMatch(r, v)).length;
+    const opt = (v, label) => `<option value="${esc(v)}">${esc(label)} (${fmt(cnt(v))})</option>`;
+    const fams = [...new Set(D.rights.filter((r) => r.tl === 0).map((r) => r.fam))].sort((a, b) => cnt('fam:' + b) - cnt('fam:' + a));
+    $('f-tl').innerHTML = '<option value="">All rights, any classification</option>'
+      + '<optgroup label="Paper sample: twelve acts">' + opt('v', 'All rights in the twelve acts')
+      + opt('v-tl', 'Techno-legal, checked by the author') + opt('v-bl', 'Borderline, checked by the author') + '</optgroup>'
+      + '<optgroup label="Classification">' + opt('tl', 'Techno-legal') + opt('tl-everyday', 'Techno-legal, everyday digital life')
+      + opt('tlb', 'Techno-legal or borderline') + opt('border', 'Borderline') + opt('digitized', 'Digitized') + opt('no', 'Not techno-legal') + '</optgroup>'
+      + '<optgroup label="Gradient level (techno-legal)">' + LEVELS.map((l) => opt('lv:' + l, l)).join('') + '</optgroup>'
+      + '<optgroup label="Family (techno-legal)">' + fams.map((f) => opt('fam:' + f, f)).join('') + '</optgroup>';
+    $('f-tl').addEventListener('change', (ev) => { S.tl = ev.target.value; update(); });
+
+    const toggleSet = (set, v) => (set.has(v) ? set.delete(v) : set.add(v));
+    $('f-eff').addEventListener('click', (ev) => { const b = ev.target.closest('[data-v]'); if (b) { toggleSet(S.eff, b.dataset.v); update(); } });
+    $('f-kind').addEventListener('click', (ev) => { const b = ev.target.closest('[data-v]'); if (b) { toggleSet(S.kind, +b.dataset.v); update(); } });
+    $('f-cat').addEventListener('change', (ev) => { const v = +ev.target.dataset.v; ev.target.checked ? S.cats.add(v) : S.cats.delete(v); update(); });
+    $('f-entry').addEventListener('change', (ev) => { S.entry = ev.target.value; update(); });
+    $('f-area').addEventListener('change', (ev) => { S.area = ev.target.value; update(); });
+    $('people').addEventListener('change', (ev) => { S.people = ev.target.checked; update(); });
+    $('explicit').addEventListener('change', (ev) => { S.explicit = ev.target.checked; update(); });
+    let tq;
+    $('q').addEventListener('input', (ev) => { clearTimeout(tq); tq = setTimeout(() => { S.q = ev.target.value; update(); }, 140); });
+    $('try').addEventListener('click', (ev) => { const b = ev.target.closest('button'); if (!b) return; S.q = b.textContent; $('q').value = S.q; update(); });
+    $('reset').addEventListener('click', () => { const st = S.status; S = blank(); S.status = st; syncInputs(); update(); });
+  }
+
+  function fillEntrySelect() {
+    const counts = new Map();
+    for (const r of D.rights) counts.set(r.no, (counts.get(r.no) || 0) + 1);
+    $('f-entry').innerHTML = '<option value="">All laws in the table</option>' + STATUS.map((s) =>
+      `<optgroup label="${s.label}">` + D.entries.filter((e) => e.st === s.key && counts.get(e.no)).map((e) =>
+        `<option value="${e.no}">${esc(e.label)} (${counts.get(e.no)})</option>`).join('') + '</optgroup>').join('');
+  }
+
+  function syncInputs() {
+    $('f-tl').value = S.tl;
+    $('q').value = S.q; $('people').checked = S.people; $('explicit').checked = S.explicit;
+    $('f-entry').value = S.entry; $('f-area').value = S.area;
+    document.querySelectorAll('#f-cat input').forEach((i) => { i.checked = S.cats.has(+i.dataset.v); });
+  }
+
+  /* ---------- update ---------- */
+  function update() {
+    tokens = S.q.toLowerCase().split(/\s+/).filter(Boolean);
+    document.querySelectorAll('#legend .st').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.st === S.status)));
+
+    // facet counts ignore their own facet
+    const effC = {}, kindC = [0, 0, 0], catC = D.cats.map(() => 0);
+    for (const r of D.rights) {
+      if (test(r, 'eff')) effC[r.eff] = (effC[r.eff] || 0) + 1;
+      if (test(r, 'kind')) kindC[r.k]++;
+      if (test(r, 'cat')) catC[r.cat]++;
+    }
+    document.querySelectorAll('#f-eff .chip').forEach((b) => {
+      const v = b.dataset.v, n = effC[v] || 0;
+      b.setAttribute('aria-pressed', String(S.eff.has(v))); b.querySelector('.c').textContent = fmt(n); b.disabled = !n && !S.eff.has(v);
+    });
+    document.querySelectorAll('#f-kind .chip').forEach((b) => {
+      const v = +b.dataset.v, n = kindC[v];
+      b.setAttribute('aria-pressed', String(S.kind.has(v))); b.querySelector('.c').textContent = fmt(n); b.disabled = !n && !S.kind.has(v);
+    });
+    document.querySelectorAll('#f-cat .cat').forEach((l, i) => {
+      l.querySelector('.c').textContent = fmt(catC[i]); l.classList.toggle('zero', !catC[i] && !S.cats.has(i));
+    });
+
+    current = D.rights.filter((r) => test(r));
+    current.sort((a, b) => ORDER[a.st] - ORDER[b.st]);
+    const acts = new Set(current.map((r) => r.c)).size;
+    const where = S.status === 'all' ? '' : ` · ${STLABEL[S.status]}`;
+    $('count').innerHTML = `<b>${fmt(current.length)}</b> rights from <b>${acts}</b> texts${esc(where)}`;
+    $('railcount').textContent = `${fmt(current.length)} shown`;
+    renderActive();
+    $('copybox').hidden = true;
+    $('list').innerHTML = '';
+    shown = 0; lastSt = lastAct = null;
+    actCounts = new Map(); stCounts = new Map();
+    for (const r of current) { actCounts.set(r.st + r.c, (actCounts.get(r.st + r.c) || 0) + 1); stCounts.set(r.st, (stCounts.get(r.st) || 0) + 1); }
+    if (!current.length) {
+      $('list').innerHTML = `<div class="empty">No rights match these filters. Try fewer words in the search, or <button class="go" type="button" data-reset>clear all filters</button>.</div>`;
+    }
+    renderMore();
+  }
+
+  function renderActive() {
+    const out = [];
+    const add = (label, fn) => out.push({ label, fn });
+    if (S.tl) add(($('f-tl').selectedOptions[0] || {}).textContent.replace(/ \([\d,]+\)$/, ''), () => { S.tl = ''; });
+    if (S.q) add(`Search: “${S.q}”`, () => { S.q = ''; });
+    if (S.people) add('People only', () => { S.people = false; });
+    if (S.explicit) add('Worded as a right', () => { S.explicit = false; });
+    for (const v of S.eff) add(`In effect: ${EFF.find((f) => f.key === v).label}`, () => S.eff.delete(v));
+    for (const v of S.kind) add(KIND[v], () => S.kind.delete(v));
+    if (S.entry) add(ENTRY.get(+S.entry).label, () => { S.entry = ''; });
+    if (S.area) add(S.area, () => { S.area = ''; });
+    for (const v of S.cats) add(D.cats[v], () => S.cats.delete(v));
+    activeFns = out.map((o) => o.fn);
+    $('active').innerHTML = out.map((o, i) => `<span class="af">${esc(o.label)}<button type="button" data-af="${i}" aria-label="Remove filter ${esc(o.label)}">×</button></span>`).join('');
+  }
+  let activeFns = [];
+  $('active').addEventListener('click', (ev) => {
+    const b = ev.target.closest('[data-af]'); if (!b) return;
+    activeFns[+b.dataset.af](); syncInputs(); update();
+  });
+
+  /* ---------- register ---------- */
+  let lastSt = null, lastAct = null, actCounts = new Map(), stCounts = new Map();
+
+  function hl(text) {
+    text = String(text || '');
+    if (!tokens.length) return esc(text);
+    const re = new RegExp('(' + tokens.map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|') + ')', 'gi');
+    return text.split(re).map((part, i) => (i % 2 ? `<mark>${esc(part)}</mark>` : esc(part))).join('');
+  }
+
+  function effTag(r) {
+    if (r.eff === 'yes') return '<span class="eff eff-yes">In effect</span>';
+    if (r.eff === 'notyet') return `<span class="eff eff-notyet">From ${date(r.from)}</span>`;
+    if (r.eff === 'withdrawn') return '<span class="eff eff-withdrawn">Withdrawn proposal</span>';
+    return '<span class="eff eff-pending">Proposal</span>';
+  }
+
+  function tlTag(r) {
+    let t = '';
+    if (r.tl === 0) t += `<span class="tl" title="Techno-legal, level ${r.lv}">${dots(r.lv)}${r.lv}</span>`;
+    else if (r.tl === 1) t += `<span class="tl bl" title="Borderline, closest level ${r.lv}">${dots(r.lv)}Borderline</span>`;
+    if (r.ck) t += '<span class="paper" title="In the paper\u2019s sample of twelve acts; classification checked by the author">Checked</span>';
+    return t;
+  }
+  function tlBox(r) {
+    let paper = !r.v ? 'Not in the paper\u2019s sample of twelve acts: classified by the language model only, not checked by the author.'
+      : r.ck ? 'In the paper\u2019s sample of twelve acts. The author checked this classification against the legal text.'
+      : 'In the paper\u2019s sample of twelve acts. The author checked only the techno-legal and borderline classifications, so this one was not checked.';
+    if (r.pn) paper += ' ' + r.pn;
+    paper = esc(paper);
+    return `<div class="tlbox${r.tl >= 2 ? ' plain' : ''}"><div class="h">${r.tl <= 1 ? dots(r.lv) : ''}<span>${TL[r.tl]}${r.lv ? ' · ' + r.lv : ''}${r.fam ? ' · ' + esc(r.fam) : ''}</span>
+      <span style="font-weight:400;color:var(--muted)">Scope: ${SCOPE[r.sc]}</span></div><div>${hl(r.why)}</div>${paper ? `<p class="tlnote">${paper}</p>` : ''}</div>`;
+  }
+
+  function rowHTML(r) {
+    const act = D.acts[r.c];
+    const facts = [];
+    if (r.x) facts.push(['How to use it', hl(r.x)]);
+    facts.push(['Held by', `${hl(r.h)} <span class="kind kind-${r.k}">${KIND_ONE[r.k]}</span>`]);
+    if (r.to) facts.push(['Owed by', hl(r.to)]);
+    facts.push(['Kind of right', esc(D.cats[r.cat]) + (r.ex ? ' · worded as a right' : ' · follows from a duty')]);
+    if (r.f) facts.push(['Applies from', date(r.f)]);
+    if (r.nt) facts.push(['Notes', hl(r.nt)]);
+    return `<details class="right" id="${r.id}">
+      <summary><span class="art">${hl(r.a)}</span>
+        <span class="rt"><span class="rname">${hl(r.r)}</span><span class="who">${hl(r.h)}</span></span>
+        <span class="tags">${tlTag(r)}${effTag(r)}</span></summary>
+      <div class="body">
+        <p class="desc">${hl(r.d)}</p>
+        ${tlBox(r)}
+        <dl class="facts">${facts.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>
+        <blockquote class="verbatim"><p>${hl(r.q)}</p>
+          <footer><span>${esc(r.a)}, ${esc(act.n)}</span><span class="ok-tick">✓ found word for word in the text</span>
+          <a href="${esc(act.e)}" target="_blank" rel="noopener">Open on EUR-Lex</a><span class="ref">${r.id}</span></footer></blockquote>
+      </div></details>`;
+  }
+
+  function renderMore() {
+    const list = $('list');
+    const end = Math.min(current.length, shown + CHUNK);
+    let html = '';
+    for (let i = shown; i < end; i++) {
+      const r = current[i];
+      if (r.st !== lastSt) {
+        html += `<h2 class="grp grp-${r.st}">${STLABEL[r.st]}<span>${fmt(stCounts.get(r.st))} rights</span></h2>`;
+        lastSt = r.st; lastAct = null;
+      }
+      if (r.c !== lastAct) {
+        const act = D.acts[r.c], e = ENTRY.get(r.no);
+        html += `<div class="acth"><h3>${hl(act.n)}</h3><div class="meta">
+          <span class="ref">${r.c}</span><span>${esc(act.s)}</span>
+          <span>${fmt(actCounts.get(r.st + r.c))} rights</span>
+          <a href="${esc(act.e)}" target="_blank" rel="noopener">EUR-Lex</a></div>
+          ${e.label !== act.n ? `<div class="entrytag">Table entry ${e.no}: ${esc(e.label)}</div>` : ''}</div>`;
+        lastAct = r.c;
+      }
+      html += rowHTML(r);
+    }
+    list.insertAdjacentHTML('beforeend', html);
+    shown = end;
+    const left = current.length - shown;
+    $('morebtn').hidden = left <= 0;
+    $('morebtn').textContent = `Show ${fmt(Math.min(CHUNK, left))} more (${fmt(left)} left)`;
+  }
+  $('morebtn').addEventListener('click', renderMore);
+  $('list').addEventListener('click', (ev) => {
+    if (ev.target.closest('[data-reset]')) { const st = S.status; S = blank(); S.status = st; syncInputs(); update(); }
+  });
+  $('expand').addEventListener('click', () => {
+    const all = [...document.querySelectorAll('#list details')];
+    const open = all.some((d) => !d.open);
+    all.forEach((d) => { d.open = open; });
+    $('expand').textContent = open ? 'Close all shown' : 'Open all shown';
+  });
+
+  /* ---------- copy ---------- */
+  function toast(msg) {
+    const t = $('toast'); t.textContent = msg; t.hidden = false;
+    clearTimeout(toast.t); toast.t = setTimeout(() => { t.hidden = true; }, 2600);
+  }
+  $('copy').addEventListener('click', () => {
+    const cell = (s) => String(s ?? '').replace(/[\t\r\n]+/g, ' ');
+    const head = ['ID', 'Status in 2023 table', 'Table entry', 'Act', 'CELEX', 'Article', 'Right', 'Held by', 'Holder type', 'Owed by', 'Kind of right', 'In effect today', 'Description', 'How to use it', 'Quote', 'EUR-Lex', 'Techno-legal', 'Level', 'Family', 'Scope', 'Reason', 'Paper sample'];
+    const rows = current.map((r) => [r.id, STLABEL[r.st], ENTRY.get(r.no).label, D.acts[r.c].n, r.c, r.a, r.r, r.h, KIND_ONE[r.k], r.to, D.cats[r.cat], r.ef, r.d, r.x, r.q, D.acts[r.c].e, TL[r.tl], r.lv, r.fam, SCOPE[r.sc], r.why, r.v ? (r.ck ? 'yes, checked by the author' : 'yes, not checked') : 'no'].map(cell).join('\t'));
+    const text = [head.join('\t'), ...rows].join('\n');
+    const fallback = () => {
+      const box = $('copybox'); box.value = text; box.hidden = false; box.focus(); box.select();
+      toast('Copying is blocked here. The rows are selected: press Ctrl+C or ⌘C.');
+    };
+    try {
+      navigator.clipboard.writeText(text).then(() => toast(`Copied ${fmt(current.length)} rows. Paste them into Excel or Sheets.`), fallback);
+    } catch (e) { fallback(); }
+  });
+
+  /* ---------- laws view ---------- */
+  function renderLaws() {
+    const rc = new Map();
+    const tc = new Map();
+    for (const r of D.rights) { rc.set(r.no, (rc.get(r.no) || 0) + 1); if (r.tl === 0) tc.set(r.no, (tc.get(r.no) || 0) + 1); }
+    const max = Math.max(...rc.values());
+    const NOWC = { 'In force': 'var(--ok)', 'Adopted': 'var(--ok)', 'Re-adopted': 'var(--ok)', 'Pending': 'var(--prop)', 'Proposed': 'var(--prop)', 'Withdrawn': 'var(--gone)', 'Not proposed': 'var(--muted)', 'Replaced': 'var(--muted)' };
+    const SUMMARY = {
+      applicable: 'In force in 2023',
+      in_negotiation: 'Being negotiated in 2023',
+      planned: 'Announced in 2023, no proposal yet',
+    };
+    $('changes').innerHTML = STATUS.map((s) => {
+      const es = D.entries.filter((e) => e.st === s.key);
+      const c = {};
+      for (const e of es) c[e.now] = (c[e.now] || 0) + 1;
+      const parts = Object.entries(c).sort((a, b) => b[1] - a[1]);
+      return `<div class="change"><h4><span class="sw sw-${s.key}"></span>${s.label} · ${es.length}</h4>
+        <div class="stack" role="img" aria-label="${parts.map(([k, n]) => `${n} ${k}`).join(', ')}">${parts.map(([k, n]) => `<i style="width:${(n / es.length) * 100}%;background:${NOWC[k]}"></i>`).join('')}</div>
+        <p>${SUMMARY[s.key]}. Now: ${parts.map(([k, n]) => `${n} ${k.toLowerCase()}`).join(', ')}.</p></div>`;
+    }).join('');
+
+    const groups = S.status === 'all' ? STATUS : STATUS.filter((s) => s.key === S.status);
+    $('lawtables').innerHTML = groups.map((s) => {
+      const es = D.entries.filter((e) => e.st === s.key);
+      const n = es.reduce((a, e) => a + (rc.get(e.no) || 0), 0);
+      const rows = es.map((e) => {
+        const k = rc.get(e.no) || 0;
+        const txts = e.texts.length
+          ? e.texts.map((t) => `<div class="txt">${esc(t.n)} <span class="ref">${t.c}</span></div>`).join('')
+          : '<div class="txt" style="color:var(--muted)">No legal text yet</div>';
+        return `<tr><td class="no">${e.no}</td>
+          <td><div class="lbl">${esc(e.label)}</div><div class="refs">${esc(e.refs)}</div><div class="refs" style="font-family:var(--f-body)">${esc(e.area)}</div></td>
+          <td><span class="now now-${e.now.replace(/\s/g, '')}">${e.now}</span><span class="curtext">${esc(e.cur)}</span></td>
+          <td><div class="txts">${txts}</div></td>
+          <td><div class="nrights"><b>${k}</b><div class="bar"><i style="width:${(k / max) * 100}%;background:var(--st-${s.key === 'applicable' ? 'app' : s.key === 'in_negotiation' ? 'neg' : 'plan'})"></i></div></div>
+            ${k ? `<button class="go" type="button" data-entry="${e.no}">Show rights</button>` : ''}</td>
+          <td class="no" style="width:auto;font-variant-numeric:tabular-nums">${tc.get(e.no) || 0}</td></tr>`;
+      }).join('');
+      return `<h2 class="grp grp-${s.key}">${s.label}<span>${es.length} entries · ${fmt(n)} rights</span></h2>
+        <div class="tablewrap"><table class="laws"><thead><tr><th>#</th><th>Table entry</th><th>Status now</th><th>Texts analysed</th><th>Rights</th><th>Techno-legal</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+    }).join('');
+  }
+  $('lawtables').addEventListener('click', (ev) => {
+    const b = ev.target.closest('[data-entry]'); if (!b) return;
+    const st = S.status; S = blank(); S.status = st; S.entry = b.dataset.entry;
+    syncInputs(); setView('rights'); update();
+    $('tab-rights').scrollIntoView({ block: 'start' });
+  });
+
+  /* ---------- tabs & hash ---------- */
+  function setView(v) {
+    view = v;
+    $('tab-rights').setAttribute('aria-selected', String(v === 'rights'));
+    $('tab-laws').setAttribute('aria-selected', String(v === 'laws'));
+    $('view-rights').hidden = v !== 'rights';
+    $('view-laws').hidden = v !== 'laws';
+    if (v === 'laws') renderLaws();
+    setHash();
+  }
+  function setHash() {
+    const st = STATUS.find((s) => s.key === S.status);
+    const h = view === 'laws' ? 'laws' : st ? st.hash : '';
+    try { history.replaceState(null, '', h ? '#' + h : location.pathname + location.search); } catch (e) { /* ignore */ }
+  }
+  $('tab-rights').addEventListener('click', () => setView('rights'));
+  $('tab-laws').addEventListener('click', () => setView('laws'));
+
+  const mq = window.matchMedia('(max-width: 900px)');
+  const railMode = () => { $('rail').open = !mq.matches; };
+  mq.addEventListener ? mq.addEventListener('change', railMode) : mq.addListener(railMode);
+  railMode();
+
+  buildLegend();
+  buildFilters();
+  const h = (location.hash || '').slice(1);
+  const hs = STATUS.find((s) => s.hash === h);
+  if (hs) S.status = hs.key;
+  if (h === 'paper') { S.tl = 'v'; syncInputs(); }
+  update();
+  if (h === 'laws') setView('laws');
+})();
+</script>
+
+</body></html>

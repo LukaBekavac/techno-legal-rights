@@ -1,0 +1,2713 @@
+### Multimodal digital mobility services (MDMS) | CELEX 52026PC0231 | text version 52026PC0231 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 13.5.2026
+ COM(2026) 231 final
+ 2026/0113(COD)
+ Proposal for a
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ on multimodal booking and repealing Regulation (EC) No 80/2009
+ (Text with EEA relevance)
+ {SEC(2026) 300 final} - {SWD(2026) 300 final} - {SWD(2026) 301 final}
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ This proposal, together with the proposal for a Rail Ticketing Regulation and the proposed revision of the Rail Passengers' Rights Regulation 
+ 1 
+ , aims to respond to the challenges identified in the political guidelines for the European Commission 2024−2029 
+ 2 
+ . 
+ Passengers still face significant barriers when trying to search for, compare, combine and book travel options. An analysis of 100 representative routes in the EU found that multimodal options were available in 76% of cases. Despite this, very few multimodal digital mobility services (MDMS) showed options in different modes, and these were rarely combined. Furthermore, a 2024 Eurobarometer survey of 26,000 EU citizens revealed that one third of respondents had never booked a multimodal or multi-operator journey. Of those who had, over a third had encountered booking difficulties, such as being unable to find suitable combinations or unable to purchase all required tickets in one place, while such difficulties were even more pronounced with rail tickets. 
+ This proposal is intended to address the lack of transparency, unfair conditions and uneven playing field in the digital passenger transport ticketing market, on all MDMS active in aviation, rail, road and waterborne transport. In turn, it will improve the functioning of the ticket distribution market, thereby ensuring travellers can find all options available, including multimodal ones. As a result, the competitiveness of the transport services market will also improve. 
+ These objectives are aligned with the Sustainable and Smart Mobility Strategy 
+ 3 
+ , which is aimed at improving the competitiveness and sustainability of the transport sector and making multimodal mobility a reality. 
+ • Consistency with existing policy provisions in the policy area 
+ This proposal has been coordinated with the proposal for a Rail Ticketing Regulation and the proposed revision of the rail passengers’ rights and obligations Regulation, in order to ensure a consistent framework that promotes single rail tickets and a well-functioning digital ticketing market. 
+ The proposal repeals the Code of Conduct for computerised reservation systems (‘CRS Code of Conduct’ 
+ 4 
+ ), whilst carrying over and updating the provisions of the CRS Code of Conduct which remain relevant. 
+ The proposal fits in with other EU laws relating to digital information services, in particular the ITS Directive 
+ 5 
+ , which establishes a framework for the deployment of intelligent transport systems in the field of road transport and for interfaces with other modes of transport. The Delegated Regulation on multimodal travel information services 
+ 6 
+ (MMTIS) requires Member States to establish national access points constituting a single point of access for data users to the static, historic, observed and dynamic travel and traffic data of different transport modes, for the purpose of providing multimodal travel information services to end users. By addressing barriers to the development of MDMS for reservation, booking or ticketing, this proposal therefore complements the existing legislation. 
+ Furthermore, by setting sectorial measures in relation to MDMS, this proposal does not affect the application and complements the Digital Services Act 
+ 7 
+ , the Digital Markets Act 
+ 8 
+ and the Data Act 
+ 9 
+ . The proposal will also complement the revised Unfair Commercial Practices Directive 
+ 10 
+ with measures which ensure search results on MDMS are displayed in a neutral way (setting out a list of mandatory ranking criteria), and which prohibit self-preferencing and paid prominence by allowing advertised content only under certain conditions. 
+ • Consistency with other Union policies 
+ A climate consistency check has been performed. As shown in the Commission staff working document the proposal is consistent with the environmental objectives of the European Green Deal 
+ 11 
+ and the European Climate Law 
+ 12 
+ . 
+ By requiring MDMS to display information on greenhouse gas emissions and CO 2 emissions, this proposal will also contribute to the objectives of the CountEmissionsEU and Flight Emission Label initiatives 
+ 13 
+ , setting out a common framework to calculate and report transport-related greenhouse gas emissions. Transparent information applied on all modes will enable passengers to choose the most sustainable travel options. 
+ Finally, the proposal contributes to the objectives set out in the Report from the Commission to the Council on the implementation of the European Tourism Agenda 2030 
+ 14 
+ , which mentions multimodality as a key enabler of competitiveness in the tourism sector. Overall, this initiative aims to promote a more multimodal and sustainable transport system and contribute to Sustainable Development Goals SDG#3 ("Ensure healthy lives and promote wellbeing for all at all ages"), SDG#9 ("Make cities and human settlements inclusive, safe, resilient and sustainable ") and SDG#13 ("Climate Action"). 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ The legal basis for this initiative is Article 91(1), point (d) and Article 100(2) of the Title VI. Article 91 and Article 100(2) establish the EU’s prerogative to pursue the objectives of the Treaties within the framework of a common transport policy and to set the appropriate rules to that end. By contributing to the functioning of the transport ticket distribution market in conformity with the objectives set out in the sustainable and smart mobility strategy 
+ 15 
+ , this initiative forms part of the common transport policy. The transport ticket distribution market encompasses services inherently linked to transport services. The initiative thus takes into account the distinctive features of transport. The application of this initiative will not affect the standard of living and level of employment in certain regions, nor the operation of transport facilities. 
+ • Subsidiarity (for non-exclusive competence) 
+ Although some challenges related to ticket distribution and digital access to rail tickets are being addressed nationally or regionally, an EU-wide approach is needed to reduce the cross-border impact of these challenges on long-distance travel within the EU and to ensure the smooth operation of the European transport system. 
+ Discrepancies between Member States in the way they implement new rules on ticket distribution could further fragment the market, raise costs and reduce benefits for MDMS , authorities, operators and transport users. EU-level intervention is therefore needed to prevent wide variation in Member State strategies and possibly unintended consequences. 
+ • Proportionality 
+ The proposal requires all MDMS providers to respect rules on the neutral display and their ranking criteria, the sharing of marketing information data, the display of information on greenhouse gas emissions and carbon dioxide equivalent emissions (when made available to MDMS providers by transport operators), and on data sharing with transport authorities. MDMS providers which are SMEs are excluded from the scope of this proposal. 
+ Stricter measures, i.e. those establishing the conditions governing the commercial agreements between MDMS providers and transport operators, are limited to MDMS providers deemed indispensable. In the business-to-consumer (B2C) segment, this designation applies only to MDMS providers that meet threshold criteria defined in this proposal. In the business-to- business (B2B) segment, all MDMS providers are considered indispensable, due to their strategic role as an intermediary between travel agents and transport operators. This approach ensures that the strictest regulatory obligations are imposed exclusively on those entities that are in a position to exert significant influence over transport operators, including the ability to impose unfair commercial conditions. Moreover, this approach is fully proportional as it limits EU level action to what is necessary to address a clear market failure. In that sense, it does not mandate MDMS providers to enter into commercial agreements, instead establishing a framework to ensure fairness in such agreements when they exist. By doing so, the proposed measures foster a well-functioning transport ticketing market while maintaining proportionality. 
+ • Choice of the instrument 
+ To ensure a well-functioning digital ticketing market, a common approach is needed so that conditions are harmonised across the EU. This is best achieved through a Regulation. 
+ 3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Ex-post evaluations/fitness checks of existing legislation 
+ Computerised reservation systems (CRSs) are a particular type of MDMS active in the B2B segment. A code of conduct was adopted in 1989 to prevent possible anti-competitive behaviour by CRSs. It was later revised in 2009 to regulate the B2B transactions between CRS providers on the one hand, and air and rail carriers and travel agents on the other hand. The Code of Conduct was subsequently evaluated in 2020 - to assess whether, in the light of market and technological changes in B2B ticket distribution, it is still relevant in achieving the objectives of (i) preventing distortion of competition between CRSs owned by parent carriers, and (ii) ensuring fair and effective competition between carriers; and whether it remained fit for purpose in the face of broader horizontal legislation. The evaluation concluded that the code of conduct had not been ensuring a fully level playing field for all participating carriers as regards access to and use of CRS services as it failed to improve the balance in the bargaining power between different-sized air carriers in relation to CRSs. Some air carriers expressed concerns about specific clauses in their contracts with CRS providers which reduced the ability of airlines to use alternative booking systems or technology. Moreover, the evaluation concluded that transparency requirements, i.e. a neutral display, remained important, as travel agents, both offline and online, and travel management companies still relied heavily on CRS, especially for business travel. The evaluation also concluded that specific sectoral treatment of traditional CRS providers was possibly no longer justified in view of market and technological developments in air ticket distribution (increased internet usage, emergence of other channels and divestment of CRS ownership by airlines). 
+ • Stakeholder consultations 
+ This proposal and the proposal for a Rail Ticketing Regulation are underpinned by the same impact assessment. To prepare for the impact assessment, various stakeholder consultation activities were carried out with the aim of gathering both qualitative (opinions, views, suggestions) and quantitative (data, statistics) information. These activities were carried out between 2020 and 2025, initially only for the purposes of the review of the CRS Code of Conduct in December 2020, subsequently also for the impact assessment supporting the Regulation on multimodal booking (RMB) and a Rail Ticketing Regulation. Citizens were consulted on five occasions, specifically for two inception impact assessments (IIA), two online open public consultations (OPC) and a Eurobarometer survey 
+ 16 
+ . 
+ For the CRS Code of Conduct , an IIA ran from 9 July 2020 until 4 September 2020 to gather feedback from stakeholders. A total of 13 responses were received. For the RMB proposal, an IIA ran from 5 October 2021 until 2 November 2021 to gather feedback from stakeholders. A total of 40 responses were received. An OPC for the CRS Code of Conduct was launched via the Commission’s ‘Have your say’ platform on 23 February 2021 and ran until 18 May 2021. A total of 23 responses were received from citizens and organisations. An OPC for the MDMS proposal was launched 
+ 17 
+ , on the Commission’s ‘Have your say’ platform on 1 December 2021 and ran until 23 February 2022. A total of 336 responses were received from individuals and organisations. 
+ A Eurobarometer survey was conducted during the summer of 2024, the results of which were published by the Commission on 1 April 2025. The aim of the survey was to collect information on booking and ticketing practices and experiences from representative sample of the EU population, aged 15 and over, from each of the 27 Member States. In total, 25 805 interviews were conducted via the online survey. The survey provided insights into the travel habits, preferences and experiences of the EU public, particularly regarding regional and long-distance journeys. It examined key aspects, such as: (1) frequency of travel for leisure and work, (2) factors influencing travel planning and booking decisions, (3) attitudes towards environmentally friendly travel, (4) usage of different transport modes and multimodal journeys, (5) ease of booking multimodal and multi-operator journeys, and (6) barriers to combining different transport modes or operators. The results notably highlighted the obstacles people encounter when looking for sustainable travel options online, as well as their willingness to book such journeys. It also identified the difficulties people experience when booking multimodal and multi-operator journeys, and the extra burden they face when booking multi-operator rail journeys. 
+ • Collection and use of expertise 
+ The impact assessment accompanying this proposal relied on an external study carried out by a consultant. 
+ Stakeholders provided a significant amount of additional information by way of targeted consultation activities (surveys, interviews and workshops). In particular they provided detailed information on the market structure and business practices in the different MDMS segments (B2C and B2B), which helped confirm information from previous studies and inform the modelling assumptions and analysis. 
+ The information received covered aspects such as typical provisions (in particular regarding distribution fees) in commercial agreements offered by MDMS to operators, display practices on MDMS, trends in the digital distribution market and B2B distribution market; interactions between CRSs, travel agents and carriers, and the share and role of SMEs in different types of MDMS. 
+ Overall, the impact assessment drew on a vast number of comprehensive sources which were representative of the various stakeholders’ groups. 
+ • Impact assessment 
+ This proposal is accompanied by an impact assessment report. Following a negative opinion from the Regulatory Scrutiny Board (RSB) on 13 September 2023, a draft impact assessment report was resubmitted to the RSB on 10 March 2026. The RSB issued a positive opinion with reservations on 13 April 2026. The impact assessment report was adjusted accordingly to address the RSB’s comments. 
+ The impact assessment screened a comprehensive list of possible policy measures and options, based on the likely effectiveness, efficiency and proportionality of the proposed measures in relation to the given objectives, as well as their legal and technical feasibility. 
+ Four policy options were evaluated as part of the impact assessment, which was conducted jointly for this proposal and for the proposal for a Rail Ticketing Regulation. 
+ Policy option 1 proposed a minimalist approach. It contained policy measures common to all four policy options including measures that establish minimal requirements for ensuring fair treatment of information and data on MDMS. It also set out the key principles for all commercial agreements between indispensable MDMS providers and transport operators, and between indispensable railway undertakings (RUs) and MDMS providers. 
+ This option fully addresses the first specific objective of improving transparency and establishing a level playing field for transport operators on MDMS by extending the rules of the CRS Code of Conduct to all MDMS providers. It sets thresholds for identifying MDMS providers and RUs with significant market presence, which would be designated by national enforcement bodies or the European Commission depending on the market in which they have significant market presence. The Commission would publish a list of MDMS providers with significant market presence. Such measures would be needed to ensure transport operators are protected in commercial agreements with indispensable MDMS providers, including by means of provisions that (1) safeguard commercially sensitive data of operators, (2) prohibit the inclusion of unjustified or unnecessary contract conditions that could prevent the conclusion of the agreement, and (3) ensure the remuneration received by MDMS providers is based on fair, reasonable and non-discriminatory criteria. Under this policy option, Member States would be required to appoint a national authority to settle possible disputes between parties. Moreover, an EU-level network of such authorities would be set up to ensure consistent enforcement across the EU. In addition, MDMS providers would be required to display information on greenhouse gas emissions and CO 2 emissions, where that information is provided by the transport operator, while B2C MDMS would have to share data with the public authorities for mobility management purposes. 
+ To ensure the range of rail services offered on MDMS is more comprehensive, this policy option offers protection under the proposal for Rail Ticketing Regulation to MDMS providers in their commercial agreements with indispensable RUs by setting rules on distribution fees and prohibiting restrictive clauses in contracts (exclusivity clauses, unfair and unjustified conditions, marketing clauses and other technical restrictions), thereby addressing imbalances in bargaining power during the negotiation of commercial agreements. 
+ Policy options 2, 3 and 4 build on policy option 1 and were specific to the Regulation on Rail Ticketing proposal. 
+ • Regulatory fitness and simplification 
+ While the initiative introduces a new obligation for Member States to designate indispensable MDMS and to settle disputes between parties, the additional administrative burden for public authorities is kept to a minimum. The proposal builds on the fact that Member States already have competent authorities responsible for resolving disputes in relevant areas, such as competition authorities, transport regulatory authorities, and rail regulators. 
+ • Fundamental rights 
+ The proposal would not have any negative material impact on fundamental rights or data protection. Data protection for B2C MDMS users is ensured by the General Data Protection Regulation, which offers uniform protection of individuals. Furthermore, for B2B MDMS, the entry into force of the General Data Protection Regulation is a key reason for revising and repealing the CRS Code of Conduct’s rules on data protection. This example of regulatory simplification will remove the duplicate rules, eliminating any scope for potential inconsistencies. 
+ 4. BUDGETARY IMPLICATIONS 
+ Two full-time equivalent (FTE) employees would be needed to support the Commission in designating MDMS providers with significant market presence, streamlining coordination with national enforcement bodies, and maintaining an accurate, up-to-date public register, ensuring market transparency and effective enforcement. 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ The Commission will monitor the implementation of this Regulation through several actions and a set of core indicators that will measure progress towards achieving the objectives. At the latest five years after the start of implementation of the legislation, the Commission will assess to what extent the objectives of this Regulation have been met. 
+ Synergies between this proposal and the proposal for a Rail Ticketing Regulation and the interplay with the revision of the Rail Passenger Rights Regulation will also need to be analysed. 
+ Improvements in the online ticketing market will be assessed through market monitoring carried out by national enforcement bodies and the Commission. Information on penalties will be shared between authorities in the EU enforcement network in order to support coordination. Consumer satisfaction in the EU will be measured every two years through Eurobarometer surveys looking into the availability of travel information and ease of booking for travellers. 
+ • Detailed explanation of the specific provisions of the proposal 
+ The proposal sets out a new Regulation which is structured as follows: 
+ Article 1 defines the objectives and subject matter of the Regulation; 
+ Article 2 sets out the scope of the Regulation; 
+ Article 3 presents a list of definitions; 
+ Article 4 outlines the designation process for B2C MDMS providers with significant market presence; 
+ Article 5 sets out the conditions that B2C MDMS providers with significant market presence and B2B MDMS providers must adhere to in their commercial agreements with transport operators; 
+ Article 6 sets out the conditions that B2B MDMS providers must adhere to in commercial agreements with subscribers; 
+ Article 7 lays down neutral display and ranking criteria obligations for all MDMS providers; 
+ Article 8 lays down rules on marketing information data for all MDMS providers; 
+ Article 9 lays down rules on displaying information on greenhouse gas emissions and carbon dioxide emissions equivalent for all MDMS providers; 
+ Article 10 lays down rules on data sharing with public transport authorities for all B2C MDMS providers; 
+ Article 11 lays down rules on equivalent treatment of air carriers in third countries; 
+ Article 12 describes the tasks of national enforcement bodies; 
+ Article 13 details complaints rules; 
+ Article 14 lays down penalties for infringements of the Regulation; 
+ Article 15 sets out the conditions for exercising the delegation of power to adopt delegated acts; 
+ Article 16 sets out the committee procedure; 
+ Article 17 lays down monitoring and reporting obligations; 
+ Article 18 repeals the code of conduct on computerised reservation systems; 
+ Article 19 sets the date of entry into force of the Regulation; 
+ Annex I sets the thresholds for the designation of indispensable B2C MDMS at national and Union levels; 
+ Annex II presents a correlation table for the repeal of Regulation (EC) No 80/2009. 
+ 2026/0113 (COD) 
+ Proposal for a 
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ on multimodal booking and repealing Regulation (EC) No 80/2009 
+ (Text with EEA relevance) 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 91 (1), point (d), and Article 100 (2) thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Economic and Social Committee 
+ 18 
+ , 
+ Having regard to the opinion of the Committee of the Regions 
+ 19 
+ , 
+ Acting in accordance with the ordinary legislative procedure, 
+ Whereas: 
+ (1) Multimodal transport has the potential to enhance the sustainability and efficiency of the Union transport system and in turn support the objectives of the European Green Deal 
+ 20 
+ , of the Sustainable and Smart Mobility Strategy 
+ 21 
+ and of Regulation (EU) 2021/1119 of the European Parliament and of the Council 
+ 22 
+ , mandating that Member States reduce net greenhouse gas (GHG) emissions by at least 55% by 2030 (compared to 1990 levels), by 90% by 2040, and achieve climate neutrality by 2050. For passenger transport, the shift towards a multimodal transport system could be supported by business-to-business (B2B) and business-to-consumer (B2C) multimodal digital mobility service (MDMS) providers, making it easier for end users and business users to find, compare, combine and buy suitable transport products for their journey. Those B2B and B2C MDMS providers run services providing traffic and travel information for long-distance travel (such as schedules, tariffs and service availability) and allowing distribution of tickets , either directly or via re-linking, for two or more transport operators in at least one transport mode . 
+ (2) To support fair competition and innovation, common rules should be established to ensure a level playing field in the ticket distribution market, in particular regarding the visibility, accessibility and distribution of long-distance and regional transport services offered within the Union. Those rules should ensure that end users and business users are able to purchase the most appropriate travel option, including journeys combining services across one or more transport modes or provided by multiple transport operators. 
+ (3) Regulation (EC) No 80/2009 of the European Parliament and of the Council 
+ 23 
+ aims to ensure fair and unbiased conditions for air carriers and rail carriers in computerised reservation systems (CRSs), which in turn safeguards consumer interests. In the light of ongoing technological and market developments, it is essential to extend these principles of fairness and impartiality to emerging business models that perform functions comparable to those of CRSs. 
+ (4) To ensure equal treatment of all carriers, providers of business-to-business multimodal digital mobility services should fall within the scope of this Regulation if business users can access their services and transport products from the Union, i.e. when the point of sale is in the Union. They should also fall within the scope of this Regulation even if the point of sale is outside of the Union but the transport product’s underlying transport service is provided, wholly or partially, within the territory of the Union. 
+ (5) The obligations imposed on MDMS providers under this Regulation should be without prejudice to Regulation (EU) XXX (RTR) of the European Parliament and of the Council . 
+ (6) The obligations imposed on MDMS providers under this Regulation should be without prejudice to Regulations (EU) 2022/2065 
+ 24 
+ and (EU) 2022/1925 
+ 25 
+ of the European Parliament and of the Council. In particular, by establishing an obligation of neutral display of transport products or the combination of transport products for B2B and B2C MDMS according to specific ranking criteria , t his Regulation aims only to complement, but not to affect, any of the obligations imposed on intermediary service providers under Regulation (EU) 2022/2065, including online platforms and online search engines within the meaning of Regulation (EU) 2022/2065 , in the Union. Similarly, the obligations imposed on B2C MDMS providers with significant market presence and B2B MDMS providers aim to complement Regulation (EU) 2022/1925, as this Regulation applies similar requirements to services which, despite being outside the scope of Regulation (EU) 2022/1925, may nonetheless still be indispensable for business-users o r end-users. 
+ (7) Since a transport product offered by a transport operator at least partially under a code share arrangement or an interlining agreement aims to increase connectivity for operator’s own passengers, transport products offered under such agreements should be considered transport products of the marketing transport operator only and not a transport product of two or more transport operators. 
+ (8) B2C MDMS providers may account for a significant share of the total value or volume of tickets sold at Union or national level, in one or several transport modes, and therefore constitute a predominant point of access for end users. Such a position may result from a strong or established presence in the underlying transport markets, leading to strong incentives to promote some transport products, to the detriment of competitors. That strategic position vis-à-vis end users may enable those B2C MDMS providers to influence access to the online ticket distribution market, including by limiting opportunities for new entrants or by imposing unjustified contractual conditions affecting participating transport operators. Such conditions may include the introduction of disproportionately high distribution fees or unfair data processing and information sharing practices. Given their central role, those B2C MDMS providers should be designated as providers with significant market presence for each of the relevant transport modes, and in the relevant geographical area where that is the case. Designated MDMS providers should therefore be subject to additional rules necessary to ensure fair competition, transparency and non-discriminatory cooperation with transport operators. Meta-search engines (MSEs) only re-linking transport products are not directly selling transport products and therefore do not hold a significant market presence for distribution. 
+ (9) Websites or applications of transport operators which only offer the operator’s own transport products or those of operators belonging to their own group do not constitute an MDMS as they do not offer transport products of competitors. As such, they are clearly identifiable to consumers. Furthermore, those websites do not offer similar services to those provided by an MDMS, such as aggregation and comparison of competitors' transport products. Unlike MDMS, online search engines, as defined in Article 2, point (5), of Regulation (EU) 2019/1150 of the European Parliament and of the Council 
+ 26 
+ , allow users to input queries in order to perform searches of, in principle, all websites, or all websites in a particular language, including, but not limited to websites where transport products are sold. The sole fact that an online search engine returns results that include transport products should not be sufficient to consider it as a B2C MDMS. 
+ (10) B2B MDMS providers function as commercial partners of air and rail carriers, travel agents and travel management companies. An important share of airline reservations is made through B2B MDMS providers, making them key gateways for reaching business users and ultimately end users. The strategic position of B2B MDMS providers enables them to influence carriers' access to travel agents and travel management companies and therefore to end users. Given their central role, B2B MDMS providers should be governed by additional obligations necessary to ensure fair competition, transparency and non-discriminatory cooperation. 
+ (11) B2C MDMS providers designated as having significant market presence within a given Member State for a particular mode of transport should not be exempt from the responsibility of informing the national authorities of other Member States of their significant market presence within those jurisdictions so that they may, if relevant, also be designated in those Member States. 
+ (12) Where B2C MDMS providers with significant market presence and B2B MDMS providers enter into commercial agreements with transport operators, they should respect certain conditions. In particular, such providers should not make participation to their service subject to exclusivity clauses, or impose restrictions limiting the operator’s ability to freely use alternative reservation channels, including their own internet booking platform, direct connect systems or call centres. This is because such practices could create barriers to market entry for competing services and / or transport operators , reduce consumer choice, and ultimately distort the level playing field necessary for a competitive and innovative market environment. Pricing or other general conditions should be considered unfair if they lead to an imbalance of rights and obligations imposed on transport operators or confer an advantage on the B2B MDMS provider or the B2C MDMS provider with significant market presence which is disproportionate to the service provided by the MDMS provider to transport operators. The following benchmarks can serve as a yardstick to determine the fairness of the pricing and other general conditions: prices charged or conditions imposed for the same or similar services by other MDMS providers; prices charged or conditions imposed by the MDMS provider for different related or similar services or to different types of users; prices charged or conditions imposed by the MDMS provider for the same service in different geographic regions; prices charged or conditions imposed by the MDMS provider for the same service that it provides to the transport operator integrated with it. Where a B2C MDMS provider has been designated as B2C MDMS provider with significant market presence at Union level, it should comply with those specific rules across the Union. 
+ (13) The obligations imposed on MDMS providers under this Regulation should be without prejudice to Article 101 and Article 102 of the Treaty on Functioning of the European Union (TFEU) and to the application of national competition rules. This Regulation aims to protect a different legal interest from that protected by Union competition rules. The Commission should receive information annually from B2C MDMS providers to monitor the evolution of the ticketing markets and their interaction with transport operators and users. Where developments may result in harm to competition, transport operators or users in any of the transport modes and main segments at national and Union level, or the related ticketing services, the Commission may address them under existing tools, including Articles 101 and 102 TFEU or may consider other action such as coordinating with relevant authorities in the Member States. 
+ (14) It follows that the market processes are often incapable of ensuring fair economic outcomes with regard to MDMS providers. Although Articles 101 and 102 TFEU apply to the conduct of MDMS providers, the scope of those provisions is limited to certain instances of market power, for example dominance on specific markets and of anti-competitive behaviour, and enforcement occurs ex post and requires an extensive investigation of often very complex facts on a case-by-case basis. Moreover, existing Union law does not address, or does not address effectively, the challenges to the effective functioning of the internal market posed by the conduct of MDMS providers that are not necessarily dominant in competition-law terms. 
+ (15) In order to protect the interests of consumers and increase their trust in MDMSs, transport products presented to business users and end users on B2B and B2C MDMSs should be displayed in a manner that ensures no transport operator is unfairly favoured over another transport operator. The provisions regarding the neutral display of final price and travel time outlined in this Regulation should be without prejudice to the application of existing rules on paid advertisement 
+ 27 
+ . 
+ (16) In accordance with Regulation (EC) No 1008/2008 of the European Parliament and of the Council 
+ 28 
+ , air carriers fares displayed to the public are to be inclusive of all applicable taxes, and charges, surcharges and fees which are unavoidable and foreseeable at the time of publication. Optional price supplements are to be communicated in a clear, transparent and unambiguous way at the start of any booking process. Air carriers and B2B MDMS providers should ensure that B2C MDMS receive information on fares in such a way that those intermediaries can fulfil their obligations under Article 23 of Regulation (EC) No 1008/2008. When displaying information, B2C MDMS providers are to respect the requirements set out in Directive (EU) 2019/882 of the European Parliament and of the Council 
+ 29 
+ and in particular offer audio-visual options. 
+ (17) B2C MDMS providers and B2B MDMS providers should display greenhouse gas and carbon dioxide equivalent emissions’ data where such information is supplied by transport operators. Making such data visible to users enhances transparency, enables more informed decision-making and supports the broader objective of promoting environmentally sustainable transport choices. By clearly presenting emissions information, MDMS providers can help raise awareness of the environmental impact of different travel options and encourage a shift towards lower-emission alternatives. Since they do not hold the information themselves, MDMS providers should not be bound by any additional obligations on displaying emissions data and should display the data provided by the transport operators in accordance with the applicable legislation. When sharing emissions’ data with MDMS providers, transport operators should comply with the requirements laid down in Regulation (EU) XX/XX (CEEU), including where applicable in accordance with the Commission Implementing Regulation (EU) 2024/3170 
+ 30 
+ , Article 6 of which provides that airlines are only allowed to display flight emissions in accordance with that Implementing Regulation. 
+ (18) The requirements on neutral display should not apply to B2B MDMS providers where their services are used by a transport operator or a group of transport operators at its own offices or sales counters or on websites clearly identified as its own, as there is no risk of one transport operator being favoured over another in such circumstances. 
+ (19) Air carriers from the Union and from third countries should be given equivalent treatment regarding B2B and B2C MDMS services. 
+ (20) Public authorities need data to support the planning of public transport services and the broader mobility system, including the development and evaluation of Sustainable Urban Mobility Plans (SUMPs). MDMS data can help assess the attractiveness of public transport services, verify the adequacy of current offerings (for example, lines, frequencies, timetables, multimodality efficiency), and evaluate infrastructure (for example, bus lanes, cycle tracks). This data can also support the design of new mobility products, packages, and demand studies. 
+ (21) In order to achieve the objective of this Regulation to establish common Union rules for B2C MDMS providers with significant market presence at national or Union level, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission to amend the thresholds for the designation of B2C MDMS providers with significant market presence at national or Union’s level. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making 
+ 31 
+ . In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts. 
+ (22) Implementing powers should be conferred on the Commission to designate B2C MDMS providers with significant market presence in the Union and, in case of discrimination in the third country, require B2B MDMS providers operating in the Union to treat air carriers from that third country in a manner that is equivalent to the treatment of Union air carriers in that third country . Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council 
+ 32 
+ . 
+ (23) Where a provider designated as a B2C MDMS provider with significant market presence in one or several Member States is designated as B2C MDMS provider with significant market power at Union level, the Member States where the B2C MDMS provider was designated as having a significant market remains competent to enforce this Regulation against that B2C MDMS provider for the period preceding its designation as B2C MDMS provider with significant market power at Union level . 
+ (24) The objective of this Regulation, namely to establish common rules for B2B and B2C MDMS providers in relation to transport products offered or used in the Union , cannot be adequately met by Member States acting alone. This is due to the cross-border nature of digital mobility services and the need to ensure interoperability, consistency, and legal certainty across national markets. To avoid market fragmentation and ensure a level playing field for transport operators and MDMS providers across the Union, action at Union level is necessary. As a result, the Union may adopt measures in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve that objective. 
+ (25) Due to market and technological changes some provisions of Regulation (EC) No 80/2009 are no longer relevant, while some provisions remain relevant but are no longer fit for purpose and need to be updated. The specific rules for parent carriers are no longer relevant as airlines have fully divested their CRS ownership. Consequently, the associated auditing and reporting requirements regarding their ownership and structure should also be repealed, since they are intrinsically linked to those rules. The provisions on the protection of personal data are now consistently enforced across the Union under the rules of Regulation (EU) 2016/679 of the European Parliament and of the Council 
+ 33 
+ . Section 6 of Regulation (EC) No 80/2009 on infringements and penalties is superseded by the rules set out in this Regulation. The other remaining provisions of Regulation (EC) No 80/2009 should be retained, as they continue to be relevant and updated to reflect market and technological changes in order to ensure a level playing field between all providers performing similar functions in business-to-business digital reservation services. In particular, the rules on the use of a neutral display should be updated to offer all providers greater flexibility for ranking transport products in accordance with new technological developments. Regulation (EC) No 80/2009 should therefore be repealed and the relevant provisions incorporated into this Regulation, 
+ HAVE ADOPTED THIS REGULATION: 
+ Chapter 1 
+Subject matter, scope and definitions 
+ Article 1 
+ Subject matter 
+ This Regulation establishes a framework to facilitate multimodal and multi-operator passenger mobility through the deployment and use of business-to-consumer multimodal digital mobility services and business-to-business digital mobility services. 
+ It lays down common rules for cooperation that ensure a level playing field for providers of multimodal digital mobility services, business users of such services, as well as the transport operators providing the underlying transport service. It also sets out rules on information to be provided by those providers to business users, end users and public transport authorities. 
+ Article 2 
+ Scope 
+ (1) This Regulation applies to: 
+ (a) providers of business-to-consumer multimodal digital mobility services when they offer transport products to end users in the Union, for journeys within, to or from the Union, except for transport services whose principal purpose is to meet the transport needs of an urban centre or conurbation, including a cross-border conurbation, or to meet the transport needs between such a centre or conurbation and the surrounding area; 
+ (b) providers of business-to-business multimodal digital mobility services when they offer transport products to business users in the Union, or when the transport product's underlying transport service is provided, wholly or partially, with in the territory of the Union ; 
+ (c) transport operators when they have a commercial agreement with one of the providers referred to in points (a) and (b). 
+ (2) Th is Regulation does not apply to online search engines as defined in Article 2, point (5), of Regulation (EU) 2019/1150 . 
+ (3) The obligations set out in this Regulation do not apply to: 
+ (a) B2C MDMS providers which are small or medium-sized enterprise s as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC 
+ 34 
+ ; 
+ (b) B2B MDMS providers which are small or medium-sized enterprises as defined in Article 2 of the Annex to Recommendation 2003/361/EC . 
+ (4) This Regulation is without prejudice to Articles 101 and 102 of the Treaty on the Functioning of the European Union (TFEU) and to the application of national competition rules. 
+ (5) This Regulation is without prejudice to the application of Regulation (EU) XX (RTR) and of other Union legal acts regulating the provision of information society services. 
+ Article 3 
+ Definitions 
+ For the purposes of this Regulation, the following definitions apply: 
+ (1) ‘information society service’ means a service as defined in Article 1(1), point (b) , of Directive (EU) 2015/1535 of the European Parliament and of the Council; 
+ (2) ‘ business-to-consumer multimodal digital mobility service’ or ‘B2C MDMS’ means an information society service which meets all of the following conditions: 
+ (a) it provides end users with traffic and travel information, such as schedules, service availability and fares for transport products; 
+ (b) it distributes online transport products or relinks transport products , with any transport product offered at least partially under a code share arrangement or an interlining agreement being considered as a transport product of the marketing operator only , from two or more transport operators in the same mode, unless those transport operators are part of the same group of transport operators; 
+ (3) ‘business-to-business multimodal digital mobility service’ or ‘B2B MDMS’ means a service provided through IT systems to business users by an entity which provides traffic and travel information, such as schedules, service availability and fares for transport products, with any transport product offered at least partially under a code share arrangement or an interlining agreement being considered as a transport product of the marketing operator only, and with or without the facility to make a reservation or issue tickets on behalf of a client, of two or more transport operators, in the same transport mode, unless those transport operators are part of the same group of transport operators; 
+ (4) ‘journey’ means the end-to-end carriage of passengers, which can include multiple legs and is carried out by one or more operators, using one or more modes of transport; 
+ (5) ‘transport service’ means the carriage of passengers by air, rail, bus, coach or waterborne vessel, available to the public and operated according to a published timetable between a point of departure and a point of arrival; 
+ (6) ‘transport product’ means a tailored transport service linked to a fare; 
+ (7) ‘ ticket’ means valid evidence of the purchase of a transport product; 
+ (8) ‘ transport operator ’ means any carrier that provides transport services or organises transport services on the basis of a cooperation agreement with carriers that are licensed to provide transport services on Union territory; 
+ (9) ‘ group of transport operators ’ means at least two transport operators that together form part of the same undertaking within the meaning of Article 101 TFEU ; 
+ (10) ‘ business user’ means any natural or legal person acting in a commercial or professional capacity using a B2B MDMS, including via subscription, under a commercial agreement with the provider of that B2B MDMS, for the purpose of reserving transport products on behalf of a client; 
+ (11) ‘ end user ’ means any natural or legal person using a B2C MDMS; 
+ (12) ‘client’ means any natural or legal person who is a customer of the business user for the purpose of purchasing a transport product; 
+ (13) ‘ re-linking’ means the redirection of an end user to the relevant online mobility websites or applications where the availability of one or more displayed transport products can be checked and the transport products selected by the end user can be purchased ; 
+ (14) ‘remuneration’ means a booking fee or any other financial compensation paid by the transport operator for the services provided by a B2C MDMS provider or B2B MDMS provider; 
+ (15) ‘fare’ means the amount that the end user, or the client, has to pay for the transport product, in accordance with any conditions applicable to the transport product, such as mandatory seat reservations, and related auxiliary services, such as luggage transfer; 
+ (16) ‘ final price’ means the amount that the end user, or the client, pays when purchasing a transport product and which includes the fare and all charges, applicable taxes, surcharges and booking fees, which are unavoidable and foreseeable at the time when the price is shown on the display; 
+ (17) ‘ public transport authority ’ means any public authority in a Member State responsible for the traffic management or the planning or management of a given transport network or transport service falling within its jurisdiction; 
+ (18) ‘ distribution facilities ’ means features made available by a B2B MDMS provider for providing information on transport operators’ schedules, service availability, fares and related services, for making reservations, for issuing tickets, for any other related services. 
+ Chapter 2 
+ B2C MDMS providers with significant market presence and B2B MDMS providers 
+ Article 4 
+ Designation of B2C MDMS providers with significant market presence 
+ 1. B2C MDMS providers shall, each year, inform the Commission and the Member State of their establishment, of the number and value of tickets sold per transport mode per yea r per Member State. 
+ 2. A B2C MDMS provider shall be designated as a B2C MDMS provider with significant market presence at Union level for each transport mode in which it meets the thresholds laid down in point 1 of Annex I. To that end, a B2C MDMS provider that meets those thresholds shall , for each transport mode concerned, notify that fact to the Commission . A designation pursuant to this paragraph shall take precedence over any designation concerning the same transport mode at national level. 
+ 3. A B2C MDMS provider shall be designated as a B2C MDMS provider with significant market presence at national level for each transport mode in which it meets the thresholds laid down in point 2 of Annex I. To that end, B2C MDMS provider s that meet those thresholds shall , for each transport mode concerned, notify that fact to the national enforcement body of the Member State in which they ha ve met those thresholds. 
+ 4. By way of derogation from the obligation in paragraph 3 of this Article to notify national enforcement bodies when it meets the thresholds laid down in point 2 of Annex I, a B2C MDMS provider that meets the thresholds laid down in both points 1 and 2 of Annex I, shall, for each transport mode concerned, notify only the Commission of that fact. 
+ 5. B2C MDMS providers shall submit all the notifications and information referred to in paragraphs 1 to 4 of this Article by 31 January of the year following the financial year for which the thresholds laid down in Annex I are assessed. By way of derogation from the obligation in paragraphs 2 and 3 of this Article to notify either the Commission or the relevant national enforcement bodies when it meets the thresholds laid down in either points 1 or 2 of Annex I, a B2C MDMS provider that has been designated in accordance with either of those paragraphs shall not be obliged to submit any subsequent notification for the modes of transport concerned unless the thresholds laid down in Annex I are modified in accordance with paragraph 9 of this Article. 
+ 6. For the purposes of assessing whether they meet the thresholds laid down in points 1 and 2 of Annex I, B2C MDMS providers shall take into account all ticket sales of all of their subsidiaries. 
+ 7. The designating authority shall adopt a decision designating a B2C MDMS provider as having significant market presence when they meet the thresholds laid down in points 1 or 2 of Annex I. The Commission shall adopt designation decisions by means of implementing acts. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 17(2). 
+ The designating authority shall take its decision on the basis of the information submitted by the B2C MDMS provider in accordance with paragraphs 1, 2 or 3 of this Article or any other information available to it. The B2C MDMS provider shall communicate to the designating authority, upon its request and within a reasonable timeframe, and in any case within two months, any additional information needed for the purpose of the assessment of its significant market presence. B2C MDMS providers which do not submit the requested information within the established timeframe may be designated, without undue delay, based on any other information available to the designating authority. 
+ The designating authority shall adopt that decision within six months from the notification referred to in paragraphs 2 and 3 of this Article or, where applicable, after an assessment concluding that the B2C MDMS provider meets the thresholds laid down in Annex I, and in any case at the latest by 1 November of the year following the financial year in which the thresholds laid down in Annex I are met. 
+ National enforcement bodies shall notify oftheir decisions, designating a B2C MDMS provider as having significant market presence to the Commission within one month from the adoption of the decision. The Commission shall, without undue delay, publish on a dedicated webpage and keep up to date a list of the B2C MDMS providers designated at national and Union level. 
+ 8. The designating authority shall terminate the designation if, during an uninterrupted period of one year, the B2C MDMS provider has not met the thresholds laid down in points 1 and 2 of Annex I, for the transport mode in which it has been designated. The rules laid down in paragraphs 1 to 7 of this Article shall apply mutatis mutandis to the termination of designation. 
+ 9. The Commission is empowered to adopt delegated acts in accordance with Article 16 concerning the amendment of the thresholds laid down in Annex I, in order to adapt the thresholds to changes in the B2C MDMS market. 
+ Article 5 
+ Conditions for commercial agreements between transport operators and B2C MDMS providers with significant market presence or B2B MDMS providers 
+ 1. B2C MDMS providers shall comply with the rules laid down in this Article in relation to the transport mode for which they have been designated pursuant to Article 4(2) and (3) and in the Member State s to which that designation relates. 
+ 2. When concluding commercial agreements with transport operators, B2C MDMS providers designated as having significant market presence in the transport mode concerned , and B2B MDMS providers, shall: 
+ (a) provide guarantees to ensure that commercially sensitive data shared by transport operators are not disclosed, including to other transport operators using the same MDMS, or to transport operators vertically integrated with the B2C MDMS provider, or to other B2B MDMS providers; 
+ (b) not attach any unfair conditions or exclusivity clauses to the commercial agreement that would , intentionally or otherwise: 
+ (i) hinder or prevent transport operators from concluding commercial agreements with other B2C MDMS providers or B2B MDMS providers for the effective use of their services; 
+ (ii) require the acceptance of any supplementary conditions that, by their nature or according to commercial usage, would not be necessary for the distribution or re-linking of transport products; 
+ (iii) make it a condition that a participating transport operator is forbidden at the same time from using another system or that a participating transport operator is forbidden from freely using alternative reservation systems such as its own direct connect system, internet booking system and call centres; 
+ (c) ensure that where remuneration for the services of the B2C MDMS provider or the B2B MDMS provider is agreed with the transport operator, remuneration levels are based on fair, reasonable and non-discriminatory criteria. 
+ 3. B2B MDMS providers shall: 
+ (a) not reserve any specific loading or processing procedures, any other distribution facilities or any changes to those procedures or facilities, for certain transport operators; 
+ (b) provide the same information to all participating transport operators about changes to their distribution facilities, loading procedures and processing procedures; 
+ (c) ensure that their distribution facilities are separated in a clear and verifiable manner from any transport operator’s private inventory, management facilities and marketing facilities. 
+ Article 6 
+ Conditions for commercial agreements between B2B MDMS providers and business users 
+ 1. Commercial agreements between B2B MDMS providers and business users shall not intentionally or otherwise: 
+ (a) hinder or prevent a business user from subscribing to or using effectively any other similar system; 
+ (b) require the acceptance of additional conditions which are not necessary for the subscription to the B2B MDMS; 
+ (c) impose an obligation to accept specific technical equipment or software; 
+ (d) impose any other unfair or unjustified conditions. 
+ 2. Where a business user is a small enterprise within the meaning of Article 2(2) of the Annex to Recommendation 2003/361/EC it may terminate its commercial agreement with a B2B MDMS provider any time after the first year of that agreement. To that end, it shall give written notice, which shall not exceed three months. In such a case, a B2B MDMS provider shall not be entitled to recover more than the administrative costs directly related to the termination of the commercial agreement. 
+ Chapter 3 
+General obligations of B2C MDMS and B2B MDMS providers in relation to the display and exchange of information 
+ Article 7 
+ Neutral display and ranking criteria 
+ 1. When displaying transport products or a combination of transport products, B2C MDMS providers and B2B MDMS providers shall load and process data provided by transport operators with equal care and in a timely manner. 
+ 2. When B2C MDMS providers and B2B MDMS providers display transport products or a combination of transport products, they shall do so in a neutral and comprehensive manner, without discrimination or bias. 
+ 3. Transport operators shall ensure that the data submitted to B2C MDMS providers and B2B MDMS providers is accurate, up to date and allows the provider to comply with the rules set out in this Article. 
+ 4. B2C MDMS providers and B2B MDMS providers shall apply the criteria referred to in paragraph 5 to rank the transport products and combinations of transport products on a non-discriminatory basis to all transport operators. Those criteria shall not be based on any factor directly or indirectly related to the transport operator’s identity, unless explicitly required by the end user or business user. B2C MDMS providers and B2B MDMS providers shall display transport products and combinations of transport products in such a way that the end user or business user is not misled, and can easily access them, the display criteria are clearly indicated, and the rules set out in this Article are met. 
+ 5. When displaying transport products or a combination of transport products, B2C MDMS providers and B2B MDMS providers shall by default rank the transport products or combinations of transport products based on one or more of the following criteria: 
+ (a) final price; 
+ (b) travel time; 
+ (c) greenhouse gas (GHG) emissions; 
+ (d) CO 2 equivalent emissions; 
+ (e) products including a single-leg transport service ranked by departure time; 
+ (f) products including stops and available subsequent connecting transport services, ranked by departure time and total travel time; 
+ (g) accessible transport services for persons with disabilities or reduced mobility . 
+ 6. B2C MDMS providers and B2B MDMS providers shall always present final prices to end users or business users when displaying transport products or a combination of transport products . For air services, those shall be presented in accordance with Article 23 of Regulation (EC) No 1008/2008. 
+ 7. B2C MDMS providers and B2B MDMS providers shall always allow end users and business users to rank transport products or a combination of transport products on the basis of GHG emissions or CO 2 equivalent emissions. 
+ 8. B2C MDMS providers and B2B MDMS providers shall enable end users and business users to use or combine any of the criteria listed in paragraph 5, points (a) to (g), in any order . 
+ 9. B2C MDMS providers and B2B MDMS providers shall display a transport product only once within a given search result. By way of derogation, in case of code-share arrangements, each of the two code-share transport operators shall be allowed to ask for the relevant transport products to be displayed as their own service, using their own individual carrier designator code. Where more than two transport operators participate in a code-share agreement, identification of the two carriers for the purposes of the display shall fall within the responsibility of the transport operator that actually operates the journey. 
+ 10. When displaying transport products or a combination of transport products, B2C MDMS providers and B2B MDMS providers may use other ranking criteria in addition to those laid down in paragraph 5, if explicitly requested by the end user or client of the business user. When displaying final prices, B2B MDMS providers shall communicate any optional price supplements to business users in a clear and transparent manner. 
+ 11. B2C MDMS providers may accept direct or indirect payment from transport operators in order to display those operators prominently. Such ‘paid prominence’ shall not be one of the default ranking criteria and shall only be available upon request by the end user. The offers to which that criterion has been applied shall be clearly displayed with the indication “ choice of ” or “ sponsored content ” . The effects of the payment on the ranking shall be transparently described. 
+ 12. Flights operated by air carriers subject to an operating ban pursuant to Regulation (EC) No 2111/2005 of the European Parliament and of the Council 
+ 35 
+ shall be clearly and specifically identified by B2C MDMS providers and B2B MDMS providers when they display transport products. The B2C MDMS providers and B2B MDMS providers shall include a specific symbol when they display transport products which shall inform end users and business users of the identity of the operating air carrier as provided for in Article 11 of Regulation (EC) 2111/2005 . 
+ 13. This Article shall not apply to B2B MDMS used by a transport operator or a group of transport operators at its own offices or sales counters, or on direct distribution websites clearly identified as its own. 
+ 36 
+ Article 8 
+ Marketing information data 
+ 1. If any marketing, booking or sales data is provided by a B2C MDMS provider or a B2B MDMS provider at the request of one transport operator, it shall also be made available in a timely manner to all transport operators with whom that provider has concluded a commercial agreement. That data may, and on the transport operator ’ s request, shall, cover all transport operators and business users with whom that provider has concluded a commercial agreement. Only anonymised and aggregated data may be made available. 
+ 2. Transport operators shall not use the data referred to in paragraph 1 in order to identify and influence the choice of the end user or business user. 
+ 3. Where the data referred to in paragraph 1 results from the use by a business user established in the Union of the distribution facilities of a B2B MDMS provider, it shall not identify the business user unless that business user agrees on the conditions for making appropriate use of that data with the B2B MDMS provider. The same shall appl y to the sharing of such data by the B2B MDMS provider with any other party for use by that party for reasons other than billing settlement. 
+ Article 9 
+ Information on greenhouse gas emissions and carbon dioxide equivalent emissions 
+ 1. MDMS providers shall display c lear, transparent and accessible information on the GHG emissions or CO 2 equivalent emissions , as applicable, of transport products, wherever such information is made available by transport operators. That information shall be displayed as provided by the transport operator, in accordance with Regulation (EU) XXX of the European Parliament and of the Council CEEU, including where applicable in accordance with Implementing Regulation (EU) 2024/3170. 
+ 2. If the information referred to in paragraph 1 is not available for all transport products included in a combination of transport products, the B2C MDMS provider or B2B MDMS provider shall specify which transport products the information relates to and explicitly indicate which transport products lack information on GHG emissions or CO 2 equivalent emissions. 
+ 3. When ranking transport products or a combination of transport products on the basis of GHG emissions or CO 2 equivalent emissions, B2C MDMS providers or B2B MDMS providers shall display the transport products or combination of transport products for which such information is not available at the end of the ranking. Where information is only partially available for a part of the journey, B2C MDMS providers or B2B MDMS providers shall display that product in the ranking order lower than the display of transport products or a combination of transport products for which all information is available. 
+ Article 10 
+ Sharing of data with public transport authorities 
+ 1. Upon request of a public transport authority, and provided that they offer transport products within the territory under the responsibility of that authority, B2C MDMS providers shall transmit passenger volumes data in each transport mode covered by the MDMS. Such data shall be used exclusively to improve the effectiveness of public transport policies and sustainable mobility policies falling under the responsibility of that authority. The data shall be aggregated and anonymised. B2C MDMS providers shall only be required to share data already in their possession and shall not be obliged to produce new data in response to a request from a public transport authority. 
+ 2. Requests referred to in paragraph 1 shall clearly indicate the specific objective of transport policies or sustainable mobility policies for which the data is needed. The public transport authority shall not use the data for any other purpose than to support the design, implementation and evaluation of public transport policies. The public transport authority shall not use or share the requested data for commercial purposes. 
+ 3. Public transport authorities shall cover the costs reasonably incurred by the B2C MDMS provider for providing th e data requested by that authority. 
+ Article 11 
+ Equivalent treatment of air carriers in third countries 
+ 1. Without prejudice to international agreements to which the Union or Member States are parties, where a B2B MDMS provider operating in a third country does not treat Union air carriers and carriers from that third country to whom it provides services in an equivalent way with regard to any of the matters covered by this Regulation, the Commission may require, by means of an implementing act adopted in accordance with the procedure referred to in Article 17(2), all B2B MDMS providers operating in the Union to treat air carriers from that third country in a manner that is equivalent to the treatment of Union air carriers in that third country. 
+ 2. For the purposes of paragraph 1, the Commission shall monitor discriminatory or non-equivalent treatment of Union air carriers by B2B MDMS providers in third countries. At the request of a Member State or on its own initiative, the Commission shall investigate potential cases of discrimination against Union air carriers in B2B MDMS in third countries. Before taking a decision in accordance with paragraph 1 , the Commission shall inform the interested parties . 
+ Chapter 4 
+Implementation and enforcement 
+ Article 12 
+ National enforcement bodies 
+ 1. Member States shall designate a national enforcement body to be responsible for the enforcement of this Regulation. Member States shall ensure that their national enforcement body has all the necessary administrative and financial resources and has the necessary expertise to adequately carry out the tasks under this Regulation. 
+ 2. Each Member State shall notify the Commission of the identity of the national enforcement body it has designated in accordance with paragraph 1 and specify the tasks and responsibilities of that body. The national enforcement body shall publish the information about its tasks and responsibilities on its webpage. The Commission shall publish a list of those bodies on a dedicated webpage and keep it up to date. 
+ 3. The national enforcement body of the Member State in which the main establishment of the B2C MDMS provider is located shall have the power to enforce this Regulation in relation to that B2C MDMS provider. 
+ 4. By way of derogation from paragraph 3, and on the basis of a duly reasoned request from the national enforcement body of a Member State where the B2C MDMS provider has been designated as having significant market presence, the power to enforce the obligations laid down in Article 5 (2 ) shall, for the purposes laid down in that request, be transferred to that national enforcement body by the national enforcement body of the Member State in which the main establishment of that B2C MDMS provider is located. 
+ 5. The national enforcement body of the Member State in which the main establishment of the B2B MDMS provider and of the transport operator, respectively, is located shall have the exclusive power to enforce this Regulation in relation to that B2B MDMS provider and that transport operator. 
+ 6. Where a B2C MDMS provider or a B2B MDMS provider does not have any establishment in the Union, any national enforcement body shall be competent to enforce this Regulation in relation to that provider. 
+ 7. Member States shall ensure that their national enforcement body is independent in terms of its organisation, funding, legal structure, and decision-making procedures from any transport operator, B2C MDMS provider, B2B MDMS provider, business user or public transport authority. 
+ Article 13 
+ Tasks of national enforcement bodies 
+ 1. Member States shall ensure the tasks and responsibilities of the national enforcement body are clearly defined and cover at least the following: 
+ (a) promoting awareness of the rights and obligations laid down in this Regulation; 
+ (b) designating B2C MDMS providers with significant market presence in accordance with Article 4; 
+ (c) monitoring compliance with this Regulation and taking measures to ensure its correct implementation; 
+ (d) handling complaints of alleged breaches of this Regulation; 
+ (e) imposing penalties laid down in accordance with Article 15, where the national enforcement body established that the provisions of this Regulation have been breached; 
+ (f) cooperating with national enforcement bodies of other Member States and with the Commission to ensure the coherent enforcement of this Regulation, mutual assistance in market monitoring tasks, enforcement, designation process and complaint handling, including through the exchange of relevant information by electronic means while duly respecting the confidentiality of commercially sensitive data. 
+ 2. National enforcement bodies shall enforce this Regulation in close cooperation with one another . 
+ 3. Where a national enforcement body requests information from a national enforcement body in another Member State in order to carry out its tasks or responsibilities, that information shall be provided without undue delay and, in any event, within one month from receipt of the request. In complex cases, the national enforcement body to whom the request is addressed may extend that deadline to a maximum of three months from receipt of the request. 
+ 4. The national enforcement bodies shall set up and cooperate through a network that convenes regularly and at least once a year, to exchange information in particular on their monitoring, enforcement and implementation work, decision-making principles, and administrative practices. The Commission shall be a member, coordinate and support the work of the network and make recommendations to the network, as appropriate. It shall ensure active cooperation of the appropriate regulatory bodies. 
+ Article 14 
+ Complaints 
+ 1. B2C MDMS providers, B2B MDMS providers or business users shall have the right to lodge a complaint alleging a breach of this Regulation with the national enforcement body of the Member State where they are established alleging a breach of this Regulation, or if they believe they have been unfairly treated, discriminated against or are in any other way aggrieved. 
+ 2. Public transport authorities may lodge a complaint alleging a breach of Article 10 with the national enforcement body of their Member State. 
+ 3. Transport operators shall have the right to lodge complaints alleging a breach of this Regulation with the national enforcement body of the Member State in which their licence to operate on Union territory has been granted, or if they believe they have been unfairly treated, discriminated against or are in any way other way aggrieved. 
+ 4. When they are not located or established in the Union, B2C MDMS provider s , B2B MDMS provider s a nd business user s , as well as a transport operator s whose license was granted by a third country shall have the right to lodge a complaint alleging a breach of this Regulation with the competent national enforcement body of the Member State in which the other party allegedly committing the infringement is established, or which granted its operating licence, or in whose territory the transport services concerned, or a part of those services , were provided. 
+ 5. Where a complaint cannot be lodged in accordance with the rules established in paragraphs 1 to 4, the complaint may be lodged with the national enforcement body of any Member State. 
+ 6. The national enforcement body receiving a complaint pursuant to paragraphs 1 to 5 of this Article shall assess the complaint and, where appropriate, transmit it to the competent national enforcement body of the Member State in accordance with Article 12(1). 
+ 7. National enforcement bodies shall refuse to handle a complaint if another complaint on the same subject between the same parties has already been lodged with another national enforcement body or an effective remedy has been sought before a national court of a Member State. 
+ National enforcement bodies handling a complaint shall inform the national enforcement bodies of the Member States: 
+ (a) in which the B2C MDMS provider or B2B MDMS provider that is subject to the complaint is established; 
+ (b) which granted the operating licence of the transport operator that is subject to the complaint; 
+ (c) in whose territory the transport services were provided. 
+ The national enforcement body handling a complaint may also request relevant information from the national enforcement bodies referred to in the first subparagraph and shall take it into account before taking a decision in relation to the complaint. 
+ 8. On [Publication Office, insert the date of entry into force of this Regulation +2 years], and every two years thereafter, national enforcement bodies shall publish activity reports with statistics including the issues which most frequently gave rise to complaints and information on penalties imposed for breaches of this Regulation. The reports shall not disclose commercially sensitive data. The reports shall be published on the website of the respective national enforcement body by 30 June of the calendar year following the end of the reference period. 
+ Article 15 
+ Penalties 
+ 1. Member States shall lay down the rules on penalties applicable to infringements of this Regulation. Those penalties shall be effective, proportionate, dissuasive and non-discriminatory. 
+ 2. Member States shall notify the Commission of those rules and measures by [date of application of the Regulation] and shall notify it without delay of any amendments to them. 
+ Article 16 
+ Exercise of the delegation 
+ 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article. 
+ 2. The power to adopt delegated acts as referred to in Article 4 (10) shall be conferred on the Commission for a period of five years from [date of entry into force of this act]. The Commission shall draw up a report in respect of the delegation of power no later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period. 
+ 3. The delegation of power may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power set out in that decision. It shall take effect the day following its publication in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force. 
+ 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making. 
+ 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council. 
+ 6. A delegated act adopted pursuant to Article 4 (10) shall enter into force only if no objection has been raised either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council. 
+ Article 17 
+ Committee procedure 
+ 1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011. 
+ 2. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply. 
+ Chapter 5 
+Final provisions 
+ Article 18 
+ Review and report 
+ By [dd/mm/20yy - five years after the date of application of this Regulation], the Commission shall evaluate the implementation of this Regulation and submit a report to the European Parliament and the Council on its main findings. 
+ The report shall, where necessary, be accompanied by appropriate legislative proposals. 
+ Article 19 
+ Repeal 
+ 1. Regulation (EC) No 80/2009 is repealed. 
+ 2. References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex II. 
+ Article 20 
+ Entry into force 
+ This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . 
+ It shall apply from [ DATE XX months after the date of entry into force of this Regulation]. 
+ This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+ Done at Brussels, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The President 
+ [...] 
+ [...] 
+ LEGISLATIVE FINANCIAL AND DIGITAL STATEMENT 
+ 1. FRAMEWORK OF THE PROPOSAL/INITIATIVE 
+ 1.1. Title of the proposal/initiative 
+ Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on Multimodal Booking 
+ 1.2. Policy area(s) concerned 
+ Transport, Digital Services 
+ 1.3. Objective(s) 
+ 1.3.1. General objective(s) 
+ Better functioning of the online ticket distribution market 
+ 1.3.2. Specific objective(s) 
+ Specific objective 
+ Improve transparency and establish a level playing field for transport operators in terms of access and use of indispensable multimodal digital mobility services (MDMS). 
+ 1.3.3. Expected result(s) and impact 
+ Specify the effects which the proposal/initiative should have on the beneficiaries/groups targeted. 
+ The initiative is expected to have positive impacts on MDMS, transport operators (with net benefits for each group), competitiveness and functioning of the internal market as well as innovation. The proposal is also expected to impact modal shift towards more sustainable transport modes, thereby positively impacting transport safety, CO 2 emissions and air pollutants. 
+ 1.3.4. Indicators of performance 
+ Specify the indicators for monitoring progress and achievements. 
+ The main milestones considered for monitoring progress and achievements of the objective are to (i) achieve fair and non-discriminatory commercial agreement negotiations, (ii) ensure unbiased display of travel options for end-users on all MDMS and (iii) minimise unjustified price divergence for identical offers across services. Progress towards this objective will be monitored using four key indicators (compared to the baseline described in the impact assessment accompanying the proposal): (i) the number of transport operators distributing transport products on indispensable MDMS (ii) the number of agreements between MDMS and transport operators, (iii) the number of sanctions imposed and (iv) increased consumer satisfactions scores on travel information availability and bookability. 
+ 1.4. The proposal/initiative relates to: 
+ ☑ a new action 
+ ☐ a new action following a pilot project/preparatory action 
+ 37 
+ ☐ the extension of an existing action 
+ ☐ a merger or redirection of one or more actions towards another/a new action 
+ 1.5. Grounds for the proposal/initiative 
+ 1.5.1. Requirement(s) to be met in the short or long - term including a detailed timeline for roll-out of the implementation of the initiative 
+ Several measures are considered to improve transparency and establish a level playing field for transport operators in terms of access and use of indispensable MDMS: 
+ (a) First the proposal includes measures that ensure fair treatment of information and data on all MDMS. This is done by obliging MDMS to respect neutral display (following display criteria) on their online interface . MDMS will also be required to display information on greenhouse gas emissions, when that information is shared by the transport operator, and to share data for mobility management with public authorities. 
+ (b) It also sets out key principles framing all commercial agreements between indispensable MDMS and transport operators. These rules aim to protect transport operators in their commercial agreements with indispensable MDMS. A notification process at national and EU level is planned to identify and designate B2C MDMS with significant market presence (indispensable ones). 
+ (c) Member States would be required to appoint a national authority to settle disputes that could arise between parties and an EU enforcement network of such authorities would ensure consistent enforcement across the EU. 
+ 1.5.2. Added value of EU involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this section 'added value of EU involvement' is the value resulting from EU action, that is additional to the value that would have been otherwise created by Member States alone. 
+ This initiative will enable end users and, in the case of B2B services, subscribers to benefit from a greater choice of tickets, displayed in a fair and transparent way, across transport operators and modes. This should in turn improve the functioning of the internal market, through a smoother and more coherent booking experience for passengers, and support the EU's objective of economic, social and territorial cohesion. Action at EU level with horizontal rules would support a better functioning of the online ticket distribution market, removing obstacles for operators and MDMS. EU level action for B2B ticket distribution would continue to promote a level playing field in the sector. The 2020 ex-post evaluation of the CRS Code of Conduct concluded that the EU level is the right level for intervention in ticket distribution, compared to national and international intervention. This is due to the multinational nature of both CRS providers and aviation services. If regulated at the national level, CRS providers would need to adapt to a multitude of regulatory regimes with negative impacts on efficiency. In addition, the risk of “rule shopping” would result in fragmentation of the EU single market. At the international level, the International Civil Aviation Organisation (ICAO) has adopted a non-binding CRS Code of Conduct. However, the EU CRS Code of Conduct is binding, making it more effective and adding value compared to the Member States adopting the ICAO code. 
+ 1.5.3. Lessons learned from similar experiences in the past 
+ Lessons can be drawn from the Code of Conduct on Computerised Reservation Systems (CRS): Regulation 2299/89 
+ 38 
+ was adopted to ensure equal treatment of all airlines whose flights were included in a CRS as to promote competition between airlines in the indirect air ticket distribution sector. It introduced requirements for results to be shown on an unbiased display that did not favour the CRS’s parent carriers (or any other carriers) and to ensure that parent carriers did not favour their own CRS over the others as well as to ensure that travel agents and finally consumers have access to offers without bias. The CRS Code of Conduct was evaluated in 2020. The evaluation concluded that the objectives of (i) ensuring a level playing field and (ii) increasing transparency remain relevant. The evaluation showed that the Code has not fully ensured a level playing field for all participating carriers, as regards access to, and use of CRS services, since it did not lead to better balancing of the bargaining power of different-sized air carriers vis-à-vis CRSs. However, the evaluation concluded that the transparency requirements, in the form of the neutral display, remain important, since travel agents, both offline and online, and travel management companies still heavily rely on CRS data especially for business travel. Finally, the evaluation concluded that while promoting rail and multimodal transport remains important, this should be pursued through broader initiatives rather than CRS-specific rules. 
+ 1.5.4. Compatibility with the multiannual financial framework and possible synergies with other appropriate instruments 
+ The proposal is consistent with other EU instruments and relevant EU policies. and in particular: 
+ Digital transport policies : The proposal complements the work done in the context of the ITS Directive which establishes a framework for the deployment of Intelligent Transport Systems in the road sector and its interfaces with other modes of transport. Under the Delegated Regulation on multimodal travel information services (MMTIS), Member States must establish national access points constituting a single point of access for data users to the static, historic, observed and dynamic travel and traffic data of different transport modes, for the purpose of providing multimodal travel information services. Developing MDMS capable of reservations, bookings, or ticketing however re-quires additional data (e.g. real-time fares). 
+ Horizontal data policies : To complement the general principles of the Digital Markets Act in relation to MDMS, sectorial measures are considered in the MDMS proposal to enhance transparent consumer information for transport options. The MDMS proposal is complementary to the Digital Services Act (DSA) provisions as it also supports a safe, predictable, and trusted online environment. The Data Act (DA) has synergies with the MDMS proposal, through harmonised rules on data sharing including rules on Business to Government (B2G) data sharing and rules on unfair contractual agreement terms. 
+ Commercial practices policies : The Platform to Business (P2B) Regulation is applicable to business-to-consumer (B2C) MDMS in the EU and imposes transparency obligations on the parameters used for ranking. The revised Directive on Unfair Commercial Practices prohibits undisclosed advertising and paid promotion for higher ranking of products within search results on MDMS. The MDMS proposal complements these acts with measures that ensure that search results on MDMS are displayed in a neutral way (setting out a list of mandatory ranking criteria and indicating which criterion was used for display), prohibit self-preferencing and paid prominence, allowing advertised content only under certain conditions. 
+ Other initiatives : The CountEmissionsEU and Flight Emission Label initiatives set out a common framework to calculate and report transport-related greenhouse gas emissions. Transparent information applied across modes will enable passengers to choose the most sustainable options for their trips. 
+ 1.5.5. Assessment of the different available financing options, including scope for redeployment 
+ The recurrent adjustment costs for the European Commission are related to the requirement for the European Commission to designate B2C MDMS with SMP at EU-level. This is assumed to require 2 FTE per year from 2028 onwards. 
+ 1.6. Duration of the proposal/initiative and of its financial impact 
+ ☐ limited duration 
+ ☐ in effect from [DD.MM]YYYY to [DD.MM]YYYY 
+ ☐ financial impact from YYYY to YYYY for commitment appropriations and from YYYY to YYYY for payment appropriations. 
+ ☑ unlimited duration 
+ Implementation with a start-up period from YYYY to YYYY, 
+ followed by full-scale operation. 
+ 1.7. Method(s) of budget implementation planned 
+ 39 
+ ☑ Direct management by the Commission 
+ ☑ by its departments, including by its staff in the Union delegations; 
+ ☐ by the executive agencies 
+ ☐ Shared management with the Member States 
+ ☐ Indirect management by entrusting budget implementation tasks to: 
+ ☐ third countries or the bodies they have designated; 
+ ☐ international organisations and their agencies (to be specified); 
+ ☐ the European Investment Bank and the European Investment Fund; 
+ ☐ bodies referred to in Articles 70 and 71 of the Financial Regulation; 
+ ☐ public law bodies; 
+ ☐ bodies governed by private law with a public service mission to the extent that they are provided with adequate financial guarantees; 
+ ☐ bodies governed by the private law of a Member State that are entrusted with the implementation of a public-private partnership and that are provided with adequate financial guarantees; 
+ ☐ bodies or persons entrusted with the implementation of specific actions in the common foreign and security policy pursuant to Title V of the Treaty on European Union, and identified in the relevant basic act 
+ ☐ bodies established in a Member State, governed by the private law of a Member State or Union law and eligible to be entrusted, in accordance with sector-specific rules, with the implementation of Union funds or budgetary guarantees, to the extent that such bodies are controlled by public law bodies or by bodies governed by private law with a public service mission, and are provided with adequate financial guarantees in the form of joint and several liability by the controlling bodies or equivalent financial guarantees and which may be, for each action, limited to the maximum amount of the Union support. 
+ Comments 
+ [...] 
+ 2. MANAGEMENT MEASURES 
+ 2.1. Monitoring and reporting rules 
+ The proposed measure is focused on policy action and monitoring and does not foresee any revenue or expenditure management, only the recruitment of additional human resources (2 FTE). 
+ 2.2. Management and control system(s) 
+ 2.2.1. Justification of the budget implementation method(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed 
+ The expenditure corresponding to these contracts will be managed in line with corporate processes. 
+ 2.2.2. Information concerning the risks identified and the internal control system(s) set up to mitigate them 
+ The Commission applies thorough controls on the management of employment contracts and DG MOVE abides by strict ethical standards. The legislative proposal does not entail any revenue collection and does not require any additional control mechanism. 
+ 2.2.3. Estimation and justification of the cost-effectiveness of the controls (ratio between the control costs and the value of the related funds managed), and assessment of the expected levels of risk of error (at payment & at closure) 
+ The overall risk of errors is expected to be very low and is already covered by the existing control environment. No automated controls are expected to be required. 
+ 2.3. Measures to prevent fraud and irregularities 
+ The legislative proposal does not entail any revenue collection by DG MOVE. Regarding the expenditures, they are foreseen for the hiring of additional human resources. The risk of fraud and irregularities is considered very low and will be covered by existing controls. DG MOVE revised its antifraud strategy in line with OLAF guidelines in 2020 and plans for a subsequent update in 2026. The local strategy includes relevant actions to ensure awareness raising on fraud prevention, dedicated risk assessment actions and ensures an effective and efficient cooperation with investigative bodies. The corporate framework ensures the right of access to information, premises and staff to the external (European Court of Auditors) and internal (IAS) auditors. 
+ 3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE 
+ 3.1. Heading(s) of the multiannual financial framework and expenditure budget line(s) affected 
+ Existing budget lines 
+ In order of multiannual financial framework headings and budget lines. 
+ Heading of multiannual financial framework 
+ Budget line 
+ Type of 
+expenditure 
+ Contribution 
+ Number 
+ Diff./Non-diff. 
+ 40 
+ from EFTA countries 
+ 41 
+ from candidate countries and potential candidates 
+ 42 
+ from other third countries 
+ other assigned revenue 
+ 4 
+ Budget line will be available once we have the new MFF budget structure 
+ Non-diff. 
+ NO 
+ NO 
+ NO 
+ NO 
+ New budget lines requested 
+ In order of multiannual financial framework headings and budget lines. 
+ 3.2. Estimated financial impact of the proposal on appropriations 
+ 3.2.1. Summary of estimated impact on operational appropriations 
+ ☑ The proposal/initiative does not require the use of operational appropriations 
+ ☐ The proposal/initiative requires the use of operational appropriations, as explained below: 
+ 3.2.1.1. Appropriations from voted budget 
+ EUR million (to three decimal places) 
+ Heading of multiannual financial framework 
+ 43 
+ DG: MOVE 
+ Year 
+ 2028 
+ Year 
+ 2029 
+ Year 
+ 2030 
+ Year 
+ 2031 
+ Year 2032 
+ Year 2033 
+ Year 2034 
+ TOTAL MFF 
+ 2028-2034 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 44 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations for DG <.......> 
+ Commitments 
+ =1a+1b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ DG: <.......> 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 45 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations for DG <.......> 
+ Commitments 
+ =1a+1b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ TOTAL operational appropriations 
+ Commitments 
+ (4) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ (5) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes 
+ (6) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations under HEADING <....> 
+of the multiannual financial framework 
+ Commitments 
+ =4+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =5+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Heading of multiannual financial framework 
+ Number 
+ DG: <.......> 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 46 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations for DG <.......> 
+ Commitments 
+ =1a+1b +3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ DG: <.......> 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 47 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations for DG <.......> 
+ Commitments 
+ =1a+1b +3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ TOTAL operational appropriations 
+ Commitments 
+ (4) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ (5) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes 
+ (6) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations 
+ under HEADING <....> 
+of the multiannual financial framework 
+ Commitments 
+ =4+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =5+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ TOTAL operational appropriations (all operational headings) 
+ Commitments 
+ (4) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ (5) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes (all operational headings) 
+ (6) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations 
+ Under Heading 1 to 3 
+of the multiannual financial framework 
+(Reference amount) 
+ Commitments 
+ =4+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =5+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Heading of multiannual financial framework 
+ 4 
+ ‘Administrative expenditure’ 
+ 48 
+ DG: MOVE 
+ Year 2028 
+ Year 2029 
+ Year 2030 
+ Year 2031 
+ Year 2032 
+ Year 2033 
+ Year 2034 
+ Total MFF 2028-2034 
+ Human resources 
+ 0.388 
+ 0.388 
+ 0.388 
+ 0.388 
+ 0.388 
+ 0.388 
+ 0.388 
+ 2.716 
+ Other administrative expenditure 
+ 0.010 
+ 0.010 
+ 0.010 
+ 0.010 
+ 0.010 
+ 0.010 
+ 0.010 
+ 0.07 
+ TOTAL DG MOVE 
+ Appropriations 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 2.786 
+ TOTAL appropriations under HEADING 4 of the multiannual financial framework 
+ (Total commitments = Total payments) 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 2.786 
+ EUR million (to three decimal places) 
+ Year 
+ 2028 
+ Year 
+ 2029 
+ Year 
+ 2030 
+ Year 
+ 2031 
+ Year 2032 
+ Year 2033 
+ Year 2034 
+ TOTAL MFF 
+ 2028-2034 
+ TOTAL appropriations under HEADINGS 1 to 4 
+ of the multiannual financial framework 
+ Commitments 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 2.786 
+ Payments 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 2.786 
+ 3.2.1.2. Appropriations from external assigned revenues 
+ EUR million (to three decimal places) 
+ Heading of multiannual financial framework 
+ Number 
+ DG: <.......> 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 49 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations 
+ for DG <.......> 
+ Commitments 
+ =1a+1b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ DG: <.......> 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 50 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations 
+ for DG <.......> 
+ Commitments 
+ =1a+1b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ TOTAL operational appropriations 
+ Commitments 
+ (4) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ (5) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes 
+ (6) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations 
+ under HEADING <....> 
+ of the multiannual financial framework 
+ Commitments 
+ =4+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =5+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Heading of multiannual financial framework 
+ Number 
+ DG: <.......> 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 51 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations 
+ for DG <.......> 
+ Commitments 
+ =1a+1b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ DG: <.......> 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 52 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations 
+ for DG <.......> 
+ Commitments 
+ =1a+1b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ TOTAL operational appropriations 
+ Commitments 
+ (4) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ (5) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes 
+ (6) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations 
+ under HEADING <....> 
+ of the multiannual financial framework 
+ Commitments 
+ =4+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =5+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ TOTAL operational appropriations (all operational headings) 
+ Commitments 
+ (4) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ (5) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes (all operational headings) 
+ (6) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations under Headings 1 to 6 
+of the multiannual financial framework (Reference amount) 
+ Commitments 
+ =4+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =5+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Heading of multiannual financial framework 
+ 4 
+ ‘Administrative expenditure’ 
+ 53 
+ EUR million (to three decimal places) 
+ DG: MOVE 
+ Year 
+ 2028 
+ Year 
+ 2029 
+ Year 
+ 2030 
+ Year 
+ 2031 
+ Year 2032 
+ Year 2033 
+ Year 2034 
+ TOTAL MFF 
+ 2028-2034 
+ Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Other administrative expenditure 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL 
+ Appropriations 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ DG: <.......> 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Other administrative expenditure 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL DG <.......> 
+ Appropriations 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations under HEADING 4 of the multiannual financial framework 
+ (Total commitments = Total payments) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ EUR million (to three decimal places) 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ TOTAL appropriations under HEADINGS 1 to 7 
+ of the multiannual financial framework 
+ Commitments 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 3.2.2. Estimated output funded from operational appropriations (not to be completed for decentralised agencies) 
+ Commitment appropriations in EUR million (to three decimal places) 
+ Indicate 
+ objectives and 
+ outputs 
+⇓ 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ Enter as many years as necessary to show 
+the duration of the impact (see Section 1.6) 
+ TOTAL 
+ OUTPUTS 
+ Type 
+ 54 
+ Average 
+cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ Total 
+No 
+ Total 
+Cost 
+ SPECIFIC OBJECTIVE No 1 
+ 55 
+ : [...] 
+ - Output 
+ - Output 
+ - Output 
+ Subtotal for specific objective No 1 
+ SPECIFIC OBJECTIVE No 2 
+ - Output 
+ Subtotal for specific objective No 2 
+ TOTALS 
+ 3.2.3. Summary of estimated impact on administrative appropriations 
+ ☑ The proposal/initiative does not require the use of appropriations of an administrative nature 
+ ☐ The proposal/initiative requires the use of appropriations of an administrative nature, as explained below: 
+ 3.2.3.1. Appropriations from voted budget 
+ VOTED APPROPRIATIONS 
+ Year 
+ 2028 
+ Year 
+ 2029 
+ Year 
+ 2030 
+ Year 
+ 2031 
+ Year 2032 
+ Year 2033 
+ Year 2034 
+ TOTAL MFF 
+ 2028-2034 
+ HEADING 4 
+ Human resources 
+ 0.388 
+ 0.388 
+ 0.388 
+ 0.388 
+ 0.388 
+ 0.388 
+ 0.388 
+ 2.716 
+ Other administrative expenditure 
+ 0.010 
+ 0.010 
+ 0.010 
+ 0.010 
+ 0.010 
+ 0.010 
+ 0.010 
+ 0.070 
+ Subtotal HEADING 4 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 2.786 
+ Outside HEADING 4 
+ Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Other expenditure of an administrative nature 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal outside HEADING 4 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 0.398 
+ 2.786 
+ Staff required to implement the proposal: 2 FTE. The estimated impact on expenditure and staffing for 2028 and beyond is added for illustrative purposes only and does not pre-judge the next Multiannual Financial Framework. The source of financing and scope of Union financial commitment in the post-2027 period remain subject to the outcome of interinstitutional negotiations on the MFF 2028-2034 and thereafter shall be determined through the annual budgetary procedure. All appropriations and staffing allocations as of 2028 are indicative 
+ 3.2.3.2. Appropriations from external assigned revenues 
+ EXTERNAL ASSIGNED REVENUES 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ HEADING 7 
+ Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Other administrative expenditure 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Outside HEADING 7 
+ Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Other expenditure of an administrative nature 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal outside HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 3.2.3.3. Total appropriations 
+ TOTAL VOTED APPROPRIATIONS 
+ + 
+ EXTERNAL ASSIGNED REVENUES 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ HEADING 7 
+ Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Other administrative expenditure 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Outside HEADING 7 
+ Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Other expenditure of an administrative nature 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal outside HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ The estimated impact on expenditure and staffing for 2028 and beyond is added for illustrative purposes only and does not pre-judge the next Multiannual Financial Framework. The source of financing and scope of Union financial commitment in the post-2027 period remain subject to the outcome of interinstitutional negotiations on the MFF 2028-2034 and thereafter shall be determined through the annual budgetary procedure. All appropriations and staffing allocations as of 2028 are indicative. 
+ . 
+ 3.2.4. Estimated requirements of human resources 
+ ☐ The proposal/initiative does not require the use of human resources 
+ ☑ The proposal/initiative requires the use of human resources, as explained below 
+ 3.2.4.1. Financed from voted budget 
+ Estimate to be expressed in full-time equivalent units (FTEs) 
+ 56 
+ VOTED APPROPRIATIONS 
+ Year 
+ 2028 
+ Year 
+ 2029 
+ Year 
+ 2030 
+ Year 
+ 2031 
+ Year 2032 
+ Year 2033 
+ Year 2034 
+ Establishment plan posts (officials and temporary staff) 
+ 20 01 02 01 (Headquarters and Commission’s Representation Offices) 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 20 01 02 03 (EU Delegations) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 01 (Indirect research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 11 (Direct research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ External staff (in FTEs) 
+ 20 02 01 (AC, END from the 'global envelope') 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 02 03 (AC, AL, END and JPD in the EU Delegations) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ Admin. support line 
+[XX.01.YY.YY] 
+ at Headquarters 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ in EU Delegations 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 02 (AC, END Indirect research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 12 (AC, END Direct research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) Heading 7 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) Outside Heading 7 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ TOTAL 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 3.2.4.2. Financed from external assigned revenues 
+ EXTERNAL ASSIGNED REVENUES 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ Establishment plan posts (officials and temporary staff) 
+ 20 01 02 01 (Headquarters and Commission's Representation Offices) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 01 02 03 (EU Delegations) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 01 (Indirect research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 11 (Direct research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) 
+ 0 
+ 0 
+ 0 
+ 0 
+ External staff (in full time equivalent units) 
+ 20 02 01 (AC, END from the global envelope) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 02 03 (AC, AL, END and JPD in the EU Delegations) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Admin. support line 
+[XX.01.YY.YY] 
+ - at Headquarters 
+ 0 
+ 0 
+ 0 
+ 0 
+ - in EU Delegations 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 02 (AC, END - Indirect research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 12 (AC, END - Direct research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) - Heading 7 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) - Outside Heading 7 
+ 0 
+ 0 
+ 0 
+ 0 
+ TOTAL 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3.2.4.3. Total requirements of human resources 
+ TOTAL VOTED APPROPRIATIONS 
+ + 
+ EXTERNAL ASSIGNED REVENUES 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ Establishment plan posts (officials and temporary staff) 
+ 20 01 02 01 (Headquarters and Commission's Representation Offices) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 01 02 03 (EU Delegations) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 01 (Indirect research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 11 (Direct research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) 
+ 0 
+ 0 
+ 0 
+ 0 
+ External staff (in full time equivalent units) 
+ 20 02 01 (AC, END from the global envelope) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 02 03 (AC, AL, END and JPD in the EU Delegations) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Admin. support line 
+[XX.01.YY.YY] 
+ - at Headquarters 
+ 0 
+ 0 
+ 0 
+ 0 
+ - in EU Delegations 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 02 (AC, END - Indirect research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 12 (AC, END - Direct research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) - Heading 7 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) - Outside Heading 7 
+ 0 
+ 0 
+ 0 
+ 0 
+ TOTAL 
+ 0 
+ 0 
+ 0 
+ 0 
+ The staff required to implement the proposal (in FTEs): 
+ To be covered by current staff available in the Commission services 
+ Exceptional additional staff* 
+ To be financed under Heading 4 or Research 
+ To be financed from BA line 
+ To be financed from fees 
+ Establishment plan posts 
+ 2 
+ N/A 
+ 0 
+ External staff (CA, SNEs, INT) 
+ 0 
+ 0 
+ 0 
+ Description of tasks to be carried out by: 
+ Officials and temporary staff 
+ The additional work on implementing the Regulation, will require an internal redeployment of 2 establishment posts as from the adoption of the Regulation. 
+ The additional work relates to: 
+ 1) Designation of B2C MDMS with significant market presence (SMP) at EU level: The Regulation introduces a requirement for the EC to designate B2C MDMS with SMP at EU level – this will require EC to deal with notifications received from services providers, monitor developments and monitor the market to ensure that all relevant service providers notify. EC might also need to deal with complaints/further investigations related to the designation process. Over time, EC will need to monitor developments and manage the list of designated entities (with potential additions or removals from the list). 
+ 2) Designation of B2C MDMS with significant market presence (SMP) at national level: this will be handled by national enforcement authorities, however, EC must verify notifications from Member States, coordinate with national enforcement bodies, publish and update dynamic lists on EC website, all while ensuring compliance with strict deadlines. The multi-layered notification and designation processes at both EU and national levels, requiring real-time oversight. 
+ The recurrent burden of assessing notification received, monitoring the EU MDMS market and potentially processing removal requests demands dedicated capacity. Two FTE are therefore foreseen to streamline coordination, reduce delays in designations, and maintain an accurate, up-to-date public register, ensuring market transparency and effective enforcement under the new regulatory framework. Given the required very specialised knowledge and the combination of competences (specialised competition background combined with legal drafting skills), the needs could be fulfilled by 2 AD post. 
+ External staff 
+ 3.2.5. Overview of estimated impact on digital technology-related investments 
+ Compulsory: the best estimate of the digital technology-related investments entailed by the proposal/initiative should be included in the table below. 
+ Exceptionally, when required for the implementation of the proposal/initiative, the appropriations under Heading 7 should be presented in the designated line. 
+ The appropriations under Headings 1-6 should be reflected as "Policy IT expenditure on operational programmes". This expenditure refers to the operational budget to be used to re-use/ buy/ develop IT platforms/ tools directly linked to the implementation of the initiative and their associated investments (e.g. licences, studies, data storage etc). The information provided in this table should be consistent with details presented under Section 4 "Digital dimensions". 
+ TOTAL Digital and IT appropriations 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL MFF 
+ 2021-2027 
+ HEADING 7 
+ IT expenditure (corporate) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Outside HEADING 7 
+ Policy IT expenditure on operational programmes 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal outside HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 3.2.6. Compatibility with the current multiannual financial framework 
+ The proposal/initiative: 
+ ☑ can be fully financed through redeployment within the relevant heading of the multiannual financial framework (MFF). 
+ ☐ requires use of the unallocated margin under the relevant heading of the MFF and/or use of the special instruments as defined in the MFF Regulation. 
+ ☐ requires a revision of the MFF. 
+ 3.2.7. Third-party contributions 
+ The proposal/initiative: 
+ ☑ does not provide for co-financing by third parties 
+ ☐ provides for the co-financing by third parties estimated below: 
+ Appropriations in EUR million (to three decimal places) 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ Total 
+ Specify the co-financing body 
+ TOTAL appropriations co-financed 
+ 3.3. Estimated impact on revenue 
+ ☑ The proposal/initiative has no financial impact on revenue. 
+ ☐ The proposal/initiative has the following financial impact: 
+ ☐ on own resources 
+ ☐ on other revenue 
+ ☐ please indicate, if the revenue is assigned to expenditure lines 
+ EUR million (to three decimal places) 
+ Budget revenue line: 
+ Appropriations available for the current financial year 
+ Impact of the proposal/initiative 
+ 57 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ Article 
+ For assigned revenue, specify the budget expenditure line(s) affected. 
+ [...] 
+ Other remarks (e.g. method/formula used for calculating the impact on revenue or any other information). 
+ [...] 
+ 4. DIGITAL DIMENSIONS 
+ 4.1. Requirements of digital relevance 
+ Otherwise, please list the requirements of digital relevance in the table below: 
+ Reference to the requirement 
+ Requirement description 
+ Actor(s) affected or concerned by the requirement 
+ High-level Processes 
+ Categories 
+ Article 4 
+ B2C MDMS provider shall share data on the number of tickets sold per mode and their value with EC (for EU data) and national enforcement authorities (for national data). 
+ B2C MDMS 
+ European Commission 
+ National Enforcement Authorities 
+ Reporting obligation 
+ Data 
+ Digital public service 
+ Article 6 
+ Commercial agreements between B2B MDMS providers and business suers shall not intentionally or otherwise: (a) prevent a business user from subscribing to or using any other similar system, (b) require the acceptance of additional conditions to be accepted which are not necessary for the subscription to the B2B MDMS, (c) impose an obligation to accept specific technical equipment or software, and (d) impose any other unfair or unjustified conditions. 
+ B2B MDMS 
+ n.a 
+ Data, Commercial agreement 
+ Article 7 
+ B2C and B2B MDMS providers shall load and process data of operators with equal care and shall display transport products of operators in a neutral and comprehensive manner. Article 7 sets out the criteria for the default ranking of transport products and other functionalities of the MDMS. 
+ B2C and B2B MDMS 
+ Data processing and publication 
+ Data 
+ Digital public service 
+ Digital Solution 
+ Article 8 
+ Article 8 sets out requirements for the marketing, booking and sales data provided by B2C MDMS and B2B MDMS providers to participating transport operators. 
+ B2C and B2B MDMS 
+ Data processing and publication 
+ Data 
+ Digital public service 
+ Article 9 
+ Article 9 sets out the requirements related to the information on greenhouse gas emissions and carbon dioxide equivalent emissions. 
+ B2C and B2B MDMS 
+ Disclosure of information 
+ Data 
+ Digital public service 
+ Digital solution 
+ Article 10 
+ Article 10 sets out the requirements for the B2C MDMS sharing of data with public transport authorities. 
+ B2C MDMS 
+ Statistics Reporting obligations 
+ Data 
+ Article 12 
+ Where the national enforcement body requests to receive relevant information, it shall be presented without undue delay and, in any event, within one month from the receipt of the request. 
+ National Enforcement Bodies 
+ B2C MDMS 
+ Policy monitoring and enforcement 
+ Data 
+ Article 12 
+ Cooperation between national enforcement bodies of Member States to ensure a coherent enforcement of this Regulation, mutual assistance in market monitoring tasks and complaint handling, including through the exchange of relevant information by electronic means while duly respecting the confidentiality of commercially sensitive data. 
+ National Enforcement Bodies 
+ Policy monitoring and enforcement 
+ Data 
+ Digital Public Service 
+ Article 12 
+ The national enforcement bodies shall participate in a network that convenes regularly, and at least once a year, to exchange information in particular on their (i) monitoring, enforcement and implementation work, (ii) decision-making principles; and (iii) administrative practices. 
+ National Enforcement Bodies 
+ B2C MDMS 
+ Policy monitoring and enforcement 
+ Data 
+ 4.2. Data 
+ High-level description of the data in scope and any related standards/specifications 
+ Type of data 
+ Reference to the requirement(s) 
+ Standard and/or specification (if applicable) 
+ Data on the number of tickets sold per mode and their value 
+ Article 4 
+ n.a 
+ Operators’ data 
+ Article 7 
+ n.a 
+ Marketing, booking and sales data 
+ Article 8 
+ n.a 
+ Data on greenhouse gas emissions or carbon dioxide equivalent emissions of the transport products 
+ Article 9 
+ CountEmissionsEU and Flight Emission Label standards 
+ Data which may be used to improve the effectiveness of public transport policies and sustainable mobility 
+ Article 10 
+ n.a 
+ Monitoring and enforcement data (information about the thresholds) 
+ Article 12 
+ n.a 
+ Monitoring and enforcement data (in particular as regards disputes between parties) between authorities 
+ Article 12 
+ n.a 
+ Alignment with the European Data Strategy 
+ The conditions for commercial agreements between transport operators and B2C MDMS providers with significant market presence or B2B MDMS providers from Article 5 and Article 6 are mitigating the abuse of contractual imbalances, in line with the DMA. 
+ Alignment with the once-only principle 
+ Any B2C MDMS provider vertically integrated with a railway undertaking designated as having significant railway market presence pursuant to the proposal on rail ticketing shall be designated as a B2C MDMS provider with significant railway market presence at national level and shall not be required to notify the national enforcement body referred to in Article 13 of the Member State in which the railway undertaking is designated as having significant railway market presence. 
+ For the purposes of assessing whether the thresholds laid down in Annex I are met, the designating authority may request B2C MDMS providers to submit all relevant information within a reasonable timeframe, and at the latest within two months. An already designated B2C MDMS provider with significant market presence shall not be subject to such information requests for the transport mode in which it has been designated. B2C MDMS providers which do not submit within the set timeframe the requested information on their significant market presence, may be designated without undue delay, based on information available to the designating authority. 
+ Explain how newly created data is findable, accessible, interoperable and reusable, and meets high-quality standards 
+ Data on indispensable B2C MDMS will be published on the Commission website. 
+ Data flows 
+ For each data flow, please fill the table below: 
+ Type of data 
+ Reference(s) to the requirement(s) 
+ Actor who provides the 
+ Actor who receives the data 
+ Trigger for the data exchange 
+ Frequency (if applicable) 
+ Data on the number of tickets sold per mode and their value 
+ Article 4 
+ B2C MDMS 
+ European Commission, National Enforcement Bodies 
+ Obligation under Art.4/ request from EC or a NEB. 
+ Yearly 
+ Operators’ data 
+ Article 7 
+ Transport operator 
+ B2C and B2B MDMS 
+ Agreement for the display/ distribution of transport tickets 
+ n.a 
+ Marketing, booking and sales data 
+ Article 8 
+ B2B MDMS 
+ Transport operators 
+ Request from a transport operator 
+ n.a 
+ Data on greenhouse gas emissions or carbon dioxide equivalent emissions of the transport products 
+ Article 9 
+ Transport operators 
+ B2C and B2B MDMS 
+ Willingness of the transport operator to share that data. 
+ n.a 
+ Data which may be used to improve the effectiveness of public transport policies and sustainable mobility 
+ Article 10 
+ B2C MDMS ad B2B MDMS 
+ Public transport authorities 
+ Request from a public transport authority 
+ n.a 
+ Monitoring and enforcement data (information about the thresholds) 
+ Article 12 
+ National Enforcement Body/ Member States 
+ European Commission 
+ Change in the list of B2C MDMS with SMP 
+ n.a 
+ Monitoring and enforcement data (in particular as regards disputes between parties) between authorities 
+ Article 13 
+ National Enforcement Body 
+ National Enforcement Body 
+ EU Network for National Enforcement Bodies meetings. 
+ At least once a year 
+ 4.3. For each digital solution, please provide the reference to the requirement(s) of digital relevance concerning it, a description of the digital solution's mandated functionality, the body that will be responsible for it, and other relevant aspects such as reusability and accessibility. Finally, explain whether the digital solution intends to make use of AI technologies . 
+ Digital solution 
+ Reference(s) to the requirement(s) 
+ Main mandated functionalities 
+ Responsible body 
+ How is accessibility catered for? 
+ How is reusability considered? 
+ Use of AI technologies (if applicable) 
+ MDMS 
+ Article 7 
+ Article 9 
+ B2C and B2B MDMS providers shall load and process data of operators with equal care and shall display transport products of operators in a neutral and comprehensive manner. 
+ Clear, transparent and accessible information on the greenhouse gas emissions or carbon dioxide equivalent emissions of the transport products displayed shall be provided by the B2C MDMS providers to end users and by B2B MDMS providers to business users, whenever such information is shared by transport operators. 
+ B2C MDMS providers 
+ B2B MDMS providers 
+ When displaying information, B2C MDMS providers should respect the requirements set in Directive (EU) 2019/882 of the European Parliament and of the Council on the accessibility for products and services, and in particular offer audio-visual options. 
+ The proposal acts in synergy with other of EU legislation affecting digital information services, and in particular the ITS Directive which establishes a framework for the deployment of Intelligent Transport Systems in the road sector and its interfaces with other modes of transport. 
+ n.a. 
+ For each digital solution, explain how the digital solution complies with the requirements and obligations of the EU cybersecurity framework, and other applicable digital policies and legislative enactments (such as eIDAS, Single Digital Gateway, etc.). 
+ Digital solution #1: MDMS 
+ Digital and/or sectorial policy (when these are applicable) 
+ Explanation on how it aligns 
+ AI Act 
+ n.a. 
+ EU Cybersecurity framework 
+ n.a 
+ eIDAS 
+ n.a 
+ Single Digital Gateway and IMI 
+ n.a 
+ Others 
+ n.a 
+ Digital solution #2 
+ Digital and/or sectorial policy (when these are applicable) 
+ Explanation on how it aligns 
+ AI Act 
+ EU Cybersecurity framework 
+ eIDAS 
+ Single Digital Gateway and IMI 
+ Others 
+ 4.4. Interoperability assessment 
+ Describe the digital public service(s) affected by the requirements 
+ Digital public service or category of digital public services 
+ Description 
+ Reference(s) to the requirement(s) 
+ Interoperable Europe Solution(s) 
+ Other interoperability solution(s) 
+ Designation of B2C MDMS providers with significant market presence 
+ An MDMS provider shall be designated as B2C MDMS provider with significant market power for the distribution of transport products for that transport mode (‘significant market presence’) at Union level if it meets the thresholds laid down in point 1 of Annex I. It shall notify the Commission thereof and provide information on the number of tickets sold per mode and their value. 
+ Article 4 
+ n.a. 
+ n.a. 
+ Assess the impact of the requirement(s) on cross-border interoperability 
+ Digital public service #1 
+ Assessment 
+ Measure(s) 
+ Potential remaining barriers (if applicable) 
+ Alignment with existing digital and sectorial policies. 
+ The proposal is coordinated with the proposal on rail ticketing and the proposed revision of the Rail Passenger Rights Regulation, to create a consistent framework that promotes rail single tickets and an ensures good functioning of the online ticketing market. The proposal repeals Regulation (EC) No 80/2009 on a Code of Conduct for Computerised Reservation Systems (‘CRS Code of Conduct’), whilst updating and integrating the provisions of that text that remain relevant. The proposal acts in synergy with other of EU legislation affecting digital information services, and in particular the ITS Directive which establishes a framework for the deployment of Intelligent Transport Systems in the road sector and its interfaces with other modes of transport. Under the Delegated Regulation on multimodal travel information services (MMTIS) Member States must establish national access points constituting a single point of access for data users to the static, historic, observed and dynamic travel and traffic data of different transport modes, for the purpose of providing multimodal travel information services. Addressing the barriers for the development of MDMS capable of reservations, bookings, or ticketing therefore complements this existing set of legislation. Further, this proposal will complement the general principles of the Digital Markets Act and the Data Act by setting sectorial measures in relation to MDMS. The proposal will also complement the revised Directive on Unfair Commercial Practices with measures that ensure that search results on MDMS are displayed in a neutral way (setting out a list of mandatory ranking criteria and indicating which criterion was used for display), prohibit self-preferencing and paid prominence, allowing advertised content only under certain conditions. 
+ This proposal aims to promote a more multimodal and sustainable transport system and contribute to the objectives of the European Green Deal. By requiring that MDMS display information on greenhouse gas emissions and CO 2 emissions, this proposal will also contribute to the objectives of the CountEmissionsEU and Flight Emission Label initiatives, setting out a common framework to calculate and report transport-related greenhouse gas emissions. 
+ n.a. 
+ Organisational measures for a smooth cross-border digital public services delivery. 
+ The Regulation stipulates that each Member State shall designate a national enforcement body responsible for the enforcement of this Regulation. Member States shall ensure that the designated body is provided with the necessary administrative and financial resources and has the expertise needed to adequately carry out the tasks under this Regulation. Article 12 describes the tasks of the national enforcement bodies, including the mutual assistance in market monitoring tasks and complaint handling. 
+ n.a 
+ Measures taken to ensure a shared understanding of the data. 
+ The information on the greenhouse gas emissions or carbon dioxide equivalent emissions shall be provided in accordance with Commission Implementing Regulation (EU) 2024/3170. 
+ Article 7 sets neutral display and ranking criteria obligations for all MDMS providers. 
+ It is important that digital aspects of the information exchange are clearly defined in the implementation of the Regulation, in the context of complaints management and sharing of data with public authorities. 
+ Use of commonly agreed open technical specifications and standards. 
+ The information on the greenhouse gas emissions or carbon dioxide equivalent emissions shall be provided in accordance with Commission Implementing Regulation (EU) 2024/3170. 
+ Article 7 sets neutral display and ranking criteria obligations for all MDMS providers. 
+ It is important that digital aspects of the information exchange are clearly defined in the implementation of the Regulation, in the context of complaints management and sharing of data with public authorities. 
+ 4.5. Measures to support digital implementation 
+ For each measure to support digital implementation, please fill in the table below 
+ Description of the measure 
+ Reference(s) to the requirement(s) 
+ Commission role (if applicable) 
+ Actors to be involved (if applicable) 
+ Expected timeline (if applicable) 
+ Requirement 7 
+ The national enforcement bodies shall participate in a network that convenes regularly to exchange information in particular on their (i) monitoring, enforcement and implementation work, (ii) decision-making principles; and (iii) administrative practices. 
+ The Commission services shall participate in the discussions within the network, and coordinate and support the cooperation on matters of common interest and the exchange of best practices. 
+ National enforcement bodies/ European Commission 
+ At least once a year 
+ (1) 
+ OJ L172, 17.5.2021, p.1. 
+ (2) 
+ ‘Europe’s choice - Political guidelines for the next European Commission 2024−2029: ‘Cross-border train travel is still too difficult for many citizens. People should be able to use open booking systems to purchase trans-European journeys with several providers, without losing their right to reimbursement or compensatory travel. To this end we will propose a Single Digital Booking and Ticketing Regulation, to ensure that Europeans can buy one single ticket on one single platform and get passengers’ rights for their whole trip’. 
+ (3) 
+ COM/2020/789 final . 
+ (4) 
+ OJ L 35, 4.2.2009, p . . 47 . 
+ (5) 
+ OJ L 207, 6.8.2010, p. 1. 
+ (6) 
+ OJ L, 2024/490, 13.2.2024 . 
+ (7) 
+ OJ L 277, 27.10.2022, p. . 1 . 
+ (8) 
+ OJ L 265, 12.10.2022, p. 1 . 
+ (9) 
+ OJ L, 2023/2854, 22.12.2023 . 
+ (10) 
+ OJ L149, 11.6.2005, p. 22 . 
+ (11) 
+ COM (2019)640 final . 
+ (12) 
+ OJ L 243, 9.7.2021, p . 1 
+ (13) 
+ OJ L, 2024/3170 , 31.12.2024. 
+ (14) 
+ COM (2025) 763 final . 
+ (15) 
+ COM/2020/789 final. 
+ (16) 
+ https://europa.eu/eurobarometer/surveys/detail/3178. 
+ (17) 
+ https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13133-Multimodal-Digital-Mobility- Services/public-consultation_en . 
+ (18) 
+ OJ C [...], [...], p. [...] . 
+ (19) 
+ OJ C [...], [...], p. [...] . 
+ (20) 
+ Communication from the Commission 'The European Green Deal', COM(2019) 640 final of 11.12.2019. 
+ (21) 
+ Communication from the Commission ‘Sustainable and Smart Mobility Strategy – putting European transport on track for the future’, COM(2020) 789 final of 09.12.2020 . 
+ (22) 
+ Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 (‘European Climate Law’) (OJ L 243, 9.7.2021, p. 1, ELI: http://data.europa.eu/eli/reg/2021/1119/oj). 
+ (23) 
+ Regulation (EC) No 80/2009 of the European Parliament and of the Council of 14 January 2009 on a Code of Conduct for computerised reservation systems and repealing Council Regulation (EEC) No 2299/89 (OJ L 35, 4.2.2009, p. 47, ELI: http://data.europa.eu/eli/reg/2009/80/oj). 
+ (24) 
+ Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act) (OJ L 277, 27.10.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/2065/oj). 
+ (25) 
+ Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (OJ L 265, 12.10.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/1925/oj). 
+ (26) 
+ Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services (OJ L 186, 11.7.2019, p. 57, ELI: http://data.europa.eu/eli/reg/2019/1150/oj). 
+ (27) 
+ Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council (‘Unfair Commercial Practices Directive’) (OJ L 149, 11.6.2005, p. 22, ELI: http://data.europa.eu/eli/dir/2005/29/oj). 
+ (28) 
+ Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community (OJ L 293, 31.10.2008, p. 3, ELI: http://data.europa.eu/eli/reg/2008/1008/oj). 
+ (29) 
+ Directive (EU) 2019/882 of the European Parliament and of the Council of 17 April 2019 on the accessibility requirements for products and services (OJ L 151, 7.6.2019, p. 70, ELI: http://data.europa.eu/eli/dir/2019/882/oj). 
+ (30) 
+ Commission Implementing Regulation (EU) 2024/3170 of 18 December 2024 laying down detailed provisions concerning the voluntary environmental labelling scheme for the estimation of the environmental performance of flights, established pursuant to Article 14 of Regulation (EU) 2023/2405 of the European Parliament and of the Council (Flight Emissions Label) (OJ L, 2024/3170, 31.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/3170/oj). 
+ (31) 
+ OJ L 123, 12.5.2016, p. 1, ELI: http://data.europa.eu/eli/agree_interinstit/2016/512/oj. 
+ (32) 
+ Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission's exercise of implementing powers (OJ L 55, 28.2.2011, p. 13, ELI: http://data.europa.eu/eli/reg/2011/182/oj). 
+ (33) 
+ Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/679). 
+ (34) 
+ Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36, ELI: http://data.europa.eu/eli/reco/2003/361/oj). 
+ (35) 
+ Regulation (EC) No 2111/2005 of the European Parliament and of the Council of 14 December 2005 on the establishment of a Community list of air carriers subject to an operating ban within the Community and on informing air transport passengers of the identity of the operating air carrier, and repealing Article 9 of Directive 2004/36/EC (OJ L 344, 27.12.2005, p. 15, ELI: http://data.europa.eu/eli/reg/2005/2111/oj). 
+ (36) 
+ Directive (EU) 2019/882 of the European Parliament and of the Council of 17 April 2019 on the accessibility requirements for products and services (OJ L 151, 7.6.2019, p. 70, ELI: http://data.europa.eu/eli/dir/2019/882/oj). 
+ (37) 
+ As referred to in Article 58(2), point (a) or (b) of the Financial Regulation. 
+ (38) 
+ Regulation (EC) No 2299/89 of the European Parliament and of the Council of 24 July 1989 on a code of conduct for computerized reservation systems (OJ L 220, 29.7.1989, p.1, ELI: http://data.europa.eu/eli/reg/1989/2299/oj). 
+ (39) 
+ Details of budget implementation methods and references to the Financial Regulation may be found on the BUDGpedia site: https://myintracomm.ec.europa.eu/corp/budget/financial-rules/budget-implementation/Pages/implementation-methods.aspx. 
+ (40) 
+ Diff. = Differentiated appropriations / Non-diff. = Non-differentiated appropriations. 
+ (41) 
+ EFTA: European Free Trade Association. 
+ (42) 
+ Candidate countries and, where applicable, potential candidates from the Western Balkans. 
+ (43) 
+ The necessary appropriations should be determined using the annual average cost figures available on the appropriate BUDGpedia webpage. 
+ (44) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines), indirect research, direct research. 
+ (45) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines), indirect research, direct research. 
+ (46) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines), indirect research, direct research. 
+ (47) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines), indirect research, direct research. 
+ (48) 
+ The necessary appropriations should be determined using the annual average cost figures available on the appropriate BUDGpedia webpage. 
+ (49) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines), indirect research, direct research. 
+ (50) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines), indirect research, direct research. 
+ (51) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines), indirect research, direct research. 
+ (52) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines), indirect research, direct research. 
+ (53) 
+ The necessary appropriations should be determined using the annual average cost figures available on the appropriate BUDGpedia webpage. 
+ (54) 
+ Outputs are products and services to be supplied (e.g.: number of student exchanges financed, number of km of roads built, etc.). 
+ (55) 
+ As described in point 1.4.2. 'Specific objective(s)...' 
+ (56) 
+ Please specify below the table how many FTEs within the number indicated are already assigned to the management of the action and/or can be redeployed within your DG and what are your net needs. 
+ (57) 
+ As regards traditional own resources (customs duties, sugar levies), the amounts indicated must be net amounts, i.e. gross amounts after deduction of 20% for collection costs.
+
+EUROPEAN COMMISSION
+ Brussels, 13.5.2026
+ COM(2026) 231 final
+ ANNEX
+ to the
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ on multimodal booking and repealing Regulation (EC) No 80/2009
+ {SEC(2026) 300 final} - {SWD(2026) 300 final} - {SWD(2026) 301 final}
+ Annex I 
+ Thresholds for the designation of B2C MDMS providers with significant market presence 
+ 1. A B2C MDMS provider shall be considered to have a significant market presence in the Union if it has sold in the Union during the last financial year, for one of the transport modes in which it provides distribution services, at least: 
+ (a) for air transport, 53.5 million products or products whose total value was of 6 394; 
+ (b) for rail transport, 203 million rail products or products whose total value was 3 832 million EUR; 
+ (c) for bus and coach transport, 318 million products or products whose total value was 18 071 million EUR; 
+ (d) for waterborne transport, 45 million products or products whose total value was 792 million EUR. 
+ 2. A B2C MDMS provider shall be considered to have a significant market presence in a Member State if it has reached in that Member State, within the last financial year, for one of the transport modes in which it provides distribution services one of the two thresholds set out in Table 1. 
+ Member States 
+ Rail transport products 
+ Bus and coach transport products 
+ Waterborne transport products 
+ Transport products sold annually (in ) 
+ Value of transport products sold annually (in millions of EUR) 
+ Transport products sold annually (in ) 
+ Value of transport products sold annually (in millions of EUR) 
+ Transport products sold annually (in ) 
+ Value of transport products sold annually (in millions of EUR) 
+ Transport products sold annually (in ) 
+ Value of transport products sold annually (in millions of EUR) 
+ Austria 
+ 3.51 
+ 419.09 
+ 21.0 
+ 360.4 
+ 7.05 
+ 400.54 
+ 0.00 
+ 0.00 
+ Belgium 
+ 3.31 
+ 395.16 
+ 20.5 
+ 636.4 
+ 1.80 
+ 102.26 
+ 0.30 
+ 5.22 
+ Bulgaria 
+ 1.04 
+ 123.80 
+ 1.7 
+ 22.5 
+ 11.35 
+ 644.84 
+ 0.00 
+ 0.00 
+ Croatia 
+ 1.19 
+ 141.63 
+ 2.2 
+ 21.8 
+ 7.60 
+ 431.78 
+ 11.20 
+ 194.73 
+ Cyprus 
+ 1.28 
+ 152.91 
+ 0.00 
+ 0.00 
+ 2.70 
+ 153.40 
+ 0.00 
+ 0.00 
+ Czechia 
+ 1.86 
+ 222.62 
+ 10.2 
+ 188 
+ 34.75 
+ 1947.28 
+ 0.00 
+ 0.00 
+ Denmark 
+ 3.65 
+ 436.05 
+ 10.9 
+ 165.1 
+ 14.00 
+ 795.39 
+ 13.20 
+ 229.50 
+ Estonia 
+ 0.29 
+ 34.17 
+ 0.8 
+ 12.4 
+ 4.70 
+ 267.02 
+ 4.25 
+ 73.89 
+ Finland 
+ 2.00 
+ 239.10 
+ 5.4 
+ 52.5 
+ 11.45 
+ 650.52 
+ 5.20 
+ 90.41 
+ France 
+ 20.58 
+ 2458.53 
+ 98.8 
+ 2392.1 
+ 75.85 
+ 4309.33 
+ 6.50 
+ 113.01 
+ Germany 
+ 23.01 
+ 2747.83 
+ 205.2 
+ 3201.1 
+ 173.20 
+ 9840.15 
+ 9.80 
+ 170.39 
+ Greece 
+ 7.96 
+ 951.29 
+ 1.3 
+ 38.3 
+ 34.30 
+ 1948.71 
+ 22.70 
+ 394.67 
+ Hungary 
+ 1.77 
+ 211.66 
+ 22.5 
+ 359.4 
+ 48.50 
+ 2755.47 
+ 0.00 
+ 0.00 
+ Ireland 
+ 4.32 
+ 516.44 
+ 5.8 
+ 95.6 
+ 10.10 
+ 573.82 
+ 0.90 
+ 15.65 
+ Italy 
+ 22.09 
+ 2638.22 
+ 57.1 
+ 1142.8 
+ 128.45 
+ 7297.73 
+ 30.85 
+ 536.37 
+ Latvia 
+ 0.65 
+ 77.43 
+ 1.4 
+ 9.4 
+ 4.05 
+ 230.10 
+ 0.30 
+ 5.22 
+ Lithuania 
+ 0.65 
+ 77.52 
+ 0.5 
+ 17.4 
+ 9.70 
+ 551.09 
+ 0.00 
+ 0.00 
+ Luxemburg 
+ 0.36 
+ 42.69 
+ 1.5 
+ 58.2 
+ 0.85 
+ 48.29 
+ 0.00 
+ 0.00 
+ Malta 
+ 0.76 
+ 91.03 
+ 0.00 
+ 0.00 
+ 0.00 
+ 0.00 
+ 4.95 
+ 86.06 
+ 8.22 
+ 981.28 
+ 23.1 
+ 1140.4 
+ 8.45 
+ 480.08 
+ 0.85 
+ 14.78 
+ Poland 
+ 5.93 
+ 708.01 
+ 25.4 
+ 352.9 
+ 127.40 
+ 7238.08 
+ 1.15 
+ 19.99 
+ Portugal 
+ 7.08 
+ 845.82 
+ 13.1 
+ 205.6 
+ 25.80 
+ 1465.80 
+ 0.55 
+ 9.56 
+ Romania 
+ 2.31 
+ 276.39 
+ 5.5 
+ 101.8 
+ 44.90 
+ 2550.94 
+ 0.00 
+ 0.00 
+ Slovakia 
+ 0.29 
+ 35.19 
+ 2.3 
+ 40.8 
+ 7.10 
+ 403.38 
+ 0.00 
+ 0.00 
+ Slovenia 
+ 0.16 
+ 18.77 
+ 1.4 
+ 42.8 
+ 6.95 
+ 394.86 
+ 0.00 
+ 0.00 
+ Spain 
+ 31.76 
+ 3793.07 
+ 56.5 
+ 1174.7 
+ 135.60 
+ 7703.95 
+ 10.95 
+ 190.38 
+ Sweden 
+ 3.42 
+ 408.15 
+ 15.3 
+ 193.9 
+ 15.85 
+ 900.50 
+ 13.05 
+ 226.89
+
+EUROPEAN COMMISSION
+ Brussels, 13.5.2026
+ COM(2026) 231 final
+ ANNEX
+ to the
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ on multimodal booking and repealing Regulation (EC) No 80/2009
+ {SEC(2026) 300 final} - {SWD(2026) 300 final} - {SWD(2026) 301 final}
+ Annex II 
+ Correlation table for the repeal of g Regulation (EC) No 80/2009 
+ 1. 
+ Regulation (EC) No 80/2009 
+ This Regulation 
+ Article 1 
+ Articles 1 and 2 
+ Article 2 
+ Article 3 
+ Article 3 
+ Article 5 
+ Article 4 
+ Article 5 (3) 
+ Article 5 
+ Article 7 
+ Article 6 
+ Article 6 
+ Article 7 
+ Article 8 
+ Article 8 
+ Article 11 
+ Article 9 
+ Article 7 (2) 
+ Article 10 
+ / 
+ Article 11 
+ / 
+ Article 12 
+ / 
+ Article 13 
+ Articles 12 and 13 
+ Article 14 
+ Articles 12 and 13 
+ Article 15 
+ Article 14 
+ Article 16 
+ Article 12 
+ Article 17 
+ / 
+ Article 18 
+ Article 17 
+ Article 19 
+ Article 19 
+ Annex I 
+ Article 7 
+ Annex II 
+ Annex II

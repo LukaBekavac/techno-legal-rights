@@ -1,0 +1,525 @@
+### Revision of the late payments Directive | CELEX 52023PC0533 | text version 52023PC0533 | role proposal
+EUROPEAN COMMISSION
+ Strasbourg, 12.9.2023
+ COM(2023) 533 final
+ 2023/0323(COD)
+ Proposal for a
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ on combating late payment in commercial transactions
+ (Text with EEA relevance)
+ {SEC(2023) 313 final} - {SWD(2023) 312 final} - {SWD(2023) 313 final} - {SWD(2023) 314 final}
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ Every year, around 18 billion invoices are issued in the EU, more than 500 every second 
+ 1 
+ . Reliable payment streams are necessary to make the EU economy , and especially small and medium-sized enterprises ( SMEs ), more competitive . 
+ G oods and services are often supplied on deferred payments : the supplier (the creditor) grants the client (the debtor) a payment term to pay the invoice (trade credit), after the goods are deliver ed or the service agreed on in the contract is provided . Late payments are payments not made within the agreed or legal term. They affect companies in all sectors 
+ 2 
+ and all Member States 
+ 3 
+ and , to a disproportionate degree, severely affect SMEs 
+ 4 
+ . 
+ The root cause of late payments is asymmetries in bargaining power between a large client (debtor) and a smaller supplier (creditor) . This often results in the supplier’s having to accept unfair payment terms and conditions. For debtors, paying late is an attractive form of finance that cost s the debtor nothing but does have a cost for the creditor. This is compounded by the inadequacy of the current EU legal framework, Directive 2011/7/EU (the Late Payment Directive) , which lack s sufficient preventive measures and suitable deterrents, and whose enforcement and redress mechanisms are insufficient 
+ 5 
+ . 
+ The revision of the Late Payment Directive addresses these shortcomings, with the ultimate aims of improving the payment discipline of all concerned actors (public authorities, large companies and SMEs) and protecting companies from the negative effects of payment delays in commercial transactions. 
+ The revision of the Late Payment Directive has been included in the Commission 2023 work programme under the objective ‘A Europe fit for the Digital Age’. 
+ • Consistency with existing policy provisions in the policy area 
+ Improving payment behaviour in commercial transactions is one of the objectives of the Commission Communications Updating the 2020 New Industrial Strategy 
+ 6 
+ and a n SME Strategy for a sustainable and digital Europe 
+ 7 
+ . The revision also follow s up on the recommendations issued by the Fit for Future Platform in the Opinion adopted in December 2021 
+ 8 
+ and the Resolution of the European Parliament of 2019 
+ 9 
+ . This initiative also contributes to the objectives of the Communication “ Long-term competitiveness of the EU: looking beyond 2030 ” 
+ 10 
+ . This revision in fact aims to bring fairness in commercial transactions, increase the resilience of SMEs and supply chains, foster a more widespread use of digitalisation and improve financial literacy of entrepreneurs. The Late Payment Directive is part of the REFIT Scoreboard 
+ 11 
+ . 
+ • Consistency with other Union policies 
+ The Late Payment Directive is closely linked to the Directive on unfair trading practices in business to business (B2B) relationships in the agricultural and food supply chain (the UTP Directive). The legal relationship between the two texts is explained in recitals 17 and 18 and Article 3(1) of the UTP Directive. The UTP Directive does not impinge on the rules, remedies and consequences laid down in the Late Payment Directive. Nor do the provisions of the Late Payment Directive impinge on the rules applicable in the agri-food sector to value-sharing agreements, payments in the context of the school scheme, or certain payments in the sale of grapes, must and wine in bulk in the wine sector. 
+ The Late Payment Directive regulates payments in commercial transactions between contracting authorities and main contractors and between contractors and their subcontractors. Article 71 (3) of Directive 2014/24/EU and Article 88(7) of Directive 2014/25/EU on public procurement provide for the possibility for the Member States to lay down provisions on direct payments to subcontractors. 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ Article 114 of the Treaty on the Functioning of the European Union (TFEU) is the appropriate legal basis for this initiative to achieve its objectives. Article 114 TFEU is the appropriate legal basis for measures aimed at achieving the objectives set out in Article 26 TFEU (harmonising national provisions). 
+ EU action is required to ensure that all Member States have the minimum rules in place to prevent late payments, have the right enforcement and deterrent measures to combat late payments in place, and have adequate means of redress. In this context, the targeted EU intervention by means of this proposal is in line with the principle of subsidiarity. 
+ The current Late Payment Directive is a recast of the first Late Payment Directive (Directive 2000/35/EC), based on Article 95 of the Treaty Establishing the European Community. Its revision is therefore within the joint remit (shared competence) of the EU and its Member States’ governments. 
+ • Subsidiarity (for non-exclusive competence) 
+ Late payment affects all Member States. Facilitating prompt payment requires strict and coordinated rules. Implementing 27 national solutions would likely result in a lack of uniform rules, fragmentation of the single market and higher costs for companies trading across borders. EU action is justified because late payment affects all commercial transactions in public procurement and between companies, regardless of their size. As a revision of existing EU legislation to strengthen its provisions, it can only be done at EU level. 
+ EU action is required to set out provisions on interest and compensation fees, establish clearer payment terms for B2B transactions; set out enforcement and monitoring provisions, ensure that there are synergies in place with the public procurement framework. 
+ • Proportionality 
+ The planned initiative will not go beyond what is necessary to achieve its objectives. It imposes on companies only the cost necessary to achieve those objectives and serve the immediate needs of the people it is intended for (e.g., companies, in particular SMEs) to prevent late payment and bring about prompt payment. 
+ • Choice of the instrument 
+ The instrument chosen is a Regulation, to replace the current Late Payment Directive. A Regulation has numerous advantages, including tackling the cross-border aspect of late payment. With a Regulation, key aspects, such as the maximum term for payments and verification procedures, the rate of interest for late payments and the amount of flat fee compensation, will be the same throughout the EU and directly applicable. At the same time, Member States will be allowed to adopt more stringent provisions on certain aspects. The Regulation lays down obligations regarding enforcement bodies, mediation systems, credit management, financial literacy training and unfair contractual practices and provisions, but it would be for the Member States to complement them according to their national legislation. The new Regulation would also incorporate the provisions of the Late Payment Directive not affected by the revision. 
+ 3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Ex-post evaluations/fitness checks of existing legislation 
+ In 2015 , an ex-post evaluation of the Late Payment Directive 
+ 12 
+ assess ed its relevance, effectiveness, efficiency, coherence, and EU added value . It concluded that the Directive was relevant and efficient and d id not impose any significant costs on companies or public authorities. However, it also noted that fear of damaging commercial relations was stopping creditors who were paid late from assert ing the rights the Directive gives them . The 2021 Opinion of the Fit for Future Platform 
+ 13 
+ presented 10 recommendations o n short - and long - term measures to address late payment. The short -term measures recommended include defin ing what grossly unfair practices and cl a uses mean ; looking into reversing the burden of proof on the debtor to make it easier for creditor s to prove there has been an abuse ; encourag ing SMEs to assert their rights by providing advice and information about payment terms, mak ing payment terms transparent , and self-regulation. The long - term measures recommended include limiting contractual payment terms to a maximum of 30 days for payments from a large company to a SME , e-invoicing and governmental supervis ion. 
+ • Stakeholder consultations 
+ The Commission consulted a broad range of stakeholders, including Member State authorities, companies, in particular SMEs, EU and national business associations, private individuals and academic experts. The consultation activities included a call for evidence, a public consultation, a specific consultation of SMEs (SME Panel), bilateral interviews with key stakeholders and discussions with representatives of Member States. The information gained was used as input for the proposal. 
+ The call for evidence received responses from 137 s takeholders and the public consultation received 117 r esponses between 12 January and 17 March 2023 
+ 14 
+ . The SME P anel 
+ 15 
+ took place between 26 January and 16 March 2023 and obtained 939 responses . 
+ The Commission organised bilateral meetings with key stakeholders representing companies , in particular SMEs 
+ 16 
+ . L ate payment was also discussed on 21 March and 31 May 2023 during meetings of the SME Envoys Network. Two meetings were held with the l ate p ayment e xpert group 
+ 17 
+ on 10 October 2022 and 13 January 2023. A large majority of stakeholders confirmed that late payments heavily affect ed companies, in particular SMEs. 
+ Almost all consulted stakeholder groups expressed their support for revising the Directive. However, some stakeholders pointed out that stricter rules ran counter to the contractual freedom of European companies. Most stakeholders supported the option of capping the payment term in B2B transactions, with a preference for 30 days. Only a few stakeholders were against the idea of limiting payment terms. Many stakeholders supported the option to provide training on credit management and financial literacy and to establish a European Payment Observatory. It emerged from the consultation that interest on and compensation for late payments are rarely paid. Stakeholders were in favour of making the payment of interest automatic. 
+ • Collection and use of expertise 
+ In its collection and use of expertise, t he Commission used the results of existing evaluations and reports : the Ex-post Evaluation of the Late Payment Directive 
+ 18 
+ , the Commission Report to the European Parliament and to the Council on the implementation of the Late Payment Directive (and the supporting S taff Working Document ) 
+ 19 
+ , the European Parliament Resolution on the implementation of the Late Payment Directive 
+ 20 
+ and the Opinion of the Fit for Future Platform on the Late Payment Directive 
+ 21 
+ . 
+ T he results of studies and surveys were also considered : the European P ayment R eports 
+ 22 
+ , the SME Performance Revie ws reports 
+ 23 
+ , the JRC studies on Late Payments and Firms 
+ 24 
+ and on Assessing the economic impact of faster payments in B2B transactions 
+ 25 
+ , and the E uropean Commission studies on B2B transactions 
+ 26 
+ and on ‘ Building a responsible payment culture ’ 
+ 27 
+ . 
+ The Commission has also taken into account several recent European Court of Justice judgments . T he proposed text of the r egulation clarifies that flat fee compensation is due per invoice and not per contract , as established by the preliminary ruling in case C-585/20 of 20 October 2022 
+ 28 
+ . In t he same ruling the C ourt also clarified that the procedure of verification or acceptance of goods or services shall be included in the contract only if the nature of the goods or services warrants such a procedu re . The proposed r egulation also incorporates the judgment in Case C-122/18 of 28 January 2020 that the obligation imposed on Member States by the Directive pertains to the effective compliance by their public authorities with the payment terms it sets out 
+ 29 
+ . Finally, it clarifies the date until late payment interests stop accruing , according to the preliminary ruling in case C-256/15 of 15 December 2016 
+ 30 
+ . 
+ • Impact assessment 
+ The Regulatory Scrutiny Board examined the Impact Assessment report on 10 May 2023 and issued a positive opinion with reservations on 12 May 2023 
+ 31 
+ . The Board’s recommendations were addressed in the final version of the I mpact A ssessment. The Impact Assessment analysed different policy options for achieving three specific objectives. Under the first objective , ‘ to prevent late payment from occurring ’, the policy measures identified (PO1) focus on the negotiation stage of a commercial transaction , because payment delays are often the result of undu e or unfair payment terms in the contract. D ifferent options for the maximum payment term in B2B transactions were assessed, including the maximum duration of the verification procedure to ascertain goods ’ or services ’ compliance with the contract requirements . T he option of making credit management and financial literacy training more widely available to SMEs and making it easier for them to access them, as a preventive measure , was also assessed . Under the second objective , ‘ to facilitate timely payments ’, the policy measures identified (PO2) aim to combat late payment by ensuring that the rules on payment are enforced, and payment terms are respected , by making the payment of interest and compensation compulsory and reviewing the amount of flat fee compensation . Options relating to enforcement and synergies with public procurement procedures were also assessed. For the third objective ‘ t o strengthen redress mechanism s , ensure fair payment conditions and empower companies ’, the policy measures identified (PO3) focus on fairness and the availability of effective redress mechanisms . 
+ The preferred option : the assessment shows that each option has potential benefits but also carries some risks if implemented on its own. The preferred package of measures therefore brings together the most effective sub-options from PO1, PO2 and PO3. The package has several advantages compared to each policy option in isolation, and largely eliminates the inherent risks of each. Capping payment terms, as in PO1a, is likely to be significantly more effective when accompanied by strong enforcement measures and deterrents against paying late, as in PO2a. The dissuasive power of the automatic payment of interest and compensation will increase when the chance to circumvent these provisions by negotiating unfairly long payment terms is eliminated. Measures under PO3b will provide additional support for the package. The impact assessment conservatively assumes that a 35% reduction in late payment is realistic by adding together the reductions in payment delays of 23.4% from PO1, 17.8% from PO2, and 5.5% from PO3, assuming there is some overlap between the different options. The assessment of the option related to the form of the legal act concludes that a Regulation is the preferred form. 
+ Preferred policy package 1a+2a+3b 
+ Capping payment terms at 30 days in B2B transactions 
+ Verification or acceptance procedure capped at 30 days (no derogation) 
+ EU Member States facilitate availability of credit management and financial literacy training, including digital payment tools for SMEs. 
+ Late payment interest is automatic (‘entitlement’ concept eliminated), the ending day for accrual of interest is clarified. 
+ Flat fee compensation owed for each transaction paid late and increased to EUR 50 to reflect inflation. 
+ EU Member States to designate bodies responsible for enforcing the law, carrying out investigations on their own initiative or through complaints, empowered to issue administrative sanctions and publish the name of offenders. Use of digital tools for more effective enforcement. 
+ In public works contracts, contracting authorities and contracting entities must check that payment to the main contractor has been passed onto the direct subcontractors. 
+ EU Member States to set up a national system of mediation to solve payment disputes in commercial transactions. 
+ EU Member States to address the question of unfair contractual terms and practices through their national law 
+ The preferred package generates some one-off costs for businesses. Capping payment terms at 30 days and making the payment of interest mandatory yields one-off adjustment costs for updating standard terms to reflect maximum payment terms (EUR 56.1 million) and adjusted compensation fees (EUR 243 million). However, if both policy options are adopted together, both changes can be made with one adjustment (EUR 243 million). The preferred package imposes on debtors recurring enforcement costs of the automatic payment of compensation (EUR 228.3 million interest, EUR 3.23 billion fees) – a direct benefit for creditors, however – and a recurring enforcement cost of direct regulatory fines (EUR 136.8 million). These costs are avoided completely if companies respect the rules and pay on time. The overall net economic benefit will be positive because cash flows will become more predictable and easier to manage for companies. The administrative costs for main contractors in public works contracts of providing proof of payment to subcontractors amount to EUR 2.2 million for the whole EU. 
+ The preferred option will benefit public authorities in several ways. The main benefit stems from the overall expected reduction in late payments, meaning fewer bankruptcies and associated costs for the public purse. The administrative fines that national enforcement bodies may collect from companies that pay late, estimated at up to EUR 136.8 million, can also help defray the enforcement bodies’ costs. Public authorities should also benefit from the mediation systems envisaged in PO3b, both directly (if the public authority wishes to settle a dispute with a supplier) and indirectly (through relief on the judicial system). 
+ Public authorities will have some costs to bear. Providing access to credit management and financial/digital literacy training entails some adjustment costs, depending on how Member States structure their support, which is why no definitive estimate of costs can be given. Recurring enforcement cost estimates for the automatic payment of compensation interest and fees in government to business (G2B) transactions amount to EUR 37.2 million and EUR 0.53 billion a year respectively. These costs can be avoided by paying on time. The revision of standard contractual conditions to include new compensation fees assumes a cost of EUR 10 per body, as in PO2. Member States that do not have enforcement bodies or mediation systems in place will have to set them up and run them, incurring recurring enforcement costs estimated at EUR 60-65 million a year (enforcement bodies) and EUR 10-40 million a year (mediation services) for the EU. Verifying that subcontractors are paid on time in public works contracts under the Public Procurement Directives is left to Member States’ discretion, in which case a possible recurring enforcement cost would not require additional resources. 
+ This initiative contributes to the achievement of several Sustainable Development Goals (SDGs). By contributing indirectly to economic growth, it will create a better business environment in the single market (SDG 8). Stakeholder consultations have confirmed that late payment is the main cause of anxiety and stress and undermines trust in the market. Increasing the availability of and making it easier to access credit management and financial literacy improves quality education (SDG 4). By making things fairer, by increasing SMEs’ access to financial services, including affordable credit, and making it easier for them to integrate into value chains and markets, this revision contributes to the achievement of SDG 9. This revision is compliant with the climate-neutrality objectives of Regulation EU 2021/1119 of the European Parliament and of the Council of 30 June 2021. 
+ • Regulatory fitness and simplification 
+ The proposed Regulation will simplify matters with a uniform and binding approach to combating late payment, applicable to companies of all sizes, with no exceptional treatment for SMEs. All measures have been conceived of with SMEs in mind, but companies of all sizes will ultimately benefit from them. However, as microenterprises are more affected by late payments than other SMEs, the expected benefits are more likely to materialise as better performance of companies with zero to nine employees. 
+ The benefits of simplification will come from setting strict and unifo r m payment terms that will result in less time-consuming negotiations . Capping payment terms will diminish the ‘fear factor’ experienced by smaller market players who currently often accept unfair payment terms when dealing with bigger market players . At least 30% of EU SMEs are expected to benefit directly from this provision. C ombining the c apping of payment terms with deterrent s such as making interest and ( increased ) compensation automatically due, should reduce the number of invoices paid late , as well as significantly reducing the costs associated with the hassle involved in and the time spent chasing up late payers. The number of person-days a year a company spends chasing up late payments has been estimated from 5 days in Germany to over 15 days in Spain 
+ 32 
+ . Even based on very conservative assumptions, a n annual total of 27.4 million man-hours could be saved for the EU-27 economy, the equivalent of EUR 5 845 . 4 million , by deterring late payment . 
+ Capping the length of the payment term and the verification procedure will help to make cash flows more predictable . The proposal will also redistribute the financial burden and costs on fair terms, by making sure that each company pays for the liquidity it needs. As matters stand, it is very administratively burdensome for smaller companies, or companies with a weaker market position, to obtain financing at a cost that factors in their level of risk. At the same time, late payments give companies in a less risky position, and for whom it is easier and less costly to obtain financing, hassle-free commercial credit. 
+ Finally, the proposal will make it easier for companies to assert their rights by facilitating access to effective redress through mediation, where currently a judicial procedure is the only available, and often more costly and time-consuming, option. Mediation would allow companies to save EUR 27 million a year in avoided court cases. 
+ • Impact on competitiveness 
+ The proposal is likely to have a positive impact on price/cost and innovation competitiveness. With an increased, more stable and predictable aggregated cash flow, companies have more liquidity to invest in innovation or can pass cost reductions on to consumers. The cost of financing goes down as banks directly finance their own clients’ risks. The proposed initiative would also make the conditions for doing business more predictable, resulting in a more favourable business environment. It is expected to benefit all market players, but to have a greater impact on SMEs than on large companies. Large companies are more likely than SMEs to pay late, so they are more likely to bear some of the costs identified in the preferred policy option. 
+ From an international competitiveness point of view , companies conducting import or export transactions are bound to come up against mismatches in the length of payment terms (between their accounts payable and receivable). Companies will need to manage the risks aris ing from the se mismatches, for example by agreeing with their international partners on the law applicable to the contract, which will define which party is assuming those risks. It is then up to th at party to find an appropriate way of funding th e mismatch . This is assuming that the risks, including the risk of not being paid, are addressed under market conditions by trade finance providers ( by means, for example, of cash in advance, a letter of credit, open account s or consignment s 
+ 33 
+ ). These trade finance solutions significantly limit the impact of the introduction of a mandatory cap on payment terms. 
+ The risk that, in international transactions, companies would systematically choose long payment terms under the laws of non-EU countries to undercut companies insisting on EU rules, is also estimated to be limited. Many EU partner countries, such as Canada, the US, Türkiye and the UK, already impose legislation on late payments. This scenario has not really materialised in the EU, where some countries such as the Netherlands have imposed stricter legislation on payments than others. 
+ • ICT developments taken into account 
+ The Late Payment Directive came into force in a world that was significantly less digital. In the 10 years of its implementation, digitalisation has had a profound impact on all aspects of society, including how companies are managed, transforming how companies communicate or market their products and services. This proposal’s measures fit into this contemporary mould and are therefore ‘digital by default’. 
+ Digital tools and solutions play a significant role in some of the proposed measures and will affect their feasibility and cost-effectiveness. This is the case for the obligation to designate bodies responsible for enforcing payment rules. Member States are also asked to encourage SMEs to use digital tools that help getting paid faster, and to make it easier for them to access financial literacy and credit management training, including training on how to use digital payment tools. 
+ • Fundamental rights 
+ The proposal will support the implementation of Article 16 of the Charter of Fundamental rights concerning the freedom to conduct a business. Prompt payments increase trust in the market and spur entrepreneurship. 
+ 4. BUDGETARY IMPLICATIONS 
+ The proposal is expected to have a certain budgetary impact on Member States. This impact is described in the relevant section of the impact assessment. 
+ The proposal is not expected to affect the EU budget in any way . The current EU P ayment O bservatory 
+ 34 
+ could support the monitoring of the proposal using existing resources . 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation, and reporting arrangements 
+ The degree of success of the initiative will be measured in terms of its reaching these targets: 
+ · reducing by 35% the proportion of companies that report late payments as a problem (progress will be measured against the benchmark value from the 2022 S urvey on the A ccess to F inance of E nterprises for all companies: the target is 28%, from a baseline of 43%); 
+ · reducing by 35% the proportion of companies in each individual size class that report late payments as a problem (progress will be measured against the baseline values from the 2022 S urvey on the A ccess to F inance of E nterprises for size classes ( the target is between 26% and 31%, from a baseline of 40% to 47%). 
+ The Commission will monitor and evaluate the impacts of the policy options on late payments, 4 years after the entry into force of the proposed Regulation. The application of EU rules and their impact could be monitored in annual reports produced by Member States on their own initiative, complemented by private sector reports produced by third parties. Such reports usually contain details of payment performance in B2B transactions in Member States and compliance with EU rules, as well as the activity of enforcement authorities in terms of, for example, the number of complaints received and the number of investigations launched. The annual reports should be discussed by the Commission and the national competent authorities. The current EU Payment Observatory could also provide support, in the form of thematic reports, where necessary. 
+ There is more information, including a non-exhaustive list of possible monitoring indicators, in Annex 24 to the Impact Assessment. 
+ • Detailed explanation of the specific provisions of the proposal 
+ Article 1 (Scope) confirms the current scope and clarifies that the regulation will not apply to payments for transactions with consumers, payments made as compensation for damages, payments in relation to debts that are subject to insolvency proceedings, including proceedings that are subject to debt restructuring. The current Late Payment Directive mentions all these exceptions, but this new text makes it clearer by putting them all together in Article 1. 
+ Article 2 (Definitions) keeps most of the current Directive’s definitions, and adds new definitions of the ‘procedure of acceptance or verification’, ‘debtor’ and ‘creditor’. 
+ Article 3 (Payment periods) is stricter than the current Directive’s Articles 3 and 4, by limiting the payment period and the duration of the procedure of acceptance or verification to a maximum of 30 days, and by eliminating any reference to the concept of grossly unfair practices and clauses. 
+ The exceptions for a maximum payment period of 60 days for healthcare and public authorities carrying out economic activities, as set out in Article 4(4)(a) and Article 4(4)(b) of the current Directive, are removed. 
+ The Article explains that the provisions of this Regulation are without prejudice to shorter periods which may be provided for in national law. 
+ Article 4 (Payments to subcontractors in public procurement) is a new provision to support that payments are passed down the supply chain in contracts for public works, by requiring the main contractor to prove that direct subcontractors have been paid. 
+ Article 5 (Interest for late payment) is a new provision. It builds on the provisions in Articles 3 and 4 of the current Directive and clarifies that interest for late payment is automatically due when the necessary conditions are satisfied. It also requires the debtor to give the creditor all the information they need to ensure an invoice can be accepted. This new Article 5 also clarifies that interest for late payment accrues until payment of the principal, in line with case law. 
+ Article 6 (Rate of the interest for late payment) is new. It harmonises the rate of interest for late payment. 
+ Article 7 (Payment schedules) reflects what is in Article 5 of the current Directive. 
+ Article 8 (Compensation for recovery costs) corresponds to Article 6 of the current Directive. It brings lump sum compensation into line with inflation and clarifies that this lump sum is payable for each individual transaction that is paid for late. 
+ Article 9 (Null and void contractual terms and practices) is new. It replaces Article 7 of the current Directive. It removes the concept of ‘grossly unfair’ and lays down a list of practices null and void under the Regulation. 
+ Article 10 (Retention of title) corresponds to Article 9 of the current Directive. 
+ Article 11 (Transparency) corresponds to Article 8 of the current Directive. 
+ Article 12 (Recovery procedures for unchallenged claims) corresponds to Article 10 of the current Directive. 
+ Article 13 (Enforcement authorities) is new. It states that Member States are obliged to designate national authorities responsible for enforcing the Regulation, who are to cooperate with the Commission and with other relevant national enforcement authorities. 
+ Article 14 (Powers of enforcement authorities) is new. It lists the powers enforcement authorities must have to ensure the Regulation is enforced. 
+ Article 15 (Complaints and confidentiality) is new. It sets out the conditions under which creditors and associations of creditors can complain about late payments, as well as the obligations of the enforcement authorities in relation to complaints. 
+ Article 16 (Alternative dispute resolution) is new. It promotes the voluntary use of effective and independent alternative dispute resolution mechanisms for a quicker settlement of disputes between creditors and debtors, without damaging their commercial relationship. 
+ Article 17 (Digital tools, credit management and financial literacy training) is new. Its aim is to ensure the use of digital tools for enforcing the Regulation and the promotion of credit management tools and financial literacy training for SMEs, to reduce late payment. 
+ Article 18 (Report), corresponds to Article 11 of the current Directive, and states that the Commission is to report on the implementation of the Regulation 4 years after its entry into force. 
+ Article 19 (Repeal) is the equivalent of Article 13 of the current Directive, adapted to a Regulation. 
+ Article 20 (Entry into force and application) is the equivalent of Article 14 of the current Directive, adapted to a Regulation. 
+ 2023/0323 (COD) 
+ Proposal for a 
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ on combating late payment in commercial transactions 
+ (Text with EEA relevance) 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Economic and Social Committee 
+ 35 
+ , 
+ Acting in accordance with the ordinary legislative procedure, 
+ Whereas: 
+ (1) Most goods and services are supplied within the internal market by economic operators to other economic operators and to public authorities on a deferred payment basis whereby the supplier gives its client time to pay the invoice, as agreed between parties, as set out in the suppliers’ invoice, or as laid down by law. 
+ (2) Many payments in commercial transactions between economic operators or between economic operators and public authorities are made later than agreed in the contract or laid down in the general commercial conditions or by law. 
+ (3) Late payments directly affect liquidity and predictability of cash flows, thus increasing working capital needs and compromising a company’s access to external financing. This affects competitiveness, reduces productivity, leads to redundancies, increases the likelihood of insolvencies and bankruptcies and is a critical barrier for growth. The damaging effects of late payments spread along supply chains, as the payment delay is often passed onto suppliers. Small and medium sized enterprises (SMEs), who rely on regular and predictable streams of cash, are heavily affected by those negative consequences. Late payment thus represent s a problem for the Union economy because of its negative economic and social consequences. 
+ (4) Although j udicial claims related to late payment are already facilitate d by Regulations (EC) No 805/2004 
+ 36 
+ , (EC) No 1896/2006 
+ 37 
+ , (EC) No 861/2007 
+ 38 
+ and (EU) No 1215/2012 
+ 39 
+ of the European Parliament and of the Council , in order to discourage late payment in commercial transactions it is necessary to lay down complementary provisions. 
+ (5) Undertakings should be able to trade throughout the internal market under conditions which ensure that transborder operations do not entail greater risks than domestic sales. Distortions of competition would ensue if substantially different rules applied to domestic and transborder operations. 
+ (6) Directive 2011/7 /EU of the European Parliament and of the Council 
+ 40 
+ lays down rules to combat late payment in commercial transactions. In 2019, the European Parliament identified several shortcomings of that Directive . The SME Strategy for a sustainable and digital Europe 
+ 41 
+ called for ensuring a ‘late-payment-free’ environment for SMEs and strengthening the enforcement of Directive 2011/ 7 /EU . In 2021, the Fit for Future Platform highlighted critical issues in the implementation of that Directive in its opinion. The main shortcomings identified in these initiatives are related to : the ambiguous provisions on ‘grossly unfair’ regarding the deadlines for payment in b usiness to b usiness transactions (B2B) , the unfair payment practices and the deadlines for the procedures of acceptance and verification; the flat fee compensation ; the asymmetry of rules for payments terms between G2B and B 2B transactions ; the lack of a maximum payment t erm for commercial transactions in B 2B transactions ; the lack of monitoring of compliance and enforce ment ; the absence of tool s to combat the asymmetries of information ; as well as tools for creditors to take action against their debtors , and the lack of synergies with the public procurement framework. 
+ (7) To address th o se shortcomings, Directive 2011/7 /EU should be rep laced . 
+ (8) Provisions should be laid down to prevent late payments in commercial transactions, consisting in the delivery of goods or supply of services for remuneration, irrespective of whether they are carried out between undertakings or between undertakings and contracting authorities /entities , where the latter are the debtor, given th ese contracting authorities/entities handle a considerable volume of payments to undertakings. 
+ (9) Public work contracts and building and engineering works are very often subject to excessively long payment terms and delays. Therefore, this Regulation should also apply t o these activities. 
+ (10) T ransactions with consumers, payments made as compensation for damages, including payments from insurance companies, and obligations to pay that can be cancelled, postponed , or waived under or in relation to insolvency proceedings or restructuring proceedings , including preventive restructuring proceedings under Directive (EU) 2019/1023 
+ 42 
+ of the European Parliament and of the Council , should be excluded from the scope of this Regulation . 
+ (11) Late payment constitutes a breach of contract which is financially attractive to debtors, due to low or no interest rates charged on late payment, or slow procedures for redress. A decisive shift to a culture of prompt payment, including one in which the exclusion of the right to charge interest for late payment is null and void , is necessary to reverse this trend and to discourage late payment. Consequently, contractual payment periods should be limited to 30 calendar days both in B 2B transactions and G 2B transactions , where the public authority is the debtor . 
+ (12) The procedures of acceptance or verification for ascertaining the conformity of the goods or services provided with the requirements of the contract, as well as verification of the correctness and conformity of the invoice, are often used to delay intentionally the payment period. Their inclusion in the contract should therefore b e objectively justified by the particular nature of the contract in question or by certain of its characteristics 
+ 43 
+ . It should therefore be possible to provide for s uch procedure of verification or acceptance in a contract only when provided for in national law where necessary, due to the specific nature of the goods or services . To avoid that the procedure of acceptance or verification is used to extend the payment period , the contract should clearly describe the details of such procedure , including its duration. For the same purpose, t he debtor should initiate the verification or acceptance procedure immediately upon reception from the creditor of the goods and/or the services that are the object of the commercial transaction, regardless of whether the creditor has issued an invoice or equivalent request for payment. In order not to jeopardise the achievement of the objectives of this Regulation, it is appropriate to set a maximum duration of a procedure of acceptance or verification. 
+ (13) This Regulation should be without prejudice to shorter periods which may be provided for in national law , and which are more favourable to the creditor . 
+ (14) Public procurement can play a significant role in improving payment performance. Enhanced synergies should therefore be put in place between public procurement policies and rules and prompt payment objectives. Particularly in public construction works, subcontractors are often not paid on time by the main contractor, even when the contracting authorities or contracting entities have made the contractual payments to them, thus potentially creating a damaging domino-effect in the supply chain. It is therefore appropriate that contractors provide evidence to contracting authorities and contracting entities of payments to their direct subcontractors . 
+ (15) In the interest of consistency of Union legislation, the definition of ‘contracting authorities’ and ‘contracting entities’ in Directive s 2014/23/EU 
+ 44 
+ , 2014/24 /EU 
+ 45 
+ , 2014/25/EU 
+ 46 
+ and 2009/81/EC 
+ 47 
+ of the European Parliament and of the Council should apply for the purpose s of this Regulation. 
+ (16) I nterest due for late payment should be calculated on a daily basis as simple interest. I nterest for late payment is an accessory to the amount due. The debtor shall then be deemed to have extinguished its obligations only when the creditor will receive the payment of the amount due , including the corresponding interests and flat fee compensation. The amount of the late payment interest should continue accruing until the payment of the amount due to the creditor. 
+ (17) It should not be possible for the creditor to waive its right to obtain interests for late payments, as interests for late payments have a double function: to offset part of the damage suffered by the creditor, because of the delay, and to sanction the debtor for the breach of contract. To facilitate receipt of interest and compensation in case of late payment by the creditor , the right for the creditor to obtain them should be automatic, except when the payment delay is not due to the debtor’s fault. 
+ (18) Fair compensation of creditors for the recovery costs incurred due to late payment is necessary to discourage late payment. These costs should include the recovery of administrative costs and compensation for internal costs incurred due to the late payment and should be cumulated with interest for the late payment for every single commercial transaction that has been paid late as determined by the Court of Justice 
+ 48 
+ . The fixed minimum sum of compensation for the recovery costs should be determined without prejudice to national provisions according to which a national court may award compensation to the creditor for any additional damage regarding the debtor’s late payment. 
+ (19) It should be possible to make payments by instalments or staggered payments. However, each individual instalment or payment should be paid on the agreed terms and should be subject to the rules for late payment set out in this Regulation . 
+ (20) In addition to the fixed sum to cover internal recovery costs, creditors should also be entitled to reasonable compensation of other recovery costs they incur because of late payment by a debtor. Such costs should for example include the costs incurred by creditors in instructing a lawyer or employing a debt collection agency. 
+ (21) Abuse of freedom of contract to the disadvantage of the creditor should be avoided. As a result, where a clause in a contract or a practice relating to the d ate or term of payment, the payment or rate of interest for late payment, the compensation for recovery costs , extending the duration the procedure of verification or accept a nce or intentionally delaying or preventing the moment of sending the invoice is not in conformity with this Regulation, it should be null and void. 
+ (22) To enhance the efforts to prevent the abuse of freedom of contract to the detriment of creditors, organisations officially recognised as representing creditors or organisations with a legitimate interest in representing undertakings should be able to take action before national courts or administrative bodies in order to prevent late payments. 
+ (23) To guarantee full payment of the amount due, it is important to ensure that the seller retains the title to goods until they are fully paid for , if a retention of title has been expressly agreed between the buyer and the seller before the delivery of the goods. 
+ (24) To ensure correct application of th is Regulation, it is important to provide transparency regarding the rights and obligations as laid down by this Regulation. To ensure that the correct rates of interest are applied, it is important that the y are made public by the Member States and the Commission. 
+ (25) The sanctions for late payment can be dissuasive only if they are accompanied by procedures for redress which are rapid and effective for the creditor. Expedient recovery procedures for unchallenged claims should therefore be available to all creditors who are established in the Union. 
+ (26) To facilitate and ensure compliance with this Regulation, Member States should designate authorities responsible for its enforcement , which perform their duties and tasks in an objective and fair manner and ensure equal treatment of private undertakings and public authorities . Those enforcement authorities should carry out investigations on their own initiative , act on complaints, and be empowered , among other things, to i mpose sanctions and publish the ir decisions on a regular basis . In addition, f or more effective enforcement, Member States should use digital tools to the extent possible. 
+ (27) To ensure easy and accessible means of redress, Member States should promote the voluntary use of effective and independent alternative dispute resolution mechanism to solve payment disputes in commercial transactions. 
+ (28) Invoices trigger requests for payment and are important documents in the chain of transactions for the supply of goods and services, inter alia, for determining payment deadlines. I t is important to promote systems that give legal certainty as regards the exact date of receipt of invoices by the debtors, including in the field of e-invoicing where the receipt of invoices could generate electronic evidence, and which is partly governed by the provisions on invoicing contained in Council Directive 2006/112 /EC 
+ 49 
+ and Directive 2014/55 /EC 
+ 50 
+ of the European Parliament and the Council . 
+ (29) Effective access of undertakings, especially of SMEs , to credit management and financial literacy training can have a significant impact in reducing payment delays, maintaining optimal cash flows, reducing the risk of default and increasing the potential for growth. Nevertheless, SMEs often lack the capacity to invest in such training, while very limited trainings and training material focusing on enhancing SMEs’ knowledge of credit and invoice management are currently available. It is therefore appropriate to provide that Member States need to ensure that credit management and financial literacy training s are available and accessible to SMEs, including on the use of digital tools for timely payments. 
+ (30) Certain provisions in this Regulation are linked to th e provisions in Directive (EU) 2019/633 o f the European Parliament and of the Council 
+ 51 
+ . Th e relationship between Directive s 2011/7 /EU and (EU) 2019/633 is explained in r ecitals (17) and (18) and Article 3(1) of Directive (EU) 2019 /633. As this Regulation replaces Directive 2011/7/EU, it should not affect the rules laid down in Directive (EU) 2019/633, including the provisions that are applicable to payments made in the context of the school scheme 
+ 52 
+ , value-sharing agreements 
+ 53 
+ and certain payments for the sale of grapes, must and wine in bulk in the wine sector 
+ 54 
+ , except for the deadlines applicable to the maximum payment periods concerning the supply of non-perishable agricultural and food products . However, this Regulation does not prevent the Member States from introducing or maintaining national provisions applicable in the agricultural and food sector which provide for stricter payment terms, or different calculation of payment periods , dies a quo and verification and acceptance procedures for suppliers of agricultural and food products that are more favourable to the creditor. 
+ (31) The objectives of this Regulation are to combat late payment in commercial transactions, in order to ensure the proper functioning of the internal market, thereby fostering the competitiveness of undertakings and in particular of SMEs . Those objectives cannot be sufficiently achieved by the Member States, as implementing national solutions would likely result in a lack of uniform rules, fragmentation of the single market and higher cost s for companies trading across borders. Therefore, those objectives can be better achieved at Union level. The Union may therefore adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty of European Union. In accordance with the principle of proportionality as set out in that Article, this Regulation does not go beyond what is necessary to achieve those objectives. 
+ (32) To provide sufficient time for all relevant actors to put in place the arrangements needed to comply with this Regulation, its application should be deferred . However, to ensure better protection of the creditors, commercial transactions that are to be paid after the date of entry into force of this Regulation, shall be subject to its provisions, even if the relevant contract was signed before its date of application. 
+ HAVE ADOPTED THIS REGULATION: 
+ Article 1 
+ Scope 
+ 1. This R egulation shall apply to payments made in transactions between undertakings or between undertakings and public authorities , where the public authority is the debtor, which lead to the delivery of goods or the provision of services for remuneration (‘commercial transactions’). 
+ 2. The delivery of goods or the provision of services referred to in paragraph 1 shall include the design and execution of public works , construction and civil engineering works . 
+ 3. This Regulation shall not apply to any of the following payments: 
+ (a) payments for transactions with consumers; 
+ (b) payments made as compensation for damages, including payments from insurance companies; 
+ (c) payments resulting from obligations that can be cancelled, postponed, or waived under or in relation to insolvency proceedings or restructuring proceedings, including preventive restructuring proceedings under Directive (EU) 2019/1023 
+ 55 
+ of the European Parliament and of the Council . 
+ 4. With the exception of Article 3(1), this Regulation shall not affect the provisions laid down in Directive (EU) 2019/633. 
+ Article 2 
+ Definitions 
+ For the purposes of this Regulation, the following definitions shall apply: 
+ (1) ‘ undertaking’ means any organisation, irrespective of its form and way of financing, carrying out an economic or professional activity independently; 
+ (2) ‘public authority’ means any contracting authority, as defined in Article 6(1) of Directive 2014/23/EU, Article 2(1), point (1), of Directive 2014/24/EU or in Article 3(1) of Directive 2014/25/EU; 
+ (3) ‘late payment’ means payment not made within the contractual or statutory payment period as set out in Article 3 ; 
+ (4) ‘amount due’ means the sum which should have been paid within the contractual or statutory payment period, as set out in Article 3, including the applicable taxes, duties, levies or charges specified in the invoice or the equivalent request for payment; 
+ (5) ‘enforceable title’ means any decision, judgement , order for payment issued by a court or other competent authority, private deed or any other document issued, including those that are provisionally enforceable, whether for immediate payment or payment by instalments, which permits the creditor to have his or her claim against the debtor collected by means of forced execution; 
+ (6) ‘ retention of title’ means the contractual agreement according to which the seller retains title to the goods in question until the price has been paid in full; 
+ (7) ‘procedure of acceptance or verification’ means the procedure for ascertaining the conformity of the goods delivered or services provided , with the requirements of the contract ; 
+ (8) ‘ debtor ‘ means any natural or legal person or any public authority that owes a payment for a good delivered or a service provided; 
+ (9) ‘ credito r‘ means any natural or legal person or any public authority that delivered goods to a debtor or provided services to a debtor . 
+ Article 3 
+ Payment periods 
+ 1. In commercial transactions, the payment period shall not exceed 30 calendar days, f rom the date of the receipt of the invoice or an equivalent request for payment by the debtor , provided that the debtor has received the goods or services. This period shall apply both to the transactions between undertakings and between public authorities and undertakings. Th e same payment period shall also apply to the supply of non-perishable agricultural and food products on a regular and non-regular basis a s referred to in Articles 3(1)(a) , point (i), second indent and 3(1)(a) , point (ii), second indent of Directive (EU) 2019/633, unless Member States prov ide for a shorter payment period for such products. 
+ 2. A procedure of acceptance or verification may be exceptionally provided for in national law only whe re strictly necessary due to the specific nature of the goods or services. In that case, t he contract shall describe the details of the procedure of acceptance or verification, including its duration. 
+ 3. Where the contract provides for a procedure of acceptance or verification, in accordance with paragraph 2, the maximum duration of that procedure shall not exceed 30 calendar days from the date of receipt of the goods or services by the debtor, even if such goods or services are supplied prior to the issuance of the invoice or an equivalent request for payment. In this case, the debtor shall initiate the procedure for acceptance or verification immediately upon reception from the creditor of the goods and/or the services that are the object of the commercial transaction . The payment period shall not exceed 30 calend a r day s after such procedure has taken place. 
+ 4. The payment period set out in paragraph 1 is the maximum payment period and is without prejudice to a shorter period which may be provided for in national law. 
+ Article 4 
+ Payments to subcontractors in public procurement 
+ 1. For public works contracts falling within the scope of Directive s 2014/23/EU, 2014/24/EU, 2014/25/ EU, and 2009/81/EC 
+ 56 
+ of the European Parliament and of the Council , contractors shall provide evidence to contracting authoritie s or contracting entities within the meaning of those D irectives that, where applicable, they have paid their direct subcontractors involved in the execution of the contract within the deadlines and under the conditions set out in this Regulation. The e vidence may take the form of a written declaration by the contractor and shall be provided by the contractor to the contracting authority or contracting entity prior to , or at the latest together with , any request for payment. 
+ 2. Where the contracting authority or contracting entity has not received the evidence as provided for in paragraph 1 or has information of a late payment by the main contractor to its direct subcontractors, the contracting authority or contracting entity shall notify the enforcement authority of its Member State thereof without delay . 
+ Article 5 
+ Interest for late payment 
+ 1. In case of late payment, the debtor shall be liable to pay interest for late payment, except where the debtor is not responsible for the payment delay. 
+ 2. I nterest for late payment shall be automatically due by the debtor to the creditor, without the creditor needing to send a reminder, where the following conditions are satisfied: 
+ (a) the creditor has fulfilled its contractual obligations and obligations provided for by law ; 
+ (b) the debtor has received the invoice or equivalent request for payment; 
+ (c) the creditor has not received the amount due specified in the invoice or the equivalent request for payment, within the contractual or statutory payment period as set out in Article 3 . 
+ 3. It sh all not be possible for the creditor to waive its right to obtain interest for late payment . 
+ 4. The date of receipt of the invoice, or equivalent request for payment, shall not be subject to a contractual agreement between the debtor and the creditor. 
+ 5. The debtor shall provide all relevant information to the creditor to ensure that the creditor’s invoice or equivalent request for payment is accepted and processed by the debtor as soon as it is received. 
+ 6. Where the conditions set out in paragraph 2 are satisfied, interest for late payment shall start accruing from the last one of the following events: 
+ (a) receipt by the debtor of the invoice or an equivalent request for payment; 
+ (b) receipt by the debtor of the goods or services . 
+ 7. The interest for late payment shall accrue until payment of the amount due . 
+ Article 6 
+ Rate of the interest for late payment 
+ 1. The interest for late payment shall be equal to the reference rate plu s 8 percentage points . 
+ 2. Member States whose currency is the euro, shall ensure that the reference rate corresponds to either of the following: 
+ (a) t he interest rate applied by the European Central Bank to its main refinancing operations ; 
+ (b) t he marginal interest rate resulting from variable-rate tender procedures for the most recent main refinancing operations of the European Central Bank. 
+ 3. In Member States whose currency is not the euro the reference rate shall be the rate set by its national central bank. 
+ 4. The reference rate for the first semester of the year concerned shall be the rate as determinable on 1 January of that year. The reference rate for the second semester of the year concerned shall be the rate as determinable on 1 July of that year. 
+ Article 7 
+ Payment schedules 
+ Where payment is done on the basis of schedules providing for instalments, and any of the instalments is not paid by the agreed date, interest for late payment referred to in Article 5, shall be calculated on the basis of any overdue amount. Compensation shall also be paid in accordance with Article 8. 
+ Article 8 
+ Compensation for recovery costs 
+ 1. Where interest for late payment becomes payable in accordance with Article 5 , a flat fee compensation for recovery costs shall be automatically due by the debtor to the creditor and shall amount to a fixed sum of EUR 50 , per every single commercial transaction. 
+ 2. The flat fee compensation referred to in paragraph 1 shall be payable by the debtor to the creditor as a compensation for the creditor’s own recovery costs, without the necessity of a reminder. 
+ 3. It shall not be possible for the creditor to waive its right to obtain the flat fee compensation laid down in paragraph 1 . 
+ 4. In addition to the flat fee compensation referred to in paragraph 1, the creditor shall be entitled to obtain reasonable compensation from the debtor for any recovery costs exceeding that flat fee compensation and incurred due to the debtor’s late payment. 
+ 5. Th is Article shall apply without preju d ice to the creditor’s rights to receive any other compensation . 
+ Article 9 
+ N ull and void contractual terms and practices 
+ 1. The following contractual terms and practices shall be null and void : 
+ (a) setting the payment period in breach of Article 3 ; 
+ (b) excluding or limiting the right of the creditor to obtain interest for late payment provided for in Article 5 or the right to obtain compensation for recovery costs provided for in Article 8 ; 
+ (c) extending the duration of the procedure of verification or acceptance beyond the term set in Article 3( 3 ) ; 
+ (d) intentionally delaying or preventing the moment of sending the invoice. 
+ 2. Member States shall ensure that adequate and effective means exist to end the contractual terms and practices referred to in paragraph 1 . 
+ 3. The means referred to in paragraph 2 shall include the possibility for an organisation officially recognised as representing creditors or organisations with a legitimate interest in representing undertaking s to take act ion before the courts or before competent administrative bodies. 
+ Article 1 0 
+ Retention of title 
+ A creditor shall retain title to goods until they are fully paid for if a retention of title has been expressly agreed between the debtor and the creditor before the delivery of the goods. 
+ Article 1 1 
+ Transparency 
+ 1. M ember States shall ensure transparency regarding the rights and obligations laid down in this Regulation , including by making publicly available the applicable rate of interest for late payment . 
+ 2. The Commission shall make publicly available on the i nternet the current rates of interest for late payment which apply in the Member States. 
+ Article 1 2 
+ Recovery procedures for unchallenged claims 
+ 1. Creditors shall obtain an enforceable title, including through an expedited procedure and irrespective of the amount of debt, within 90 calendar days of the lodging of the action or application at the court or other competent authority, provided that the debt and the procedure are not disputed. 
+ 2. When calculating the period referred to in paragraph 1, the following period shall not be taken into account: 
+ (a) p eriods for service of documents ; 
+ (b) a ny delays caused by the creditor. 
+ 3. This A rticle shall be without prejudice to the provisions of Regulation (EC) 1896/2006 . 
+ Article 1 3 
+ Enforcement authorities 
+ 1. Each Member State shall designate one or more authorities responsible for the enforcement of this Regulation (‘enforcement authority’). 
+ 2. Where appropriate , enforcement authorities shall take measure s necessary to ensure that the deadlines for payments are complied with. 
+ 3. Enforcement a uthorities shall cooperate effectively with each other and with the Commission and shall provide each other with mutual assistance in investigations that have a cross-border dimension. 
+ 4. Enforcement authorities shall coordinate their activities with other authorities responsible for enforcing other Union or national legislation including through exchange of information obligations. 
+ 5. Enforcement authorities shall forward th e complaints received regarding late payments in the agricultural and food sector to the competent enforcement authorit ies under Directive (EU) 2019/633 . 
+ Article 1 4 
+ Powers of enforcement authorities 
+ 1. Enforcement authorities shall have the necessary resources and expertise to perform their duties, and shall have the following powers: 
+ (a) t he power to initiate and conduct investigations on their own initiative or based on a complaint ; 
+ (b) t he power to require creditors and debtors to provide all necessary information to conduct investigations related to late payments in commercial transactions ; 
+ (c) t he power to carry out unannounced on-site inspections within the framework of their investigations ; 
+ (d) t he power to take decisions finding an infringement of this Regulation and requiring the debtor to pay interest for late payment as provided for in Article 5 or requiring the debtor to compensate the creditor as provided for in Article 8 ; 
+ (e) t he power to impose, or initiate proceedings for the imposition of fines and other penalties and interim measures on the subjects responsible for the infringement ; 
+ (f) the power to require the debtor to bring the infringement to an end; 
+ (g) t he power to publish its decisions referred to in paragraphs (d), (e) and (f) . 
+ 2. Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. 
+ 3. Member States shall, [by …/without delay] , notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them. 
+ Article 1 5 
+ Complaints and confidentiality 
+ 1. Creditors may address complaints either to the enforcement authority of the Member State in which the y are established or to the enforcement authority of the Member States in which the debtor is established. The enforcement authority to which the complaint is addressed shall be competent to enforce this Regulation. 
+ 2. O rganisations officially recognised as representing creditors or organisations with a legitimate interest in representing undertakings shall have the right to submit a complaint to the enforcement authorities referred to in Article 13 at the request of one or more of their members or, where appropriate, at the request of one or more members of their member organisations, where those members consider that they have been affected by an infringement of this Regulation. 
+ 3. Where the complainant so request s , the enforcement authority shall take the necessary measures for the appropriate protection of the identity of the complainant. The complainant shall identify any information for which it requests confidentiality. 
+ 4. The enforcement authority that receives the complaint shall inform the complainant within a reasonable period of time after the receipt of the complaint of how it intends to follow up on the complaint. 
+ 5. Where an enforcement authority considers that there are insufficient grounds for acting on a complaint, it shall inform the complainant of the reasons of its decision within a reasonable period of time after the receipt of the complaint. 
+ 6. Where an enforcement authority considers that there are sufficient grounds for acting on a complaint, it shall initiate, conduct and conclude an investigation of the complaint within a reasonable period of time. 
+ 7. Where an enforcement authority finds that a debtor has infringed this Regulation, it shall require the debtor to bring the illegal practice to an end. 
+ Article 1 6 
+ Alternative dispute resolution 
+ 1. Without prejudice to the right of creditors to submit complaints under Article 1 5 , and to the obligations and powers of enforcement authorities laid down in Article s 1 3 , 1 4 , and 1 5 , Member States shall promote the voluntary use of effective and independent alternative dispute resolution mechanisms for the settlement of disputes between debtors and creditors. 
+ 2. Alternative dispute resolution mechanisms for late payment disputes shall encourage the parties to a dispute to find the solution by themselves and shall be fast, efficient, and cost-effective, while maintaining confidence and trust between the parties . 
+ Article 1 7 
+ Digital tools , credit management and financial literacy training 
+ 1. To the extent possible , Member States s hall use digital tools for effective enforcement of this Regulation. 
+ 2. Member States shall ensure that credit management tools and financial literacy trainings are available and accessible to small and medium sized enterprises , including on the use of digital tools for timely payments . 
+ Article 1 8 
+ Report 
+ By [OP: please insert the date = 4 years after the entry into force of this Regulation ] , the Commission shall submit a report on the implementation of this Regulation to the European Parliament and the Council. 
+ Article 19 
+ Repeal 
+ Directive 2011/7/EU is repealed. 
+ References to the repealed Directive shall be construed as references to this Regulation. 
+ Article 2 0 
+ Ent ry into force and application 
+ 1. This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union . 
+ 2. It shall apply from [ OP: please insert the date = 12 months after the date of entry into force of this Regulation]. 
+ 3. Commercial transactions carried out after th e date of application of this Regulation shall be subject to the provisions of the present Regulation , including when the underlying contract has been concluded before that date. 
+ This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+ Done at Strasbourg, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The President 
+ (1) 
+ European Commission (2019). Study on the evaluation of invoicing rules of Directive 2006/112/EC. Final Report. 
+ (2) 
+ E uropean P ayment R eport 2022 . 
+ (3) 
+ E uropean P ayment R eport 2022 . 
+ (4) 
+ T. , Nicolas, 
+ Short-term financial constraints and SMEs’ investment decision: evidence from the working capital channel 
+ , Small Business Economics (2021) . 
+ (5) 
+ Final opinion 2021_SBGR2_06 Late payments_fup_0.pdf (europa.eu) 
+ (6) 
+ COM (2021) 350 final . 
+ (7) 
+ COM (2020) 103 final . 
+ (8) 
+ Final opinion 2021_SBGR2_06 Late payments_fup_0.pdf (europa.eu) 
+ (9) 
+ https://www.europarl.europa.eu/doceo/document/TA-8-2019-0042_EN.html 
+ (10) 
+ COM (2023) 168 final 
+ (11) 
+ https://op.europa.eu/webpub/com/refit-scoreboard/en/policy/10/10-6.html 
+ (12) 
+ https://publications.europa.eu/en/publication-detail/-/publication/400ecc74-9a54-11e5-b3b7-01aa75ed71a1 
+ (13) 
+ Final opinion 2021_SBGR2_06 Late payments_fup_0.pdf (europa.eu) 
+ . 
+ (14) 
+ The feedback is available here: 
+ https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13665-Late-payments-update-of-EU-rules_en 
+ . 
+ (15) 
+ The SME P anel enable s the Commission to get SMEs ’ views in a targeted way and is organised in cooperation with the Commission’s partners in the Enterprise Europe Network. 
+ (16) 
+ The list of these meetings is annexed to the impact assessment . 
+ (17) 
+ Register of Commission expert groups and other similar entities (europa.eu) 
+ (18) 
+ https://publications.europa.eu/en/publication-detail/-/publication/400ecc74-9a54-11e5-b3b7-01aa75ed71a1 
+ (19) 
+ COM (2016) 534 final 
+ (20) 
+ https://www.europarl.europa.eu/doceo/document/TA-8-2019-0042_EN.html 
+ (21) 
+ Final opinion 2021_SBGR2_06 Late payments_fup_0.pdf (europa.eu) 
+ (22) 
+ https://www.intrum.com/publications/european-payment-report/ 
+ (23) 
+ SME Performance Review (europa.eu) 
+ (24) 
+ https://publications.jrc.ec.europa.eu/repository/handle/JRC121059 
+ (25) 
+ https://publications.jrc.ec.europa.eu/repository/handle/JRC130205 
+ (26) 
+ https://publications.europa.eu/en/publication-detail/-/publication/c8b7391b-9b80-11e8-a408-01aa75ed71a1/language-en/format-PDF/source-103408786 
+ (27) 
+ https://op.europa.eu/en/publication-detail/-/publication/cb4bc1bd-1467-11ed-8fa0-01aa75ed71a1/language-en/format-PDF/source-search 
+ (28) 
+ Judgment of 20 October 2022, BFF Finance Iberia SAU v Gerencia Regional de Salud de la Junta de Castilla y León (OJ C 53, 15.2.2021, p. 19) C585/20, EU:C:2022:806, paragraphs 42 and 53 . 
+ (29) 
+ Judgment of 28 January 2020, European Commission v Italian Republic. C - 122/18, EU:C:2020:4 1, paragraph 53 . 
+ (30) 
+ Judgment of 15 December 2016, Drago Nemec v Republika Slovenija. C-256/15, EU:C:2016:954, paragraph 59 . 
+ (31) 
+ Link to the positive opinion of the RSB and to the executive summary of the IA will be added once the proposal is adopted by the Commission. 
+ (32) 
+ https://www.sage.com/en-gb/blog/wp-content/uploads/sites/10/2017/12/Domino-Effect-Late-Payments-Research-Sage.pdf 
+ (33) 
+ https://www.trade.gov/methods-payment 
+ (34) 
+ https://single-market-economy.ec.europa.eu/smes/sme-strategy/late-payment-directive/eu-payment-observatory_en#:~:text=The%20EU%20Observatory%20of%20Payments,commercial%20transactions%20in%20the%20EU. 
+ (35) 
+ OJ C , , p. . 
+ (36) 
+ Regulation (EC) No 805/2004 of the European Parliament and of the Council of 21 April 2004 creating a European Enforcement Order for uncontested claims (OJ L 143, 30.04.2004, p. 15) 
+ (37) 
+ Regulation (EC) No 1896/2006 of the European Parliament and of the Council of 12 December 2006 creating a European order for payment procedure (OJ L 399, 30.12.2006, p. 1). 
+ (38) 
+ Regulation (EC) No 861/2007 of the European Parliament and of the Council of 11 July 2007 establishing a European Small Claims Procedure (OJ L 199, 31.7.2007, p. 1). 
+ (39) 
+ Regulation (EU) No 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 351, 20.12.2012, p. 1). 
+ (40) 
+ Directive 2011/7/EU of the European Parliament and of the Council of 16 February 2011 on combating late payment in commercial transactions (OJ L 48, 23.2.2011, p. 1). 
+ (41) 
+ COM ( 2020) 103 final. 
+ (42) 
+ Directive (EU) 2019/1023 of the European Parliament and of the Council of 20 June 2019 on preventive restructuring frameworks, on discharge of debt and disqualifications, and on measures to increase the efficiency of procedures concerning restructuring, insolvency and discharge of debt, and amending Directive (EU) 2017/1132 (OJ L 172, 26.6.2019, p. 18). 
+ (43) 
+ Judgment of 20 October 2022, BFF Finance Iberia SAU v Gerencia Regional de Salud de la Junta de Castilla y León (OJ C 53, 15.2.2021, p. 19) C585/20, EU:C:2022:806 , paragraph 53 . 
+ (44) 
+ Directive 2014/23 /EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts ( OJ L 94, 28.3.2014 , p. 1 - 64). 
+ (45) 
+ Directive 2014/24 /EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC ( OJ L 94, 28.3.2014, p. 65-242 ). 
+ (46) 
+ Directive 2014/25 /EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC ( OJ L 94, 28.3.2014, p. 243–374 ). 
+ (47) 
+ D i rective 2009/81/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of procedures for the award of certain works contracts, supply contracts and service contracts by contracting authorities or entities in the fields of defence and security and amending Directives 2004/17/EC and 2004/18/EC (OJ L 216, 20.08.2009, p. 76-136). 
+ (48) 
+ Judgement of 20 October 2022, BFF Finance Iberia SAU vs Gerencia Regional de Salud de la Junta de Castilla y León, C-585/20, ECLI:EU:C:2022:806 . 
+ (49) 
+ Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (OJ L 347, 11.12.2006, p. 1). 
+ (50) 
+ Directive 2014/55/EU of the European Parliament and of the Council of 16 April 2014 on electronic invoicing in public procurement (OJ L 133, 6.5.2014, p. 1). 
+ (51) 
+ Directive (EU) No 2019/633 of the European Parliament and of the Council of 17 April 2019 on unfair trading practices in business-to-business relationships in the agricultural and food supply chain (OJ L 111, 25.4.2019, p. 59). 
+ (52) 
+ Article 23 of Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013, establishing a common organisation of the markets in agricultural products (OJ L 347, 20.12.2013, p. 671). 
+ (53) 
+ Article 172a of Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013, establishing a common organisation of the markets in agricultural products (OJ L 347, 20.12.2013, p. 671). 
+ (54) 
+ Article 147a of Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013, establishing a common organisation of the markets in agricultural products (OJ L 347, 20.12.2013, p. 671). 
+ (55) 
+ Directive (EU) 2019/1023 of the European Parliament and of the Council of 20 June 2019 on preventive restructuring frameworks, on discharge of debt and disqualifications, and on measures to increase the efficiency of procedures concerning restructuring, insolvency and discharge of debt, and amending Directive (EU) 2017/1132 (OJ L 172, 26.6.2019, p. 18). 
+ (56) 
+ Directive 2009/81/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of procedures for the award of certain works contracts, supply contracts and service contracts by contracting authorities or entities in the fields of defence and security, and amending Directives 2004/17/EC and 2004/18/EC.

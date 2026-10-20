@@ -1,0 +1,623 @@
+### Cyber Solidarity Act (Regulation) | CELEX 32025R0038 | text version 02025R0038-20250115 | role adopted
+02025R0038 — EN — 15.01.2025 — 000.001
+ This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document
+ ►B 
+ REGULATION (EU) 2025/38 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 19 December 2024
+ laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for and respond to cyber threats and incidents and amending Regulation (EU) 2021/694 (Cyber Solidarity Act) 
+ (OJ L 38 15.1.2025, p. 1)
+ Corrected by:
+ ►C1 
+ Corrigendum, OJ L 90063, 24.1.2025, p. 1 (2025/38) 
+ ▼B 
+ REGULATION (EU) 2025/38 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 19 December 2024
+ laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for and respond to cyber threats and incidents and amending Regulation (EU) 2021/694 (Cyber Solidarity Act)
+ CHAPTER I
+ GENERAL PROVISIONS 
+ Article 1
+ Subject-matter and objectives
+ 1. 
+ This Regulation lays down measures to strengthen capacities in the Union to detect, prepare for and respond to cyber threats and incidents, in particular by establishing:
+ (a) 
+ a pan-European network of cyber hubs (European Cybersecurity Alert System) to build and enhance coordinated detection and common situational awareness capabilities;
+ (b) 
+ a Cybersecurity Emergency Mechanism to support Member States in preparing for, responding to, mitigating the impact of and initiating recovery from significant cybersecurity incidents and large-scale cybersecurity incidents and to support other users in responding to significant cybersecurity incidents and large-scale-equivalent cybersecurity incidents;
+ (c) 
+ a European Cybersecurity Incident Review Mechanism to review and assess significant cybersecurity incidents or large-scale cybersecurity incidents.
+ 2. 
+ This Regulation pursues the general objectives of reinforcing the competitive position of industry and services in the Union across the digital economy, including microenterprises and small and medium-sized enterprises as well as start-ups, and of contributing to the Union’s technological sovereignty and open strategic autonomy in the area of cybersecurity, including by boosting innovation in the Digital Single Market. It pursues those objectives by strengthening solidarity at Union level, reinforcing the cybersecurity ecosystem, enhancing Member States’ cyber resilience and developing the skills, knowhow, abilities and competencies of the workforce in relation to cybersecurity.
+ 3. 
+ The achievement of the general objectives referred to in paragraph 2 shall be pursued through the following specific objectives:
+ (a) 
+ to strengthen common coordinated Union detection capacities and common situational awareness of cyber threats and incidents;
+ (b) 
+ to reinforce preparedness of entities operating in sectors of high criticality or entities operating in other critical sectors across the Union and strengthen solidarity by developing coordinated preparedness testing and enhanced response and recovery capacities to handle significant cybersecurity incidents, large-scale cybersecurity incidents or large-scale-equivalent cybersecurity incidents, including the possibility of making Union cybersecurity incident response support available for DEP-associated third countries;
+ (c) 
+ to enhance the Union’s resilience and contribute to effective incident response by reviewing and assessing significant cybersecurity incidents or large-scale cybersecurity incidents, including drawing lessons learned and, where appropriate, recommendations.
+ 4. 
+ The actions under this Regulation shall be conducted with due respect to the Member States’ competences and shall be complementary to the activities carried out by the CSIRTs network, EU-CyCLONe and the NIS Cooperation Group.
+ 5. 
+ This Regulation is without prejudice to the Member States’ essential State functions, including ensuring the territorial integrity of the State, maintaining law and order and safeguarding national security. In particular, national security remains the sole responsibility of each Member State.
+ 6. 
+ The sharing or exchange of information under this Regulation that is confidential pursuant to Union or national rules shall be limited to that which is relevant and proportionate to the purpose of that sharing or exchange. Such sharing or exchange of information shall preserve the confidentiality of the information, and protect the security and commercial interests of the entities concerned. It shall not entail the supply of information the disclosure of which would be contrary to the Member States’ essential interests of national security, public security or defence.
+ Article 2
+ Definitions
+ For the purposes of this Regulation, the following definitions apply:
+ (1) 
+ ‘Cross-Border Cyber Hub’ means a multi-country platform, established by a written consortium agreement that brings together in a coordinated network structure National Cyber Hubs from at least three Member States, and that is designed to enhance the monitoring, detection and analysis of cyber threats to prevent incidents and to support the production of cyber threat intelligence, in particular through the exchange of relevant data and information, anonymised where appropriate, as well as through the sharing of state-of-the-art tools and the joint development of cyber detection, analysis, and prevention and protection capabilities in a trusted environment;
+ (2) 
+ ‘Hosting Consortium’ means a consortium composed of participating Member States, that have agreed to establish and to contribute to the acquisition of tools, infrastructure or services for, and the operation of, a Cross-Border Cyber Hub;
+ (3) 
+ ‘CSIRT’ means a CSIRT designated or established pursuant to Article 10 of Directive (EU) 2022/2555;
+ (4) 
+ ‘entity’ means an entity as defined in Article 6, point (38), of Directive (EU) 2022/2555;
+ (5) 
+ ‘entities operating in sectors of high criticality’ means the types of entity listed in Annex I to Directive (EU) 2022/2555;
+ (6) 
+ ‘entities operating in other critical sectors’ means the types of entity listed in Annex II to Directive (EU) 2022/2555;
+ (7) 
+ ‘risk’ means risk as defined in Article 6, point (9), of Directive (EU) 2022/2555;
+ (8) 
+ ‘cyber threat’ means a cyber threat as defined in Article 2, point (8), of Regulation (EU) 2019/881;
+ (9) 
+ ‘incident’ means an incident as defined in Article 6, point (6), of Directive (EU) 2022/2555;
+ (10) 
+ ‘significant cybersecurity incident’ means an incident fulfilling the criteria set out in Article 23(3) of Directive (EU) 2022/2555;
+ (11) 
+ ‘major incident’ means a major incident as defined in Article 3, point (8), of Regulation (EU, Euratom) 2023/2841 of the European Parliament and the Council ( 
+ 1 
+ );
+ (12) 
+ ‘large-scale cybersecurity incident’ means a large-scale cybersecurity incident as defined in Article 6, point (7), of Directive (EU) 2022/2555;
+ (13) 
+ ‘large-scale-equivalent cybersecurity incident’ means, in the case of Union institutions, bodies, offices and agencies, a major incident and, in the case of DEP-associated third countries, an incident which causes a level of disruption that exceeds the capacity of the DEP-associated third country concerned to respond to it;
+ (14) 
+ ‘DEP-associated third country’ means a third country which is party to an agreement with the Union allowing for its participation in the Digital Europe Programme pursuant to Article 10 of Regulation (EU) 2021/694;
+ (15) 
+ ‘contracting authority’ means the Commission or, to the extent that the operation and administration of the EU Cybersecurity Reserve has been entrusted to ENISA pursuant to Article 14(5), ENISA;
+ (16) 
+ ‘managed security service provider’ means a managed security service provider as defined in Article 6, point (40), of Directive (EU) 2022/2555;
+ (17) 
+ ‘trusted managed security service providers’ means managed security service providers selected to be included in the EU Cybersecurity Reserve in accordance with Article 17.
+ CHAPTER II
+ THE EUROPEAN CYBERSECURITY ALERT SYSTEM 
+ Article 3
+ Establishment of the European Cybersecurity Alert System
+ 1. 
+ A pan-European network of infrastructure that consists of National Cyber Hubs and Cross-Border Cyber Hubs joining on a voluntary basis, the European Cybersecurity Alert System, shall be established to support the development of advanced capabilities for the Union to enhance detection, analysis and data processing capabilities in relation to cyber threats and the prevention of incidents in the Union.
+ 2. 
+ The European Cybersecurity Alert System shall:
+ (a) 
+ contribute to better protection from and responses to cyber threats by supporting and cooperating with, and reinforcing the capabilities of, relevant entities, in particular CSIRTs, the CSIRTs network, EU-CyCLONe and competent authorities designated or established pursuant to Article 8(1) of Directive (EU) 2022/2555;
+ (b) 
+ pool relevant data and information on cyber threats and incidents from various sources within the Cross-Border Cyber Hubs and share analysed or aggregated information through Cross-Border Cyber Hubs, where relevant with the CSIRTs network;
+ (c) 
+ collect and support the production of high-quality, actionable information and cyber threat intelligence, through the use of state-of-the art tools and advanced technologies, and share that information and cyber threat intelligence;
+ (d) 
+ contribute to enhancing the coordinated detection of cyber threats and common situational awareness across the Union, and to the issuing of alerts, including, where relevant, by providing concrete recommendations to entities;
+ (e) 
+ provide services and activities for the cybersecurity community in the Union, including contributing to the development of advanced tools and technologies, such as artificial intelligence and data analytics tools.
+ 3. 
+ Actions implementing the European Cybersecurity Alert System shall be supported by funding from the Digital Europe Programme (DEP) and implemented in accordance with Regulation (EU) 2021/694, in particular Specific Objective 3 thereof.
+ Article 4
+ National Cyber Hubs
+ 1. 
+ Where a Member State decides to participate in the European Cybersecurity Alert System, it shall designate or, where applicable, establish a National Cyber Hub for the purposes of this Regulation.
+ 2. 
+ A National Cyber Hub shall be a single entity acting under the authority of a Member State. It may be a CSIRT or, where applicable, a national cyber crisis management authority or other competent authority designated or established pursuant to Article 8(1) of Directive (EU) 2022/2555, or another entity. The National Cyber Hub shall:
+ (a) 
+ have the capacity to act as a reference point and gateway to other public and private organisations at national level for collecting and analysing information on cyber threats and incidents and to contribute to a Cross-Border Cyber Hub as referred to in Article 5; and
+ (b) 
+ be capable of detecting, aggregating, and analysing data and information relevant to cyber threats and incidents, such as cyber threat intelligence, by using in particular state-of-the-art technologies, with the aim of preventing incidents.
+ 3. 
+ As part of the functions referred to in paragraph 2 of this Article, National Cyber Hubs may cooperate with private sector entities to exchange relevant data and information for the purpose of detecting and preventing cyber threats and incidents, including with sectoral and cross-sectoral communities of essential and important entities as referred to in Article 3 of Directive (EU) 2022/2555. Where appropriate and in accordance with Union and national law, the information requested or received by National Cyber Hubs may include telemetry, sensor and logging data.
+ 4. 
+ A Member State selected pursuant to Article 9(1) shall commit to applying for its National Cyber Hub to participate in a Cross-Border Cyber Hub.
+ Article 5
+ Cross-Border Cyber Hubs
+ 1. 
+ Where at least three Member States are committed to ensuring that their National Cyber Hubs work together to coordinate their cyber-detection and threat monitoring activities, those Member States may establish a Hosting Consortium for the purposes of this Regulation.
+ 2. 
+ A Hosting Consortium shall be composed of at least three participating Member States that have agreed to establish and contribute to the acquisition of tools, infrastructure or services for, and the operation of, a Cross-Border Cyber Hub, in accordance with paragraph 4.
+ 3. 
+ Where a Hosting Consortium is selected in accordance with Article 9(3), its members shall conclude a written consortium agreement which:
+ (a) 
+ sets out the internal arrangements for implementing the hosting and usage agreement referred to in Article 9(3);
+ (b) 
+ establishes the Hosting Consortium’s Cross-Border Cyber Hub; and
+ (c) 
+ includes the specific clauses required pursuant to Article 6(1) and (2).
+ 4. 
+ A Cross-Border Cyber Hub shall be a multi-country platform established by a written consortium agreement as referred to in paragraph 3. It shall bring together in a coordinated network structure the National Cyber Hubs of the Hosting Consortium’s Member States. It shall be designed to enhance the monitoring, detection and analysis of cyber threats, to prevent incidents and to support the production of cyber threat intelligence, in particular through the exchange of relevant data and information, anonymised where appropriate, as well as through the sharing of state-of-the-art tools and the joint development of cyber detection, analysis, and prevention and protection capabilities in a trusted environment.
+ 5. 
+ A Cross-Border Cyber Hub shall be represented for legal purposes by a member of the corresponding Hosting Consortium acting as a coordinator, or by the Hosting Consortium if it has legal personality. Responsibility for compliance by the Cross-Border Cyber Hub with this Regulation and the hosting and usage agreement shall be allocated in the written consortium agreement referred to in paragraph 3.
+ 6. 
+ A Member State may join an existing Hosting Consortium with the agreement of the Hosting Consortium members. The written consortium agreement referred to in paragraph 3 and the hosting and usage agreement shall be modified accordingly. This shall not affect the ownership rights of the European Cybersecurity Industrial, Technology and Research Competence Centre (ECCC) over the tools, infrastructure or services already jointly procured with that Hosting Consortium.
+ Article 6
+ Cooperation and information sharing within and between Cross-Border Cyber Hubs
+ 1. 
+ Members of a Hosting Consortium shall ensure that their National Cyber Hubs share, in accordance with the written consortium agreement referred to in Article 5(3), relevant information, anonymised where appropriate, such as information relating to cyber threats, near misses, vulnerabilities, techniques and procedures, indicators of compromise, adversarial tactics, threat-actor-specific information, cybersecurity alerts and recommendations regarding the configuration of cybersecurity tools to detect cyberattacks, among themselves within the Cross-Border Cyber Hub where such information sharing:
+ (a) 
+ fosters and enhances the detection of cyber threats and reinforces the capabilities of the CSIRTs network to prevent and respond to incidents or to mitigate their impact;
+ (b) 
+ enhances the level of cybersecurity, for example through raising awareness in relation to cyber threats, limiting or impeding the ability of such threats to spread, supporting a range of defensive capabilities, vulnerability remediation and disclosure, threat detection, containment and prevention techniques, mitigation strategies, response and recovery stages or promoting collaborative threat research between public and private entities.
+ 2. 
+ The written consortium agreement referred to in Article 5(3) shall establish:
+ (a) 
+ a commitment to share among the members of the Hosting Consortium information as referred to in paragraph 1 and the conditions under which that information is to be shared;
+ (b) 
+ a governance framework clarifying and incentivising the sharing by all participants of relevant information, anonymised where appropriate, as referred to in paragraph 1;
+ (c) 
+ targets for contribution to the development of advanced tools and technologies, such as artificial intelligence and data analytics tools.
+ The written consortium agreement may specify that the information referred to in paragraph 1 is to be shared in accordance with Union and national law.
+ 3. 
+ Cross-Border Cyber Hubs shall conclude cooperation agreements with one another, specifying interoperability and information-sharing principles among the Cross-Border Cyber Hubs. Cross-Border Cyber Hubs shall inform the Commission about the cooperation agreements concluded.
+ 4. 
+ Information sharing as referred to in paragraph 1 between Cross-Border Cyber Hubs shall be ensured by a high level of interoperability. To support such interoperability, ENISA shall, in close consultation with the Commission, without undue delay and in any event by 5 February 2026, issue interoperability guidelines specifying in particular information-sharing formats and protocols, taking into account international standards and best practices, as well as the functioning of any established Cross-Border Cyber Hubs. Interoperability requirements provided for in the cooperation agreements of Cross-Border Cyber Hubs shall be based on the guidelines issued by ENISA.
+ Article 7
+ Cooperation and information sharing with Union-level networks
+ 1. 
+ Cross-Border Cyber Hubs and the CSIRTs network shall cooperate closely, in particular for the purpose of sharing information. To that end, they shall agree on procedural arrangements on cooperation and sharing of relevant information and, without prejudice to paragraph 2, on the types of information to be shared.
+ 2. 
+ Where the Cross-Border Cyber Hubs obtain information relating to a potential or ongoing large-scale cybersecurity incident, they shall ensure, for the purposes of common situational awareness, that relevant information as well as early warnings are provided to Member States’ authorities and the Commission through EU-CyCLONe and the CSIRTs network without undue delay.
+ Article 8
+ Security
+ 1. 
+ Member States participating in the European Cybersecurity Alert System shall ensure a high level of cybersecurity, including confidentiality and data security, as well as physical security of the European Cybersecurity Alert System network, and shall ensure that the network is adequately managed and controlled in such a way as to protect it from threats and to ensure its security and that of the systems, including that of data and information shared through the network.
+ 2. 
+ Member States participating in the European Cybersecurity Alert System shall ensure that the sharing of information referred to in Article 6(1) within the European Cybersecurity Alert System with any entity other than a public authority or body of a Member State does not negatively affect the security interests of the Union or of the Member States.
+ Article 9
+ Funding of the European Cybersecurity Alert System
+ 1. 
+ Following a call for expressions of interest for Member States intending to participate in the European Cybersecurity Alert System, the ECCC shall select Member States to take part with the ECCC in the joint procurement of tools, infrastructure or services in order to set up, or enhance the capabilities of, National Cyber Hubs designated or established pursuant to Article 4(1). The ECCC may award to the selected Member States grants to fund the operation of such tools, infrastructure or services. The Union financial contribution shall cover up to 50 % of the acquisition costs of the tools, infrastructure or services and up to 50 % of the operational costs. The selected Member States shall cover the remaining costs. Before launching the procedure for the acquisition of tools, infrastructure or services, the ECCC and the selected Member States shall conclude a hosting and usage agreement regulating the usage of the tools, infrastructure or services.
+ 2. 
+ Where a Member State’s National Cyber Hub is not a participant in a Cross-Border Cyber Hub within 2 years of the date on which the tools, infrastructure or services were acquired, or on which it received grant funding, whichever occurred sooner, the Member State shall not be eligible for additional Union support under this Chapter until it has joined a Cross-Border Cyber Hub.
+ 3. 
+ Following a call for expressions of interest, a Hosting Consortium shall be selected by the ECCC to participate in a joint procurement of tools, infrastructure or services with the ECCC. The ECCC may award a grant to the Hosting Consortium to fund the operation of the tools, infrastructure or services. The Union financial contribution shall cover up to 75 % of the acquisition costs of the tools, infrastructure or services, and up to 50 % of the operational costs. The Hosting Consortium shall cover the remaining costs. Before launching the procedure for the acquisition of tools, infrastructure or services, the ECCC and the Hosting Consortium shall conclude a hosting and usage agreement regulating the usage of the tools, infrastructure or services.
+ 4. 
+ The ECCC shall prepare, at least every 2 years, a mapping of the tools, infrastructure or services necessary and of adequate quality to establish, or enhance the capabilities of, National Cyber Hubs and Cross-Border Cyber Hubs, and their availability, including from legal entities established or deemed to be established in Member States and controlled by Member States or by nationals of Member States. When preparing the mapping, the ECCC shall consult the CSIRTs network, any existing Cross-Border Cyber Hubs, ENISA and the Commission.
+ CHAPTER III
+ CYBERSECURITY EMERGENCY MECHANISM 
+ Article 10
+ Establishment of the Cybersecurity Emergency Mechanism
+ 1. 
+ A Cybersecurity Emergency Mechanism is established to support the improvement of the Union’s resilience to cyber threats and the preparation for and mitigation of, in a spirit of solidarity, the short-term impact of significant cybersecurity incidents, large-scale cybersecurity incidents and large-scale-equivalent cybersecurity incidents.
+ 2. 
+ In the case of the Member States, actions under the Cybersecurity Emergency Mechanism shall be provided upon request and shall be complementary to Member States’ efforts and actions to prepare for, respond to and recover from incidents.
+ 3. 
+ The actions implementing the Cybersecurity Emergency Mechanism shall be supported by funding from the DEP and shall be implemented in accordance with Regulation (EU) 2021/694, in particular Specific Objective 3 thereof.
+ 4. 
+ The actions under the Cybersecurity Emergency Mechanism shall be implemented primarily through the ECCC in accordance with Regulation (EU) 2021/887. However, actions implementing the EU Cybersecurity Reserve as referred to in Article 11, point (b), of this Regulation shall be implemented by the Commission and ENISA.
+ Article 11
+ Types of action
+ The Cybersecurity Emergency Mechanism shall support the following types of action:
+ (a) 
+ preparedness actions, namely:
+ (i) 
+ the coordinated preparedness testing of entities operating in sectors of high criticality across the Union as specified in Article 12;
+ (ii) 
+ other preparedness actions for entities operating in sectors of high criticality or entities operating in other critical sectors, as specified in Article 13;
+ (b) 
+ actions supporting response to and initiating recovery from significant cybersecurity incidents, large-scale cybersecurity incidents and large-scale-equivalent cybersecurity incidents, to be provided by trusted managed security service providers participating in the EU Cybersecurity Reserve established under Article 14;
+ (c) 
+ actions supporting mutual assistance as referred to in Article 18.
+ Article 12
+ Coordinated preparedness testing of entities
+ 1. 
+ The Cybersecurity Emergency Mechanism shall support the voluntary coordinated preparedness testing of entities operating in sectors of high criticality.
+ 2. 
+ The coordinated preparedness testing may consist of preparedness activities, such as penetration testing, and threat assessment.
+ 3. 
+ Support for preparedness actions under this Article shall be provided to Member States primarily in the form of grants and subject to the conditions provided for in the relevant work programmes as referred to in Article 24 of Regulation (EU) 2021/694.
+ 4. 
+ For the purpose of supporting the coordinated preparedness testing of entities referred to in Article 11, point (a)(i), of this Regulation across the Union, the Commission shall, after consulting the NIS Cooperation Group, EU-CyCLONe and ENISA, identify the sectors or sub-sectors concerned from the sectors of high criticality listed in Annex I to Directive (EU) 2022/2555 for which a call for proposals to award grants may be issued. The participation of Member States in those calls for proposals is voluntary.
+ 5. 
+ When identifying the sectors or sub-sectors referred to in paragraph 4, the Commission shall take into account coordinated risk assessments and resilience testing at Union level and the results thereof.
+ 6. 
+ The NIS Cooperation Group in cooperation with the Commission, the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’) and ENISA, and, within the remit of its mandate, EU-CyCLONe, shall develop common risk scenarios and methodologies for the coordinated preparedness testing referred to in Article 11, point (a)(i), and, where appropriate, for other preparedness actions referred to in point (a)(ii) of that Article.
+ 7. 
+ Where an entity operating in a sector of high criticality participates voluntarily in coordinated preparedness testing and that testing results in recommendations for specific measures, which the participating entity could integrate into a remediation plan, the Member State authority responsible for the coordinated preparedness testing shall, where appropriate, review the follow-up of those measures by the participating entities with a view to reinforcing preparedness.
+ Article 13
+ Other preparedness actions
+ 1. 
+ The Cybersecurity Emergency Mechanism shall support preparedness actions not covered by Article 12. Such actions shall include preparedness actions for entities in sectors not identified for coordinated preparedness testing pursuant to Article 12. Such actions may support vulnerability monitoring, risk monitoring, exercises and training.
+ 2. 
+ Support for preparedness actions under this Article shall be provided to Member States upon request and primarily in the form of grants and subject to the conditions provided for in the relevant work programmes as referred to in Article 24 of Regulation (EU) 2021/694.
+ Article 14
+ Establishment of the EU Cybersecurity Reserve
+ 1. 
+ An EU Cybersecurity Reserve is established in order to assist, upon request, users as referred to in paragraph 3, in responding to, or providing support for a response to, significant cybersecurity incidents, large-scale cybersecurity incidents or large-scale-equivalent cybersecurity incidents, and initiating recovery from such incidents.
+ 2. 
+ The EU Cybersecurity Reserve shall consist of response services from trusted managed security service providers selected in accordance with the criteria laid down in Article 17(2). The EU Cybersecurity Reserve may include pre-committed services. The pre-committed services of a trusted managed security service provider shall be convertible into preparedness services related to incident prevention and response where those pre-committed services are not used for incident response during the time for which those services are pre-committed. The EU Cybersecurity Reserve shall be deployable, upon request, in all Member States, in Union institutions, bodies, offices and agencies, and in DEP-associated third countries as referred to in Article 19(1).
+ 3. 
+ The users of the services provided by the EU Cybersecurity Reserve shall consist of the following:
+ (a) 
+ Member States’ cyber crisis management authorities and CSIRTs as referred to, respectively, in Article 9(1) and (2) and Article 10 of Directive (EU) 2022/2555;
+ (b) 
+ CERT-EU in accordance with Article 13 of Regulation (EU, Euratom) 2023/2841;
+ (c) 
+ competent authorities such as computer security incident response teams and cyber crisis management authorities of DEP-associated third countries in accordance with Article 19(8).
+ 4. 
+ The Commission shall have overall responsibility for the implementation of the EU Cybersecurity Reserve. The Commission shall determine the priorities and the evolution of the EU Cybersecurity Reserve in coordination with the NIS Cooperation Group and, in line with the requirements of the users referred to in paragraph 3, shall supervise its implementation and shall ensure complementarity, consistency, synergies and links with other support actions under this Regulation as well as with other Union actions and programmes. Those priorities shall be reviewed and, if appropriate, revised every 2 years. The Commission shall inform the European Parliament and the Council of those priorities and any revisions thereof.
+ 5. 
+ Without prejudice to the Commission’s overall responsibility for the implementation of the EU Cybersecurity Reserve referred to in paragraph 4 of this Article and subject to a contribution agreement as defined in Article 2, point (19), of Regulation (EU, Euratom) 2024/2509, the Commission shall entrust the operation and administration of the EU Cybersecurity Reserve, in full or in part, to ENISA. Aspects not entrusted to ENISA shall remain subject to direct management by the Commission.
+ 6. 
+ ENISA shall prepare, at least every 2 years, a mapping of the services needed by the users referred to in paragraph 3, points (a) and (b), of this Article. The mapping shall also include the availability of such services, including from legal entities established or deemed to be established in Member States and controlled by Member States or by nationals of Member States. In mapping that availability, ENISA shall assess the skills and capacity of the Union cybersecurity workforce relevant to the objectives of the EU Cybersecurity Reserve. When preparing the mapping, ENISA shall consult the NIS Cooperation Group, EU-CyCLONe, the Commission and, where applicable, the Interinstitutional Cybersecurity Board established pursuant to Article 10 of Regulation (EU, Euratom) 2023/2841 (IICB). In mapping the availability of services, ENISA shall also consult relevant cybersecurity industry stakeholders, including managed security service providers. ENISA shall prepare a similar mapping, after informing the Council and after consulting EU-CyCLONe, the Commission and, where relevant, the High Representative, to identify the needs of users referred to in paragraph 3, point (c), of this Article.
+ 7. 
+ The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this Regulation by specifying the types and the number of response services required for the EU Cybersecurity Reserve. When preparing those delegated acts, the Commission shall take into account the mapping referred to in paragraph 6 of this Article and may exchange advice and cooperate with the NIS Cooperation Group and ENISA.
+ Article 15
+ Requests for support from the EU Cybersecurity Reserve
+ 1. 
+ The users referred to in Article 14(3) may request services from the EU Cybersecurity Reserve to support response to and initiate recovery from significant cybersecurity incidents, large-scale cybersecurity incidents or large-scale-equivalent cybersecurity incidents.
+ 2. 
+ To receive support from the EU Cybersecurity Reserve, the users referred to in Article 14(3) shall take all appropriate measures to mitigate the effects of the incident for which the support is requested, including, where relevant, the provision of direct technical assistance, and other resources to assist the response to the incident, and recovery efforts.
+ 3. 
+ Requests for support shall be transmitted to the contracting authority as follows:
+ (a) 
+ in the case of the users referred to in Article 14(3), point (a), of this Regulation, via the single point of contact designated or established pursuant to Article 8(3) of Directive (EU) 2022/2555;
+ (b) 
+ in the case of the user referred to in Article 14(3), point (b), by that user;
+ (c) 
+ in the case of the users referred to in Article 14(3), point (c), via the single point of contact referred to in Article 19(9).
+ 4. 
+ In the case of requests from the users referred to in Article 14(3), point (a), Member States shall inform the CSIRTs network, and, where appropriate, EU-CyCLONe, about their users’ requests for incident response and initial recovery support pursuant to this Article.
+ 5. 
+ Requests for incident response and initial recovery support shall include:
+ (a) 
+ appropriate information regarding the entity affected and the potential impact of the incident on:
+ (i) 
+ in the case of users referred to in Article 14(3), point (a), the Member States and users affected, including the risk of spillover to another Member State;
+ (ii) 
+ in the case of the user referred to in Article 14(3), point (b), the Union institutions, bodies, offices or agencies affected,
+ (iii) 
+ in the case of users referred to in Article 14(3), point (c), the DEP-associated countries affected;
+ (b) 
+ information regarding the requested service, together with the planned use of the requested support, including an indication of the estimated needs;
+ (c) 
+ appropriate information about measures taken to mitigate the incident for which the support is requested, as referred to in paragraph 2;
+ (d) 
+ where relevant, available information about other forms of support available to the entity affected.
+ 6. 
+ ENISA, in cooperation with the Commission and EU-CyCLONe, shall develop a template to facilitate the submission of requests for support from the EU Cybersecurity Reserve.
+ 7. 
+ The Commission may, by means of implementing acts, specify further the detailed procedural arrangements for the way in which the EU Cybersecurity Reserve support services are to be requested and the way in which those requests are to be responded to pursuant to this Article, to Article 16(1) and to Article 19(10), including arrangements for submitting such requests and delivering the responses and templates for the reports referred to in Article 16(9). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 24(2).
+ Article 16
+ Implementation of the support from the EU Cybersecurity Reserve
+ 1. 
+ In the case of requests from users referred to in Article 14(3), points (a) and (b), requests for support from the EU Cybersecurity Reserve shall be assessed by the contracting authority. A response shall be transmitted to the users referred to in Article 14(3), points (a) and (b), without delay and in any event no later than 48 hours from the submission of the request to ensure effectiveness of the support. The contracting authority shall inform the Council and the Commission of the results of the process.
+ 2. 
+ As regards information shared in the course of requesting and providing the services of the EU Cybersecurity Reserve, all parties involved in the application of this Regulation shall:
+ (a) 
+ limit the use and sharing of that information to what is necessary to discharge their obligations or functions under this Regulation;
+ (b) 
+ use and share any information that is confidential or classified pursuant to Union and national law only in accordance with that law; and
+ (c) 
+ ensure effective, efficient and secure information exchange, where appropriate by using and respecting relevant information-sharing protocols including the traffic light protocol.
+ 3. 
+ In assessing individual requests under Article 16(1) and Article 19(10), the contracting authority or the Commission, as applicable, shall first assess whether the criteria referred to in Article 15(1) and (2) are fulfilled. If that is the case, it shall assess the duration and nature of support that is appropriate, having regard to the objective referred to in Article 1(3), point (b), and the following criteria, where relevant:
+ (a) 
+ the scale and severity of the incident;
+ (b) 
+ the type of entity affected, with higher priority given to incidents affecting essential entities as referred to in Article 3(1) of Directive (EU) 2022/2555;
+ (c) 
+ the potential impact of the incident on the affected Member States, Union institutions, bodies, offices or agencies, or DEP-associated third countries;
+ (d) 
+ the potential cross-border nature of the incident and the risk of spillover to other Member States, Union institutions, bodies, offices or agencies, or DEP-associated third countries;
+ (e) 
+ the measures taken by the user to assist the response, and initial recovery efforts, as referred in Article 15(2).
+ 4. 
+ To prioritise requests, in the case of concurrent requests from users referred to in Article 14(3), the criteria referred to in paragraph 3 of this Article shall be taken into account, where relevant, without prejudice to the principle of sincere cooperation between Member States and Union institutions, bodies, offices and agencies. Where two or more requests are assessed as equal under those criteria, higher priority shall be given to requests from Member State users. Where the operation and administration of the EU Cybersecurity Reserve has been entrusted, in full or in part, to ENISA pursuant to Article 14(5), ENISA and the Commission shall closely cooperate to prioritise requests in accordance with this paragraph.
+ 5. 
+ The EU Cybersecurity Reserve services shall be provided in accordance with specific agreements between the trusted managed security service provider and the user to which the support under the EU Cybersecurity Reserve is provided. Those services may be provided in accordance with specific agreements between the trusted managed security service provider, the user and the entity affected. All agreements referred to in this paragraph shall include, inter alia, liability conditions.
+ 6. 
+ The agreements referred to in paragraph 5 shall be based on templates prepared by ENISA, after consulting Member States and, where appropriate, other users of the EU Cybersecurity Reserve.
+ 7. 
+ The Commission, ENISA and the users of the EU Cybersecurity Reserve shall bear no contractual liability for damage caused to third parties by the services provided in the framework of the implementation of the EU Cybersecurity Reserve.
+ 8. 
+ Users may use the EU Cybersecurity Reserve services provided in response to a request under Article 15(1) only in order to support response to and initiate recovery from significant cybersecurity incidents, large-scale cybersecurity incidents or large-scale-equivalent cybersecurity incidents. They may use those services only in respect of:
+ (a) 
+ entities operating in sectors of high criticality or entities operating in other critical sectors, in the case of users referred to in Article 14(3), point (a), and equivalent entities in the case of users referred to in Article 14(3), point (c); and
+ (b) 
+ Union institutions, bodies, offices and agencies, in the case of the user referred to in Article 14(3), point (b).
+ 9. 
+ Within 2 months of the end of a support, users that have received support shall provide a summary report about the service provided, the results achieved and the lessons learned, to:
+ (a) 
+ the Commission, ENISA, the CSIRTs network and EU-CyCLONe in the case of users referred to in Article 14(3), point (a);
+ (b) 
+ the Commission, ENISA and the IICB in the case of the user referred to in Article 14(3), point (b);
+ (c) 
+ the Commission in the case of users referred to in Article 14(3), point (c).
+ The Commission shall transmit any summary report received from users referred to in Article 14(3) pursuant to the first subparagraph, point (c), of this paragraph, to the Council and the High Representative.
+ 10. 
+ Where the operation and administration of the EU Cybersecurity Reserve has been entrusted, in full or in part, to ENISA pursuant to Article 14(5) of this Regulation, ENISA shall report to and consult the Commission on a regular basis in that respect. In that context, ENISA shall immediately send to the Commission any requests it receives from users referred to in Article 14(3), point (c), of this Regulation and, where required for the purposes of prioritisation under this Article, any requests it has received from users referred to in Article 14(3), point (a) or (b), of this Regulation. The obligations in this paragraph shall be without prejudice to Article 14 of Regulation (EU) 2019/881.
+ 11. 
+ In the case of users referred in Article 14(3), points (a) and (b), the contracting authority shall report to the NIS Cooperation Group, on a regular basis and at least twice per year, about the use and the results of the support.
+ 12. 
+ In the case of users referred to in Article 14(3), point (c), the Commission shall report to the Council and inform the High Representative on a regular basis and at least twice per year, about the use and the results of the support.
+ Article 17
+ Trusted managed security service providers
+ 1. 
+ In procurement procedures for the purpose of establishing the EU Cybersecurity Reserve, the contracting authority shall act in accordance with the principles laid down in Regulation (EU, Euratom) 2024/2509 and in accordance with the following principles:
+ (a) 
+ ensure that the services included in the EU Cybersecurity Reserve, when taken as a whole, are such that the EU Cybersecurity Reserve includes services that may be deployed in all Member States, taking into account in particular national requirements for the provision of such services, including on languages, certification or accreditation;
+ (b) 
+ ensure the protection of the essential security interests of the Union and its Member States;
+ (c) 
+ ensure that the EU Cybersecurity Reserve brings Union added value, by contributing to the objectives set out in Article 3 of Regulation (EU) 2021/694, including promoting the development of cybersecurity skills in the Union.
+ 2. 
+ When procuring services for the EU Cybersecurity Reserve, the contracting authority shall include in the procurement documents the following criteria and requirements:
+ (a) 
+ the provider shall demonstrate that its personnel has the highest degree of professional integrity, independence, responsibility, and the requisite technical competence to perform the activities in their specific field, and ensures the permanence and continuity of expertise as well as the required technical resources;
+ (b) 
+ the provider, and any relevant subsidiaries and subcontractors, shall comply with applicable rules on the protection of classified information and shall have in place appropriate measures, including, where relevant, agreements between one another, to protect confidential information relating to the service, and in particular evidence, findings and reports;
+ (c) 
+ the provider shall provide sufficient proof that its governing structure is transparent, not likely to compromise its impartiality and the quality of its services or to cause conflicts of interest;
+ (d) 
+ the provider shall have appropriate security clearance, at least for personnel intended for service deployment, where required by a Member State;
+ (e) 
+ the provider shall have the relevant level of security for its IT systems;
+ (f) 
+ the provider shall be equipped with the hardware and software necessary to support the requested service, which shall not contain known exploitable vulnerabilities, shall include the latest security updates and shall in any case comply with any applicable provision of Regulation (EU) 2024/2847 of the European Parliament and of the Council ( 
+ 2 
+ );
+ (g) 
+ the provider shall be able to demonstrate that it has experience in delivering similar services to relevant national authorities, entities operating in sectors of high criticality or entities operating in other critical sectors;
+ (h) 
+ the provider shall be able to provide the service within a short timeframe in the Member States where it can deliver the service;
+ (i) 
+ the provider shall be able to provide the service in one or more official languages of the Union institutions or of a Member State as required, if any, by the Member States or users referred to in Articles 14(3), points (b) and (c), where the provider can deliver the service;
+ (j) 
+ once an European cybersecurity certification scheme for managed security services pursuant to Regulation (EU) 2019/881 is in place, the provider shall be certified in accordance with that scheme within 2 years from the date of application of the scheme;
+ (k) 
+ the provider shall include in the tender the conversion conditions for any unused incident response service that could be converted into preparedness services closely related to incident response, such as exercises or training.
+ 3. 
+ For the purpose of procuring services for the EU Cybersecurity Reserve, the contracting authority may, where appropriate, develop criteria and requirements in addition to those referred to in paragraph 2, in close cooperation with Member States.
+ Article 18
+ Actions supporting mutual assistance
+ 1. 
+ The Cybersecurity Emergency Mechanism shall provide support for technical assistance from one Member State to another Member State affected by a significant cybersecurity incident or a large-scale cybersecurity incident, including in cases referred to in Article 11(3), point (f), of Directive (EU) 2022/2555.
+ 2. 
+ The support for the technical mutual assistance referred to in paragraph 1 of this Article shall be provided in the form of grants and subject to the conditions provided for in the relevant work programmes as referred to in Article 24 of Regulation (EU) 2021/694.
+ Article 19
+ Support to DEP-associated third countries
+ 1. 
+ A DEP-associated third country may request support from the EU Cybersecurity Reserve where the agreement through which it is associated to the DEP provides for participation in the EU Cybersecurity Reserve. That agreement shall include provisions requiring the DEP-associated third country concerned to comply with the obligations set out in paragraphs 2 and 9 of this Article. For the purposes of the participation of a third country in the EU Cybersecurity Reserve, the partial association of a third country to the DEP may include an association limited to the operational objective referred to in Article 6(1), point (g), of Regulation (EU) 2021/694.
+ 2. 
+ Within 3 months of the conclusion of the agreement referred to in paragraph 1 and in any event prior to receiving any support from the EU Cybersecurity Reserve, the DEP-associated third country shall provide to the Commission information about its cyber resilience and risk management capabilities, including at least information on national measures taken to prepare for significant cybersecurity incidents or large-scale-equivalent cybersecurity incidents, as well as information on responsible national entities, including computer security incident response teams or equivalent entities, their capabilities and the resources allocated to them. The DEP-associated third country shall provide updates of that information on a regular basis and at least once a year. The Commission shall provide the High Representative and ENISA with that information for the purposes of facilitating the application of paragraph 11.
+ 3. 
+ The Commission shall assess regularly, and at least once a year, the following criteria in respect of each DEP-associated third country referred to in paragraph 1:
+ (a) 
+ whether that country is complying with the terms of the agreement referred to in paragraph 1, insofar as those terms relate to participation in the EU Cybersecurity Reserve;
+ (b) 
+ whether that country has taken adequate steps to prepare for significant cybersecurity incidents or large-scale-equivalent cybersecurity incidents, based on the information referred to in paragraph 2; and
+ (c) 
+ whether the provision of support is consistent with the Union’s policy towards and overall relations with that country and whether it is consistent with other Union policies in the field of security.
+ The Commission shall consult the High Representative when conducting the assessment referred to in the first subparagraph, with regard to the criterion referred to in point (c) of that subparagraph.
+ Where the Commission concludes that a DEP-associated third country meets all of the conditions referred to in the first subparagraph, the Commission shall submit a proposal to the Council to adopt an implementing act in accordance with paragraph 4 authorising the provision of support from the EU Cybersecurity Reserve to that country.
+ 4. 
+ The Council may adopt the implementing acts referred to in paragraph 3. Those implementing acts shall apply for a maximum of one year. They may be renewed. They may include a limit of no less than 75 days on the number of days for which support can be provided in response to a single request.
+ For the purposes of this Article, the Council shall act expeditiously and shall, as a rule, adopt the implementing acts referred to in this paragraph within eight weeks of the adoption of the relevant Commission proposal pursuant to paragraph 3, third subparagraph.
+ 5. 
+ The Council may amend or repeal an implementing act adopted pursuant to paragraph 4 at any time, acting on a proposal of the Commission.
+ Where the Council considers there to have been a significant change concerning the criterion referred to in paragraph 3, first subparagraph, point (c), the Council may amend or repeal an implementing act adopted pursuant to paragraph 4 acting on the duly reasoned initiative of one or more Member States.
+ 6. 
+ In the exercise of its implementing powers under this Article, the Council shall apply the criteria referred to in paragraph 3, first subparagraph, and shall explain its assessment of those criteria. In particular, where it acts on its own initiative pursuant to paragraph 5, second subparagraph, the Council shall explain the significant change referred to in that subparagraph.
+ 7. 
+ Support from the EU Cybersecurity Reserve to a DEP-associated third country shall comply with any specific conditions laid down in the agreement referred to in paragraph 1.
+ 8. 
+ Users from DEP-associated third countries eligible to receive services from the EU Cybersecurity Reserve shall include competent authorities such as computer security incident and response teams or equivalent entities and cyber crisis management authorities.
+ 9. 
+ Each DEP-associated third country eligible for support from the EU Cybersecurity Reserve shall designate an authority to act as a single point of contact for the purposes of this Regulation.
+ 10. 
+ Requests for support from the EU Cybersecurity Reserve under this Article shall be assessed by the Commission. The contracting authority may provide support to a third country only where, and for so long as, a Council implementing act authorising such support in respect of that country adopted pursuant to paragraph 4 of this Article is in force. A response shall be transmitted to the users referred to in Article 14(3), point (c), without undue delay.
+ 11. 
+ Upon receipt of a request for support under this Article, the Commission shall immediately inform the Council. The Commission shall keep the Council informed of the assessment of the request. The Commission shall also cooperate with the High Representative about the requests received and the implementation of the support granted to DEP-associated third countries from the EU Cybersecurity Reserve. Additionally, the Commission shall also take into account any views provided by ENISA in respect of those requests.
+ Article 20
+ Coordination with Union crisis management mechanisms
+ 1. 
+ Where a significant cybersecurity incident, a large-scale cybersecurity incident or a large-scale-equivalent cybersecurity incident originates from or results in a disaster as defined in Article 4, point (1), of Decision No 1313/2013/EU, the support provided under this Regulation for responding to such incident shall complement actions under, and be without prejudice to, that Decision.
+ 2. 
+ In the event of a large-scale cybersecurity incident or a large-scale-equivalent cybersecurity incident where the EU Integrated Political Crisis Response Arrangements under Implementing Decision (EU) 2018/1993 (IPCR Arrangements) are activated, support provided under this Regulation for responding to such incident shall be handled in accordance with the relevant procedures under the IPCR Arrangements.
+ CHAPTER IV
+ EUROPEAN CYBERSECURITY INCIDENT REVIEW MECHANISM 
+ Article 21
+ European Cybersecurity Incident Review Mechanism
+ 1. 
+ At the request of the Commission or EU-CyCLONe, ENISA shall, with the support of the CSIRTs network and with the approval of the Member States concerned, review and assess cyber threats, known exploitable vulnerabilities and mitigation actions with respect to a specific significant cybersecurity incident or large-scale cybersecurity incident. Following the completion of a review and assessment of an incident and with the aim of drawing lessons learned to avoid or mitigate future incidents, ENISA shall deliver an incident review report to EU-CyCLONe, the CSIRTs network, the Member States concerned and the Commission to support them in carrying out their tasks, in particular the tasks set out in Articles 15 and 16 of Directive (EU) 2022/2555. Where an incident has an impact on a DEP-associated third country, ENISA shall provide the report to the Council. In such cases, the Commission shall provide the report to the High Representative.
+ 2. 
+ To prepare the incident review report referred to in paragraph 1 of this Article, ENISA shall cooperate with and gather feedback from all relevant stakeholders, including representatives of Member States, the Commission, other relevant Union institutions, bodies, offices and agencies, industry, including managed security services providers, and users of cybersecurity services. Where appropriate, ENISA shall, in cooperation with CSIRTs and, where relevant, the competent authorities designated or established pursuant to Article 8(1) of Directive (EU) 2022/2555, also cooperate with entities affected by significant cybersecurity incidents or large-scale cybersecurity incidents. Consulted representatives shall disclose any potential conflict of interest.
+ 3. 
+ The incident review report referred to in paragraph 1 of this Article shall cover a review and analysis of the specific significant cybersecurity incident or large-scale cybersecurity incident, including the main causes, known exploitable vulnerabilities and lessons learned. ENISA shall ensure that the report complies with Union or national law concerning the protection of sensitive or classified information. If the relevant Member States or other users referred to in Article 14(3) that are affected by the incident so request, the data and information contained in the report shall be anonymised. It shall not include any details about actively exploited vulnerabilities that remain unpatched.
+ 4. 
+ Where appropriate, the incident review report shall draw recommendations to improve the Union’s cyber posture and may include best practices and lessons learned from relevant stakeholders.
+ 5. 
+ ENISA may issue a publicly available version of the incident review report. That version of the report shall include only reliable public information, or other reliable information with the consent of the Member States concerned and, as regards information relating to a user as referred to in Article 14(3), point (b) or (c), with the consent of that user.
+ CHAPTER V
+ FINAL PROVISIONS 
+ Article 22
+ Amendments to Regulation (EU) 2021/694
+ Regulation (EU) 2021/694 is amended as follows:
+ (1) 
+ Article 6 is amended as follows:
+ (a) 
+ paragraph 1 is amended as follows:
+ (i) 
+ the following point is inserted:
+ ‘(aa) 
+ support the development of the European Cybersecurity Alert System established by Article 3 of Regulation (EU) 2025/38 of the European Parliament and of the Council ( 
+ *1 
+ ) (the “European Cybersecurity Alert System”), including the development, deployment and operation of National Cyber Hubs and Cross-Border Cyber Hubs that contribute to situational awareness in the Union and to enhancing the cyber threat intelligence capacities of the Union;
+ (ii) 
+ the following point is added:
+ ‘(g) 
+ establish and operate the Cybersecurity Emergency Mechanism established by Article 10 of Regulation (EU) 2025/38, including the EU Cybersecurity Reserve established by Article 14 of that Regulation (the “EU Cybersecurity Reserve”), to support Member States in preparing for and responding to significant cybersecurity incidents and large-scale cybersecurity incidents that is complementary to national resources and capabilities and other forms of support available at Union level, and to support other users in responding to significant cybersecurity incidents and large-scale-equivalent cybersecurity incidents;’
+ ;
+ (b) 
+ paragraph 2 is replaced by the following:
+ ‘2. 
+ The actions under Specific Objective 3 shall be implemented primarily through the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National Coordination Centres in accordance with Regulation (EU) 2021/887 of the European Parliament and of the Council ( 
+ *2 
+ ). However, the EU Cybersecurity Reserve shall be implemented by the Commission and, in accordance with Article 14(6) of Regulation (EU) 2025/38, by ENISA.
+ (2) 
+ Article 9 is amended as follows:
+ (a) 
+ in paragraph 2, points (b), (c) and (d) are replaced by the following:
+ ‘(b) 
+ EUR 1 760 806 000 for Specific Objective 2 – Artificial Intelligence;
+ (c) 
+ EUR 1 372 020 000 for Specific Objective 3 – Cybersecurity and Trust;
+ (d) 
+ EUR 482 640 000 for Specific Objective 4 – Advanced Digital Skills;’
+ ;
+ (b) 
+ the following paragraph is added:
+ ‘8. 
+ By way of derogation from Article 12(1) of the Financial Regulation, unused commitment and payment appropriations for actions in the context of the implementation of the EU Cybersecurity Reserve and the actions supporting mutual assistance pursuant to Regulation 2025/38, pursuing the objectives set out in Article 6(1), point (g), of this Regulation shall be automatically carried over and may be committed and paid up to 31 December of the following financial year. The European Parliament and the Council shall be informed of appropriations carried over pursuant to Article 12(6) of the Financial Regulation.’
+ ;
+ (3) 
+ Article 12 is amended as follows:
+ (a) 
+ the following paragraphs are inserted:
+ ‘5a. 
+ Paragraph 5 shall not apply, insofar as concerns legal entities that are established in the Union but are controlled from third countries, to any action implementing the European Cybersecurity Alert System where both of the following conditions are fulfilled in respect of the action concerned:
+ (a) 
+ there is a real risk, taking into account the results of the mapping carried out pursuant to Article 9(4) of Regulation (EU) 2025/38, that the tools, infrastructure or services necessary and sufficient for that action to adequately contribute to the objective of the European Cybersecurity Alert System will not be available from legal entities established or deemed to be established in Member States and controlled by Member States or by nationals of Member States;
+ (b) 
+ the security risk of procuring from such legal entities within the European Cybersecurity Alert System is proportionate to the benefits and does not undermine the essential security interests of the Union and its Member States.
+ 5b. 
+ Paragraph 5 shall not apply, insofar as concerns legal entities that are established in the Union but are controlled from third countries, to any action implementing the EU Cybersecurity Reserve where both of the following conditions are fulfilled in respect of the action concerned:
+ (a) 
+ there is a real risk, taking into account the results of the mapping carried out pursuant to Article 14(6) of Regulation (EU) 2025/38, that the technology, expertise or capacity necessary and sufficient for the EU Cybersecurity Reserve to adequately perform its functions will not be available from legal entities established or deemed to be established in Member States and controlled by Member States or by nationals of Member States;
+ (b) 
+ the security risk of including such legal entities within the EU Cybersecurity Reserve is proportionate to the benefits and does not undermine the essential security interests of the Union and its Member States.’
+ ;
+ (b) 
+ paragraph 6 is replaced by the following:
+ ‘6. 
+ If duly justified for security reasons, the work programme may also provide that legal entities established in associated countries and legal entities that are established in the Union but are controlled from third countries may be eligible to participate in all or some actions under Specific Objectives 1 and 2 only if they comply with the requirements to be fulfilled by those legal entities to guarantee the protection of the essential security interests of the Union and the Member States and to ensure the protection of classified documents information. Those requirements shall be set out in the work programme.
+ The first subparagraph shall also apply, insofar as concerns legal entities that are established in the Union but are controlled from third countries, to actions under Specific Objective 3:
+ (a) 
+ to implement the European Cybersecurity Alert System where paragraph 5a applies; and
+ (b) 
+ to implement the EU Cybersecurity Reserve where paragraph 5b applies.’
+ ;
+ (4) 
+ in Article 14, paragraph 2 is replaced by the following:
+ ‘2. 
+ The Programme may provide funding in any of the forms laid down in the Financial Regulation, including in particular through procurement as a primary form, or grants and prizes.
+ Where the achievement of the objective of an action requires the procurement of innovative goods and services, grants may be awarded only to beneficiaries that are contracting authorities or contracting entities as defined in Directives 2014/24/EU ( 
+ *3 
+ ) and 2014/25/EU ( 
+ *4 
+ ) of the European Parliament and of the Council.
+ Where the supply of innovative goods or services that are not yet available on a large-scale commercial basis is necessary to achieve the objectives of an action, the contracting authority or the contracting entity may authorise the award of multiple contracts within the same procurement procedure.
+ For duly justified reasons of public security, the contracting authority or the contracting entity may require that the place of performance of the contract be situated within the territory of the Union.
+ When implementing procurement procedures for the EU Cybersecurity Reserve, the Commission and ENISA may act as a central purchasing body to procure on behalf of or in the name of third countries associated to the Programme in accordance with Article 10 of this Regulation. The Commission and ENISA may also act as wholesaler, by buying, stocking and reselling or donating supplies and services, including rentals, to those third countries. By way of derogation from Article 168(3) of Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council ( 
+ *5 
+ ), the request from a single third country shall be sufficient to mandate the Commission or ENISA to act.
+ When implementing procurement procedures for the EU Cybersecurity Reserve, the Commission and ENISA may act as a central purchasing body to procure on behalf of or in the name of Union institutions, bodies, offices or agencies. The Commission and ENISA may also act as a wholesaler, by buying, stocking and reselling or donating supplies and services, including rentals, to Union institutions, bodies, offices or agencies. By way of derogation from Article 168(3) of Regulation (EU, Euratom) 2024/2509, a request from a single Union institution, body, office or agency shall be sufficient to mandate the Commission or ENISA to act.
+ The Programme may also provide financing in the form of financial instruments within blending operations.
+ (5) 
+ the following article is inserted:
+ ‘Article 16a
+ Conflicts of rules
+ In the case of actions implementing the European Cybersecurity Alert System, the applicable rules shall be those set out in Articles 4, 5 and 9 of Regulation (EU) 2025/38. In the case of a conflict between the provisions of this Regulation and Articles 4, 5 and 9 of Regulation (EU) 2025/38, the latter shall prevail and apply to those specific actions.
+ In the case of EU Cybersecurity Reserve, specific rules for the participation of third countries associated to the Programme are laid down in Article 19 of Regulation (EU) 2025/38. In the case of a conflict between the provisions of this Regulation and Article 19 of Regulation (EU) 2025/38, the latter shall prevail and apply to those specific actions.’
+;
+ (6) 
+ Article 19 is replaced by the following:
+ ‘Article 19
+ Grants
+ Grants under the Programme shall be awarded and managed in accordance with Title VIII of the Financial Regulation and may cover up to 100 % of the eligible costs, without prejudice to the co-financing principle as laid down in Article 190 of the Financial Regulation. Such grants shall be awarded and managed as specified for each specific objective.
+ Support in the form of grants may be awarded directly by the ECCC without a call for proposals to the Member States selected pursuant to Article 9 of Regulation (EU) 2025/38 and the Hosting Consortium referred to in Article 5 of Regulation (EU) 2025/38, in accordance with Article 195(1), point (d), of the Financial Regulation.
+ Support in the form of grants for the Cybersecurity Emergency Mechanism may be awarded directly by the ECCC to Member States without a call for proposals, in accordance with Article 195(1), point (d), of the Financial Regulation.
+ With regard to actions supporting mutual assistance provided for in Article 18 of Regulation (EU) 2025/38, the ECCC shall inform the Commission and ENISA about Member States’ requests for direct grants without a call for proposals.
+ With regard to actions supporting mutual assistance provided for in Article 18 of Regulation (EU) 2025/38, and in accordance with Article 193(2), second subparagraph, point (a), of the Financial Regulation, the costs may, in duly justified cases, be considered to be eligible even if they were incurred before the grant application was submitted.’
+;
+ (7) 
+ Annexes I and II are amended in accordance with the Annex to this Regulation.
+ Article 23
+ Exercise of the delegation
+ 1. 
+ The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+ 2. 
+ The power to adopt delegated acts referred to in Article 14(7) shall be conferred on the Commission for a period of 5 years from 5 February 2025. The Commission shall draw up a report in respect of the delegation of power not later than 9 months before the end of the 5-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than 3 months before the end of each period.
+ 3. 
+ The delegation of power referred to in Article 14(7) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following that of the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+ 4. 
+ Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+ 5. 
+ As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+ 6. 
+ A delegated act adopted pursuant to Article 14(7) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of 2 months of the notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 2 months at the initiative of the European Parliament or of the Council.
+ Article 24
+ Committee procedure
+ 1. 
+ The Commission shall be assisted by the Digital Europe Programme Coordination Committee referred to in Article 31(1) of Regulation (EU) 2021/694. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+ 2. 
+ Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+ Article 25
+ Evaluation and review
+ 1. 
+ By 5 February 2027 and at least every 4 years thereafter, the Commission shall evaluate the functioning of the measures provided for in this Regulation and shall submit a report to the European Parliament and to the Council.
+ 2. 
+ The evaluation referred to in paragraph 1 shall assess, in particular:
+ (a) 
+ the number of National Cyber Hubs and Cross-Border Cyber Hubs established, the extent of information shared, including, if possible, the impact on the work of the CSIRTs network, and the extent to which those have contributed to strengthening common Union detection and situational awareness of cyber threats and incidents and to the development of state-of-the-art technologies; the use of DEP funding for cybersecurity tools, infrastructure, or services jointly procured; and, if the information is available, the level of cooperation between National Cyber Hubs and sectoral and cross-sectoral communities of essential and important entities as referred to in Article 3 of Directive (EU) 2022/2555;
+ (b) 
+ the use and effectiveness of actions under the Cybersecurity Emergency Mechanism supporting preparedness, including training, response to and initial recovery from significant cybersecurity incidents, large-scale cybersecurity incidents and large-scale-equivalent cybersecurity incidents, including the use of DEP funding and the lessons learned and recommendations from the implementation of the Cybersecurity Emergency Mechanism;
+ (c) 
+ the use and effectiveness of the EU Cybersecurity Reserve in relation to types of user, including the use of DEP funding, the uptake of services, including their type, the average time for responding to the requests and for the EU Cybersecurity Reserve to be deployed, the percentage of services converted into preparedness services related to incident prevention and response and the lessons learned and recommendations from the implementation of the EU Cybersecurity Reserve;
+ (d) 
+ the contribution of this Regulation to strengthening the competitive position of the industry and services in the Union across the digital economy, including microenterprises and small and medium-sized enterprises as well as start-ups, and the contribution to the overall objective of reinforcing the cybersecurity skills and capacities of the workforce.
+ 3. 
+ On the basis of the reports referred to in paragraph 1, the Commission shall, where appropriate, submit a legislative proposal to the European Parliament and to the Council to amend this Regulation.
+ Article 26
+ Entry into force
+ This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union .
+ This Regulation shall be binding in its entirety and directly applicable in all Member States.
+ ANNEX
+ Regulation (EU) 2021/694 is amended as follows:
+ (1) 
+ in Annex I, the section ‘Specific Objective 3 – Cybersecurity and Trust’ is replaced by the following:
+ ‘Specific Objective 3 – Cybersecurity and Trust
+ The Programme shall stimulate the reinforcement, building and acquisition of essential capacities to secure the Union’s digital economy, society and democracy by reinforcing the Union cybersecurity industrial potential and competitiveness, as well as by improving capabilities of both the private and public sectors to protect citizens and businesses from cyber threats, including by supporting the implementation of Directive (EU) 2016/1148.
+ Initial and, where appropriate, subsequent actions under this objective shall include:
+ 1. 
+ Co-investment with Member States in advanced cybersecurity equipment, infrastructure and know-how that are essential to protect critical infrastructures and the Digital Single Market at large. Such co-investment could include investments in quantum facilities and data resources for cybersecurity, situational awareness in cyberspace including National Cyber Hubs and Cross-Border Cyber Hubs forming the European Cybersecurity Alert System, as well as other tools to be made available to public and private sector across Europe.
+ 2. 
+ Scaling up existing technological capacities and networking the competence centres in Member States and making sure that those capacities respond to public sector and industry needs, including through products and services that reinforce cybersecurity and trust within the Digital Single Market.
+ 3. 
+ Ensuring wide deployment of effective state-of-the-art cybersecurity and trust solutions across the Member States. Such deployment includes strengthening the security and safety of products, from their design to their commercialisation.
+ 4. 
+ Support closing the cybersecurity skills gap, taking into account gender balance by, for example, aligning cybersecurity skills programmes, adapting them to specific sectorial needs and facilitating access to targeted specialised training.
+ 5. 
+ Promoting solidarity among Member States in preparing for and responding to significant cybersecurity incidents and large-scale cybersecurity incidents through deployment of cybersecurity services across borders, including support for mutual assistance between public authorities and the establishment of a reserve of trusted managed security service providers at Union level.’;
+ (2) 
+ in Annex II, the section ‘Specific Objective 3 – Cybersecurity and Trust’ is replaced by the following:
+ ‘Specific Objective 3 – Cybersecurity and Trust
+ 3.1. The number of cybersecurity infrastructure, or tools, or both jointly procured including in the context of the European Cybersecurity Alert System
+ 3.2. The number of users and user communities getting access to European cybersecurity facilities
+ 3.3. The number of actions supporting preparedness for and response to cybersecurity incidents under the Cybersecurity Emergency Mechanism’.
+ ▼C1 
+ A statement has been made with regard to this act and can be found in OJ C, C/2025/310, 15.1.2025, ELI: http://data.europa.eu/eli/C/2025/310/oj.
+ ( 
+ ) Regulation (EU, Euratom) 2023/2841 of the European Parliament and of the Council of 13 December 2023 laying down measures for a high common level of cybersecurity at the institutions, bodies, offices and agencies of the Union (OJ L, 2023/2841, 18.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2841/oj).
+ ( 
+ ) Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (OJ L, 2024/2847, 20.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2847/oj).
+ ( 
+ *1 
+ ) Regulation (EU) 2025/38 of the European Parliament and of the Council of 19 December 2024 laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for and respond to cyber threats and incidents and amending Regulation (EU) 2021/694 (Cyber Solidarity Act) (OJ L, 2025/38, 15.1.2025, ELI: http://data.europa.eu/eli/reg/2025/38/oj).’;
+ ( 
+ *2 
+ ) Regulation (EU) 2021/887 of the European Parliament and of the Council of 20 May 2021 establishing the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National Coordination Centres (OJ L 202, 8.6.2021, p. 1).’.
+ ( 
+ *3 
+ ) Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, p. 65).
+ ( 
+ *4 
+ ) Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94, 28.3.2014, p. 243).
+ ( 
+ *5 
+ ) Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council of 23 September 2024 on the financial rules applicable to the general budget of the Union (OJ L, 2024/2509, 26.9.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj).’;

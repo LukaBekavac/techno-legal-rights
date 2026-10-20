@@ -1,0 +1,523 @@
+### Regulation on data collection for short-term rental | CELEX 52022PC0571 | text version 52022PC0571 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 7.11.2022
+ COM(2022) 571 final
+ 2022/0358(COD)
+ Proposal for a
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ on data collection and sharing relating to short-term accommodation rental services and amending Regulation (EU) 2018/1724
+ (Text with EEA relevance)
+ {SEC(2022) 393 final} - {SWD(2022) 348 final} - {SWD(2022) 349 final} - {SWD(2022) 350 final}
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ This explanatory memorandum accompanies the proposal for a regulation on data collection and sharing relating to short-term accommodation rental services (the ‘Proposal’). 
+ Short-term accommodation rentals (STRs) are an increasingly important part of the tourism sector . They represent nearly one quarter of the total EU supply of tourist accommodation, and this has been boosted by the emergence of online platforms 
+ 1 
+ . STRs create benefits and opportunities for guests, hosts and the overall tourism ecosystem, but they are also a source of concern ( notably for local communities dealing with excessive tourism flows and a lack of affordable long-term housing ) . STRs are therefore increasingly regulated at national, regional and local level. Public authorities have also taken action to enhance the transparency of STR s by, for instance, introducing registration requirements for hosts ( thus enabling public authorities to know which hosts offer what rentals) and by requesting online platforms to share data on hosts and their activities. 
+ Numerous and differing data requests by public authorities impose a heavy burden, notably on platforms which operate across borders. This impairs their ability to offer STR services across the single market. Public authorities are also struggling to obtain reliable data in an efficient manner – which in turn hampers their efforts to develop appropriate and proportionate policy responses to the increase in the number of STRs. Difficulties in data sharing are driven by: 
+ – inefficient and diverging registration schemes managed by public authorities (which therefore cannot efficiently obtain identification data for hosts and listings) ; 
+ – a lack of effective and enforceable legal frameworks, standards and tools to share data among platforms and public authorities; 
+ – the lack of a proper legal framework governing transparency and data sharing. 
+ To address these issues the Proposal’s main objectives are to harmonise and improve the framework for data generation and data sharing on STRs across the European Union, and to enhance transparency in the STR sector. More specifically, the Proposal offers: 
+ – a harmonised approach to registration schemes for hosts, with an obligation for public authorities to maintain appropriately designed registration schemes if they want to obtain data for policymaking and enforcement purposes; 
+ – obligation s for online platforms to enable hosts to display registration numbers (which will ensure hosts’ compliance with registration requirements) and to share specific data about hosts ’ activities and their listings with public authorities ; 
+ – specific tools and procedures to ensure that data sharing is safe, compliant with the General Data Protection Regulation, and cost-effective for all parties involved . 
+ • Consistency with existing policy provisions in the policy area 
+ The Proposal seeks to harmonise and streamline the framework for data generation and data sharing on STRs across the EU. It builds on and is consistent with several other legal instruments that exist at EU level: 
+ – The Digital Services Act (DSA) 
+ 2 
+ imposes a common set of responsibilities on online businesses providing services in the EU, including on online platforms intermediating STR services. The DSA establishes ‘compliance by design’ obligations that require platforms to design and organise their online interface s in a way that enables certain information to be displayed (but only as regards service providers that qualify as ‘traders’ ) and illegal listings to be taken down . It does not require data sets to be reported in a systematic manner. 
+ – The Services Directive 
+ 3 
+ stipulates that service providers can only be made subject to market access requirements if they are non-discriminatory, justified by an overriding reason relating to the public interest and proportionate. In this context, the Court of Justice of the European Union has emphasi s ed the importance of available data and analysis for proportionate policymaking 
+ 4 
+ . The Services Directive also requires Member States to ensure that procedures and formalities applicable to the access to a service activity (e.g. registration schemes ) are simple and that they can be easily completed at a distance and by electronic means through the relevant point of single contact and with the relevant authorities. 
+ – The e-Commerce Directive 
+ 5 
+ contains provisions regulating the cross-border provision of information society services. In relevant part, it provides that Member States must not restrict the freedom to provide information society services from another Member State, unless where necessary for public policy objectives, public security, the protection of public health, or the protection of consumers, including investors, and provided that any such restriction is proportionate to those objectives and that certain procedural requirement are complied with. 
+ – The Platform to Business Regulation (P2B) 
+ 6 
+ grants business users of online intermediation services appropriate transparency rights including minimum notice periods prior to removing offers from their services and the means to resolve disputes. 
+ – The Data Act proposal 
+ 7 
+ addresses business-to-business and business-to-government data sharing but does not include new reporting obligations for online platforms. 
+ – The General Data Protection Regulation (GDPR) 
+ 8 
+ applies to the processing of personal data by public authorities and by online platforms ( including when it is necessary for providing registration numbers and maintaining a registry for them); and to the exchange of personal data between online platforms (which hold significant amounts of data about STR activity ) and public authorities. T he GDPR states that personal data can only be processed if a l egal ground for such processing exists (e.g. the processing is necessary in order to compl y with a legal obligation or to perform a task carried out in the public interest ) . Th e Proposal lays down the ground s for lawful processing of personal data that is necessary in order to increase the transparency of the STR sector, and provides for data protection safeguards to ensure full compliance with the GDPR. 
+ – The Single Digital Gateway Regulation 
+ 9 
+ facilitates online access to information and e-government procedures. To reduce administrative burden and to ensure that the administrative procedures governed by th e Proposal comply with the Single Digital Gateway Regulation, the Proposal will add these administrative procedures to Annexes I and II of that Regulation. 
+ – The new rules under the DAC7 Directive 
+ 10 
+ , which will be applied from 1 January 2023, will require online platforms to report certain information on income earned by those selling through them. This information will be shared only with the tax authorities of the relevant Member States, unless as otherwise required by other legislation , and on an annual basis. 
+ • Consistency with other EU policies 
+ Th e P roposal is in line with the Commission’s priorities to make the EU fit for the digital age and to build a future-ready economy that works for people 
+ 11 
+ . It is also part of the EU ’s SME strategy 
+ 12 
+ - given the need s of the many SME players in the STR segment, including platforms. The P roposal will also address calls in the Transition Pathway for Tourism 
+ 13 
+ and the Urban Agenda 
+ 14 
+ for the adoption of an EU framework bringing more transparency to the STR segment. 
+ Any action under the Proposal will seek to fill gaps and overcome remaining uncertainties in a targeted manner , in order to facilitate the balanced development of STRs. It will be consistent with, and contribute to, the fulfilment of the Sustainable Development Goals 
+ 15 
+ ( particular ly Sustainable Development Goal 11 - sustainable cities and communities) by giving public authorities the tools and the data to regulate the STR sector proportionate ly and sustainabl y . It will also support the proposal by the Conference on the Future of Europe to ‘ invest in an economy based on tourism and culture, including the many small destinations in Europe ’ 
+ 16 
+ . It will complement and build on all existing legal instruments and will be in line with EU competition law, international trade commitments 
+ 17 
+ and the proposed European Declaration on Digital Rights and Principles for the Digital Decade 
+ 18 
+ . 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ The legal basis of the Proposal is Article 114 of the Treaty on the Functioning of the European Union (TFEU), which allows the adoption of measures necessary for the approximation of the provisions laid down by law, regulation or administrative action in Member States that have as their object the establishment and functioning of the internal market. 
+ The Proposal aims to establish a harmonised EU framework for data generation and data sharing on STR services. The approximation of rules applicable to intermediary services is necessary in order to avoid a proliferation of diverging data requirements and requests in the single market, which would hamper the cross-border provision of online intermediation and STR services. The data-sharing framework established under the Proposal is expected to have a positive effect on market access for hosts, because it will help reduce administrative burdens related to registration requirements for hosts. The data-sharing framework will provide authorities with the data that they need in order to develop and maintain STR rules (e.g. rules to limit STR offers in some geographical areas or to ensure compliance with health and safety requirements) that are appropriate and are not more restrictive than necessary to achieve a public interest objective. Article 114 TFEU is therefore the appropriate legal basis for a legislative intervention that covers online platforms in the internal market and addresses divergences between Member States’ regulations and requirements, which affect the functioning of the internal market for online platforms. 
+ • Subsidiarity (for non-exclusive competence) 
+ According to the subsidiarity principle, the EU should only act when the objectives of a proposed action cannot be achieved sufficiently by Member States alone and can therefore, by reason of the scale or effects of the proposed action, be better achieved by the EU. 
+ Diverging and overly burdensome frameworks concerning data generation and data sharing put in place by Member States are hindering the ability of online platforms to operate across borders. At the same time, the current interventions at national, regional and local level are often excessive and ineffective because authorities generally find it difficult to obtain data from platforms and hosts. Action at the European level will enable data sharing by online platforms operating across the EU and ensure that the exchanged data is standardised and interoperable. Common EU standards for registration schemes will ensure that the procedure for registration is simple, thus contributing to reduced fragmentation and administrative burdens for online platforms and hosts. The common EU framework will offer national and local authorities the level of transparency they need to enforce rules and adopt informed policy responses in line with existing EU law. 
+ The cross-border nature of online STR services offered by platforms and the fragmentation of data-sharing requirements means that the objectives of the Proposal cannot be effectively achieved by the Member States alone. EU action is therefore the only way to ensure that a harmonised framework for data generation (through registration) and data sharing is established. This will also enable public authorities to design appropriate and proportionate rules based on reliable data on STRs, and enable online platforms to operate and grow in the single market without having to respond to numerous and diverging data-sharing requests. 
+ • Proportionality 
+ The Proposal primarily aims at streamlining data requests across the EU in order to make it easier for short-term rental platforms to respond to them. An EU legal basis and framework for data sharing by online short-term rental platforms with public authorities will increase legal certainty and ensure that the exchanged data is standardised and interoperable. Member States will not be required to put in place registration procedures for hosts, unless they wish to obtain data from platforms. When a registration system is in place, EU obligations for authorities to issue registration numbers, and for online platforms to enable all hosts to display listings with these registration numbers will ensure that this requirement for hosts is easily enforceable. A registration system will also facilitate data exchanges based on these registration numbers. The common EU framework will therefore provide national and local authorities with the information they need to enforce rules and implement informed policy responses in line with EU law. 
+ The Proposal is also proportionate because it allows Member States and public authorities a certain degree of flexibility not only with regard to registration schemes (i.e. whether or not to introduce them and at which level), but also with regard to additional information that each Member State and public authority may request from hosts (subject to compliance with the principles of non-discrimination and proportionality established by the TFEU and the Services Directive). This ensures that the needs of Member States and local authorities are respected and taken into account. 
+ • Choice of the instrument 
+ Limiting EU action to promoting voluntary action by the industry and certain accompanying measures is possible . It would probably not be effective, however, because it would rely on the industry’s own willingness to change the status quo. Previous soft approaches like the Communication on the collaborative economy of 2016 and the policy principles of 2018 have not led to significant improvements in terms of transparency in the STR sector 
+ 19 
+ and were considered by a number of stakeholders to be in sufficient. This was also demonstrated by calls from the Council 
+ 20 
+ and the Parliament 
+ 21 
+ for more legal certainty and transparency ; and by the consultation and impact assessment process, which revealed the limits and in effectiveness of the soft tools such as voluntary agreements that have been used at EU and national level to date. In addition, GDPR rules require a legal basis and safeguards for th e P roposal ’s aims to promote the sharing of personal data. 
+ These reasons mean that only a legislative instrument can effectively address the problems that have been identified. A regulation is also preferable, because it is directly applicable in Member States, sets the same level of obligations for private parties, and enables the consistent application of rules in the inherently cross-border STR sector. This will also address and prevent fragmentation of the single market. 
+ 3. RESULTS OF EX POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Ex post evaluations/fitness checks of existing legislation 
+ Not applicable. 
+ • Stakeholder consultations 
+ In preparing this proposal, the Commission consulted a broad range of stakeholders, including public authorities (at national, regional and local level), online platforms (and their organisations), hosts and other service providers (such as management companies and hotels) and local associations. The consultation activities included an inception impact assessment, a 12-week dedicated public consultation to which 5692 responses were submitted, stakeholder workshops, two targeted surveys with public authorities and with platforms and targeted consultations with stakeholders. 
+ Public authorities confirmed that they need personal and non-personal data for policy making and enforcement purposes. They highlighted that they currently struggle to obtain this data from hosts and online platforms, for various technical and legal reasons. Hosts stressed the need to increase the responsibility of online platforms for ensuring that only legal listings are displayed. They warned against the multiplication of restrictive rules for hosts at local level. Property managers (mainly SMEs) suggested that simple registration procedures should be in place for STRs and that a national database should be available to map STR operators. Online platforms called for data-sharing requests to be proportionate and in compliance with EU law, notably GDPR. Smaller platforms stressed the need for the new data-sharing obligation to build on existing obligations (e.g. under DAC7 and the DSA) and fill remaining gaps. The hospitality sector (mainly hotels) supported registration schemes for hosts and increasing data sharing by online platforms. It called for a level playing field between STRs and traditional accommodation providers. 
+ • Collection and use of expertise 
+ The Commission and external contractors carried out several surveys, a public consultation and many studies. In-house economic research as well as policy-design support and market analysis by the Joint Research Centre further informed the impact assessment for this initiative. 
+ • Impact assessment 
+ Th e P roposal is supported by an impact assessment report SWD(2022) 350 , which has been prepared in line with the Commission’s ‘ 
+ Better Regulation’ guidelines 
+ . The impact assessment report was reviewed by the Regulatory Scrutiny Board and was then further revised to take into account the Board’s comments and suggestions for improvements , in particular by better explaining the problem of how diverg ing data requests create barriers for online short-term rental platforms to operate, grow and expand in the single market. T he need for , and value added of, EU action is now also better explained by showing that rules at local, regional or national level make online platforms reluctant to share data – thus making it difficult for public authorities to obtain reliable data on STRs. The revised impact assessment report subsequently received a positive opinion from the Board. 
+ In addition to the baseline scenario which entails a ‘no policy change’ approach, three alternative policy options were identified and assessed. These contain comparable measures, but differ considerably in terms of the intensity of the intervention. 
+ – Option 1 would take the form of a Recommendation. The proposal would encourage public authorities to put registration schemes in place for hosts . This would involve gather ing data to identify the host and the unit, and then the automatic grant of a registration number. Public authorities would also be encouraged to require online platforms to display the registration numbers for each unit, and to share pre-agreed activity data with public authorities. This R ecommendation would be based on examples of good practice, and could be complemented by a c ode of c onduct to facilitate data sharing between public authorities and online platforms by specifying the scope of data sharing as well as the technical means. 
+ – Option 2 would require public authorities wanting to obtain data from online platforms for policymaking and enforcement purposes to maintain, as a first step, a registration scheme for hosts and their units, which would need to comply with certain requirements. Once hosts had submit ted a pre-defined set of data and information, public authorities would have to grant them a registration number per unit. Online platforms would be obliged to require hosts to provide this registration number and to periodically share a pre-defined set of data with public authorities (e.g. the number of expected and actual bookings, and the number of guests that stayed in a unit per booking). Member States would have to establish a S ingle D igital E ntry P oint to permit the transfer of data, and would have to clearly state which obligations apply to hosts and online platforms on their territory. 
+ – Option 3 would include the measures foreseen under option 2, but would extend the registration obligation to all hosts and units in the EU . A ll Member States would be required to put in place a registration scheme at national level for all hosts and their units. 
+ The impact assessment identified option 2 as the preferred option , because: 
+ – Option 1 would not fully ensure that the burden on platforms and access to data would be adequately addressed. Its voluntary nature means that it would only lead to improvements in some areas and only between a limited number of online platforms and public authorities ; 
+ – Option 2 would meet the objectives in a flexible and proportionate way. It would increase transparency in the STR segment, while reducing the burden on online platforms and leaving flexibility to public authorities ; 
+ – Option 3 would meet the objectives by providing an effective data-sharing framework across the EU ; however, it would also entail high administrative costs for public authorities and limit their freedom of action. 
+ In terms of economic impact , option 2 would provide benefits, but also create compliance costs for online platforms, public authorities and hosts. Online platforms would benefit from the replacement of uncoordinated data requests with more streamlined and proportionate requests - which would reduce costs in the long term. In terms of costs, online platforms would mainly incur ‘one-off’ administrative costs linked with the adaptation of their IT infrastructure and connection to the Single Digital Entry Point. Public authorities would benefit from higher certainty on data traceability and the optimisation of data-sharing processes, which should in turn reduce the costs of enforcing STR rules. Public authorities that put the system in place would incur the one-off costs of adapting to the new registration system and the Single Digital Entry Point, as well as the costs of setting up the IT infrastructure to receive the data (mainly hosting and maintenance costs). Hosts should on average benefit from saving time when completing registration procedures and, in the long term, from more proportionate STR rules. Registration will also entail administrative costs. 
+ The expected social impacts of option 2 include increased confidence on the part of consumers and guests; a reduction of the number of illegal listings in places where the Proposal is implemented; better management of tourism flows; and public authorities’ increased ability to assess and mitigate the negative externalities of STRs. It would also provide national statistics offices, Eurostat and researchers with aggregated data on STRs. Option 2 could also be expected to have an impact on fundamental rights, as explained below. 
+ In terms of environmental impacts , option 2 is expected to increase public authorities’ ability to assess and mitigate the ecological footprint of STR activity, and to help public authorities to attract STRs to rural areas where STRs can have a positive impact (e.g. investing in the renovation and greening of buildings). The environmental impacts cannot be quantified, because they would only materialise when public authorities use the collected data to design green policies. 
+ • Regulatory fitness and simplification 
+ REFIT (the European Commission's regulatory fitness and performance programme) is not applicable to the Proposal. 
+ • Fundamental rights 
+ The Proposal will ensure that the fundamental right of the protection of personal data, which is guaranteed under Article 8 of the Charter of Fundamental Rights of the European Union, is safeguarded. The processing of personal data under the Proposal is necessary and proportionate to achieve the objectives described above. 
+ 4. BUDGETARY IMPLICATIONS 
+ The Proposal does not have any implications for the EU’s budget. 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ After the adoption of this Regulation, Member States would have a transition period of 2 years to map the relevant local authorities, create or adapt local/national existing registration systems (connecting local registration schemes, if any) and set up the IT infrastructure at national level to streamline data sharing with online platforms (through the Single Digital Entry Point). The first evaluation will take place no earlier than five years after the date of application of the Regulation (i.e. five years after the initial two-year transition period). 
+ The Commission will monitor the implementation and application of, and compliance with, the new system in order to assess its effectiveness. The effectiveness of the new rules will be assessed mainly (but not exclusively) on the basis of a set of key performance indicators. 
+ • Explanatory documents (for directives) 
+ Not applicable. 
+ • Detailed explanation of the specific provisions of the P roposal 
+ The first Chapter sets out general provisions. Article 1 establishes the subject matter of the proposed Regulation (i.e. harmonised rules for data collection and data sharing with competent authorities relating to the provision of short-term accommodation rental services offered by hosts through online platforms). Article 2 defines the scope of the Regulation, the entities to which it applies, and the provisions of national and EU law which it does not affect. Article 3 defines the key terms used in the Regulation. 
+ The second Chapter concerns registration of hosts and properties. Article 4 sets out the procedural requirements with which they need to comply in this respect. It provides that only authorities that have registration systems can require online platforms to regularly report activity data, and that all registration systems must comply with the requirements of the Regulation. Article 5 lists the information that hosts must provide in order to receive a registration number. Article 6 lays down the obligations for competent authorities to verify the information submitted by hosts, request additional information from hosts, and suspend the validity of the registration number. Article 7 details the role of online short-term rental platforms in organising their online interface to ensure the validity of registration numbers. 
+ The third Chapter concerns data reporting. Article 8 sets out the condition according to which competent authorities may receive from online short-term rental platforms specific information about hosts’ activities relating to one or more units offered for short-term accommodation rental services. Article 9 introduces an obligation for online short-term rental platforms to transmit the activity data to competent authorities through the Single Digital Entry Point. More lenient reporting obligations are laid down for small and micro online short-term rental platforms. Article 10 sets out the creation and functionalities of the Single Digital Entry Point. Article 11 establishes a coordination group to support the implementation of the Single Digital Entry Points. Article 12 clarifies which authorities can access the data collected and shared by online short-term rental platforms. 
+ The fourth Chapter sets out the rules on information, monitoring and enforcement. Article 13 entails information obligations for Member States. Article 14 requires each Member State to designate an authority that should monitor the correct and consistent implementation of this Regulation. Article 15 requires Member States to ensure the enforcement of this Regulation and lay down the penalties in case of non-compliance with the Regulation. 
+ The fifth and final Chapter sets out the final provisions. Article 16 creates a Committee within the meaning of Regulation (EU) No 182/2011. Article 17 adds the administrative procedures governed by the Regulation to Annexes I and II of Regulation (EU) 2018/1724 through an amendment to that Regulation. Article 18 details the evaluation and review process for the Regulation. Article 19 states the dates of entry into force and application of the Regulation. 
+ 2022/0358 (COD) 
+ Proposal for a 
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ on data collection and sharing relating to short-term accommodation rental services and amending Regulation (EU) 2018/1724 
+ (Text with EEA relevance) 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Economic and Social Committee 
+ 22 
+ , 
+ Having regard to the opinion of the Committee of the Regions 
+ 23 
+ , 
+ Having regard to the opinion of the European Data Protection Supervisor 
+ 24 
+ , 
+ Acting in accordance with the ordinary legislative procedure, 
+ Whereas: 
+ (1) Short-term accommodation rental services offered by hosts have existed for many years as a complement to other accommodation services such as hotels , hostels, or bed and breakfasts . The volume of s hort-term accommodation rental services is increasing significantly across the Union as a result of the growth of the platform economy. While s hort-term accommodation rental services create many opportunities for guests, hosts and the entire tourism ecosystem , their rapid growth has also triggered concerns and challenges , in particular for local communities and public authorities . One of the main challenge s is the lack of reliable information about s hort-term accommodation rental service s , such as the identity of the host , the location where those services are being offered, and their duration, making it difficult for authorities to assess the impact of s hort-term accommodation rental services and develop and enforce appropr iate and proportionate policy responses. 
+ (2) Public authorities at national, regional and local level are increasingly taking measures to obtain information from hosts and online short-term rental platforms , by imposing registration schemes and other transparency requirements , including on online short-term rental platforms . However, legal obligations regarding data generation and data sharing diverge considerably within and between Member States as regards their scope and frequency , as well as in terms of related procedures. The large majority of online platforms intermediating the provision of s hort-term accommodation rental services provide their services across borders and indeed across the internal market. As a result of diverging transparency requirements, the full realisation of s hort-term accommodation rental services potential is hampered, and the proper functioning of the internal market is negatively affected. In order to achieve more harmonised rules and requirements, and ensure a fair, unambiguous and transparent provision of s hort-term accommodation rental services as part of efforts to promote a balanced tourism ecosystem within the internal market, a uniform and targeted set of r ules should be established at Union level. 
+ (3) T o that end, harmonised rules on data generation and data sharing for s hort-term accommodation rental services should be laid down to increase access to and quality of data for public authorities on the provision of s hort-term accommodation rental services , which in turn should enable them to design and implement policies on such services in an effective and proportionate manner . 
+ (4) Rules should be laid down to harmonise transparency requirements for the provision of s hort-term accommodation rental services through online short-term rental platforms in cases where Member States decide to impose such transparency requirements. Accordingly, harmonised rules should be provided for registration schemes and data - sharing requ irements concerning online short-term rental platforms should Member States decide to put in place such schemes or requirements . To achieve effective harmonisation, and to ensure a uniform application of the rules, Member States will not be able to legislate on access to data from online short-term rental platforms outside the specific regime laid down in the present Regulation. Th at is in order to ensure that Member States do not regulate the requests in question without put ting in place the necessary registration schemes, databases and single digital entry point and to facilitate proportionate, privacy-compliant and secure data sharing by online short-term rental platforms within the internal market. This Regulation does not affect Member States ’ competence to adopt and maintain market access requirements relating to the provision of s hort-term accommodation rental services by hosts , including health and safety requirements , minimum quality standards or quantitative restrictions , provided that such requirements are necessary and proportionate to protect public interest objectives, in accordance with the provisions of the Treaty on the Functioning of the European Union and Directive 2006/123 /EC of the European Parliament and of the Council 
+ 25 
+ . The availability of reliable data on a uniform basis should support Member States ’ efforts in developing policies and regulations that compl y with Union law. In fact, as the case-law of the Court of Justice of the European Union made clear, Member States are required to justify possible market access restrictions for hosts on the basis of data and evidence. 
+ (5) This Regulation is not intended to ensure compliance with customs or taxation rules and does not affect Member States’ competences in the area of criminal offences . A ccordingly , it do es not affect the competence of Member States or of the Union in those fields or any instruments of national or Union law adopted pursuant to such competence for the access , sharing, and use of data in those areas . Therefore, possible future use of personal data processed pursuant to the Regulation for law enforcement or for taxation and customs purposes should be excluded. 
+ (6) This Regulation should apply to service s consisting in the short-term letting of furnished accommodation , against remuneration, whether on a professional or non-professional basis. S hort-term accommodation rental services can concern , for example, a room in a host’s primary residence with the host present , a host’s primary or secondary residence rented out for a limited number of days per year, or one or more properties bought by the host as an investment to be rented out on a short-term basis , typically for less than a year throughout the year. The provision of furnished accommodation for more permanent use, typically for one year or more, sh ould not be considered to be provided on short-term basis. Short-term accommodation rental services are not limited to units let for touristic or leisure purposes but should include short-term stays for other purposes, such as business or study. 
+ (7) The rules laid down in this Regulation should not apply to hotels and other similar tourist accommodations , including resort hotels, suite or apartment hotels , hostels or motels , as their services are already covered by existing transparency and reporting obligations , notably by Regulation (EU) No 692/2011 of the European Parliament and of the Council 
+ 26 
+ . Accommodation provided o n c amping grounds, or in recreational vehicle parks and trailer parks , such as tents, caravans or recreational vehicles , should also not be covered by th os e rules , given that such accommodations are normally found in dedicated areas, such as camp sites or caravan parks , and do not have a n impact on residential housing , comparable to that of short-term accommodation rental services . 
+ (8) The rules laid down in this Regulation should apply to online platforms within the meaning of Article 3 point ( i ) of Regulation (EU) 2022/2065 of the European Parliament and the Council 
+ 27 
+ , which allow guests to conclude distance contracts with hosts for the provision of short-term accommodation rental services. Therefore, w ebpages connecting hosts with guests without any further role in the conclusion of direct transactions should be excluded from the scope of this Regulation. Online platforms intermediating the provision of short-term accommodation rental services without payment (for example, online platforms intermediating the exchange of dwellings) are not covered by th ese rules , given that only s hort-term accommodation rental services provided against remuneration are covered . 
+ (9) R egistration procedures enable competent authorities to collect information on hosts and units re lat ing to s hort-term accommodation rental services. The registration number , which is a unique identifier of a unit rented , should ensure that the data collected and shared by platforms can be properly attributed to hosts and units . It should therefore be for competent authorities , where they wish to receive data from providers of online short-term rental platforms, to put in place or maintain registration procedure s for hosts and their units , either at national , regional or local level . 
+ (10) In order to ensure that competent authorities obtain the information and data they need, without imposing disproportionate burdens on online platforms and hosts, it is necessary to lay out a common approach to registration procedures with in Member State s that is limited to basic information allowing the identification of the unit and the host . To that end, Member States should ensure that , upon the submission of all relevant information and documents, hosts and units are given a registration number. H osts should be able to identify and authenticate themselves using e lectronic identification means issued under a notified electronic identity scheme pursuant to Regulation (EU) No 910/2014 of the European Parliament and of the Council 
+ 28 
+ to complete th o se registration procedures. 
+ (11) H osts should provide information regarding themselves , the units they offer for s hort-term accommodation rental services and other necessary information so that the competent authorities know the identity of the host and their contact details, as well as the location , the type ( e.g. house, apartment, room) and characteristics of the unit. Such information is needed to ensure traceability of hosts and units offered. Th e description of the unit’s characteristics should include an indication o f whether the unit is offered in whole or part and whether the host uses the unit for residential purpose s as a primary or secondary residence or for other purposes . H osts should also provide information on the maximum number of guests that the unit is capable of accommodating . 
+ (12) It should be possible for Member States to require hosts to submit additional information and documentation attesting compliance with requirements established by national l a w , such as health and safety and consumer protection requirements . Member States may, in particular, in order to ensure equal access and inclusion, require hosts to provide information concerning the accessibility for persons with disabilities of the units offered for short-term accommodation rental services in relation to national or local accessibility requirements. However, any requirements should comply with the principles of non-discriminat ion and proportionality , meaning that they must be appropriate and necessary to achieve a legitimate regulatory objective , and with the Treaty on the Functioning of the European Union and Directive 2006/123/EC . Furthermore, Member States should be able to impose information requirements on hosts that comply with Union law concerning issues not covered by this Regulation, such as non-remunerated stays including where hosting arrangements concern vulnerable individuals, such as refugees or beneficiaries of temporary protection. 
+ (13) Where the information and documentation provided by hosts via the registration procedure is valid for a limited period of time, for example in the case of a n identity document or a fire o r other safety certificate , hosts should be able to update the information or documentation. Where a host fails to submit the updated information and documentation, the competent authorities should have the power to suspend the validity of the registration number until the updated information or documentation has been submitted. The information and documentation submitted by the host should be retained for the entire period of validity of the registration number and for a maximum period of 1 year following the host’s request for removal of a unit from the registry, in order to allow competent authorities to perform any relevant checks even after the removal of the unit from the registry . 
+ (14) T he information and documentation provided by hosts via the registration procedure should be verified by competent authorities only after the issuance of the registration number. It is appropriate to enable hosts , within a reasonable period of time, to rectify the information and documentation submitted which a competent authorit y considers to be incomplete or inaccurate . Where the host fails to rectify the information and documentation within the period indicated, the competent authority sh ould have the power to suspend the validity of the registration number. The competent authority should have the power to suspend the validity of the registration number also in cases where it finds that there are manifest and serious doubts as regards the authenticity and validity of the information or documentation provided by the host. In those case s , competent authorities should inform hosts about their intention to suspend the validity of the registration number and the reasons for it . Hosts should have the possibility to be heard and , where appropriate, to rectify the information and documentation provided within a reasonable period of time. Where the validity of the registration number has been suspended, competent authorities should have the power to issue an order requesting the online short-term rental platforms to remove or disable access to the listing relating to the unit in question without undue delay. Those orders should include all necessary information to identify the listing, including the individual Uniform Resource Locator (URL) of the listings. 
+ (15) Where a registration procedure applies, hosts should be required to provide online short-term rental platforms with their registration numbers, display them in each respective unit listing and provide guests with the unit’s registration number. Members States should ensure that, where a registration procedure applies, national law enables competent authorities to order online short-term rental platforms to remove listings related to units offere d without a registration number or offered with an invalid registration number . 
+ (16) Article 31 of the Regulation (EU) 2022/2065 lays down certain due diligence requirements for providers of online platforms allowing consumers to conclude distance contracts with traders. Th o se requirements apply to online short-term rental platforms with respect to short-term accommodation rental services offered by hosts that qualify as traders. However, the short-term accommodation rental sector is characterised by the fact that hosts are oft en private individuals offering short-term accommodation rental services on an occasional peer-to-peer basis , who do not necessarily meet the conditions to be categorised a s ‘ trader s ’ under Union law. Therefore, in line with the concept and objective of ‘compliance by design’ under Article 31 of Regulation (EU) 2022/2065 , and i n order to enable competent authorities to verify whether applicable registration obligations are complied with , it is appropriate to apply specific conditions for compliance by design in the context of short-term accommodation rental services , including those offered by hosts that do not qualify as traders pursuant to Union law . O nline short-term rental platforms should ensure that services are not offered where no registration number has been provided, in cases where a host declares that such a registration number applies. This should not amount to an obligation for online short-term rental platforms to generally monitor the services offered by hosts through their platform , nor to a general fact-finding obligation aimed at assess ing the accuracy of the registration number prior to the publication of the offer of short-term accommodation rental services . 
+ (17) Where competent authorities wish to receive from online short-term rental platforms information about hosts ’ activities , they should be required to establish or maintain registration procedure. 
+ (18) Competent authorities that wish to receive from online short-term rental platforms information about hosts ’ activities and have registration systems in place should be able to obtain activity data from online platforms on a regular basis. The type of data that may be obtained should be fully harmonised and include information on the number of nights for which a registered unit has been rented , the number of guests that stayed in the unit per night , the registration number and the URL of the listing of th e unit , which is needed in order to facilitate the identification of the host and the unit offered for short-term accommodation rental services in cases where the registration number is missing or incorrect . Only online platforms that have effectively facilitated the conclusion of direct transactions between hosts and guests are covered by the obligation to provide the activity data, the registration number and the URL of the listing of the unit , as only those platforms are in a position to collect data, such as on the number of nights for which a unit is rented and the number of guests that stayed in the unit per night . Member States sh ould not maintain or introduce measures that require platforms to report on short-term accommodation rental service providers and their activities diverg ing from those laid down in this Regulation , unless otherwise provided under Union law. 
+ (19) In order to ensure that the processing of personal data is adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed , online short-term rental platforms should not be required to report additional information on the identity of the hosts and on units, given that this information is already collected by competent authorities through the registration procedures applicable to hosts . 
+ (20) Online short-term rental platforms that qualify as small or micro enterprises within the meaning of Commission Recommendation 2003/361/EC 
+ 29 
+ should not be expected to use machine-to-machine communication means of data-sharing, provided that they d id not , in the previous quarter, reach a monthly average of minimum 2 5 0 0 active hosts in the Union . Allowing s u ch online short-term rental platforms to use manual means to share data with the S ingle D igital E ntry P oint reduces their compliance burden and takes account of their financial or technical resources , while still ensuring that competent authorities obtain the relevant data. The assumption is that online short-term rental platforms that are small or micro enterprises within the meaning of Recommendation 2003/361/E C and that reach or exceed this threshold should already have in place systems that allow to comply with machine-to-machine transmission requirements. 
+ (21) Online short-term rental platforms should be required to fulfil the reporting obligations with respect to the short-term accommodation rental services that they intermediate for units located in a n area where a registration procedure has been established, and provided that the Single Digital Entry Point has been established by the Member State. Collecting and sharing this information is necessary to enable competent authorities to monitor compliance with the registration procedures applicable to hosts and to enable Member States to develop and enforce appropriate and proportionate policies in the area of short-term accommodation rental services . 
+ (22) To avoid online short-term rental platforms being confronted with diverging technical requirements and a variety of access points for sharing data within a Member State, a national Single Digital Entry Point should be established as a gateway for the electronic transmission of data between online short-term rental platforms and competent authorities, ensuring timely, reliable and efficient data sharing processes . 
+ (23) T he Single Digital Entry Point s should facilitate the ability of online short-term rental p latforms to randomly check the validity of a registration number or the accuracy of self-declarations , in order to reduce errors and inconsistencies as regards data transmission and to ease their compliance burden. The Single Digital Entry Point should , while not requiring the actual storage of the registration number, allow the performance of r andom checks either automatically by means of Application Programming Interface allowing the verification of a registration number against the given entries in the registry of the individual registration procedures in a Member State connected to the Single Digital Entry Point or manually, for example , by entering a registration number in a n online interface and receiving a confirmation on its validity. Online short-term rental platforms should be free to perform additional checks through the Single Digital Entry Point. Member States should continue enforcing registration obligations using the tools already available to them. 
+ (24) In order to ensure uniform conditions for the implementation of the technical solutions supporting the exchange of data and to promote the interoperability of the national Single Digital Entry Points, i mplementing powers should be conferred on the Commission to lay down, where necessary, the applicable standards and interoperability requirements. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council 
+ 30 
+ . 
+ (25) Alignment should be ensured between the various registries in a Member State as well as their interoperability with the Single Digital Entry Point in order to remov e semantic and technical barriers to data sharing and to ensure more effective and efficient administrative procedures . The entities in charge of creating the Single Digital Entry Points at national level and the Commission should facilitate implementation at national level and cooperation between Member States . 
+ (26) A proportionate, limited and predictable framework at Union level is necessary for the transparent sharing of activity data and registration numbers , in compliance with the requirements of the Regulation (EU) 2016/679 of the European Parliament and of the Council 
+ 31 
+ . To achieve this , Member States should list the competent authorities at national, regional and local level that have established or maintain a registration procedure to requ est activity data for units located on their territory . Such data should only be processed for purposes of monitoring compliance with registration procedures or implementing rules concerning access to and provision of short-term accommodation rental services. In the latter case, such processing should only be permitted if the rules in question are non-discriminatory, proportionate, and comply with Union law, including the rules on free movement of services, freedom of establishment, and the rules in Directive 2006/123. For purposes of complying with Union law on data protection, any rules concerning access to and provision of short-term accommodation rental services should set out the purpose of processing the data in accordance with the requirements of Regulation 2016/679 . A ctivity data , not including personal data, is also essential for authorities that are developing such rules as part of efforts to promote a balanced tourism ecosystem, including effective and proportionate rules for the access to , and the provision of , short-term accommodation rental services . A retention period of maximum 1 year should allow competent authorities to ensure compliance with rules and regulations applicable to hosts or concerning units rented and for policy development . 
+ (27) Aggregated data sets based on the available activity data , would also be important for the compilation of official statistics . Those data , together with information on the total number of units and on the maximum number of guests that the unit can accommodate in each geographical subdivision , should be transmitted to national statistical offices and Eurostat every month for the purposes of compiling statistics in line with the requirements applicable to other service providers in the accommodation sector as laid in Regulation 692/2011 concerning European statistics on tourism . Member States should designate the national entity responsible for aggregating data and transmitting it. Competent authorities should also be able to share activity data, without any data that could enable the identification of individual units or hosts , such as registration numbers and URLs , with entities and persons when this is needed to carry out scientific research or analytical activities as well as to produce new business models and services. Under the same conditions , activity data could be made available via sectorial data spaces , when established. 
+ (28) Member States sh ould provide the necessary information to allow public authorities, online short-term rental platforms, hosts and citizens to understand the laws, procedures and requireme nts relating to the provision of short-term accommodation rental services within their territory. Th o se include registration procedures as well as any requirements concerning access to, and the provision of, short-term accommodation rental services. 
+ (29) In order to facilitate the implementation of this Regulation , each Member State should designate a n authority that should monitor its implementation and report to the Commission every two years. 
+ (30) Member States should ensure an effective enforcement of this Regulation. The authorities entrusted with the enforcement of Regulation (EU) 2022/2065 should ensure that the obligations laid down in this Regulation for providers of online short-term rental platforms concerning the design of the interface of online short-term rental platforms with regard to the registration number of any host , as defined in this Regulation , are complied with in accordance with the powers and procedures laid down in Chapter IV of Regulation (EU) 2022/2065 . In accordance with Regulation (EU) 2022/2065 , therefore, the competent DSC or the Commission should be empowered to enforce the compliance by design obligation laid down in Article 7(1) of this Regulation in accordance with the allocation of competences laid down in Chapter IV of Regulation (EU) 2022/2065 . Consequently, the Commission should be empowered to adopt direct enforcement measures only with regard to very large online platforms designated pursuant to the Regulation (EU) 2022/2065 . 
+ (31) Member States should ensure an effective enforcement of this Regulation as regards the provisions of this Regulation concerning the results of the random checks, the obligation to include a reference to the information to be made available by Member States on rules governing the provision of short-term accommodation rental services and the data sharing obligations of short-term rental platforms. Due to the specific nature of those obligations, it should be for authorities designated by the Member State of the Single Digital Entry Point, in which the relevant unit is located, to enforce them. Member States should also lay down rules setting out penalties for the infringement of these provision s of this Regulation that appl y to online short-term rental platforms and should ensure that such penalties are implemented and notified in accordance with Directive 2000/31/EC of the European Parliament and of the Council 
+ 32 
+ . Such penalties should be effective, proportionate and dissuasive. These penalties should ensure an effective enforcement of this Regulation, notably as regards data sharing obligations. 
+ (32) In order to allow citizens and businesses to directly enjoy the benefits of the internal market without incurring an unnecessary additional administrative burden, Regulation (EU) 2018/1724 of the European Parliament and the Council 
+ 33 
+ , which establishe d the Single Digital Gateway, provides for general rules for the online provision of information, procedures and assistance services relevant for the functioning of the internal market. Th e information requirements and procedures covered by this Regulation should comply with the requirements of Regulation (EU) 2018/1724 . In particular , the procedures concerning the registration by hosts and the issue of the registration number referred to in Article 4 of this Regulation, should be included in Annex II of Regulation (EU) 2018/1724 so as to ensure that any host can benefit from fully online procedures. Regulation (EU) 2018/1724 should therefore be amended accordingly . 
+ (33) In addition, in accordance with the once-only principle, h osts with units in one or more Member States should be allowed to re-use data and evidence they have already submitted for the purpose of a first registration , thereby reduc ing the compliance burden for hosts . That functionality could be provided by using the infrastructure of the Once Only Technical System as established by Commission Implementing Regulation (EU) 2022/1463 . 
+ 34 
+ (34) The Commission should periodically evaluate this Regulation and monitor its effects on the provision of s hort-term accommodation rental services offered through online short-term rental platforms in the Union . That evaluation should include any effects on providers of online short-term rental platforms and any effects of the increased availability of data on the content and proportionality of national, regional and local rules relating to the provision of s hort-term accommodation rental service s . In order to obtain a broad view of developments in the sector, the evaluation should take into account the experiences of Member States and relevant stakeholders. 
+ (35) In order to allow sufficient time for Member States to establish registration procedures, adapt existing registration procedures to the provisions of this Regulation and to establish S ingle D igital E ntry P oint s , and to enable platforms and hosts to adapt to the new requirements , t h e application of this Regulation should be deferred . 
+ (36) Since the objectives of this Regulation, namely contributi ng to the proper fun ctioning of the internal market in relation to the provision of services provided by online short-term rental p latforms cannot be sufficiently achieved by the Member States and can therefore be better achieved at Union level, the Union may adopt this Regulation, in accordance with the principle of subsidiarity as set out in Article 5 of the T reaty on the European Union . In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve those objectives. 
+ (37) The fundamental right to the protection of personal data is safeguarded in particular by Regulation (EU) 2016/679 . That Regulation provide s the basis for rules and requirements of personal data processing, including where datasets include a mix of personal and non-personal data and such data are inextricably linked . Any personal data processing under the present Regulation must comply with Regulation (EU) 2016/679 . Therefore the data protection supervisory authorities are responsible for the supervision of the processing of personal data carried out in the context of this Regulation . 
+ (38) The European Data Protection Supervisor was consu lted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council 
+ 35 
+ and delivered an opinion on [ XX XX 2022 ] 
+ 36 
+ , 
+ HAVE ADOPTED THIS REGULATION: 
+ CHAPTER I 
+ General provisions 
+ Article 1 
+ Subject matter 
+ This Regulation lays down rules for data collection by competent authorities and providers of online short-term rental platforms and data sharing from online short-term rental platforms to competent authorities relating to the provision of short-term accommodation rental services offered by hosts through online short-term rental platforms. 
+ Article 2 
+ Scope 
+ 1. This Regulation appl ies to providers of online short-term rental platforms that offer services to hosts providing short-term accommodation rental services in the Union , irrespective of th eir place of establishment . 
+ 2. This Regulation is without prejudice to : 
+ (a) national, regional or local rules regulating access to, or the provision of, short-term accommodation rental services by hosts , unless otherwise specifically provided for under this Regulation; 
+ (b) national, regional or local rules regulating the development or use of land, town and country planning or building standards ; 
+ (c) Union or national law regulating the prevention, investigation, detectio n or prosecution of criminal offences or the execution of criminal penalties ; 
+ (d) Union or national law regulating the administration, collection, enforcement and recovery of tax es , customs and other duties . 
+ 3. This Regulation is without prejudice to the rules laid down by other Union legal acts regulating other aspects of the provision of services by online short-term rental platforms and the provision of short-term accommodation rental services , in particular: 
+ (a) Regulation (EU) 2019/1150 of the European Parliament and of the Council 
+ 37 
+ ; 
+ (b) Regulation (EU) 2022/ 2065 ; 
+ (c) Regulation (EU) 2022/ 1925 of the European Parliament and of the Council 
+ 38 
+ ; 
+ (d) Directive 2000/3 1 /EC ; 
+ (e) Directive 2006/123/EC ; 
+ (f) Directive (EU) 2015/1535 of the European Parliament and of the Council 
+ 39 
+ ; 
+ (g) Council Directive (EU) 2010/24/EU 
+ 40 
+ ; and 
+ (h) Council Directive (EU) 2011/16/EU 
+ 41 
+ . 
+ Article 3 
+ Definitions 
+ For the purpose of this Regulation, the following definitions shall apply: 
+ (1) ‘unit’ means a furnished accommodation located in the Union that is the subject of the provision of a short-term accommodation rental service . It does not include the following : 
+ (a) hotels and similar accommodations including resort hotels, suite or apartment hotels, hostels and motels as described in NACE Rev. 2, group 55.1 ( ‘ hotels and similar accom modation ’ ) of Annex I to Regulation (EC) No 1893/2006 of the European Parliament and of the Counci l 
+ 42 
+ ; 
+ (b) the provision of accommodation in c amping grounds, recreational vehicle parks and trailer parks , as described in NACE Rev. 2 group 55.3 of Annex I to Regulation 1893/2006 . 
+ (2) ‘host’ means a natural or legal person that provides, or intends to provide, on a professional or non-professional basis, a short-term accommodation rental service against remuneration through an online short-term rental platform; 
+ (3) ‘active hosts’ means hosts who have at least one unit listed during a period of 1 month on an online short-term rental platform ; 
+ (4) ‘ g uest’ means a natural person who is hosted in a unit; 
+ (5) ‘ short-term accommodation rental service’ means the short-term letting of a unit , against remuneration, whether on a professional or non-professional basis , as further defined by national law ; 
+ (6) ‘ o nline short-term rental platform’ means an online platform within the meaning of Article 3 , point ( i ) , of Regulation (EU) 2022 / 2065 , that allows guests to conclude distance contracts with hosts for the provision of short-term accommodation rental services ; 
+ (7) ‘ r egistration number’ means a unique identifier issued by the competent Member State , which identifies a unit in that Member State; 
+ (8) ‘registration procedure’ means any procedure by which hosts must provide specific information and documentation to the competent a uthorities before they can start offering short-term accommodation rental services; 
+ (9) ‘listing’ means the refer ence to a unit offered for short-term accommodation rental services and published on an online short-term rental platform’s website; 
+ (10) ‘ c ompetent authority’ means a national, regional or local authority of a Member State that is competent to manage and enforce registration procedures , and/ or to collect data on short-term accommodation rental services ; 
+ (11) ‘activity data’ means the number of nights for which a unit is rented and the number of guests that stayed in the unit per night ; 
+ (12) ‘ s mall or m icro online short-term rental platform’ means an online short-term rental platform that qualif ies as a small or micro enterprise within the meaning of Recommendation 2003/361/E C . 
+ CHAPTER II 
+ Registration 
+ Article 4 
+ Registration procedures 
+ 1. A ny registration procedure established by a Member State , at national, regional or local level , for units located in its territory, shall comply with the provisions of this Chapter. 
+ 2. Member States shall ensure that : 
+ (a) registration procedures operate on the basis of declarations made by hosts ; 
+ (b) registration procedures allow for the automatic and immediate issue of a registration number for a specific unit upon the submission by the host of the information referred to in Article 5 (1) and , where appropriate, any supporting documentation required pursuant to Article 5(2) ; 
+ (c) a unit is not subject to more than one registration procedure ; 
+ (d) t echnical means are in place to allow for information and documentation to be updated by a host ; 
+ (e) technical means are in place to assess the validity of registration numbe r s ; 
+ (f) technical means are in place to allow a host to remove a unit from the registry referred to in paragraph 3 ; 
+ (g) hosts are required , when offering their short-term accommodation rental services via an online short-term rental platform , to declare whether the unit offered is located in an area where a registration procedure has been established or applies and, if so, to provide the registration number. 
+ 3. Member States shall ensure that hosts are able to request that the information or documentation provided pursuant to Article 5 ( 1 ) and ( 2 ) can be re-used for the purposes of subsequent registrations. 
+ 4. Member States shall ensure that registration numbers are included in a registry . The competent authority issuing the registration number shall be responsible for establishing and maintaining the registry. 
+ Article 5 
+ Information to be provided by hosts 
+ 1. When registering pursuant to a registration procedure referred to in Article 4 , a host shall submit the following information by way of declaration : 
+ (a) for each unit: 
+ (1) the address of the unit; 
+ (2) the type of unit; 
+ (3) whether the unit is offered as a part or whole of the host’s primary or secondary residence, or for other purposes ; 
+ (4) the maximum number of guests that the unit can accommodate ; 
+ (b) w here the host s are natural person s : 
+ (1) the ir name ; 
+ (2) a national identification number or, if not available, other information allowing the identification of the person ; 
+ (3) the ir address; 
+ (4) their contact telephone number ; 
+ (5) the electronic mail address that the competent authority can use for written communication ; 
+ (c) where the host s are legal person s : 
+ (1) the ir name; 
+ (2) t he national business registration number; 
+ (3) the name of a ll its legal representative s ; 
+ (4) the ir registered address; 
+ (5) a contact telephone number , of a representative of th at legal person ; 
+ (6) an electronic mail address that the competent authority can use for written communication . 
+ 2. Member States may require that the information submitted pursuant to paragraph 1 is accompanied by appropriate supporting documentation. 
+ 3. Where a Member State require s hosts to submit further information and documentation , the submission of that information and documentation is without prejudice to the issuance of the registration number in accordance with Article 4( 2 ), point ( b ) . 
+ 4. Without prejudice to Article 6, where there is a material change in the situation substantiated by the information and documentation provided pursuant to paragraph s 1 and 2 , hosts shall update the information and documentation via the functionality referred to in Article 4 ( 2 ) , point ( d ) . 
+ 5. Member States shall ensure that the information or documentation submitted pursuant to a registration procedure referred to in Article 4 is retained in a secure and confidential manner and only for a period which is necessary for the identification of the unit and for a maximum of 1 year after the host has indicated via the functionality referred to in Article 4( 2 ) , point ( f ) that the unit should be removed from the r egistry. Member States shall ensure that the information and documentation provided by the host pursuant to paragraph s 1 and 2 is only processed for the purpose of issuing the registration number and ensuring compliance with the applicable rules of the Member State concerning the access to and provision of short-term accommodation rental services . 
+ 6. Hosts shall be responsible for the accuracy of the information that they provide to competent authorities pursuant to this Article, and of the information that they provide to online short-term rental platform s pursuant to Article 7 of this Regulation . 
+ Article 6 
+ Verification by competent authorities 
+ 1. Competent authorities may , at any time after issuing a registration number , verify the declaration and any supporting documentation submitted by a host pursuant to Article 5(1) and 5 ( 2 ) . 
+ 2. Where a competent authority, after verification pursuant to paragraph 1, finds that the information or documentation submitted pursuant to Article 5(1) and 5 ( 2 ) is incomplete or incorrect, that competent authority shall have the power to ask the host to rectify the information and documentation provided via the functionality referred to in Article 4 ( 2 ) , point ( d ) , within a period to be specified by the competent authority . 
+ 3. Where a host fails to rectify the request ed information pursuant to paragraph 2, the competent authority shall have the power to suspend the validity of the affected registration number s and to issue an order request ing online short-term rental platform s to rem ove or disable access to any listing relating to the unit or units in question without undue delay . 
+ 4. Where a competent authority, after verification pursuant to paragraph 1, finds that there are manifest and serious doubts as regards the authenticity and validity of the information or documentation submitted pursuant to Article 5(1) and 5 ( 2 ), it shall have the power to suspend the validity of the affected registration number s and to issue an order requesting online short-term rental platforms to rem ove or disable access to any listing relating to the unit or units in question without undue delay . 
+ 5. Where a competent authority intends to suspend the validity of a registration number or numbers pursuant to paragraphs 3 or 4, it shall notify the host in writing stating the reasons for that intentio n. The host shall be given the opportunity to be heard and , where appropriate, to rectify the information or documentation in question within a reasonable period to be specified by the competent authority. Where, after having heard the host, the competent authority confirms its intention to suspend the validity of a registration number or numbers, it shall notify the host in writing of that decision, accompanied by a copy of the order referred to in paragraphs 3 or 4. 
+ 6. Orders issued pursuant to paragraphs 3 , 4 and 10 shall contain at least the following information : 
+ (a) a statement of reasons ; 
+ (b) clear information enabling the provider of the online short-term rental platform to identify and locate the listing or listings concerned , such as one or more exact uniform resource locators (URL) and the identity of the competent authority ; 
+ (c) the identity of the host and of the unit offered for short-term accommodation rental services. 
+ 7. The validity of a registration number shall remain suspended until the host has rectified the relevant information and documentation with the competent authorities. Upon reception, via the functionality referred to in Article 4(2) , point ( d ), and verification of the accuracy, completeness and correctness of the information and documentation provided by the host, the competent authorities shall reinstate the registration number. 
+ 8. T he competent authority shall inform the host s about the redress mechanisms available in relation to the steps taken pursuant to paragraphs 2 to 5 and 7 . 
+ 9. Where a Member State requires hosts to submit further information and documentation as referred to in Article 5(3), it may apply the provisions of this Article to such information or documentation, provided that the requirement in question is non-discriminatory , proportionate and complies with Union law . 
+ 10. W here a registration procedure applies, Member States shall ensure that national law enables competent authorities to order providers of online short-term rental platforms to remove listings related to units offere d without a registration number or offered with an invalid registration number . 
+ Article 7 
+ Compliance by design 
+ 1. O nline short-term rental platforms shall : 
+ (a) design and organise their online interface in a way that require s hosts to self-declare whether the unit offered for short-term accommodation rental services is located in an area where a registration procedure has been established or applies ; 
+ (b) where the host declares that the unit offered for short-term accommodation rental services is located in an area where a registration procedure has been established or applies , design and organise their online interface in a way t hat enable s hosts to let users identify the unit through a registration number , and to ensure that hosts have provided a registration number prior to allowing the offering of the short-term accommodation rental services with respect to that unit ; 
+ (c) m ake reasonable efforts to randomly check the declaration of the host s concerning the existence or not of a registration procedure , taking into account the list made available pursuant to Article 1 3 (1), point (a) , and, where such a procedure exists , the validity of the registration number provided by the host, including through the use of the functionalities offered by the Single Digital Entry Point s referred to in Article 10 (2), point (b) , a fter allowing the offering of the short-term accommodation rental services by the host . 
+ 2. O nline short-term rental platforms shall inform without delay the competent authorities and the hosts of the results of the random checks referred to in paragraph 1, point (c), concerning incorrect declarations of hosts or invalid registration numbers. 
+ 3. O nline short-term rental platforms shall include , in a specific section of the online interface that is directly and easily accessible , a reference to the information to be made available by Member States pursuant to Article 1 7 (1). 
+ CHAPTER III 
+ Data reporting 
+ Article 8 
+ Registration procedures for data reporting 
+ Member States shall ensure that a registration procedure is established or maintained for units located in an area included in the list referred to in Article 13(1), point (b). 
+ Article 9 
+ Obligation on online short-term rental platforms to transmit activity data and registration numbers 
+ 1. When a listing concerns a unit located in an area included in the list referred to in Article 13 (1), point (b) , providers of online short-term rental platforms shall collect and, on a monthly basis, transmit to the Single Digital Entry Point of the Member State where the unit is located , activity data per unit, together with the corresponding registration number as provided by the host and the URL of the listing. That transmission shall take place by machine-to-machine communication means . 
+ 2. By way of derogation from paragraph 1, small or micro online short-term rental platforms that d id not , in the previous quarter, reach a monthly average of 2 5 00 or more active hosts shall transmit the activity data per unit , together with the corresponding registration number and the URL of the listing , at the end of the quarter , by machine-to-machine communication means or manually , to the Single Digital Entry Point of the Member State where the unit is located. 
+ Article 10 
+ Establishment and functionalities of Single Digital Entry Points 
+ 1. Where a Member State ha s established one or more registration procedures pursuant to Article 8 , that Member State shall establish a Single Digital Entry Point for the receipt and forwarding of activity data , the relevant registration number and the URL of the listings provided by online short-term rental platforms pursuant to Article 9 . Th at Member State shall designate the authority which will be responsible for the operation of the Single Digital Entry Point. 
+ 2. The Single Digital Entry Point referred to in paragraph 1 shall: 
+ (a) p rovide a technical interface for online short-term rental platforms enabling the machine-to-machine and manual transmission of activity data , the relevant registration number and the URL of the listings; 
+ (b) facilitate random checks by online short-term rental platforms pursuant to Article 7 ( 1 ) , point ( c ) o f the validity of registration number s provided by host s ; 
+ (c) provide a technical interface for the competent authorities referred to in Article 1 2 to receive activity data , the relevant registration number and the URL of listings transmitted by online short-term rental platform s only for the purposes identified in Article 1 2 (2) for units in their territory . 
+ 3. Member States shall ensure that the Single Digital Entry Point referred to in paragraph 1 provides for: 
+ (a) interoperability with the registries referred to in Article 4( 3 ) ; 
+ (b) the possibility to re-use the information or documentation to be provided by hosts pursuant to Article 5 , if the same information or documentation is requested by multiple registries referred to in Article 4( 3 ) within the same Member State ; 
+ (c) confidentiality, integrity and security of the processing of the activity data and registration numbers and the URL of the listing transmitted by online short-term rental platforms in accordance with Article 9 . 
+ 4. The Single Digital Entry Point referred to in paragraph 1 shall not store information containing personal data . It shall ensure the automatic, intermediate and transient processing of personal data that is strictly necessary for the purpose of giving access to the authorities referred to in Article 1 2 to activity data , registration numbers and URL of listings provided by online short-term rental platforms . 
+ 5. The Commission may adopt implementing acts laying down common technical specifications and procedures to ensure interoperability of solutions for the functioning of the Single Digital Entry Points and the seamless exchange of data , including the structure of the registration numbers. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 1 6 (2) . 
+ Article 11 
+ Coordination of Single Digital Entry Points 
+ 1. Each Member State shall appoint a national coordinator. Th ose national coordinators shall act as contact point s for their respective administrations for all matters relating to the Single Digital Entry Point. 
+ The national coordinator for each Member State shall be responsible for contacts with the Commission in respect of all matters relating to the Single Digital Entry Point. Each Member State shall inform the other Member States and the Commission of the name and contact details of its national coordinator. The Commission shall keep and maintain a list of the national coordinators and their contact details. 
+ 2. T he Single Digital Entry Points coordination group (‘the coordination group ’) is hereby established . The coordination group shall be composed of the national coordinator from each Member State and shall be chaired by the Commission. The coordination group shall adopt its rules of procedure. The Commission shall support the functioning of the coordination group. 
+ 3. The coordination group shall support the implementation of the provisions of this Regulation concerning the Single Digital E ntry Points. In particular , the coordination group shall perform the following tasks : 
+ (a) f acilitate the exchange of best practices on matters related to the coordination of the implementation at national level, in particular as regards the pr ovisions set out in Article 10 ; 
+ (b) assist the Commission in promot ing the use of interoperability solutions for the functioning of the Single Digital Entry Points and the exchange of data; 
+ (c) assist the Commission in developing a common approach to message format for the transmission of activity data and registration numbers and a common structure of the registration numbers . 
+ Article 12 
+ Access to data 
+ 1. Member States shall establish a list of the competent authorities responsible for areas where a registration procedure applies pursuant to Article 8 . 
+ 2. A ccess to the information transmitted pursuant to Article 9 shall be granted to the competent authority only where the intended purpose of the processing is one of the following: 
+ (a) monitoring compliance with the registration pro cedure s referred to in Article 8 ; 
+ (b) implementing rules governing the access to and the provision of short-term accommodation rental services, provided that those rules are non-discriminatory, proportionate and comply with Union law . 
+ 3. Competent a uthorities listed pursuant to paragraph 1 shall retain activity data in a secure and confidential manner as long as necessary for th e purposes referred to in paragraph 2 and no longer than 1 year after their receip t. Th ose competent authorities may , in accordance with the laws of the Member State, share activity data without any data that c an identify individual units or hosts, including registration numbers and URLs , in particular with the following : 
+ (a) authorities tasked with developing laws, regulations or administrative provisions concerning access to and provision of short-term accommodation rental services ; 
+ (b) entities or persons carrying out scientific research, analytical activities or develop ing new business models, whe re this is necessary for the purpose of those activities . 
+ 4. Member States shall aggregate the activity data obtained pursuant to Article 9 and transmit it on a monthly basis to national statistical offices and Eurostat for the purposes of compiling statistics in accordance with Regulation (EC) No 223/2009 of the European Parliament and of the Council 
+ 43 
+ . Activity d ata shall be aggregated at national, regional and municipal level , and shall include information on the total number of units and on the maximum number of guests that the unit can accommodate in each geographical subdivision. Th ose data shall be broken down by the type of unit as described in Article 5(1) , point ( a ) , of this Regulation . Member States shall designate the national entity responsible for aggregating activity data and transmitting it to national statistical offices and Eurostat. 
+ CHAPTER IV 
+ Information, supervision and enforcement 
+ Article 13 
+ Information obligations 
+ 1. Member States shall draw up and make available, free of charge, the following lists: 
+ (a) list of areas where a registration procedure applies in their territory; 
+ (b) list of areas for which competent authorities have requested data from providers of online short-term rental platforms. 
+ 2. Competent authorities shall promote awareness of the rights and obligations under this Regulation in their respective territories. 
+ Article 14 
+ Monitoring 
+ Each Member State shall designate an authority, which shall monitor the implementation of the obligations laid down by this Regulation on their territory and report on this implementation every two years to the Commission. 
+ Article 15 
+ Enforcement 
+ 1. For the purpose of the enforcement of Article 7 (1) of this Regulation, Chapter IV of Regulation (EU) 2022/2065 shall apply , and any references therein to compliance with the relevant provisions of Regulation (EU) 2022/2065 shall be deemed to include Article 7 (1) of this Regulation . T o the extent that powers are conferred upon the Commission under Chapter IV of Regulation (EU) 2022/2065 , they shall also cover the application of Article 7 (1) of this Regulation. 
+ 2. A uthorities designated by the Member State of the relevant Single Digital Entry Point shall be competent to enforce Article s 7(2), 7(3) and 9 of this Regulation. 
+ 3. Member States shall lay down rules on penalties applicable to infringements by online short-term rental platforms of Article s 7(2), 7(3) and 9. Member States shall ensure that those penalties are effective, proportionate and dissuasive. 
+ 4. Member States shall by [date of application of the Regulation] adopt and publish the laws, regulations and administrative provisions necessary to comply with paragraph 2 and shall notify the Commission thereof without delay. 
+ CHAPTER V 
+ Final provisions 
+ Article 16 
+ Committee 
+ 1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011. 
+ 2. Where reference is made to this paragraph, Artic le 4 of Regulation (EU) No 182/2011 shall apply. 
+ Article 17 
+ Amendment to Regulation (EU) 2018/1724 
+ Regulation (EU) 2018/1724 is amended as follows: 
+ 1. in Annex I, in the second column , in the row ‘N.Services’, the following point 4 is added: 
+ ‘4. information on rules governing the provision of short-term accommodation rental services, including the lists referred to in Article 13 of Regulation of the European Parliament and of the Council […/…] [on data collection and sharing relating to short-term accommodation rental services and amending Regulation (EU) 2018/1724]’. 
+ 2. Annex II is amended as follows : 
+ (a) in the second column, in the row ‘Starting, running and closing a business’ , the following is added as a new row: 
+ ‘Declarations by hosts for registration procedures in relation to short-term accommodation rental services’; 
+ (b) in the third column, in the row ‘Starting, running and closing a business’, the following is added as a new row : 
+ ‘Issuance of a registration number’. 
+ Article 18 
+ Evaluation and review 
+ 1. No later than 5 years after the date of application of this Regulation, the Commission shall evaluate this Regulation and submit a report on its main findings to the European Parliament , the Council and to the European Economic and Social Committee. This report shall be based on the evaluations submitted by national supervisory authorities pursuant to Article 1 4 . 
+ 2. The evaluation made pursuant to paragraph 1 shall assess in particular: 
+ (a) the impact of this Regulation on the obligations imposed on online short-term rental platforms ; 
+ (b) the impact of this Regulation on the availability o f data relating to the provision of short-term accommodation rental services offered in the Union by hosts through online short-term rental platforms ; and 
+ (c) to the extent possible, the impact of this Regulation on the content and proportionality of national legislative, regulatory or administrative measures relating to access to and the provision of short-term accommodation rental services , including where such services are provided cross-border. 
+ Article 19 
+ Entry into force and application 
+ This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. 
+ It shall apply from [OP please insert date = 24 months after the date of entry into force of this Regulation]. 
+ This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+ Done at Brussels, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The President 
+ (1) 
+ The number of STR bookings during the summers of 2020 and 2021 was greater than in the summer of 2018 ; see 
+ Eurostat data 
+ . 
+ (2) 
+ Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act) , OJ L 277, 27.10.2022, p. 1-102. 
+ (3) 
+ Directive 2006/123/EC of the European Parliament and of the Council of 12 December 2006 on services in the internal market, OJ L 376, 27.12.2006, p. 36–68 . 
+ (4) 
+ Judgment of 22 September 2020, Cali Apartments SCI and HX v Procureur général près la cour d'appel de Paris and Ville de Paris , C-724/18, EU:C:2020:743, para graph 88. 
+ (5) 
+ Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market ('Directive on electronic commerce') ( OJ L 178, 17.7.2000, p. 1 ). 
+ (6) 
+ Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services . 
+ (7) 
+ Proposal for a Regulation of the European Parliament and of the Council on harmonised rules on fair access to and use of data , COM(2022) 68 final. 
+ (8) 
+ Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC . 
+ (9) 
+ Regulation (EU) 2018/1724 of the European Parliament and of the Council of 2 October 2018 establishing a single digital gateway to provide access to information, to procedures and to assistance and problem-solving services and amending Regulation (EU) No 1024/2012 , OJ L 295, 21.11.2018, p. 1–38 . 
+ (10) 
+ Council Directive (EU) 2021/514 of 22 March 2021 amend ing Directive 2011/16/EU on administrative cooperation in the field of taxation has extend ed the EU ’s framework on the automatic exchange of infor mation in the field of taxation. Member States have to incorporate this Directive into their national laws by 31 January 2022 and to apply the new provisions from 1 January 2023. 
+ (11) 
+ Commission Communication on shaping Europe’s digital future, COM/2020/67 final 
+ . 
+ (12) 
+ Commission Communication on an SME Strategy for a sustainable and digital Europe, COM(2020)103 
+ . 
+ (13) 
+ Transition pathway for tourism - Publications Office of the EU (europa.eu) 
+ . 
+ (14) 
+ Final Action Plan of the Partnership on Culture/Cultural Heritage | Futurium (europa.eu) 
+ . 
+ (15) 
+ THE 17 GOALS | Sustainable Development (un.org) 
+ . 
+ (16) 
+ Conference on the Future of Europe, Report on the Final Outcome, proposal 12, 
+ https://futureu.europa.eu/pages/reporting 
+ ; see also COM/2022/404 final . 
+ (17) 
+ Such as the WTO General Agreements on Trade in Services, available 
+ here 
+ , and other relevant trade agreements . 
+ (18) 
+ COM/2022/28 final 
+ . 
+ (19) 
+ Communication on a European agenda for the collaborative economy (COM/2016/0356 final). 
+ (20) 
+ Council Conclusions of 27 May 2019 on the competitiveness of the tourism sector as a driver for sustainable growth, jobs and social cohesion in the EU for the next decade 
+ . 
+ (21) 
+ European Parliament resolution of 21 January 2021 on access to decent and affordable housing for all 
+ . 
+ (22) 
+ OJ C , , p. . 
+ (23) 
+ OJ C , , p. . 
+ (24) 
+ OJ C , , p. . 
+ (25) 
+ Directive 2006/123/EC of the European Parliament and of the Council of 12 December 2006 on services in the internal market (OJ L 376, 27.12.2006, p. 36). 
+ (26) 
+ Regulation (EU) No 692/2011 of the European Parliament and of the Council of 6 July 2011 concerning European statistics on tourism and repealing Council Directive 95/57/EC ( OJ L 192, 22.7.2011, p. 17 ). 
+ (27) 
+ Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act), (OJ L 277, 27.10.22, p. 1). 
+ (28) 
+ Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC ( OJ L 257, 28.8.2014, p. 73 ). 
+ (29) 
+ Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises ( OJ L 124, 20.5.2003, p. 36 ). 
+ (30) 
+ Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing power s ( OJ L 55, 28.2.2011, p. 13 ). 
+ (31) 
+ Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) ( OJ L 119, 4.5.2016, p. 1 ). 
+ (32) 
+ Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market ('Directive on electronic commerce') ( OJ L 178, 17.7.2000, p. 1 ). 
+ (33) 
+ Regulation (EU) 2018/1724 of the European Parliament and of the Council of 2 October 2018 establishing a single digital gateway to provide access to information, to procedures and to assistance and problem-solving services and amending Regulation (EU) No 1024/2012 (OJ L 295, 21.11.2018, p. 1). 
+ (34) 
+ Commission Implementing Regulation (EU) 2022/1463 of 5 August 2022 setting out technical and operational specifications of the technical system for the cross-border automated exchange of evidence and application of the ‘once-only’ principle in accordance with Regulation (EU) 2018/1724 of the European Parliament and of the Council C/2022/5628 (OJ L 231, 6.9.2022, p. 1.) 
+ (35) 
+ Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (Text with EEA relevance.), (OJ L 295, 21.11.2018, p. 39–98). 
+ (36) 
+ [OP: Footnote once available ] . 
+ (37) 
+ Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation ser vices ( OJ L 186, 11.7.2019, p. 57 ). 
+ (38) 
+ Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 ( OJ L 265, 12.10.2022, p. 1 ). 
+ (39) 
+ Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (codification) ( OJ L 241, 17.9.2015, p. 1 ). 
+ (40) 
+ Council Directive 2010/24/EU of 16 March 2010 concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures , ( OJ L 84, 31.3.2010, p. 1 ). 
+ (41) 
+ Council Directive 2011/16/EU of 15 February 2011 on administrative cooperation in the field of taxation and repealing Directive 77/799/EEC ( OJ L 64, 11.3.2011, p. 1 ). 
+ (42) 
+ Regulation (EC) No 1893/2006 of the European Parliament and of the Council of 20 December 2006 establishing the statistical classification of economic activities NACE Revision 2 and amending Council Regulation (EEC) No 3037/90 as well as certain EC Regulations on specific statistical domains (OJ 393, 30.12.2006, p. 1). 
+ (43) 
+ Regulation (EC) No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European statistics and repealing Regulation (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities (OJ L 87, 31.3.2009, p. 164 ).

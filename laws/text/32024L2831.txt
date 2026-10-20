@@ -1,0 +1,365 @@
+### Platform Work Directive | CELEX 32024L2831 | text version 02024L2831-20241111 | role adopted
+02024L2831 — EN — 11.11.2024 — 000.001
+ This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document
+ ►B 
+ DIRECTIVE (EU) 2024/2831 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 23 October 2024
+ on improving working conditions in platform work
+ (Text with EEA relevance) 
+ (OJ L 2831 11.11.2024, p. 1)
+ Corrected by:
+ ►C1 
+ Corrigendum, OJ L 90196, 28.2.2025, p. 1 (2024/2831) 
+ ▼B 
+ DIRECTIVE (EU) 2024/2831 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 23 October 2024
+ on improving working conditions in platform work
+ (Text with EEA relevance)
+ CHAPTER I 
+ GENERAL PROVISIONS 
+ Article 1
+ Subject matter and scope
+ 1. 
+ The purpose of this Directive is to improve working conditions and the protection of personal data in platform work by:
+ (a) 
+ introducing measures to facilitate the determination of the correct employment status of persons performing platform work;
+ (b) 
+ promoting transparency, fairness, human oversight, safety and accountability in algorithmic management in platform work; and
+ (c) 
+ improving transparency with regard to platform work, including in cross-border situations.
+ 2. 
+ This Directive lays down minimum rights that apply to every person performing platform work in the Union who has or who, on the basis of an assessment of the facts, is deemed to have an employment contract or employment relationship as defined by the law, collective agreements or practice in force in the Member States with consideration to the case-law of the Court of Justice.
+ This Directive also lays down rules to improve the protection of natural persons in relation to the processing of their personal data by providing measures on algorithmic management applicable to persons performing platform work in the Union, including those who do not have an employment contract or employment relationship.
+ 3. 
+ This Directive applies to digital labour platforms organising platform work performed in the Union, irrespective of their place of establishment or of the law otherwise applicable.
+ Article 2
+ Definitions
+ 1. 
+ For the purposes of this Directive, the following definitions apply:
+ (a) 
+ ‘digital labour platform’ means a natural or legal person providing a service which meets all of the following requirements:
+ (i) 
+ it is provided, at least in part, at a distance by electronic means, such as by means of a website or a mobile application;
+ (ii) 
+ it is provided at the request of a recipient of the service;
+ (iii) 
+ it involves, as a necessary and essential component, the organisation of work performed by individuals in return for payment, irrespective of whether that work is performed online or in a certain location;
+ (iv) 
+ it involves the use of automated monitoring systems or automated decision-making systems;
+ (b) 
+ ‘platform work’ means work organised through a digital labour platform and performed in the Union by an individual on the basis of a contractual relationship between the digital labour platform or an intermediary, and the individual, irrespective of whether there is a contractual relationship between the individual or an intermediary and the recipient of the service;
+ (c) 
+ ‘person performing platform work’ means an individual performing platform work, irrespective of the nature of the contractual relationship or the designation of that relationship by the parties involved;
+ (d) 
+ ‘platform worker’ means any person performing platform work who has or is deemed to have an employment contract or an employment relationship as defined by the law, collective agreements or practice in force in the Member States with consideration to the case-law of the Court of Justice;
+ (e) 
+ ‘intermediary’ means a natural or legal person that, for the purpose of making platform work available to or through a digital labour platform:
+ (i) 
+ establishes a contractual relationship with that digital labour platform and a contractual relationship with the person performing platform work; or
+ (ii) 
+ is in a subcontracting chain between that digital labour platform and the person performing platform work;
+ (f) 
+ ‘workers’ representatives’ means representatives of platform workers, such as trade unions and representatives who are freely elected by the platform workers in accordance with national law and practice;
+ (g) 
+ ►C1 
+ ‘representatives of persons performing platform work’ means workers’ representatives and, insofar as provided for in national law and practice, representatives of persons performing platform work other than platform workers; ◄ 
+ (h) 
+ ‘automated monitoring systems’ means systems which are used for or which support monitoring, supervising or evaluating, by electronic means, the work performance of persons performing platform work or the activities carried out within the work environment, including by collecting personal data;
+ (i) 
+ ‘automated decision-making systems’ means systems which are used to take or support, by electronic means, decisions that significantly affect persons performing platform work, including the working conditions of platform workers, in particular decisions affecting their recruitment, their access to and the organisation of work assignments, their earnings, including the pricing of individual assignments, their safety and health, their working time, their access to training, their promotion or its equivalent, and their contractual status including the restriction, suspension or termination of their account.
+ 2. 
+ The definition of ‘digital labour platform’ laid down in point (a) of paragraph 1 does not include providers of a service whose primary purpose is to exploit or share assets or by means of which individuals who are not professionals can resell goods.
+ Article 3
+ Intermediaries
+ Member States shall take appropriate measures to ensure that, where a digital labour platform makes use of intermediaries, persons performing platform work who have a contractual relationship with an intermediary enjoy the same level of protection pursuant to this Directive as those who have a direct contractual relationship with a digital labour platform. To that end, Member States shall take measures, in accordance with national law and practice, to establish appropriate mechanisms, which shall include, where appropriate, joint and several liability systems.
+ CHAPTER II 
+ EMPLOYMENT STATUS 
+ Article 4
+ Determination of correct employment status
+ 1. 
+ Member States shall have appropriate and effective procedures in place to verify and ensure the determination of the correct employment status of persons performing platform work, with a view to ascertaining the existence of an employment relationship as defined by the law, collective agreements or practice in force in the Member States, with consideration to the case-law of the Court of Justice, including through the application of the legal presumption of an employment relationship pursuant to Article 5.
+ 2. 
+ The ascertainment of the existence of an employment relationship shall be guided primarily by the facts relating to the actual performance of work, including the use of automated monitoring systems or automated decision-making systems in the organisation of platform work, irrespective of how the relationship is designated in any contractual arrangement that may have been agreed between the parties involved.
+ 3. 
+ Where the existence of an employment relationship is established, the party or parties responsible for the obligations of the employer shall be clearly identified in accordance with national legal systems.
+ Article 5
+ Legal presumption
+ 1. 
+ The contractual relationship between a digital labour platform and a person performing platform work through that platform shall be legally presumed to be an employment relationship where facts indicating direction and control, in accordance with national law, collective agreements or practice in force in the Member States and with consideration to the case-law of the Court of Justice, are found. Where the digital labour platform seeks to rebut the legal presumption, it shall be for the digital labour platform to prove that the contractual relationship in question is not an employment relationship as defined by the law, collective agreements or practice in force in the Member States, with consideration to the case-law of the Court of Justice.
+ 2. 
+ For the purposes of paragraph 1, Member States shall establish an effective rebuttable legal presumption of an employment relationship that constitutes a procedural facilitation for the benefit of persons performing platform work. Moreover, Member States shall ensure that the legal presumption does not have the effect of increasing the burden of requirements on persons performing platform work or their representatives in proceedings to determine their correct employment status.
+ 3. 
+ The legal presumption provided for in this Article shall apply in all relevant administrative or judicial proceedings where the determination of the correct employment status of person performing platform work is at issue.
+ The legal presumption shall not apply to proceedings which concern tax, criminal or social security matters. However, Member States may apply the legal presumption in such proceedings as a matter of national law.
+ 4. 
+ Persons performing platform work and, in accordance with national law and practice, their representatives shall have the right to initiate the proceedings referred to in the first subparagraph of paragraph 3 to determine the correct employment status of the person performing platform work.
+ 5. 
+ Where a national competent authority considers that a person performing platform work might be wrongly classified, it shall initiate appropriate actions or proceedings, in accordance with national law and practice, in order to determine the correct employment status of that person.
+ 6. 
+ With regard to contractual relationships entered into before and ongoing on 2 December 2026, the legal presumption provided for in this Article shall apply only to the period starting from that date.
+ Article 6
+ Framework of supporting measures
+ Member States shall establish a framework of supporting measures in order to ensure the effective implementation of and compliance with the legal presumption. In particular, they shall:
+ (a) 
+ develop appropriate guidance, including in the form of concrete and practical recommendations, in order for digital labour platforms, persons performing platform work and the social partners to understand and implement the legal presumption, including the procedures regarding its rebuttal;
+ (b) 
+ develop guidance and establish appropriate procedures for national competent authorities in accordance with national law and practice, including on cooperation between national competent authorities, in order to proactively identify, target and pursue digital labour platforms which do not comply with rules applicable to the determination of the correct employment status of persons performing platform work;
+ (c) 
+ provide for effective controls and inspections conducted by national competent authorities, in accordance with national law or practice and, in particular, provide, where appropriate, for controls and inspections on specific digital labour platforms where the existence of an employment relationship between such a platform and a person performing platform work has been ascertained by a national competent authority, while ensuring that such controls and inspections are proportionate and non-discriminatory;
+ (d) 
+ provide for appropriate training for national competent authorities and provide for the availability of technical expertise in the field of algorithmic management, to enable such authorities to carry out the tasks referred to under point (b).
+ CHAPTER III 
+ ALGORITHMIC MANAGEMENT 
+ Article 7
+ Limitations on the processing of personal data by means of automated monitoring systems or automated decision-making systems
+ 1. 
+ Digital labour platforms shall not, by means of automated monitoring systems or automated decision-making systems:
+ (a) 
+ process any personal data on the emotional or psychological state of a person performing platform work;
+ (b) 
+ process any personal data in relation to private conversations, including exchanges with other persons performing platform work and the representatives of persons performing platform work;
+ (c) 
+ collect any personal data of a person performing platform work while that person is not offering or performing platform work;
+ (d) 
+ process personal data to predict the exercise of fundamental rights, including the freedom of association, the right of collective bargaining and action or the right to information and consultation as laid down in the Charter;
+ (e) 
+ process any personal data to infer the racial or ethnic origin, migration status, political opinions, religious or philosophical beliefs, disability, state of health, including chronic disease or HIV status, emotional or psychological state, trade union membership, sex life or sexual orientation;
+ (f) 
+ process any biometric data, as defined in Article 4, point (14), of Regulation (EU) 2016/679, of a person performing platform work to establish that person’s identity by comparing that data to stored biometric data of natural persons in a database.
+ 2. 
+ This Article shall apply to all persons performing platform work from the start of the recruitment or selection procedure.
+ 3. 
+ In addition to automated monitoring systems and automated decision-making systems, this Article shall also apply where digital labour platforms use automated systems taking or supporting decisions that affect persons performing platform work in any manner.
+ Article 8
+ Data-protection impact assessment
+ 1. 
+ The processing of personal data by a digital labour platform by means of automated monitoring systems or automated decision-making systems is a type of processing which is likely to result in a high risk to the rights and freedoms of natural persons within the meaning of Article 35(1) of Regulation (EU) 2016/679. When carrying out, pursuant to that provision, the assessment of the impact of the processing of personal data by automated monitoring systems or automated decision-making systems on the protection of personal data of persons performing platform work, including on the limitations of processing pursuant to Article 7 of this Directive, digital labour platforms, acting as controllers as defined in Article 4, point (7), of Regulation (EU) 2016/679, shall seek the views of persons performing platform work and their representatives.
+ 2. 
+ Digital labour platforms shall provide the assessment as referred to in paragraph 1 to workers’ representatives.
+ Article 9
+ Transparency with regard to automated monitoring systems and automated decision-making systems
+ 1. 
+ Member States shall require digital labour platforms to inform persons performing platform work, platform workers’ representatives and, upon request, national competent authorities, of the use of automated monitoring systems or automated decision-making systems.
+ That information shall concern:
+ (a) 
+ as regards automated monitoring systems:
+ (i) 
+ the fact that such systems are in use or are in the process of being introduced;
+ (ii) 
+ the categories of data and action monitored, supervised or evaluated by such systems, including evaluation by the recipient of the service;
+ (iii) 
+ the aim of the monitoring and how the system is to carry out that monitoring;
+ (iv) 
+ the recipients or categories of recipient of the personal data processed by such systems and any transmission or transfer of such personal data, including within a group of undertakings;
+ (b) 
+ as regards automated decision-making systems:
+ (i) 
+ the fact that such systems are in use or are in the process of being introduced;
+ (ii) 
+ the categories of decision that are taken or supported by such systems;
+ (iii) 
+ the categories of data and the main parameters that such systems take into account and the relative importance of those main parameters in the automated decision-making, including the way in which the personal data or behaviour of the person performing platform work influence the decisions;
+ (iv) 
+ the grounds for decisions to restrict, suspend or terminate the account of the person performing platform work, to refuse the payment for work performed by them, as well as for decisions on their contractual status or any decision of equivalent or detrimental effect;
+ (c) 
+ all categories of decision taken or supported by automated systems that affect persons performing platform work in any manner.
+ 2. 
+ Digital labour platforms shall provide the information referred to in paragraph 1 in the form of a written document, which may be in electronic form. The information shall be presented in a transparent, intelligible and easily accessible form, using clear and plain language.
+ 3. 
+ Digital labour platforms shall provide persons performing platform work, in a concise form, with the information referred to in paragraph 1 with regard to the systems and their features that directly affect them, including, where applicable, their working conditions:
+ (a) 
+ at the latest on the first working day;
+ (b) 
+ prior to the introduction of changes affecting working conditions, the organisation of work or monitoring work performance; and
+ (c) 
+ at any time upon their request.
+ Upon the request of the persons performing platform work, digital labour platforms shall also provide them, in a comprehensive and detailed form, with the information referred to in paragraph 1 with regard to all relevant systems and their features.
+ 4. 
+ Digital labour platforms shall provide workers’ representatives, in a comprehensive and detailed form, with the information referred to in paragraph 1 with regard to all relevant systems and their features. They shall provide such information
+ (a) 
+ prior to the use of those systems,
+ (b) 
+ prior to the introduction of changes affecting working conditions, the organisation of work or monitoring work performance; and
+ (c) 
+ at any time upon their request.
+ Digital labour platforms shall provide national competent authorities, in a comprehensive and detailed form, with the information referred to in paragraph 1 at any time upon their request.
+ 5. 
+ Digital labour platforms shall provide the information referred to in paragraph 1 to persons undergoing a recruitment or selection procedure. The information shall be provided in accordance with paragraph 2, shall be concise, shall concern only the automated monitoring systems or automated decision-making systems used in that procedure, and shall be provided before the start of the recruitment or selection procedure.
+ 6. 
+ Persons performing platform work shall have the right to the portability of personal data generated through their performance of work in the context of a digital labour platform’s automated monitoring systems or automated decision-making systems, including ratings and reviews, without adversely affecting the rights of the recipient of the service under Regulation (EU) 2016/679.
+ The digital labour platform shall provide persons performing platform work, free of charge, with tools to facilitate the effective exercise of their portability rights referred to in Article 20 of Regulation (EU) 2016/679 and in the first subparagraph of this paragraph. Where the person performing platform work so requests, the digital labour platform shall transmit such personal data directly to a third party.
+ Article 10
+ Human oversight of automated monitoring systems and automated decision-making systems
+ 1. 
+ Member States shall ensure that digital labour platforms oversee and, with the involvement of workers’ representatives, regularly and in any event every two years, carry out an evaluation of the impact of individual decisions taken or supported by automated monitoring systems and automated decision-making systems on persons performing platform work, including, where applicable, on their working conditions and equal treatment at work.
+ 2. 
+ Member States shall require digital labour platforms to ensure sufficient human resources for the effective oversight and evaluation of the impact of individual decisions taken or supported by automated monitoring systems or automated decision-making systems. The persons charged by the digital labour platform with the function of oversight and evaluation shall have the competence, training and authority necessary to exercise that function, including for overriding automated decisions. Those persons shall enjoy protection from dismissal or its equivalent, disciplinary measures and other adverse treatment where they exercise their functions.
+ 3. 
+ Where the oversight or the evaluation referred to in paragraph 1 identifies a high risk of discrimination at work in the use of automated monitoring systems or automated decision-making systems or finds that individual decisions taken or supported by automated monitoring systems or automated decision-making systems have infringed the rights of a person performing platform work, the digital labour platform shall take the steps necessary, including, if appropriate, the modification of the automated monitoring system or the automated decision-making system or the discontinuation of its use, in order to avoid such decisions in the future.
+ 4. 
+ Information on the evaluation pursuant to paragraph 1 shall be transmitted to platform workers’ representatives. Digital labour platforms shall also make that information available to persons performing platform work and the national competent authorities upon their request.
+ 5. 
+ Any decision to restrict, suspend or terminate the contractual relationship or the account of a person performing platform work or any other decision of equivalent detriment shall be taken by a human being.
+ Article 11
+ Human review
+ 1. 
+ Member States shall ensure that persons performing platform work have the right to obtain an oral or written explanation from the digital labour platform for any decision taken or supported by an automated decision-making system without undue delay. The explanation shall be provided in a transparent and intelligible manner, using clear and plain language. Member States shall ensure that digital labour platforms provide persons performing platform work with access to a contact person designated by the digital labour platform to discuss and to clarify the facts, circumstances and reasons having led to the decision. Digital labour platforms shall ensure that such contact persons have the competence, training and authority necessary to exercise that function.
+ Digital labour platforms shall provide the person performing platform work with a written statement of the reasons for any decision taken or supported by an automated decision-making system to restrict, suspend or terminate the account of the person performing platform work, any decision to refuse the payment for work performed by the person performing platform work, any decision on the contractual status of the person performing platform work, any decision with similar effects or any other decision affecting the essential aspects of the employment or other contractual relationships, without undue delay and at the latest on the date on which it takes effect.
+ 2. 
+ Persons performing platform work and, in accordance with national law or practice, representatives of persons performing platform work acting on their behalf shall have the right to request the digital labour platform to review the decisions referred to in paragraph 1. The digital labour platform shall respond to such request by providing the person performing platform work with a sufficiently precise and adequately substantiated reply in the form of a written document, which may be in electronic form, without undue delay and in any event within two weeks of receipt of the request.
+ 3. 
+ Where the decision referred to in paragraph 1 infringes the rights of a person performing platform work, the digital labour platform shall rectify that decision without delay and in any case within two weeks of the adoption of the decision. Where such rectification is not possible, the digital labour platform shall offer adequate compensation for the damage sustained. In any event, the digital labour platform shall take the steps necessary, including, if appropriate, the modification of the automated decision-making system or the discontinuation of its use, in order to avoid such decisions in the future.
+ 4. 
+ This Article does not affect disciplinary and dismissal procedures laid down in national law, collective agreements and practice.
+ 5. 
+ This Article shall not apply to persons performing platform work who are also business users as defined in Article 2, point (1), of Regulation (EU) 2019/1150.
+ Article 12
+ Safety and health
+ 1. 
+ Without prejudice to Directive 89/391/EEC and related directives in the field of safety and health at work, with regard to platform workers, digital labour platforms shall:
+ (a) 
+ evaluate the risks of automated monitoring systems and automated decision-making systems to their safety and health, in particular as regards possible risks of work-related accidents, psychosocial and ergonomic risks;
+ (b) 
+ assess whether the safeguards of those systems are appropriate for the risks identified in view of the specific characteristics of the work environment;
+ (c) 
+ introduce appropriate preventive and protective measures.
+ 2. 
+ In relation to the requirements laid down in paragraph 1 of this Article, digital labour platforms shall ensure effective information and consultation and the participation of platform workers and/or their representatives in accordance with Articles 10 and 11 of Directive 89/391/EEC.
+ 3. 
+ Digital labour platforms shall not use automated monitoring systems or automated decision-making systems in a manner that puts undue pressure on platform workers or otherwise puts at risk the safety and physical and mental health of platform workers.
+ 4. 
+ In addition to automated decision-making systems, this Article shall also apply where digital labour platforms use automated systems taking or supporting decisions that affect platform workers in any manner.
+ 5. 
+ In order to ensure the safety and health of platform workers, including from violence and harassment, Member States shall ensure that digital labour platforms take preventive measures, including providing for effective reporting channels.
+ Article 13
+ Information and consultation
+ 1. 
+ This Directive is without prejudice to Directive 89/391/EEC as regards information and consultation and to Directives 2002/14/EC or 2009/38/EC of the European Parliament and of the Council ( 
+ 1 
+ ).
+ 2. 
+ Member States shall ensure that information and consultation, as defined in Article 2, points (f) and (g), of Directive 2002/14/EC, of workers’ representatives by digital labour platforms also covers decisions likely to lead to the introduction of or to substantial changes in the use of automated monitoring systems or automated decision-making systems.
+ For the purposes of this paragraph, information and consultation of workers’ representatives shall be carried out under the same arrangements concerning the exercise of information and consultation rights as those laid down in Directive 2002/14/EC.
+ 3. 
+ The platform workers’ representatives may be assisted by an expert of their choice, in so far as this is necessary for them to examine the matter that is the subject of information and consultation and formulate an opinion. Where a digital labour platform has more than 250 workers in the Member State concerned, the expenses of the expert shall be borne by the digital labour platform, provided that they are proportionate. Member States may determine the frequency of requests for an expert, while ensuring the effectiveness of the assistance.
+ Article 14
+ Provision of information to workers
+ Where there are no representatives of platform workers, Member States shall ensure that digital labour platforms directly inform the platform workers concerned of decisions likely to lead to the introduction of or to substantial changes in the use of automated monitoring systems or automated decision-making systems. The information shall be provided in the form of a written document which may be in electronic form. It shall be provided in a transparent, intelligible and easily accessible form, using clear and plain language.
+ Article 15
+ Specific arrangements for representatives of persons performing platform work other than platform workers’ representatives
+ Representatives of persons performing platform work other than workers’ representatives shall be able to exercise the rights provided to workers’ representatives under Article 8(2), Article 9(1) and (4), Article 10(4) and Article 11(2) only insofar as they are acting on behalf of persons performing platform work who are not platform workers, with regard to the protection of their personal data.
+ CHAPTER IV 
+ TRANSPARENCY WITH REGARD TO PLATFORM WORK 
+ Article 16
+ Declaration of platform work
+ Member States shall require digital labour platforms to declare work performed by platform workers to the competent authorities of the Member State in which the work is performed, in accordance with the rules and procedures laid down in the law of the Member States concerned.
+ This Article is without prejudice to specific obligations under Union law pursuant to which work is to be declared to relevant bodies of the Member State in cross-border situations.
+ Article 17
+ Access to relevant information on platform work
+ 1. 
+ Member States shall ensure that digital labour platforms make the following information available to competent authorities and to representatives of persons performing platform work:
+ (a) 
+ the number of persons performing platform work through the digital labour platform concerned, disaggregated by level of activity, and their contractual or employment status;
+ (b) 
+ the general terms and conditions determined by the digital labour platform and applicable to those contractual relationships;
+ (c) 
+ the average duration of activity, the average weekly number of hours worked per person and the average income from activity of persons performing platform work on a regular basis through the digital labour platform concerned;
+ (d) 
+ the intermediaries with which the digital labour platform has a contractual relationship.
+ 2. 
+ Member States shall ensure that digital labour platforms provide information on work performed by persons performing platform work and their employment status to competent authorities.
+ 3. 
+ The information referred to in paragraph 1 shall be provided for each Member State in which persons are performing platform work through the digital labour platform concerned. As regards point (c) of paragraph 1, the information shall be provided only upon request.
+ 4. 
+ The information referred to in paragraph 1 shall be updated at least every six months, and, as regards point (b) of paragraph 1 each time the terms and conditions are modified in substance.
+ Notwithstanding the first subparagraph, with regard to digital labour platforms which are SMEs, including microenterprises, Member States may provide that the information referred to in paragraph 1 is to be updated at least once every year.
+ 5. 
+ The competent authorities and representatives of persons performing platform work shall have the right to ask digital labour platforms for additional clarifications and details regarding any of the information provided, including details regarding the employment contract. The digital labour platforms shall respond to such request by providing a substantiated reply without undue delay.
+ CHAPTER V 
+ REMEDIES AND ENFORCEMENT 
+ Article 18
+ Right to redress
+ Without prejudice to Articles 79 and 82 of Regulation (EU) 2016/679, Member States shall ensure that persons performing platform work, including those whose employment or other contractual relationship has ended, have access to timely, effective and impartial dispute resolution and a right to redress, including adequate compensation for the damage sustained, in the case of infringements of their rights arising from this Directive.
+ Article 19
+ Procedures on behalf or in support of persons performing platform work
+ Without prejudice to Article 80 of Regulation (EU) 2016/679, Member States shall ensure that representatives of persons performing platform work and legal entities which have, in accordance with national law or practice, a legitimate interest in defending the rights of persons performing platform work are able to engage in any judicial or administrative procedure to enforce any of the rights or obligations arising from this Directive. Member States shall ensure that such representatives and legal entities are able to act on behalf or in support of one or several persons performing platform work in the case of the infringement of any right or obligation arising from this Directive, in accordance with national law and practice.
+ Article 20
+ Communication channels for persons performing platform work
+ Member States shall take the measures necessary to ensure that digital labour platforms provide persons performing platform work, by means of the digital labour platforms’ digital infrastructure or by similarly effective means, with the possibility to contact and communicate privately and securely with each other, and to contact or be contacted by representatives of persons performing platform work, while complying with Regulation (EU) 2016/679. Member States shall require digital labour platforms to refrain from accessing or monitoring those contacts and communications.
+ Article 21
+ Access to evidence
+ 1. 
+ Member States shall ensure that, in proceedings concerning the provisions of this Directive, national courts or competent authorities are able to order the digital labour platform to disclose any relevant evidence which lies in its control.
+ 2. 
+ Member States shall ensure that national courts have the power to order the disclosure of evidence containing confidential information where they consider it relevant to the proceedings. They shall ensure that, when ordering the disclosure of such information, national courts have at their disposal effective measures to protect such information.
+ Article 22
+ Protection against adverse treatment or consequences
+ Member States shall introduce the measures necessary to protect persons performing platform work, including those who are their representatives, from any adverse treatment by the digital labour platform and from any adverse consequences resulting from a complaint lodged with the digital labour platform or resulting from any proceedings initiated with the aim of enforcing compliance with the rights provided for in this Directive.
+ Article 23
+ Protection from dismissal
+ 1. 
+ Member States shall take the measures necessary to prohibit the dismissal or termination of the contract of persons performing platform work, or equivalent action, and all preparations therefor, on the grounds that they have exercised the rights provided for in this Directive.
+ 2. 
+ Persons performing platform work who consider that they have been dismissed, that their contract has been terminated or that they have been subject to any actions with equivalent effect, on the grounds that they have exercised the rights provided for in this Directive, may request the digital labour platform to provide duly substantiated grounds for the dismissal, the termination of the contract or any equivalent action. The digital labour platform shall provide those grounds in writing without undue delay.
+ 3. 
+ Member States shall take the measures necessary to ensure that, when the persons performing platform work referred to in paragraph 2 establish, before a court or other competent authority or body, facts from which it may be presumed that there has been such a dismissal, termination of contract or equivalent action, it shall be for the digital labour platform to prove that the dismissal, termination of contract or equivalent action was based on grounds other than those referred to in paragraph 1.
+ 4. 
+ Member States shall not be required to apply paragraph 3 to proceedings in which it is for the court or other competent authority or body to investigate the facts of the case.
+ 5. 
+ Paragraph 3 shall not apply to criminal proceedings, unless otherwise provided by the Member State.
+ Article 24
+ Supervision and penalties
+ 1. 
+ The supervisory authority or authorities responsible for monitoring the application of Regulation (EU) 2016/679 shall also be responsible for monitoring and enforcing the application of Articles 7 to 11 of this Directive as far as data-protection matters are concerned, in accordance with the relevant provisions in Chapters VI, VII and VIII of Regulation (EU) 2016/679.
+ The upper limit for administrative fines referred to in Article 83(5) of that Regulation shall be applicable to infringements of Articles 7 to 11 of this Directive.
+ 2. 
+ The authorities referred to in paragraph 1 and other national competent authorities shall, where relevant, cooperate in the enforcement of this Directive within the remit of their respective competences, in particular where questions on the impact of automated monitoring systems or automated decision-making systems on persons performing platform work arise. For that purpose, those authorities shall exchange relevant information with each other, including information obtained in the context of inspections or investigations, either upon request or at their own initiative.
+ 3. 
+ National competent authorities shall cooperate through exchange of relevant information and best practices on the implementation of the legal presumption, with the support of the Commission.
+ 4. 
+ Where persons performing platform work perform platform work in a Member State other than that in which the digital labour platform is established, the competent authorities of those Member States shall exchange information for the purpose of enforcing this Directive.
+ 5. 
+ Without prejudice to the application of Regulation (EU) 2016/679 as referred to in paragraph 1, Member States shall lay down the rules on penalties, applicable to infringements of national provisions adopted pursuant to provisions of this Directive or of the relevant provisions already in force concerning the rights which are within the scope of this Directive. The penalties shall be effective, dissuasive and proportionate to the nature, gravity and duration of the undertaking’s infringement and to the number of workers affected.
+ 6. 
+ In the case of infringements related to digital labour platforms’ refusal to comply with a legal ruling determining the correct employment status of persons performing platform work, Member States shall provide for penalties, which may include financial penalties.
+ CHAPTER VI 
+ FINAL PROVISIONS 
+ Article 25
+ Promotion of collective bargaining in platform work
+ Member States shall, without prejudice to the autonomy of the social partners and taking into account the diversity of national practices, take adequate measures to promote the role of the social partners and encourage the exercise of the right to collective bargaining in platform work, including measures with regard to the determination of the correct employment status of platform workers and to facilitate the exercise of their rights related to algorithmic management set out in Chapter III.
+ Article 26
+ Non-regression and more favourable provisions
+ 1. 
+ This Directive shall not constitute valid grounds for reducing the general level of protection already afforded to platform workers within Member States, including with regard to established procedures for the determination of the correct employment status of persons performing platform work as well as existing prerogatives of their representatives.
+ 2. 
+ This Directive shall not affect the Member States’ prerogative to apply or to introduce laws, regulations or administrative provisions which are more favourable to platform workers, or to encourage or permit the application of collective agreements which are more favourable to platform workers, in line with the objectives of this Directive.
+ 3. 
+ This Directive is without prejudice to any other rights conferred on persons performing platform work by other legal acts of the Union.
+ Article 27
+ Dissemination of information
+ Member States shall ensure that the national measures transposing this Directive, together with the relevant provisions already in force relating to the subject matter as set out in Article 1, including information on the application of the legal presumption, are brought to the attention of persons performing platform work and digital labour platforms, including SMEs, as well as to the public. Member States shall ensure that that information is provided in a clear, intelligible and easily accessible way, including to persons with disabilities.
+ Article 28
+ Collective agreements and specific rules on the processing of personal data
+ Member States may, by law or by collective agreements, provide for more specific rules to ensure the protection of the rights and freedoms in respect of the processing of the personal data of persons performing platform work under Articles 9, 10 and 11, pursuant to Article 26(1). Member States may allow the social partners to maintain, negotiate, conclude and enforce collective agreements, in accordance with national law or practice, which, while respecting the overall protection of platform workers, establish arrangements concerning platform work which differ from those referred to in Articles 12 and 13, and, where they entrust the social partners with its implementation pursuant to Article 29(4), from those referred to in Article 17.
+ Article 29
+ Transposition and implementation
+ 1. 
+ Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 2 December 2026. They shall immediately inform the Commission thereof.
+ When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+ 2. 
+ Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.
+ 3. 
+ Member States shall, in accordance with their national law and practice, take adequate measures to ensure the effective involvement of the social partners and to promote and enhance social dialogue with a view to implementing this Directive.
+ 4. 
+ Member States may entrust the social partners with the implementation of this Directive where the social partners jointly request to do so and provided that Member States take all steps necessary to ensure that they can at all times guarantee the results sought under this Directive.
+ Article 30
+ Review by the Commission
+ By 2 December 2029, the Commission shall, after consulting the Member States, the social partners at Union level and key stakeholders, and taking into account the impact on SMEs, including microenterprises, review the implementation of this Directive and propose, where appropriate, legislative amendments. In its review, the Commission shall pay particular attention to the impact of the use of intermediaries on the overall implementation of this Directive as well as to the effectiveness of the legal presumption.
+ Article 31
+ Entry into force
+ This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union .
+ Article 32
+ Addressees
+ This Directive is addressed to the Member States.
+ ( 
+ ) Directive 2009/38/EC of the European Parliament and of the Council of 6 May 2009 on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees (OJ L 122, 16.5.2009, p. 28).

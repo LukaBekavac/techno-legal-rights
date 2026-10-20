@@ -1,0 +1,468 @@
+### Right to repair Directive | CELEX 52023PC0155 | text version 52023PC0155 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 22.3.2023
+ COM(2023) 155 final
+ 2023/0083(COD)
+ Proposal for a
+ DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ on common rules promoting the repair of goods and amending Regulation (EU) 2017/2394, Directives (EU) 2019/771 and (EU) 2020/1828
+ (Text with EEA relevance)
+ {SEC(2023) 137 final} - {SWD(2023) 59 final} - {SWD(2023) 60 final}
+ EXPLANATORY MEMORANDUM 
+ 1. 
+ CONTEXT OF THE PROPOSAL 
+ · Reasons for and objectives of the proposal 
+ This explanatory memorandum accompanies the proposal for a Di rective promoting the repair of goods purchased by consumers and amending Directive (EU) 2019/771, Directive (EU) 2020/1828 and Regulation (EU) 2017/2394 . The proposal delivers on the Commission priority of the green transition, specifically the European Green Deal 
+ 1 
+ and its objective of sustainable consumption. 
+ When consumer products become defective, consumers often do not seek to repair them, but discard them prematurely, even though they c ould be repaired and used for longer. This happens under the legal guarantee of th e Sale of Goods Directive (SGD) 
+ 2 
+ when consumers choose replacement instead of repair, and outside the legal guarantee, when consumers are dissuaded from repair because of sub-optimal repair choices and conditions. In this context, the use of refurbished goods is also limited, leaving the potential for goods to be reuse d by different users untapped. 
+ The premature disposal of reparable goods purchased by consumers leads to an increase in waste, and generate greenhouse gas emissions and more demand for valuable resources in the production of new goods. The problem of premature disposal of repairable goods purchased by consumers exists across the EU for a wide range of these goods. More than two-thirds of respondents to the public consultation (65–74%) supported EU-level solutions. 
+ The requests of the Conference on the Future of Europe 
+ 3 
+ include a call for a right to repair, in particular in Proposal 5 on sustainable consumption, packaging and production and Proposal 11 on Sustainable Growth and innovation . Th is proposal on promoting the repair of goods is part of the Commission’s reply to this call 
+ 4 
+ . 
+ To promote sustainable consumption, this Directive aims to increase the repair and reuse of viable defective goods purchased by consumers within and beyond the legal guarantee. 
+ • 
+ Consistency with existing policy provisions in the policy area 
+ The Commission is pursuing the Green Deal objective of sustainable consumption in a comprehensive manner in various initiatives that tackle different aspects of premature disposal on both the supply and demand side. 
+ On the supply side, the Ecodesign for Sustainable Pro ducts Regulation (ESPR) proposal 
+ 5 
+ , sets the framework for product reparability at the production phase, in particular, on product design requirements and the availability of spare parts. 
+ On the demand side, the proposal for a Directive on empowering consumers for the green transition (ECGT) 
+ 6 
+ provides for better information on the durability and reparabilit y of goods at the point of sale. T his enables consume rs to take sustainable purchasing decisions. 
+ Under the proposal for a Regulation on harmonised rules on fair access to and use of data (Data Act), users of connected products shall have access to data they generate during their use and have the right to give such data to a third party of their choice. Such data access will be relevant for independent repairers. 
+ If a product becomes defective in the after-sales phase, the SGD provides the consumers with remedies against sellers for defects that existed at the time when the goods were delivered and become apparent within the liability period of a minimum of 2 years. Under the SGD, consumers choose between repair and replacement free of charge. They cannot request the remedy chosen if it is impossible or disproportionately costly compared to the other remedy. 
+ The combined effect of the ESPR and the ECGT will improve product sustainability and promote sustainable purchases. However, they do not tackle the issues that dissuade consumers from repair in the after-sales phase. This initiative fills that gap focusing on the use phase of goods purchased by consumers. It promotes repair as a remedy in the legal guarantee framework of the SGD and provides consumers and businesses with new tools that promote repair beyond the legal guarantee. 
+ The three initiatives are complementary and generate synergies by establishing a comprehensive approach towards the common objective of sustainable consumption. They are designed to have a cumulative effect and together cover the entire lifecycle of a product. 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ The legal basis for the proposal is Article 114 Treaty on the Functioning of the European Union (TFEU) which provides for the adoption of measures to ensure the establishment and functioning of the internal market. This proposal contributes to the better functioning of the internal market by setting out a harmonised system of rules to promote repair within and beyond the legal guarantee for the sale of goods purchased by consumers.. 
+ The SGD fully harmonises the remedies available to consumers within the legal guarantee framework for the lack of conformity of goods and the conditions under which such remedies can be exercised. It was adopted on the basis of Article 114 TFEU aiming to contribute to the functioning of the internal market by tackling contract law-related obstacles for the cross-border sales of goods purchased by consumers in the EU. This Directive amends in a targeted manner the choice between the remedies of repair and replacement in order to promote repair and thereby more sustainable consumption, using the same legal basis of Article 114 TFEU. 
+ Beyond the SGD, individual Member States have already introduced or are considering to introduce rules promoting the repair and reuse of goods purchased by consumers . Diverging mandatory national rules promoting sustainable consumption in the contractual context create actual or potential obstacles for the smooth functioning of the internal market, adversely affecting cross-border transactions in the internal market. For instance, economic operators may be faced with additional transaction costs for obtaining the necessary legal advice in order to find out abou t the requirements of the law of the country in the consumer’s habitual residence, applicable under Regulation (EC) No 593/2008. 
+ 7 
+ Repair service providers may be discouraged to offer their services in more than one Member State as they would need to adapt their repair contracts accordingly. 
+ Furthermore, differing national rules and resulting differences in market practices result in low transparency in repair options and conditions. This will dissuade consumers from accessing repair services, in particular across borders as in the absence of harmonised rules the complexity in cross-border transactions is even higher than in a national context. The resulting limited consumer demand hinders the development of repair services, especially across borders. As digital technologies evolve and more goods include digital features that can be accessed remotely, repair services at a distance and across borders are likely to develop even more in the future. The obstacles that discourage consumer demand for repair indirectly also discourage the cross-border movement of goods, such as spare parts and repair equipment that are necessary for repair services. 
+ It is therefore necessary to harmonise certain aspects of repair outside the existing liability of the seller, in order to ensure the functioning of the single market concerning the relation between a consumer and a repairer, increase legal certainty and reduce transaction costs in particular for small and medium sized enterprises, mostly represented in the repair sector. 
+ According to Article 114(3) TFEU, the Commission takes as a basis a high level of environmental and consumer protection. The SGD aims to improve the functioning of the internal market while achieving a high level of consumer protection. This Directive adds the additional objective of promoting sustainable consumption, a circular economy and the green transition, thus also ensuring a high level of environmental protection 
+ • Subsidiarity 
+ The problems tackled by this Directive are of a cross-border nature and on a European and global scale. 
+ The SGD has already fully harmonised certain rules on the sale of goods purchased by consumers. As this proposal changes one aspect of these rules in order to promote repair within the legal guarantee, the change needs to be done at EU level. 
+ In the absence of EU-level action, national initiatives outside the scope of the SGD would follow in all likelihood and take different approaches in order to promote repair beyond the legal guarantee in line with the goal of more sustainable consumption. While they could bring certain benefits to consumers and the environment at national level, they would at the same time create or increase fragmentation of the internal market. 
+ EU action is therefore necessary in order to achieve the overall objective of a functioning internal market with more sustainable consumption of goods purchased by consumers. It is only through EU action that the desired effect of promoting repair and reuse in the context of cross-border sales can be achieved consistently across the internal market. 
+ • Proportionality 
+ This Directive puts forward a balanced approach that respects the principle of proportionality. For promoting repair in the context of the legal guarantee, national laws are amended only to the minimum extent necessary to achieve the objective. This proposal does not interfere with well-established national arrangements on liability periods. The amendment only concerns rules that are already subject to full harmonisation. 
+ Outside the legal guarantee, harmonisation at EU level is limited only to those options, namely the standardised European Repair Information Form and obligation to repair, which have an internal market dimension. Where a solution at national level is equally effective, in particular the repair platform, this is the preferred choice. The design of the European standard for repair services is shaped as a voluntary commitment to avoid far-reaching interference with national laws on the provision of services. 
+ The provisions of this Directive, while aiming at more sustainable consumption, are tailored to the needs they must address and are of a targeted nature, carefully designed in terms of scope and intensity. 
+ • Choice of the instrument 
+ The preferred instrument is a standalone directive. It includes on the one hand a targeted amendment to the SGD with respect to remedies under the legal guarantee, and on the other hand, new contractual rules on promoting repair beyond the liability of the seller under the SGD. A directive is the most suitable instrument here, as it ensures the desired harmonisation effect and legal certainty, while also allowing Member States to incorporate the harmonised measures into their national laws without friction. 
+ In addition, as a non-regulatory measure, the Commission intends to encourage the development of a European standard for repair services. 
+ 3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Stakeholder consultations 
+ In line with the Better Regulation guidelines, an extensive consultation strategy was implemented to ensure a wide participation of stakeholders throughout the policy cycle of this proposal. The consultation strategy included relevant stakeholders, including consumers, consumer organisations at both national and EU level, businesses and business associations, environmental organisations, academic experts and national authorities. Several consultation activities took place: 
+ · c all for evidence for a period of 12 weeks from 11 January 2022 to 5 April 2022, which resulted in 325 contributions 
+ · online open public c onsultation for a period of 12 weeks from 11 January 2022 to 5 April 2022, which resulted in 331 contributions 
+ · c onsumer and business surveys, behavioral experiments and targeted int erviews in the context of the impact assessment support study 
+ · t argeted bilateral meetings with stakeholders 
+ · w orkshop with Member States on 7 April 2022 
+ Open public consultation 
+ In the open public consultation, the majority of respondents agreed with the existence of the problem of the decrease in the time during which most goods purchased by consumers are used. Among all stakeholder categories, major causes for the decreased lifespan of goods purchased by consumers included the difficulty for consumers to repair products themselves as well as the inconvenience, high costs or non-availability of repair services for consumers. 
+ The vast majority of all respondents agreed that providing incentives to repair products instead of buying new ones in case of defects, both within and beyond the legal guarantee, is an objective to be pursued in order to promote sustainable consumption. The vast majority of all stakeholders also agreed that providing incentives to buy and use refurbished goods is an important objective for promoting sustainable consumption. A clear majority of all respondents considered the EU the appropriate level for action. 
+ An option to prioritise repair whenever it is cheaper than replacement was found effective by a slight majority of all stakeholders, including the majority of EU-citizens, business stakeholders and public authorities that responded. The majority of consumer and environmental organisations found the measure ineffective. 
+ Half of all stakeholders that responded saw voluntary commitments promoting repair as effective measures. Business stakeholders in particular found this measure effective, while the majority of responding environmental organisations and half of consumer organisations found the measure ineffective. 
+ On the producer’s obligation to repair against a price, a slight majority of respondents considered that this should apply where defects result from wear and tear, and half considered that it should apply where defects occur after the legal guarantee has expired. Business stakeholders had a different view: only a minority considered that defects resulting from wear and tear should be covered. 
+ Call for evidence 
+ The call for evidence outlined policy options on promoting repair in the remedies system of the SGD, on the obligation to repair and voluntary commitments promoting repair. 
+ Stakeholders from different categories (business organisations/associations, companies, non-governmental organisations) supported the option that prioritises repair where it is cheaper or at the same cost as replacement in the context of the legal guarantee. On the obligation to repair, business stakeholders underlined that such an obligation should be against a price. The majority of stakeholders supported the option of voluntary commitments promoting repair. 
+ Workshop with Member States 
+ Many Member States did not yet have a position on the outlined measures. The measures that prioritise repair within the remedies system of the SGD generally found more support than measures that provide other kinds of incentives to consumers to choose repair (such as an extension of the liability period after repair). Some Member States supported repair as the primary remedy when its cost is less than or equal to the replacement cost. 
+ The majority of Member States did not support imposing obligations to repair on economic operators. Some of them argued that an obligation would be an excessive burden and would likely increase the price of goods purchased by the consumers. Those Member States that supported the obligation to repair pointed out that repair costs should not increase due to the obligation and that the producer should bear the responsibility of repair, not the seller. 
+ On the obligation to issue a quote for repair outside the scope of the SGD, the majority of Member States did not have a position. Some supported such a measure while some showed reluctance. 
+ Data collection in the context of the impact assessment support study 
+ Data collection in the context of the impact assessment support study comprised a mystery shopping exercise, a consumer survey with two integrated consumer experiments, a business survey and stakeholder interviews. These provide data for defining the problem and assessing the impact of the policy options. 
+ The mystery shopping exercise, targeted at retailers, resulted in 600 observations about consumer experiences when seeking repair within and outside the legal guarantee and about reasons for not getting products repaired by sellers. 
+ The consumer survey and the integrated experiments on situations within the SGD resulted in 1,000 responses per Member State (10 Member States included) and provided input on consumer experiences when seeking for repair or purchase of second-hand goods. The second consumer experiment covering situations outside the legal guarantee period resulted in 800 observations per Member State (10 Member States included) and provided data on the barriers to repair, information of repair and consumer likelihood to repair under different circumstances. 
+ The business survey conducted among producers, sellers and repairers resulted in 80 full responses and 284 partial responses. It provided data for the analysis of the repair market and market practices regarding the repair and replacement of defective goods. Lastly, 21 stakeholder interviews provided insights into the problem definition and market practices. 
+ • Impact assessment 
+ This proposal is based on an impact assessment. The Commission’s Regulatory Scrutiny Board (RSB) first issued a negative opinion on 30 September 2022. After the initial draft, underwent a significant revision, the RSB provided a positive opinion with further comments on 24 January 2023. Annex 1 of the impact assessment explains how the RSB comments were addressed. 
+ Several of policy options were examined on tackling the premature disposal of goods purchased by consumers both within and outside the legal guarantee. 
+ The assessed options to promote the repair and reuse of goods within the legal guarantee include: prioritising repair within the remedies system of the SGD whenever it is cheaper than replacement; making repair the primary remedy; extending the liability period in the context of repair; aligning the liability period of refurbished goods with new goods; and replacing defective goods with refurbished goods. 
+ The assessed options to facilitate and encourage the repair and reuse of goods beyond the legal guarantee include: providing information on repair by producers and by a matchmaking platform on repair and refurbished goods at national or EU level; improving transparency and conditions for repair by way of voluntary commitments; obliging repairers to issue a repair quote on price and conditions for repair; and obliging producers to repair goods subject to reparability requirements under Union law or all products against a price. 
+ The preferred options package includes options from both clusters, with a focus on addressing repair beyond the legal guarantee. The largest share of defects appears in this scenario and so the potential to increase repair is the highest. On the basis of a multi-criteria and cost-benefit analysis as well as a qualitative assessment of the proportionality of the various options considered, a combination of six preferred policy options was proposed to address the problems: 
+ – p rioritising repair whenever it is cheaper than replacement with in the legal guarantee framework . 
+ – an online platform at national level, matchmaking consumers with repairers and promoting refurbished goods. 
+ – a n obligation on repairers to issue upon request a quote on price and conditions for repair in a standardised form (European Repair Information Form). 
+ – a n obligation on producers of goods to which r eparability requirements under U nion law apply to repair outside the legal guarantee against a price. 
+ – a n obligation on producers to inform on their applicable obligation to repair. 
+ – a v oluntary EU easy repair standard (European Standard for repair services). 
+ The preferred options package increases the repair of goods purchased by consumers both within and outside the legal guarantee by tackling several of the identified drivers of premature disposal of these goods. 
+ Prioritising repair over replacement within the remedies system of the SGD will drive consumer behaviour towards sustainable consumption and increase repairs within the legal guarantee of viable goods purchased by consumers.. 
+ Beyond the legal guarantee, various measures will make repair easier and more attractive for consumers, increasing repairs and the lifetime of consumer goods. The national online repair platform and the obligation of producers to inform on their applicable obligation of repair services will improve the transparency of available repair services. The binding quote on repair price and conditions (European Repair Information Form) will tackle consumer price concerns and inconvenience factors in the repair process through transparency and predictability and make it easier to compare offers. The obligation to repair will promote sustainable consumption by giving consumers a right to claim repair against the producer for specific product groups that are reparable by design. The European Standard for repair services is a useful non-regulatory add-on to the binding measures that will build consumer trust in repair services. The refurbishment function of the national platform increases the use of refurbished goods bringing benefits both to the demand and supply side. 
+ The preferred options package contributes to increased employment, investment, and competition in the EU repair sector in the internal market, while bringing benefits to EU consumers (EUR 176.5 billion consumer savings over 15 years, translating into 25 EUR per consumer annually) and the environment (saving 18.4 million ton ne s of CO2 
+ 8 
+ over 15 years). Independent repairers , including small and medium-sized enterprises are well placed to benefit from this package. Businesses will face losses due to forgone sales and reduced production of new goods, but s ubstantial c onsumer savings exceed the cost on businesses. The losses of businesses therefore ref lect a transfer from business revenues to consumer welfare. C onsumers are also likely to invest the money saved in the overall economy, which in turn will lead to growth and investment. 
+ · Fundamental rights 
+ The package has a positive impact on fundamental rights enshrined in the Charter of Fundamental Rights of the European Union (Charter). It promotes the right to a high level of environmental protection and improvement in the quality of the environment, as set out in Article 37 of the Charter. In particular, it helps to reduce greenhouse gas emissions, waste and use of new resources by increasing repairs both within and beyond the legal guarantee and thereby extending the lifetime of goods purchased by consumers. This proposal contributes to a high level of consumer protection (Article 38 of the Charter) by strengthening consumer rights beyond the legal guarantee. This will be ensured by 
+ (a) providing consumers with tools that improve transparency and conditions for repair. 
+ (b) obliging producers to repair beyond the legal guarantee certain goods purchased by consumers. 
+ These measures will encourage and facilitate the choice of repair when goods become defective and prevent consumers from unnecessarily buying new replacement goods, reducing consumer expenditure. 
+ While this proposal regulates certain business practices concerning repair in view of the sustainable consumption objective, it safeguards contractual freedom and is conducive to the freedom to conduct business (Article 16 of the Charter). The provisions under this proposal aim at boosting the repair market without creating a burden, in particular for small and medium-sized enterprises. 
+ This proposal also contributes to the integration of persons with disabilities (Article 26 of the Charter), as Member States are required to ensure accessibility to the online platform for repair also for persons with disabilities, thereby facilitating their access to repair services. In addition, the proposal seeks to ensure the right to an effective remedy and to a fair trial (Article 47 of the Charter), in particular by specific provisions on enforcement to ensure compliance with this Directive. 
+ 4. BUDGET IMPLICATIONS 
+ This proposal will not have implications for the EU budget. 
+ 5. OTHER ELEMENTS 
+ · Implementation plans and monitoring, evaluation and reporting arrangements 
+ The Commission will evaluate the impacts of this initiative 5 years after its entry into application. This allows for the necessary period for application and evidence collection in Member States. The progress will be monitored based on a set of indicators covering the package as a whole and its individual elements. Data on the transposition and application of the initiative will also feed into the evaluation. For that purpose, the Commission will also remain in contact with Member States and stakeholders. 
+ The Commission will draw up a report in respect on the delegation of power to adopt delegated acts not later than 9 months before the end of the six-year period of empowerment . 
+ · Detailed explanation of the specific provisions of the proposal 
+ Article 1: Subject matter, purpose and scope 
+ Article 1(1) indicates the subject matter of this Directive, which is to improve the functioning of the internal market by laying down common rules promoting the repair of goods purchased by consumers. In line with Article 114(3) TFEU, the Commission takes as its basis a high level of environmental and consumer protection. While pursuing the same purpose as the SGD, namely to improve the functioning of the internal market and achieve a high level of consumer protection, this Directive also adds environmental protection as an ancillary objective. In particular, by promoting sustainable consumption through repair and reuse this Directive contributes to a circular economy and the green transition. 
+ Article 1 (2) defines the scope of this Directive which shall apply to the repair of goods purchased by consumers in the event of a defect of the goods that occurs or becomes apparent outside the liability of the seller pursuant to Article 10 of Directive (EU) 2019/771. This may be the case where the defect did not exist yet at the time that the goods were delivered to the consumer or where the lack of conformity becomes apparent only after the liability period. For these defects, this Directive introduces several provisions, namely the obligation to provide the European Repair Information Form (Article 4), the obligation to repair (Article 5) with the corresponding information requirement (Article 6) and, the platform for repair and refurbishment (Article 7). This Directive also introduces changes to the remedies systems concerning defects that fall within the liability of the sellers pursuant to Article 10 of SGD. In particular, Article 12 of this Directive amends in a targeted manner the choice between repair and replacement under the SGD. In line with the SGD, Article 12 applies to sales contracts concluded between consumers and sellers. 
+ Article 2: Definitions 
+ Article (2) introduces the definition of ‘repairer’, which is any natural or legal person who offers a repair service for commercial purposes, including independent repair service providers, producers and sellers that offer repair services. 
+ Article 2(7) contains a definition of ‘reparability requirements’, which relates to the producer’s obligation to repair goods that are covered by such reparability requirements provided for by Union legal acts (Article 5). ‘Reparability requirements’ should mean any requirements under Union legal acts listed in Annex II that enable a product to be repaired. These are for instance requirements for the disassembly and the availability of spare parts applicable to products or specific components of products, as well as repair-related information and tools. 
+ In addition, Article 2 refers to several definitions already established in the SGD and in the ESPR. 
+ Article 3: Level of harmonisation 
+ In line with the SGD, this Directive follows a full harmonisation approach, whereby Member States cannot maintain or introduce in their national law provisions that diverge from those laid down in this Directive. 
+ Article 4: European Repair Information Form 
+ Article 4(1) introduces an obligation for repairers to provide standardised key information on their repair services via the European Repair Information Form set out in Annex I. Such standardised presentation will allow consumers to assess and easily compare repair services. Consumers will be free to decide whether they need the European Repair Information Form in a given case, for instance where they would like to gain an overview of the key conditions of the repair service or in order to compare different repair services. In such cases when it is needed and brings added value consumers can obtain the form from repairers upon request. 
+ Article 4(2) sets out that repairers who are not obliged to repair by virtue of Article 5 shall not be obliged to provide the European Repair Information Form where they do not intend to provide the repair service, thereby avoiding unnecessary burden on the repairers. 
+ If repairers incur costs that are necessary for providing the European Repair Information Form, for instance, for inspecting the defective goods, they may request the consumer to pay these limited costs (Article 4(3)). 
+ Article 4(4) sets out the key parameters that influence consumer decisions when considering repair. These are in particular: the price for repair or, if the price cannot be calculated in advance, the calculation method and the maximum price, repair conditions such as the time needed to complete repair, the availability of temporary replacement goods during the time of repair, the place where the consumer hands over the goods for repair and the availability of ancillary services such as removal, installation and transportation, where relevant. 
+ Article 4(5) prohibits repairers to alter the European Repair Information Form for 30 days, once provided. This ensures that consumers have sufficient time to compare different repair offers and are protected from changing conditions. In order to safeguard contractual freedom of repairers, repairers who are not obliged to repair by virtue of Article 5, remain free to decide whether to conclude a contract, even if they had provided a form upon the consumer’s request. If a contract for a provision of repair is concluded, repairers are bound to the information given in the European Repair Information Form, which also constitutes an integral part of the contract for the provision of the repair services. 
+ The European Repair Information Form will also make it easier to provide information on repair services including for micro, small and medium sized repairers, as Article 4(6) provides that repairers should be deemed to have fulfilled corresponding information requirements related to a repair service laid down in Directives 2011/83/EU, 2006/123/EC and 2000/31/EC. 
+ Article 5: Obligation to repair 
+ Article 5 introduces an obligation for producers to repair defects outside the liability of the seller upon the request of consumers and against a price. 
+ In terms of scope, Article 5 (1) limits the obligation to repair to goods for which and to the extent reparability requirements are established in Union l egal acts listed in Annex II of this Directive. Those goods include product groups covered by reparability requirements under the ecodesign framework, such as household washing machines, household dishwas hers, refrigerating appliances and vacuum cleaners . The repa rability requirements under Union legal acts listed in Annex II ensure that the respective products are technical ly re parab le . The obligation to repair corresponds to the scope of the reparability requirements , 
+ 9 
+ among others to the components covered and the period during which the respective reparability requirements apply . Therefore, linking the obligation to repair to existing reparability requirements in Union legal acts in Annex II ensures that this obligation can be performed in practice and that there is legal certainty for economic operators . The obligation to repair under this Directive, which allows consumers to directly claim repair against the producer in the after-sales phase, complements supply-side requirements on reparability, encoura ging consumer demand for repair. 
+ According to Article 5(1), the producer may perform the obligation to repair for free of against a price. Where the producer repairs against a price, such repair services could become an additional source of revenue and the producer would have an interest to reach an agreement on the price with the consumer in order to conclude a contract. The competitive pressure from other repair actors are likely to keep the price acceptable for the consumer. The producer may also have an interest to perform the obligation for free as part of a commercial guarantee on durability of its products. 
+ The producer should be exempted from the obligation to repair only where repair is impossible, for instance, where goods are damaged in a manner, which makes repair technically unfeasible (Article 5(1) sentence 2). 
+ Article 5(2) regulates the situation where consumers purchase a good from a third country producer established outside the Union. It provides legal certainty for third country producers by specifying how they may comply with the obligation to repair when marketing goods purchased by consumers in the Union. It also provides legal certainty to consumers by specifying which economic operators they may approach in the Union with respect to the obligation to repair of third country producers 
+ To keep Annex II up to date, Article 5(4) introduces an empowerment for the Commission to adopt delegated acts to amend Annex II, for instance by adding new product groups when new reparability requirements are adopted in Union legal acts. The Commission empowerment for delegated acts will ensure that all relevant future reparability requirements can be integrated into Annex II. 
+ Article 6: Information on obligation to repair 
+ If producers are obliged to repair goods pursuant to Article 5, they need to inform consumers of that obligation and provide information on the repair services (Article 6). The information obligation aims to ensure that consumers are aware of the obligation to repair, which will increase the likelihood of repair. Article 6 allows for flexibility in how the information is made accessible as long as the producer makes it available in a clear and comprehensible manner. 
+ Article 7: Online platform for repair and goods subject to refurbishment 
+ Article 7 introduces an obligation for Member States to provide for at least one national platform to matchmake consumers with repairers. This will help consumers assess and compare the merits of different repair services and thereby incentivise them to choose repair instead of buying new goods. Where a relevant national platform already exists that meets the conditions set out in this Directive, Member States should not be required to create new platforms. 
+ Article 7(1) sets a number of requirements that the national platform needs to comply with. First, the platform should include search functions for goods, location of repair services and repair conditions, for instance, the time needed to complete the repair, the availability of temporary replacement goods, ancillary services and quality standards for repairers (Article 7(1)(a)). The platform should also enable consumers to directly request the European Repair Information Form via the platform (Article 7(1)(b)) in order to make it easier for them to obtain it. To ensure that the information on the platform is accurate, the platform should allow the repairers to make regular updates (Article 7(1)(c)). In addition, in order to build consumer trust, it should allow for special labels to be displayed in accordance with national and Union law whereby repairers indicate their adherence to European or national quality standards related to repair (Article 7(1)(d)). To create awareness, the platform should also enable accessibility through national websites connected to the Single Digital Gateway (Article 7(1)(e)). 
+ To promote the refurbishment of goods, Article 7(2) requires Member States to ensure that the online platform also includes a search function to find sellers of goods subject to refurbishment and purchasers of defective goods for refurbishment. 
+ Article 7(3) clarifies that registration on the platform is voluntary for repair and refurbishment actors. In addition, Member States should be free to decide who can access the repair platform and how it should be accessed, as long as all repairers in the EU are treated equally. Consumers should be able to access the platform for free. 
+ Article 12: Amendment to the SGD 
+ Article 12 adapts in a targeted manner the harmonised conditions under which the choice between the remedies of repair and replacement can be exercised according to Article 13(2) SGD. This article stipulates that the consumer may choose between repair and replacement, unless the remedy chosen would be impossible or, compared to the other remedy, would impose costs on the seller that would be disproportionate. While maintaining this principle, Article 12 adds an additional sentence to Article 13(2) SGD to promote repair over replacement, stating that the seller should always repair the goods where the costs for replacement are equal to or greater than the costs for repair. As a result, the consumer may only choose replacement as a remedy when it is cheaper than repair . 
+ 2023/0083 (COD) 
+ Proposal for a 
+ DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ on common rules promoting the repair of goods and amending Regulation (EU) 2017/2394, Directives (EU) 2019/771 and (EU) 2020/1828 
+ (Text with EEA relevance) 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Economic and Social Committee 
+ 10 
+ , 
+ Acting in accordance with the ordinary legislative procedure 
+ 11 
+ , 
+ Whereas: 
+ (1) Directive (EU) 2019/771 of the European Parliament and of the Council 
+ 12 
+ pursues the objective of improving the functioning of the internal market, while achieving a high level of consumer protection. In the context of the green transition, this Directive pursues the objective of improving the functioning of the internal market, while promoting more sustainable consumption, and thereby complements the objective pursued by Directive (EU) 2019/771 . 
+ (2) In order to achieve these objectives, and in particular to facilitate cross- border provision of services and competition among repairers of goods purchased by consumers in the internal market, it is necessary to lay down uniform rules promoting the repair of goods purchased by consumers within and beyond the liability of the seller established by Directive (EU) 2019/771 . Member States have already taken or are considering to introduce rules promoting repair and reuse of goods purchased by consumers outside the existing liability of the seller established by Directive (EU) 2019/771. Differing mandatory national rules in this area constitute actual or potential obstacles to the functioning of the internal market, adversely affecting cross-border transactions of economic operators acting on that market. T hose operators may have to adapt their services to comply with the different mandatory national rules and may be faced with additional transaction costs for obtaining the necessary legal advice on the requirements of the law of the Member State of the consumer’s habitual residence , when applicable pursuant to Regulation (EC) 593/2008 of the European Parliament and of the Council 
+ 13 
+ , and to adapt their contracts for the provision of repair services accordingly. This will affect, in particular, small and medium sized enterprises, mostly represented in the repair sector. Legal fragmentation may also negatively affect consumer confidence in cross-border repair due to uncertainties regarding factors which are important for the decision to repair goods. 
+ (3) In order to reduce premature disposal of viable goods purchased by consumers and to encourage consumers to use their goods longer, it is necessary to set out rules on repair of such goods . Repair should result in more sustainable consumption, since it is likely to generate less waste caused by discarded goods, less demand for resources, including energy, caused by the process of manufacturing and sale of new goods replac ing defective goods, as well as less greenhouse gas emissions . This Directive promotes sustainable consumption in view of achieving benefits for the environment while also producing benefits for consumers by avoiding costs associated with new purchases in the short term. 
+ (4) Regulation (EU) … of the European Parlia ment and of the Council [on the E codesign Sustainable Products] lays down, in particular, supply-side requirements pursuing the objective of more sustainable product design at the production phase. Directive (EU) … of the European Parliament and of the Council [on Empowering consumers for the green transition ] lays down demand-side requirements ensuring the provision of better information on durability and reparability of goods at the point of sale, which should enable consumers to make informed sustainable purchasing decisions. This Directive complements those supply-side and demand-side requirements, by promoting repair and reuse in the after-sales phase both within and outside the liability of the seller established by Directive (EU) 2019/771 . This Directive thus pursues the objectives , in the context of the European Green Deal, of promoting a more sustainable consumption, a circular economy and the green transition . 
+ (5) This Directive should not affect the freedom of Member States to regulate aspects of contracts for the provision of repair services other than those harmonised in Union law. 
+ (6) Reparability requirements should comprise all requirements under Union legal acts which ensure that goods can be repaired, including but not limited to requirements under the ecodesign framework referred to in Regulation [on the Ecodesign for Sustainable Products], to cover a broad range of products as well as future developments in any other field of Union law. 
+ (7) In order to help consumers identify and choose suitable repair services, consumers should receive key information on repair services . The European Repair Information Form should lay down key parameters that influence consumer decisions when considering whether to repair defective goods. This Directive should set out a model standardised format. A standardised form at for presenting repair services should allow consumers to assess and easily compare repair services . Such standardised format should also facilitate the process of providing information on repair services , in particular for micro, small and medium sized businesses providing repair services. In order to avoid additional burden s due to overlapping pre-contractual information requirements, a repairer should be deemed to have fulfilled corresponding information requirements of relevant EU legal acts , where applicable, if the European Repair Information F orm has been filled in correctly and provided to the consumer. I nformation in the European Repair Information Form should be provided to consumers in a clear and comprehensible manner and in line with the accessibility requirements of Directive 2019/882 
+ 14 
+ . 
+ (8) The consumer’s free choice to decide by whom to have its goods repaired should be facilitated by requesting the European Repair Information Form not only from the producer, but also from the seller of the goods concerned or from independent repairers, where applic able . Repairers should provide the European Repair Information Form only where the consumer requests that form and the repairer intends to provide the repair service or it is obliged to repair. A consumer may also choose not to request t he European Repair Information Form and to conclude a contract for the provision of repair services with a repairer pursuant to pre-contractual information provided by other means in accordance with Directive 2011/83/EU of the European Parliament and the Council . 
+ 15 
+ (9) There are situations in which a repairer incurs costs necessary for providing the information on repair and price included in th e European Repair Information Form . For instance , the repairer may need to inspect the goods to be able to determine the defect or type of repair that is necessary, including the need for spare parts, and to estimate the repair price. In these cases , a repairer may only request a consumer to pay the costs that are necessary for providing the information included in the European Repair Information Form . I n line with the pre-contractual information and other requirements s et out in Directive 2011/83/EU, the repairer should inform the consumer about such costs before the consumer requests the provision of the European Repair Information Form. Consumers may refrain from requesting the European Repair Information Form where they consider that the costs for obtaining that form are too high. 
+ (10) Repairers should not alter the conditions of repair that they provide in the European Repair Information Form, including on the price for repair, for a certain period of time. This ensure s that consumers are given sufficient time to compare different repair offers. In order to safeguard as much as possible the contractual freedom for repairers other than producers of goods for whom an obligation to repair applies, to be able to decide whether to conclude a contract for the provision of repair services at all , repairers s hould remain free to decide not to conclude such a contract, including in situations where they have provided the European Repair Information Form. If a contract for the provision of repair services is concluded based on the European Repair Information Form, the information on conditions of repair and price contained in that form should constitute an integral part of the contract for the provision of repair services , thereby defining the repairer’s obligations under that contract. Non-compliance with those contractual obligations is governed by the applicable national law. 
+ (11) Directive (EU) 2019/771 imposes an obligation on sellers to repair goods in the event of a lack of conformity which existed at the time that the goods were delivered and which becomes apparent within the liability period. Under that D irective, c onsumers are not entitled to have defects repaire d which fall outside that obligation . As a consequence, a large number of defective , but otherwise viable , goods are premature ly discarded. In order to encourage consumers to repair their good in such situations , this Directive should impose an obligation on producers to repair goods to which reparability requirements imposed by Union legal acts apply . Th at repair obligation should be imposed , upon the consumer’s request , on the producers of such goods, since they are the addressees of those reparability requirements . Th at obligation should apply to producers established both inside and outside the Union in relation to goods placed on the Union market. 
+ (12) Since the obligation to repair imposed on producers under this Directive covers defects that are not due to the non-conformity of the goods with a sales contract , producers may provide r epair against a price paid by the consumer , against another kind of consideration , or for free. The charging of a price should encourage producers to develop sustainable business models, including the provision of repair services. Such a price may take into account , for instance , labour costs, costs for spare parts, costs for operating the repair facility and a customary margin. The price for and the conditions of repair should be agreed in a contract between the consumer and the producer and t he consumer should remain free to decide whether that price and those conditions are acceptable. The need for such a contract and the competitive pressure from other repairers should encourage producers who are obliged to repair to keep the price acceptable for the consumer. The repair obligation may also be performed for free when the defect is covered by a commercial guarantee, for instance , in relation to guaranteed durability of goods. 
+ (13) Producers may fulfil their obligation to repair by sub-contracting repair, for instance , if the producer does not have the repair infrastructure or if repair can be carried out by a repairer located closer to the consumer , among others where the producer is established outside the Union. 
+ (14) The requirements laid down in delegated acts adopted pursuant to Regulation [on the Ecodesign for Sustainable Products] or implementing measures adopted pursuant to Directive 2009/125/EC of the European Parliament and of the Council 
+ 16 
+ , according to which producers should provide access to spare parts, repair and maintenance information or any repair related software tools, firmware or similar auxiliary means, apply. Th o se requirements ensure the technical feasibility of repair , not only by the producer , but also by other repairers. As a consequence, the consumer can select a repairer of its choice. 
+ (15) The obligation to repair should also be effective in cases where the producer is established outside the Union. In order to enable consumers to turn to an economic operator established within the Union to perform this obligation, this Directive foresees a sequence of alternative economic operators required to perform the obligation to repair of the producer in such cases. This should enable producers located outside the Union to organise and perform the ir obligation to repair within the Union. 
+ (16) T o avoid overburdening producers and to ensure they are able to perform their obligation to repair , th at obligation should be limited to those products for which and to the extent any reparability requirements are provided for in Union legal acts. Reparability requirements do not oblige producers to repair defective goods, but ensure that goods are reparable. Such reparability requirements can be laid down in relevant Union legal acts. Examples are delegated acts adopted pursuant to Regulation [ on the Ecodesign for Sustainable Products ] or implementing measures adopted pursuant to Directive 2009/125/EC of the European Parliament and of the Council 
+ 17 
+ , which create a framework to improve the environmental sustainability of products. This limitation of the obligation to repair ensures that only those goods which are reparable by design are subject to such obligation. Relevant reparability requirements include design requirements enhancing the ability to disassemble the goods and a range of spare parts to be made available for a minimum period. The obligation to repair corresponds to the scope of the reparability requirements, for instance, eco design requirements may apply only to certain components of the goods or a specific period of time may be set to make spare parts available . The obligation to repair under this Directive , which allows the consumer to claim repair directly against the producer in the after-sales phase , complements the supply-side related reparability requirements laid down in Regulation [on the E codesign Sustainable Products] , encouraging consumer demand for repair. 
+ (17) To ensure legal certainty, this Directive lists in Annex II relevant product groups covered by such reparability requirements under Union legal acts. In order to ensure coherence with future reparability requirements under Union legal acts, the power to adopt acts in accordance with Article 290 of the Treaty on the Functioning of the European Union should be delegated to the Commission in respect of in particular adding new product groups to Annex II when new reparability requirements are adopted. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making 
+ 18 
+ . In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council should receive all documents at the same time as Member States' experts, and their experts systematically should have access to meetings of Commission expert groups dealing with the preparation of delegated acts. 
+ (18) While this Directive imposes the obligation to repair on the producer, it also facilitates consumer choice of repair services from other repairers. This choice should in particular be facilitated by requesting the European Repair Information Form not only from the producer but also other repairers like the seller or independent repairers or by searching via the online repair platform. As consumers would need to pay for the repair, they are likely to compare repair opportunities in order to choose the most suitable repair services for their needs. Thus, it is likely they approach independent repairers in their proximity or the seller before reaching out to producers which may for instance be located at a greater distance and for which the price could be higher due to transportation costs. 
+ (19) In line with Directive (EU) 2019/771, a producer should be exempted from the obligation to repair where repair is factually or legally impossible. For example, the producer should not refuse repair for purely economic reasons , such as the costs of spare parts. National law implementing Directive (EU) 2019/771 or the preceding Directive 1999/44/EC of the European Parliament and of the Council 
+ 19 
+ is already using the criterion whether repair is impossible and national courts are applying it. 
+ (20) In order to increase the consumer awareness on the availability of repair and thus its likelihood, producers should inform consumers of the existence of that obligation. The information should mention the relevant goods covered by that obligation, together with an explanation that and to what extent repair is provided for those goods, for instance through sub-contractors. That information should be easily accessible to the consumer and provided in a clear and comprehensible manner , without the need for the consumer to request it , and in line with the accessibility requirements of Directive 2019/882 . The producer is free to determine the means through which it informs the consumer. 
+ (21) In order to encourage repair, Member States should ensure that for their territory at least one online platfor m exists which enables consumers to search for suitable repairers. That platform may be an existing or privately operated platform, if it meets the conditions laid down in this Directive. That platform should include user-friendly and independent comparison tools which assist consumers in assessing and comparing the merits of different repair service providers, thereby incentivising consumers to choose repair instead of buying new goods. While that platform aims at facilitating the search for repair services in business-to-consumer relationships, Member States are free to extend its scope also to include business -to-business relationships as well as community-led repair initiatives. 
+ (22) Member States should ensure that all economic operators that may provide repair services in the Union have easy access to the online platform. Member States should be free to decide which repairers can register on the online platform as long as access to that platform is reasonable and non-discriminatory for all repairers in accordance with Union law . Enabling repairers from one Member State to register on the online platform in another Member State in order to provide repair services in areas that the consumer searched for should support the cross-border provision of repair services. It should be left to Member States’ discretion how to populate the online platform, for instance by self-registration or extraction from existing databases with the consent of the repairers, or if registrants should pay a registration fee covering the costs for operating the platform. To guarantee a wide choice of repair services on the online platform, Member States should ensure that access to the online platform is not limited to a specific category of repairers. While national requirements, for instance, on the necessary professional qualifications , continue to apply, Member States should ensure that the online platform is open to all repairers that fulfil those requirements. Member States should also be free to decide whether and to what extent community-led repair initiatives, such as repair cafés, may register on the online platform, taking account of safety considerations where relevant. Registration on the online platform should always be possible upon repairers’ request, provided they fulfil the applicable requirements to access the online platform. 
+ (23) Member States should ensure that consumers have easy access to the online platform allowing them to find suitable repair services for their defective goods. The online platform should also be accessible to vulnerable consumers, including persons with disabilities, in accordance with applicable Union law relating to accessibility . 
+ (24) The search function based on products may refer to the product type or brand. Since repairers cannot know the specific defect before a request to repair has been made, it is sufficient that they provide on the online platform generic information on key elements of repair services to enable consumers to decide whether to repair the good in question, in particular the average time to complete repair, the availability of temporary replacement goods, the place where the consumer hands over the goods for repair and the availability of ancillary services. Repairers should be encouraged to regularly update their information on the online platform. In order to build consumer confidence in the repair services available on the online platform, repairers should be able to demonstrate their adherence to certain repair standards. 
+ (25) In order to facilitate obtaining the European Repair Information Form, the online platform should include the possibility for consumers to directly request that form from the repairer through the online platform. This possibility should be displayed in a prominent manner on the online platform. To create awareness of national online repair platforms and to facilitate access to such platforms across the Union, Member States should ensure that their online platforms are accessible through relevant national webpages connected to the Single Digital Gateway established by Regulation (EU) 2018/1724 of the European Parliament and of the Counc il 
+ 20 
+ . To raise consumer awareness of the online platform, Member States should undertake appropriate steps, for instance sign-post the online platform on related national websites or carry out communication campaigns. 
+ (26) In order to promote sustainable consumption of goods in situations outside the liability of the seller, the online platform should also promote goods subject to refurbishment as an alternative to repair or to buying new goods. To that end, the online platform should include a functionality allowing consumers to find sellers of goods subject to refurbishment or businesses buying defective goods for refurbishment purposes, in particular by enabling a search function per product category. Such sellers of goods subject to refurbishment or purchasers of defective goods for refurbishment should have access to the platform based on the same principles and technical specifications applicable to the repair functionality. 
+ (27) The Commission should enable the development of a voluntary European quality standard for repair services , for instance by encouraging and facilitating voluntary cooperation on a standard between businesses, public authorities and other stakeholders or by issuing a standardisation request to the European standardisation organisations. A European standard for repair services could boost consumer trust in repair services across the Union. Such standard could include aspects influencing consumer decisions on repair, such as the time to complete repair, the availability of temporary replacement goods, quality assurances such as a commercial guarantee on repair, and the availability of ancillary services such as removal, installation and transportation offered by repairers. 
+ (28) In order to promote repair within the liability of the seller as established in Directive (EU) 2019 /771, the harmonised conditions under which the choice between the remedies of repair and replacement can be exercised should be adapted. The principle established in Directive (EU) 2019/771 to use the consideration whether the remedy chosen would impose costs on the seller that are disproportionate as compared to the other remedy, as one of the criteria to determine the applicable remedy, should be maintained. The consumer remains entitled to choose repair over replacement, unless repair would be impossible or it would impose disproportionate costs on the seller as compared to replacement. However, where the costs for replacement are higher than or equal to the costs of repair, the seller should always repair the goods. Hence, the consumer is entitled to choose replacement as a remedy only where it is cheaper than repair. Directive (EU) 2019/771 should therefore be amended accordingly . 
+ (29) In order to enable the enforcement of the rules set out in this Directive by means of representative actions, an amendment of Annex I to Directive (EU) 2020/1828 of the European Parliament and of the Council 16 is necessary. For competent authorities designated by their Member States to cooperate and coordinate actions with each other and with the Commission in order to enforce compliance with the rules set out in this Directive, an amendment of the Annex to Regulation 2017/2394 of the European Parliament and of the Council 17 is necessary. 
+ (30) In order to allow economic operators to adapt, transitional provisions concerning the application of some Articles of this Directive should be introduced. Thus, the obligations to repair and to provide related information on this obligation should apply to contracts for the provision of repair services after [24 months after the entry into force]. The amendment to Directive (EU) 2019/771 should apply only to sales contracts concluded after [24 months after the entry into force] to ensure legal certainty and to provide sellers with sufficient time to adapt to the amended remedies of repair and replacement. 
+ (31) In accordance with the Joint Political Declaration of 28 September 2011 of Member States and the Commission on explanatory documents 18 , Member States have undertaken to accompany, in justified cases, the notification of their transposition measures with one or more documents explaining the relationship between the components of a directive and the corresponding parts of national transposition instruments. With regard to this Directive, the legislator considers the transmission of such documents to be justified. 
+ (32) Promoting the repair of goods purchased by consumers, with a view to contributing to the proper functioning of the internal market while providing for a high level of environmental and consumer protection, cannot be sufficiently achieved by the Member States. Emerging national mandatory rules promoting sustainable consumption by way of repair of defects outside the scope of Directive (EU) 2019/771 are likely to diverge and lead to fragmentation of the internal market. Member States may not amend the fully harmonised rules concerning defects within the liability of the seller set out in Directive (EU) 2019/771. The objective of this Directive can rather, by reason of its scale and effects, better be achieved at Union level through fully harmonised common rules promoting repair within and outside the liability of the seller established in Directive (EU) 2019/771. The Union may therefore adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve this objective. 
+ (33) This Directive respects the fundamental rights and freedoms and seeks to ensu re full respect in particular for Articles 16, 26, 37, 38 and 47 of Charter of Fundamental Rights of the European Union. It contributes to an improvement of the quality of the environment in accordance with Article 37 of the Charter of Fundamental Rights of the European Union by promoting sustainable consumption of goods and thereby reducing negative environmental impacts from premature disposal of viable goods. This Directive ensures full respect for Article 38 on consumer protection by enhancing consumer rights relating to defects that occur or become apparent outside the liability of the seller pursuant to Article 10 of Directive (EU) 2019 /771. It also ensures respect for the freedom to conduct a business in accordance with Article 16 of the Charter of Fundamental Rights of the European Union by safeguarding contractual freedom and encouraging the development of repair services in the internal market. This Directive contributes to the integration of persons with disabilities in accordance with Article 26 the Charter of Fundamental Rights of the European Union by facilitating accessibility to the online platform for persons with disabilities. This Directive seeks to ensure full respect for Article 47 on the right to an effective remedy and to a fair trial through effective means of enforcement . 
+ HAVE ADOPTED THIS DIRECTIVE: 
+ Article 1 
+ Subject matter, purpose and scope 
+ 1. This Directive lays down common rules promotin g the repair of goods, with a view to contributing to the proper functioning of the internal market, while providing for a high level of consumer and environmental protection. 
+ 2. This Directive shall apply to the repair of goods purchased by consumers i n the event of a defect of the goods that occurs or becomes apparent outside the liability of the seller pursuant to Article 10 of Directive (EU) 2019/771. 
+ Article 2 
+ Definitions 
+ For the purpose of this Directive, the following definitions apply: 
+ 1. ‘consumer’ means a consumer as defined in Article 2 , point (2) of Directive (EU) 2019/771; 
+ 2. ‘repairer’ means any natural or legal person who, related to that person’s trade, business, craft or profession, provide s a repair service, including producers and sellers that provide repair service s and repair service providers whether independent or affiliated with such producers or sellers; 
+ 3. ‘seller’ means a seller as defined in Article 2 , point (3) of Directive (EU) 2019/771; 
+ 4. ‘producer’ means a manufacturer as defined in Article 2 , point (42) of Regulation [on the Ecodesign for Sustainable Products] ; 
+ 5. ‘authorised representative’ means authorised representative as defined in Article 2, point (43), of Regulation [on the Ecodesign for Sustainable Products]; 
+ 6. ‘importer’ means importer as defined in Article 2, point (44), of Regulation [on the Ecodesign for Sustainable Products ] ; 
+ 7. ‘distributor’ means distributor as defined in Article 2, point (45), of Regulation [on the Ecodesign for Sustainable Product ] ; 
+ 8. ‘goods’ mean s goods as defined in Article 2, point (5) , of Directive (EU) 2019/771 except water, gas and electricity; 
+ 9. ‘refurbishment’ means refurbishment as defined in Article 2, point (18) , of Regulation [on the Ecodesign for Sustainable Products] ; 
+ 10. ‘reparability requirements’ mean requirements under the Union legal acts listed in A nnex II which enable a product to be repaired including requirements to improve its ease of disassembly, access to spare parts , and repair- related information and tools applicable to products or specific components of products; 
+ Article 3 
+ Level of harmonisation 
+ Member States shall not maintain or introduce in their national law provisions diverging from those laid down in this Directive. 
+ Article 4 
+ European Repair Information Form 
+ 1. Member States shall ensure that , before a consumer is bound by a contract for the provision of repair services, the repairer shall provide the consumer, upon request, with the European Repair Information Form set out in Annex I on a durable medium within the meaning of Art icle 2 (11) of Directive 2019/771/EU. 
+ 2. Repairers other than those obliged to repair by virtue of Article 5 shall not be obliged to provide the European Repair Information Form where they do not intend to provide the repair service. 
+ 3. The repairer may request the consumer to pay the necessary costs the repairer incurs for providing the information included in the European Repair Information Form. 
+ Without prejudice to Directive 2011/83/EU, the repairer shall inform the consumer about the costs referred to in the first subparagraph before the consumer requests the provision of the European Repair Information Form. 
+ 4. The European Repair Information Form shall specify the following conditions of repair in a clear and comprehensible manner : 
+ (a) the identity of the repairer; 
+ (b) the geographical address at which the repairer is established as well as the repairer’s telephone number and email address and, if available, other means of online communication which enable the consumer to contact, and communicate with, the r epairer quickly and efficiently; 
+ (c) the good to be repaired; 
+ (d) the nature of the defect a nd the type of repair suggested; 
+ (e) the price or, if the price cannot reasonably be calculated in advance, the manner in which the price is to be calculated and t he maximum price for the repair; 
+ (f) the estimated time needed to comp lete the repair; 
+ (g) the availability of temporary replacement goods during the time of repair and the costs of temporary replac ement, if any, for the consumer; 
+ (h) the place where the consumer hands over the goods for repair, 
+ (i) where applicable, the availability of ancillary services, such as removal, installation and transportation, offered by the repairer and the costs of those ser vices, if any, for the consumer; 
+ 5. The repairer shall not alter the conditions of repair specified in the European Repair Information Form for a period of 30 calendar days as from the date on which that form was provided to the consumer, unless the repairer and the consumer have agreed otherwise. If a contract for the provision of repair services is concluded within the 30 day period , the conditions of repair specified in the European Repair Information Form shall constitute an integral part of that contract . 
+ 6. Where the repairer has supplied a complete and accurate European Repair Information Form to the consumer, it shall be deemed to have complied with the following requirements: 
+ (a) information requirements regarding the main features of the repair service laid down in Article 5 (1) point (a) , and Article 6 (1) , point a of Directive 2011/83/EU and Article 22(1), point (j) , of Directive 2006/123/EC ; 
+ (b) information requirements regarding the repairer’s identity and contact i nformation laid down in Article 5(1), point (b), and Article (6)(1), points (b) and (c), of Directive 2011/83/EU, Article 22(1), point (a), of Directive 2006/123/EC and Article 5(1), points (a), (b) and (c), of Directive 2000/31/EC ; 
+ (c) information requirements regarding the price laid down in Articles 5(1), point (c), and Article 6(1), point (e), of Directive 2011/83/EU and Article 22(1), point (i) and (3), point (a), of Directive 2006/123/EC ; 
+ (d) information requirements regarding the arrangements for the performance and the time to perform the repair service laid down in Articles 5(1), point (d), and Article 6(1), point (g), of Directive 2011/83/EU . 
+ Article 5 
+ Obligation to repair 
+ 1. Member States shall ensure that upon the consumer’s request, the producer shall repair, for free or against a price or another kind of consideration , goods for which and to the extent that repa rability requirements are provided f or by Union legal acts as listed in Annex II. The producer shall not be obliged to repair such goods where repair is impossible. The producer may sub-contract repair in order to fulfil its obligation to repair. 
+ 2. Where the producer obliged to repair pursuant to paragraph 1 is established outside the Union, its authorised representative in the Union shall perform the obligation of the producer. Where the producer has no authorised representative in the Union , the importer of the good concerned shall perform the obligation of the producer. Where there is no importer, the distributor of the good concerned shall perform the obligation of the producer. 
+ 3. Producers shall ensure that independent repairers have access to spare parts and repair-related information and tools in accordance with the Union legal acts listed in Annex II. 
+ 4. The Commission is empowered to adopt delegated acts in accordance with Article 15 to amend Annex II by updating the list of Union legal acts laying down reparability requirements in the light of legislative developments . 
+ Article 6 
+ Information on obligation to repair 
+ Member States shall ensure that producers inform consumers of their obligation to repair pursuant to Article 5 and provide information on the repair services in an easily accessible, clear and comprehensible manner, for example through the online platform referred to in Article 7. 
+ Article 7 
+ Online platform for repair and goods subject to refurbishment 
+ 1. Member States shall ensure that at least one online platform exists for their territory that allows consumers to find repairers. That platform shall: 
+ (a) include search functions regarding goods, location of repair services, repair conditions, including the time needed to complete the repair, the availability of temporary replacement goods and the place where the consumer hands over the goods for repair , availability and conditions of ancillary services, including removal, installation and transportation, offered by repairers, and applicable European or national quality standards; 
+ (b) enable consumers to request the European Repair Information Form via the platform; 
+ (c) allow for regular updates of contact information and services by repairers; 
+ (d) allow repairers to indicate their adherence to applicable European or national quality standards; 
+ (e) enable accessibility through national websites connected to the Single Digital Gateway established by Regulation (EU) 2018/1724. 
+ (f) ensure accessibility for persons with disabilities 
+ 2. Member States shall ensure that the online platform also includes a search function by product category to find sellers of goods subject to refurbishment and purchasers of defective goods for refurbishment. 
+ 3. Registration on the online platform for repairers, as well as for sellers of goods subject to refurbishment and for purchasers of defective goods for refurbishment, shall be voluntary. Member States shall determine the access to the platform in accordance with Union law. The use of the online platform shall be free of charge for consumers. 
+ Article 8 
+ Enforcement 
+ 1. Member States shall ensure that adequate and effective means exist to ensure compliance with this Directive. 
+ 2. The means referred to in paragraph 1 shall include provisions allowing one or more of the following bodies, as determined by national law, to take action under national law before the courts or competent administrative bodies of the Member State to ensure that the national provisions transposing this Directive are applied: 
+ (a) public bodies or their representatives; 
+ (b) organisations having a legitimate interest in protecting consumers or the environment; 
+ (c) professional organisations having a legitimate interest in acting . 
+ Article 9 
+ Consumer information 
+ Member States shall take appropriate measures to ensure that information on the rights of consumers under this Directive, and on the means to enforce those rights, are available to consumers, including on national websites connected to the Single Digital Gateway established by Regulation (EU) 2018/1724. 
+ Article 10 
+ Mandatory nature 
+ 1. Unless otherwise provided in this Directive, any contractual agreement which, to the detriment of the consumer, excludes the application of national measures transposing this Directive, derogates from them, or varies their effect, shall not be binding on the consumer. 
+ 2. This Directive shall not prevent the repairer from offering to the consumer contractual arrangements that go beyond the protection provided for in this Directive. 
+ Article 11 
+ Penalties 
+ 1. Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to Articles 4, 5 and 6 and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective proportionate and dissuasive. 
+ 2. Member States shall, by 24 months from the entry into force notify the Commission of the rules and of the measures referred to in paragraph 1and shall notify it without delay of any subsequent amendment affecting them. 
+ Article 12 
+ Amendment to Directive (EU) 2019/771 
+ In Article 13(2) of Directive (EU) 2019/771 the following sentence is added: 
+ ‘In derogation from the first sentence of this paragraph, where the costs for replacement are equal to or greater than the costs for repair, the seller shall repair the goods in order to bring those goods in conformity.’ 
+ Article 13 
+ Amendment to Directive (EU) 2020/1828 
+ In Annex I to Directive (EU) 2020/1828, point 67 is added: 
+ ‘67. Directive (EU) xx/xx of the European Parliament and of the Council of x on common rules promoting the repair of goods and amending Regulation (EU) 2017/2394, Directives (EU) 2019/771 and (EU) 2020/1828 (OJ L xx)’. 
+ Article 14 
+ Amendment to Regulation (EU) 2017/2394 
+ In the Annex to Regulation (EU) 2017/2394, the following point 27 is added: 
+ ‘27. Directive (EU) xx/xx of the European Parliament and of the Council of x on common rules promoting the repair of goods and amending Regulation (EU) 2017/2394, Directives (EU) 2019/771 and (EU) 2020/1828 (OJ L xx) ’. 
+ Article 15 
+ Exercise of the delegation 
+ 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article. 
+ 2. The power to adopt delegated acts referred to in Article 5(4) shall be conferred on the Commission for a period of six years from [one month after the entry into force of this act]. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the six-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period. 
+ 3. The delegation of power referred to in Article 5(4) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force. 
+ 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State acting in accordance with the principles laid down in the Inter-institutional Agreement of 13 April 2016 on Better Law-Making. 
+ 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council. 
+ 6. A delegated act adopted pursuant to Article 5(4) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council. 
+ Article 16 
+ Transitional provisions 
+ 1. Article 5 (1) and (2) and Article 6 of this Directive shall not apply to contracts for the provision of repair services concluded before [24 months after the entry into force]. 
+ 2. Article 1 2 of this Directive shall not apply to sales contracts concluded before [24 months after the entry into force] 
+ Article 17 
+ Transposition 
+ 1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by [24 months from the entry into force] at the latest. They shall immediately inform the Commission thereof. 
+ When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States. 
+ Member States shall apply those measures from [24 months from the entry into force]. 
+ 2. Member States shall communicate to the Commission the text of the main provisions in national law which they adopt in the field covered by this Directive and the national online platforms on repair and goods subject to refurbishment established in accordance with this Directive. 
+ Article 18 
+ Entry into force 
+ This Directive shall enter into force on the twentieth day following its publication in the Official Journal of the European Union . 
+ Article 19 
+ Addressees 
+ This Directive is addressed to the Member States. 
+ Done at Brussels, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The President 
+ (1) 
+ COM(2019)640 final, 11.12.2019. 
+ (2) 
+ OJ L 136, 22.5.2019, p. 28 
+ (3) 
+ Conference on the Future of Europe, Report on the final outcome, May 2022 
+ (4) 
+ COM(2022)404 final 
+ (5) 
+ COM(2022) 142 final , 30.3.2022. 
+ (6) 
+ COM(2022) 143 final, 30.3.2022 
+ (7) 
+ Regulation (EC) No 593/2008 of the European Parliament and of the Council of 17 June 2008 on the law applicable to contractual obligations (Rome I) (OJ L 177, 4.7.2008, p. 6). 
+ (8) 
+ The environmental impact of the preferred option package has to be seen together with those of the ESPR (471 million ton ne s of CO2 savings) and the ECGT (0.33-0.47 million ton ne s CO2 savings), as they are designed to have a complementary effect. The combined environmental impact is therefore very significant. The initiatives also help each other to generate their impact. 
+ (9) 
+ For example, Commission Regulation (EU) 2019/2023 requires that manufacturers, importers or authorised representatives of household washing machines and household washer-dryers make available to professional repairers a specified list of spare parts, for a minimum period of 
+ 10 years after placing the last unit of the model on the market. Therefore, the obligation to repair will apply to the respective products, defects that necessitate a replacement with such spare parts and the time period of 10 years. 
+ (10) 
+ OC J […] 
+ (11) 
+ Position of the European Parliament of […] (not yet published in the Official Journal) and decision of the Council of […]. 
+ (12) 
+ Directive (EU) 2019/771 of the European Parliament and of the Council of 20 May 2019 on 
+ certain 
+ aspects concerning contracts for the sale of goods, amending Regulation (EU) 2017/2394 
+ and Directive 
+ 2009/22/EC, and repealing Directive 1999/44/EC (OJ L 136, 22.5.2019, p. 28). 
+ (13) 
+ R egulation (EC) No 593/2008 of the European Parliament and of the Council of 17 June 2008 on the law applicable to contractual obligations (Rome I) (OJ L 177, 4.7.2008, p. 6). 
+ (14) 
+ Directive 2019/882/EU of the European Parliament and of the Council of 17 April 2019 on the 
+ accessibility requirements for products and services (OJ L 151, 7.6.2019, p. 70). 
+ (15) 
+ Directive 2011/83/EU of the European Parliament and of the Council of 25 October 2011 on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (Text with EEA relevance) (OJ L 304, 22.11.2011, p. 64–88). 
+ (16) 
+ Directive 2009/125/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for the setting of ecodesign requirements for energy-related products (recast) (Text with EEA relevance) (OJ L 285, 31.10.2009, p. 10–35). 
+ (17) 
+ Directive 2009/125/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for the setting of ecodesign requirements for energy-related products (recast). 
+ (18) 
+ Interinstitutional Agreement between the European Parliament, the Council of the European Union and the European Commission on Better Law-Making (OJ L 213,12.5.2016, p. 1). 
+ (19) 
+ Directive 1999/44/EC of the European Parliament and of the Council of 25 May 1999 on certain aspects of the sale of consumer goods and associated guarantees (OJ L 171, 7.7.1999, p. 12). 
+ (20) 
+ Regulation (EU) 2018/1724 of the European Parliament and of the Council of 2 October 2018 establishing a single digital gateway to provide access to information, to procedures and to assistance and problem-solving services and amending Regulation (EU) No 1024/2012 (OJ L 295, 21.11.2018, p. 1).
+
+EUROPEAN COMMISSION
+ Brussels, 22.3.2023
+ COM(2023) 155 final
+ ANNEXES
+ to the proposal for a Directive of the European Parliament and of the Council 
+ on common rules promoting the repair of consumer goods and amending Regulation (EU) 2017/2394, Directives (EU) 2019/771 and (EU) 2020/1828
+ {SEC(2023) 137 final} - {SWD(2023) 59 final} - {SWD(2023) 60 final}
+ ANNEX I 
+ EUROPEAN REPAIR INFORMATION FORM 
+ 1. Identity and contact details of the repairer providing the repair service 
+ Repairer 
+ [Identity] 
+ Address 
+ [Geographical address to be used by the consumer] 
+ Telephone number 
+ Email address 
+ If provided by the repairer, other means of online communication, which enable the consumer to contact, and communicate with, the repairer quickly and efficiently 
+ 2. Information on the repair service 
+ Good to be repaired 
+ [Identification of the good] 
+ Determination of the defect 
+ [Description of the defect] 
+ Type of repair suggested 
+ [What kind of measures will be taken to repair the defect] 
+ Price for repair or, if it cannot be calculated, the applicable calculation method and maximum price of repair 
+ [This means the total amount or, if not possible, the calculation method and the ceiling for the repair service, in EUR/national currency] 
+ Estimated time to complete repair 
+ [In days, counting from the conclusion of the contract until the repair will be completed] 
+ Availability of a temporary replacement product 
+ [A temporary replacement product means that the consumer will receive an equivalent product for use during the time of repair, the repairer has to indicate ‘Yes’ or ‘No’] 
+ If yes, indicate the corresponding costs, if any: 
+ [In EUR/national currency] 
+ Place of repair 
+ [The place where repair is carried out by the repairer, for instance, at the residence of the consumer, the location of the repair facility or elsewhere] 
+ If applicable, the availability of ancillary services 
+ [Indicate if and to the extent ancillary services such as removal, installation and transportation are offered, or ‘None’ if no ancillary service is offered for the repair concerned] 
+ If yes, indicate the corresponding costs, if any: 
+ [In EUR/national currency, per service offered] 
+ Indications between square brackets provide explanations for the repairer and must be replaced with the corresponding information. 
+ ANNEX II 
+ LIST OF UNION LEGAL ACTS 
+ LAYING DOWN REPARABILITY REQUIREMENTS 
+ 1. Household washing machines and household washer-dryers according to Commission Regulation (EU) 2019/2023 
+ 1 
+ 2. Household dishwashers according to Commission Regulation (EU) 2019/2022 
+ 2 
+ 3. Refrigerating appliances with a direct sales function according to Commission Regulation (EU) 2019/2024 
+ 3 
+ 4. Refrigerating appliances according to Commission Regulation (EU) 2019/2019 
+ 4 
+ 5. Electronic displays according to Commission Regulation (EU) 2019/2021 
+ 5 
+ 6. Welding equipment according to Commission Regulation (EU) 2019/1784 
+ 6 
+ 7. Vacuum cleaners according to Commission Regulation (EU) 666/2013 
+ 7 
+ 8. Servers and data storage products according to Commission Regulation (EU) 2019/424 
+ 8 
+ 9. [Mobile phones, cordless phones and tablets according to Commission Regulation (EU) .../… 
+ 9 
+ ] 
+ (1) 
+ Commission Regulation (EU) 2019/2023 of 1 October 2019 laying down ecodesign requirements for household washing machines and household washer-dryers pursuant to Directive 2009/125/EC of the European Parliament and of the Council, amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EU) No 1015/2010 (OJ 315, 5.12.2019, p. 285). 
+ (2) 
+ Commission Regulation (EU) 2019/2022 of 1 October 2019 laying down ecodesign requirements for household dishwashers pursuant to Directive 2009/125/EC of the European Parliament and of the Council amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EU) No 1016/2010 (OJ 315, 5.12.2019, p. 267). 
+ (3) 
+ Commission Regulation (EU) 2019/2024 of 1 October 2019 laying down ecodesign requirements for refrigerating appliances with a direct sales function pursuant to Directive 2009/125/EC of the European Parliament and of the Council (OJ 315, 5.12.2019, p. 313). 
+ (4) 
+ Commission Regulation (EU) 2019/2019 of 1 October 2019 laying down ecodesign requirements for refrigerating appliances pursuant to Directive 2009/125/EC of the European Parliament and of the Council and repealing Commission Regulation (EC) No 643/2009 (OJ 315, 5.12.2019, p. 187). 
+ (5) 
+ Commission Regulation (EU) 2019/2021 of 1 October 2019 laying down ecodesign requirements for electronic displays pursuant to Directive 2009/125/EC of the European Parliament and of the Council, amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EC) No 642/2009 (OJ 315, 5.12.2019, p.241). 
+ (6) 
+ Commission Regulation (EU) 2019/1784 of 1 October 2019 laying down ecodesign requirements for welding equipment pursuant to Directive 2009/125/EC of the European Parliament and of the Council (OJ 272, 25.10.2019, p. 121). 
+ (7) 
+ Commission Regulation (EU) 666/2013 of 8 July 2013 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for vacuum cleaners (OJ 192, 13.07.2013, p. 24). 
+ (8) 
+ Commission Regulation (EU) 2019/424 of 15 March 2019 laying down ecodesign requirements for servers and data storage products pursuant to Directive 2009/125/EC of the European Parliament and of the Council and amending Commission Regulation (EU) No 617/2013 (OJ 74, 18.03.2019, p. 46). 
+ (9) 
+ …

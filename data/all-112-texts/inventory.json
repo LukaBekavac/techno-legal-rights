@@ -1,0 +1,2195 @@
+[
+ {
+  "no": 1,
+  "status_in_table": "applicable",
+  "category": "Research & Innovation",
+  "short": "DigitalEurope",
+  "table_label": "Digital Europe Programme Regulation",
+  "table_refs": "(EU) 2021/694",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32021R0694",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32021R0694"
+  ]
+ },
+ {
+  "no": 2,
+  "status_in_table": "applicable",
+  "category": "Research & Innovation",
+  "short": "HorizonEurope",
+  "table_label": "Horizon Europe Regulation",
+  "table_refs": "(EU) 2021/695, (EU) 2021/764",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32021R0695",
+    "note": "Regulation"
+   },
+   {
+    "role": "in_force",
+    "celex": "32021D0764",
+    "note": "Council Decision on the Specific Programme"
+   }
+  ],
+  "extract_from": [
+   "32021R0695",
+   "32021D0764"
+  ]
+ },
+ {
+  "no": 3,
+  "status_in_table": "applicable",
+  "category": "Research & Innovation",
+  "short": "DLT-Pilot",
+  "table_label": "Regulation on a pilot regime for market infrastructures based on DLT",
+  "table_refs": "(EU) 2022/858",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32022R0858",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32022R0858"
+  ]
+ },
+ {
+  "no": 4,
+  "status_in_table": "applicable",
+  "category": "Industrial Policy",
+  "short": "RRF",
+  "table_label": "Recovery and Resilience Facility Regulation",
+  "table_refs": "(EU) 2021/241",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32021R0241",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32021R0241"
+  ]
+ },
+ {
+  "no": 5,
+  "status_in_table": "applicable",
+  "category": "Industrial Policy",
+  "short": "InvestEU",
+  "table_label": "InvestEU Programme Regulation",
+  "table_refs": "(EU) 2021/523",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32021R0523",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32021R0523"
+  ]
+ },
+ {
+  "no": 6,
+  "status_in_table": "applicable",
+  "category": "Industrial Policy",
+  "short": "CEF",
+  "table_label": "Connecting Europe Facility Regulation",
+  "table_refs": "(EU) 2021/1153",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32021R1153",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32021R1153"
+  ]
+ },
+ {
+  "no": 7,
+  "status_in_table": "applicable",
+  "category": "Industrial Policy",
+  "short": "EuroHPC-JU",
+  "table_label": "Regulation on the European High Performance Computing Joint Undertaking",
+  "table_refs": "(EU) 2021/1173",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32021R1173",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32021R1173"
+  ]
+ },
+ {
+  "no": 8,
+  "status_in_table": "applicable",
+  "category": "Industrial Policy",
+  "short": "HorizonEurope-JUs",
+  "table_label": "Regulation on Joint Undertakings under Horizon Europe",
+  "table_refs": "(EU) 2021/2085, 2022/0033(NLE)",
+  "current_status": "In force; Chips JU amendment adopted as Council Regulation (EU) 2023/1782",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32021R2085",
+    "note": ""
+   },
+   {
+    "role": "proposal",
+    "celex": "52022PC0047",
+    "note": "COM(2022) 47"
+   },
+   {
+    "role": "adopted",
+    "celex": "32023R1782",
+    "note": "Council Regulation (EU) 2023/1782 (Chips JU)"
+   }
+  ],
+  "extract_from": [
+   "32021R2085"
+  ]
+ },
+ {
+  "no": 9,
+  "status_in_table": "applicable",
+  "category": "Industrial Policy",
+  "short": "DigitalDecade",
+  "table_label": "Decision on the Digital Decade Policy Programme 2030",
+  "table_refs": "(EU) 2022/2481",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32022D2481",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32022D2481"
+  ]
+ },
+ {
+  "no": 10,
+  "status_in_table": "in_negotiation",
+  "category": "Industrial Policy",
+  "short": "ChipsAct",
+  "table_label": "European Chips Act (Regulation)",
+  "table_refs": "2022/0032(COD)",
+  "current_status": "Adopted: Regulation (EU) 2023/1781",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52022PC0046",
+    "note": "COM(2022) 46"
+   },
+   {
+    "role": "adopted",
+    "celex": "32023R1781",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32023R1781"
+  ]
+ },
+ {
+  "no": 11,
+  "status_in_table": "in_negotiation",
+  "category": "Industrial Policy",
+  "short": "CRMA",
+  "table_label": "European Critical Raw Materials Act (Regulation)",
+  "table_refs": "2023/0079(COD)",
+  "current_status": "Adopted: Regulation (EU) 2024/1252",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52023PC0160",
+    "note": "COM(2023) 160"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024R1252",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32024R1252"
+  ]
+ },
+ {
+  "no": 12,
+  "status_in_table": "in_negotiation",
+  "category": "Industrial Policy",
+  "short": "STEP",
+  "table_label": "Strategic Technologies for Europe Platform (STEP)",
+  "table_refs": "2023/0199(COD)",
+  "current_status": "Adopted: Regulation (EU) 2024/795",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52023PC0335",
+    "note": "COM(2023) 335"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024R0795",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32024R0795"
+  ]
+ },
+ {
+  "no": 13,
+  "status_in_table": "applicable",
+  "category": "Connectivity",
+  "short": "FrequencyBands",
+  "table_label": "Frequency Bands Directive",
+  "table_refs": "87/372/EEC",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "31987L0372",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "31987L0372"
+  ]
+ },
+ {
+  "no": 14,
+  "status_in_table": "applicable",
+  "category": "Connectivity",
+  "short": "RadioSpectrumDecision",
+  "table_label": "Radio Spectrum Decision",
+  "table_refs": "676/2002/EC",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32002D0676",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32002D0676"
+  ]
+ },
+ {
+  "no": 15,
+  "status_in_table": "applicable",
+  "category": "Connectivity",
+  "short": "BCRD-GigabitInfrastructureAct",
+  "table_label": "Broadband Cost Reduction Directive",
+  "table_refs": "2014/61/EU, 2023/0046(COD)",
+  "current_status": "Directive 2014/61/EU replaced by the Gigabit Infrastructure Act, Regulation (EU) 2024/1309",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32014L0061",
+    "note": "repealed by (EU) 2024/1309"
+   },
+   {
+    "role": "proposal",
+    "celex": "52023PC0094",
+    "note": "COM(2023) 94"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024R1309",
+    "note": "Gigabit Infrastructure Act"
+   }
+  ],
+  "extract_from": [
+   "32024R1309"
+  ]
+ },
+ {
+  "no": 16,
+  "status_in_table": "applicable",
+  "category": "Connectivity",
+  "short": "OpenInternet",
+  "table_label": "Open Internet Access Regulation",
+  "table_refs": "(EU) 2015/2120",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32015R2120",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32015R2120"
+  ]
+ },
+ {
+  "no": 17,
+  "status_in_table": "applicable",
+  "category": "Connectivity",
+  "short": "EECC",
+  "table_label": "European Electronic Communications Code (Directive)",
+  "table_refs": "(EU) 2018/1972",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32018L1972",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32018L1972"
+  ]
+ },
+ {
+  "no": 18,
+  "status_in_table": "applicable",
+  "category": "Connectivity",
+  "short": "Roaming",
+  "table_label": "Roaming Regulation",
+  "table_refs": "(EU) 2022/612",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32022R0612",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32022R0612"
+  ]
+ },
+ {
+  "no": 19,
+  "status_in_table": "applicable",
+  "category": "Connectivity",
+  "short": "IRIS2",
+  "table_label": "Union Secure Connectivity Programme Regulation",
+  "table_refs": "(EU) 2023/588",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32023R0588",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32023R0588"
+  ]
+ },
+ {
+  "no": 20,
+  "status_in_table": "applicable",
+  "category": "Connectivity",
+  "short": "dotEU",
+  "table_label": ".eu top-level domain Regulation",
+  "table_refs": "(EU) 2019/517",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32019R0517",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32019R0517"
+  ]
+ },
+ {
+  "no": 21,
+  "status_in_table": "planned",
+  "category": "Connectivity",
+  "short": "RSPP2",
+  "table_label": "New radio spectrum policy programme (RSPP 2.0)",
+  "table_refs": "-",
+  "current_status": "No stand-alone proposal found; spectrum policy is now part of the Digital Networks Act proposal (2026/0013(COD))",
+  "docs": [],
+  "extract_from": []
+ },
+ {
+  "no": 22,
+  "status_in_table": "planned",
+  "category": "Connectivity",
+  "short": "TelecomsAct-DNA",
+  "table_label": "Telecoms Act / Fair Share initiative",
+  "table_refs": "-",
+  "current_status": "Proposed as the Digital Networks Act, COM(2026) 16, 2026/0013(COD), awaiting committee decision",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52026PC0016",
+    "note": "COM(2026) 16 Digital Networks Act"
+   }
+  ],
+  "extract_from": [
+   "52026PC0016"
+  ]
+ },
+ {
+  "no": 23,
+  "status_in_table": "applicable",
+  "category": "Data & Privacy",
+  "short": "GDPR",
+  "table_label": "General Data Protection Regulation",
+  "table_refs": "(EU) 2016/679",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32016R0679",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32016R0679"
+  ]
+ },
+ {
+  "no": 24,
+  "status_in_table": "applicable",
+  "category": "Data & Privacy",
+  "short": "EUDPR",
+  "table_label": "Regulation on personal data processed by EU institutions, bodies, offices and agencies",
+  "table_refs": "(EU) 2018/1725",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32018R1725",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32018R1725"
+  ]
+ },
+ {
+  "no": 25,
+  "status_in_table": "applicable",
+  "category": "Data & Privacy",
+  "short": "FreeFlowNonPersonalData",
+  "table_label": "Regulation on the free flow of non-personal data",
+  "table_refs": "(EU) 2018/1807",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32018R1807",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32018R1807"
+  ]
+ },
+ {
+  "no": 26,
+  "status_in_table": "applicable",
+  "category": "Data & Privacy",
+  "short": "OpenDataDirective",
+  "table_label": "Open Data Directive (PSI)",
+  "table_refs": "(EU) 2019/1024",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32019L1024",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32019L1024"
+  ]
+ },
+ {
+  "no": 27,
+  "status_in_table": "applicable",
+  "category": "Data & Privacy",
+  "short": "DGA",
+  "table_label": "Data Governance Act (Regulation)",
+  "table_refs": "(EU) 2022/868",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32022R0868",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32022R0868"
+  ]
+ },
+ {
+  "no": 28,
+  "status_in_table": "in_negotiation",
+  "category": "Data & Privacy",
+  "short": "ePrivacyRegulation",
+  "table_label": "ePrivacy Regulation",
+  "table_refs": "2017/0003(COD)",
+  "current_status": "Withdrawn by the Commission (2025); ePrivacy Directive 2002/58/EC remains applicable",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52017PC0010",
+    "note": "COM(2017) 10"
+   },
+   {
+    "role": "related",
+    "celex": "32002L0058",
+    "note": "ePrivacy Directive 2002/58/EC (still in force)"
+   }
+  ],
+  "extract_from": [
+   "52017PC0010",
+   "32002L0058"
+  ]
+ },
+ {
+  "no": 29,
+  "status_in_table": "in_negotiation",
+  "category": "Data & Privacy",
+  "short": "DataAct",
+  "table_label": "European Data Act (Regulation)",
+  "table_refs": "2022/0047(COD)",
+  "current_status": "Adopted: Regulation (EU) 2023/2854",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52022PC0068",
+    "note": "COM(2022) 68"
+   },
+   {
+    "role": "adopted",
+    "celex": "32023R2854",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32023R2854"
+  ]
+ },
+ {
+  "no": 30,
+  "status_in_table": "in_negotiation",
+  "category": "Data & Privacy",
+  "short": "EHDS",
+  "table_label": "European Health Data Space (Regulation)",
+  "table_refs": "2022/0140(COD)",
+  "current_status": "Adopted: Regulation (EU) 2025/327",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52022PC0197",
+    "note": "COM(2022) 197"
+   },
+   {
+    "role": "adopted",
+    "celex": "32025R0327",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32025R0327"
+  ]
+ },
+ {
+  "no": 31,
+  "status_in_table": "in_negotiation",
+  "category": "Data & Privacy",
+  "short": "ShortTermRental",
+  "table_label": "Regulation on data collection for short-term rental",
+  "table_refs": "2022/0358(COD)",
+  "current_status": "Adopted: Regulation (EU) 2024/1028",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52022PC0571",
+    "note": "COM(2022) 571"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024R1028",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32024R1028"
+  ]
+ },
+ {
+  "no": 32,
+  "status_in_table": "in_negotiation",
+  "category": "Data & Privacy",
+  "short": "GDPR-Enforcement",
+  "table_label": "Harmonisation of GDPR enforcement",
+  "table_refs": "2023/0202(COD)",
+  "current_status": "Adopted: Regulation (EU) 2025/2518",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52023PC0348",
+    "note": "COM(2023) 348"
+   },
+   {
+    "role": "adopted",
+    "celex": "32025R2518",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32025R2518"
+  ]
+ },
+ {
+  "no": 33,
+  "status_in_table": "in_negotiation",
+  "category": "Data & Privacy",
+  "short": "InteroperableEurope",
+  "table_label": "Interoperable Europe Act",
+  "table_refs": "2022/0379(COD)",
+  "current_status": "Adopted: Regulation (EU) 2024/903",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52022PC0720",
+    "note": "COM(2022) 720"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024R0903",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32024R0903"
+  ]
+ },
+ {
+  "no": 34,
+  "status_in_table": "planned",
+  "category": "Data & Privacy",
+  "short": "VehicleData",
+  "table_label": "Access to vehicle data, functions and resources",
+  "table_refs": "-",
+  "current_status": "Not proposed; on hold pending evaluation of the Data Act",
+  "docs": [],
+  "extract_from": []
+ },
+ {
+  "no": 35,
+  "status_in_table": "planned",
+  "category": "Data & Privacy",
+  "short": "GreenData4all",
+  "table_label": "GreenData4all",
+  "table_refs": "-",
+  "current_status": "Proposed within the Environmental Omnibus, COM(2025) 985, 2025/0393(COD) (INSPIRE revision), pending",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52025PC0985",
+    "note": "COM(2025) 985 Environmental Omnibus"
+   }
+  ],
+  "extract_from": [
+   "52025PC0985"
+  ]
+ },
+ {
+  "no": 36,
+  "status_in_table": "applicable",
+  "category": "IPR",
+  "short": "DatabaseDirective",
+  "table_label": "Database Directive",
+  "table_refs": "96/9/EC",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "31996L0009",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "31996L0009"
+  ]
+ },
+ {
+  "no": 37,
+  "status_in_table": "applicable",
+  "category": "IPR",
+  "short": "CommunityDesign",
+  "table_label": "Community Design Regulation (listed in the table as a Directive)",
+  "table_refs": "(EC) No 6/2002, 2022/0391(COD)",
+  "current_status": "In force as the EU Design Regulation, amended by Regulation (EU) 2024/2822",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32002R0006",
+    "note": ""
+   },
+   {
+    "role": "proposal",
+    "celex": "52022PC0666",
+    "note": "COM(2022) 666"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024R2822",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32002R0006"
+  ]
+ },
+ {
+  "no": 38,
+  "status_in_table": "applicable",
+  "category": "IPR",
+  "short": "IPRED",
+  "table_label": "Enforcement Directive (IPR)",
+  "table_refs": "2004/48/EC",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32004L0048",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32004L0048"
+  ]
+ },
+ {
+  "no": 39,
+  "status_in_table": "applicable",
+  "category": "IPR",
+  "short": "TradeSecrets",
+  "table_label": "Directive on the protection of trade secrets",
+  "table_refs": "(EU) 2016/943",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32016L0943",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32016L0943"
+  ]
+ },
+ {
+  "no": 40,
+  "status_in_table": "in_negotiation",
+  "category": "IPR",
+  "short": "SEP",
+  "table_label": "Standard essential patents (Regulation)",
+  "table_refs": "2023/0133(COD)",
+  "current_status": "Withdrawn by the Commission (2025)",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52023PC0232",
+    "note": "COM(2023) 232"
+   }
+  ],
+  "extract_from": [
+   "52023PC0232"
+  ]
+ },
+ {
+  "no": 41,
+  "status_in_table": "in_negotiation",
+  "category": "IPR",
+  "short": "DesignDirective",
+  "table_label": "Design Directive (recast)",
+  "table_refs": "2022/0392(COD)",
+  "current_status": "Adopted: Directive (EU) 2024/2823",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52022PC0667",
+    "note": "COM(2022) 667"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024L2823",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32024L2823"
+  ]
+ },
+ {
+  "no": 42,
+  "status_in_table": "in_negotiation",
+  "category": "IPR",
+  "short": "CompulsoryLicensing",
+  "table_label": "Compulsory licensing of patents (Regulation)",
+  "table_refs": "2023/0129(COD)",
+  "current_status": "Adopted: Regulation (EU) 2025/2645",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52023PC0224",
+    "note": "COM(2023) 224"
+   },
+   {
+    "role": "adopted",
+    "celex": "32025R2645",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32025R2645"
+  ]
+ },
+ {
+  "no": 43,
+  "status_in_table": "applicable",
+  "category": "Cybersecurity",
+  "short": "CybersecurityAct",
+  "table_label": "Cybersecurity Act (Regulation)",
+  "table_refs": "(EU) 2019/881",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32019R0881",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32019R0881"
+  ]
+ },
+ {
+  "no": 44,
+  "status_in_table": "applicable",
+  "category": "Cybersecurity",
+  "short": "ECCC",
+  "table_label": "Regulation establishing the European Cybersecurity Competence Centre",
+  "table_refs": "(EU) 2021/887",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32021R0887",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32021R0887"
+  ]
+ },
+ {
+  "no": 45,
+  "status_in_table": "applicable",
+  "category": "Cybersecurity",
+  "short": "NIS2",
+  "table_label": "NIS 2 Directive",
+  "table_refs": "(EU) 2022/2555",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32022L2555",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32022L2555"
+  ]
+ },
+ {
+  "no": 46,
+  "status_in_table": "in_negotiation",
+  "category": "Cybersecurity",
+  "short": "InfoSecRegulation",
+  "table_label": "Information Security Regulation (EU institutions)",
+  "table_refs": "2022/0084(COD)",
+  "current_status": "Pending: awaiting committee decision",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52022PC0119",
+    "note": "COM(2022) 119"
+   }
+  ],
+  "extract_from": [
+   "52022PC0119"
+  ]
+ },
+ {
+  "no": 47,
+  "status_in_table": "in_negotiation",
+  "category": "Cybersecurity",
+  "short": "EUIBA-Cybersecurity",
+  "table_label": "Cybersecurity Regulation (EU institutions)",
+  "table_refs": "2022/0085(COD)",
+  "current_status": "Adopted: Regulation (EU, Euratom) 2023/2841",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52022PC0122",
+    "note": "COM(2022) 122"
+   },
+   {
+    "role": "adopted",
+    "celex": "32023R2841",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32023R2841"
+  ]
+ },
+ {
+  "no": 48,
+  "status_in_table": "in_negotiation",
+  "category": "Cybersecurity",
+  "short": "CRA",
+  "table_label": "Cyber Resilience Act",
+  "table_refs": "2022/0272(COD)",
+  "current_status": "Adopted: Regulation (EU) 2024/2847",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52022PC0454",
+    "note": "COM(2022) 454"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024R2847",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32024R2847"
+  ]
+ },
+ {
+  "no": 49,
+  "status_in_table": "in_negotiation",
+  "category": "Cybersecurity",
+  "short": "CyberSolidarity",
+  "table_label": "Cyber Solidarity Act (Regulation)",
+  "table_refs": "2023/0109(COD)",
+  "current_status": "Adopted: Regulation (EU) 2025/38",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52023PC0209",
+    "note": "COM(2023) 209"
+   },
+   {
+    "role": "adopted",
+    "celex": "32025R0038",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32025R0038"
+  ]
+ },
+ {
+  "no": 50,
+  "status_in_table": "applicable",
+  "category": "Law Enforcement",
+  "short": "LED",
+  "table_label": "Law Enforcement Directive",
+  "table_refs": "(EU) 2016/680",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32016L0680",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32016L0680"
+  ]
+ },
+ {
+  "no": 51,
+  "status_in_table": "applicable",
+  "category": "Law Enforcement",
+  "short": "NonCashPaymentFraud",
+  "table_label": "Directive on combating fraud and counterfeiting of non-cash means of payment",
+  "table_refs": "(EU) 2019/713",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32019L0713",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32019L0713"
+  ]
+ },
+ {
+  "no": 52,
+  "status_in_table": "applicable",
+  "category": "Law Enforcement",
+  "short": "TCO",
+  "table_label": "Regulation on terrorist content online",
+  "table_refs": "(EU) 2021/784",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32021R0784",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32021R0784"
+  ]
+ },
+ {
+  "no": 53,
+  "status_in_table": "applicable",
+  "category": "Law Enforcement",
+  "short": "CSAM",
+  "table_label": "Temporary CSAM Regulation",
+  "table_refs": "(EU) 2021/1232, 2022/0155(COD)",
+  "current_status": "Interim Regulation (EU) 2021/1232 expired on 3 Apr 2026 and was re-adopted as Regulation (EU) 2026/1881 (applies until 3 Apr 2028); permanent CSA Regulation 2022/0155(COD) pending (awaiting EP first-reading position)",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32021R1232",
+    "note": "expired 3 Apr 2026"
+   },
+   {
+    "role": "adopted",
+    "celex": "32026R1881",
+    "note": "Regulation (EU) 2026/1881 re-adopting the interim derogation"
+   },
+   {
+    "role": "proposal",
+    "celex": "52022PC0209",
+    "note": "COM(2022) 209 permanent CSA Regulation"
+   }
+  ],
+  "extract_from": [
+   "32026R1881",
+   "52022PC0209"
+  ]
+ },
+ {
+  "no": 54,
+  "status_in_table": "in_negotiation",
+  "category": "Law Enforcement",
+  "short": "E-evidence",
+  "table_label": "E-evidence Regulation",
+  "table_refs": "2018/0108(COD)",
+  "current_status": "Adopted: Regulation (EU) 2023/1543 (with Directive (EU) 2023/1544)",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52018PC0225",
+    "note": "COM(2018) 225"
+   },
+   {
+    "role": "adopted",
+    "celex": "32023R1543",
+    "note": ""
+   },
+   {
+    "role": "related",
+    "celex": "32023L1544",
+    "note": "companion Directive on legal representatives"
+   }
+  ],
+  "extract_from": [
+   "32023R1543"
+  ]
+ },
+ {
+  "no": 55,
+  "status_in_table": "planned",
+  "category": "Law Enforcement",
+  "short": "DigitalTravelDocs",
+  "table_label": "Digitalisation of travel documents",
+  "table_refs": "-",
+  "current_status": "Proposed: COM(2024) 670 (2024/0670(COD)) and COM(2024) 671 (2024/0248(CNS)), pending",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52024PC0670",
+    "note": "COM(2024) 670 EU Digital Travel application"
+   },
+   {
+    "role": "proposal",
+    "celex": "52024PC0671",
+    "note": "COM(2024) 671 digital travel credentials (ID cards)"
+   }
+  ],
+  "extract_from": [
+   "52024PC0670",
+   "52024PC0671"
+  ]
+ },
+ {
+  "no": 56,
+  "status_in_table": "applicable",
+  "category": "Trust & Safety",
+  "short": "PLD",
+  "table_label": "Product Liability Directive",
+  "table_refs": "85/374/EEC, 2022/0302(COD)",
+  "current_status": "85/374/EEC applies to products placed on the market before 9 Dec 2026; new PLD (EU) 2024/2853 applies from 9 Dec 2026",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "31985L0374",
+    "note": ""
+   },
+   {
+    "role": "proposal",
+    "celex": "52022PC0495",
+    "note": "COM(2022) 495"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024L2853",
+    "note": "new PLD"
+   }
+  ],
+  "extract_from": [
+   "31985L0374",
+   "32024L2853"
+  ]
+ },
+ {
+  "no": 57,
+  "status_in_table": "applicable",
+  "category": "Trust & Safety",
+  "short": "Standardisation",
+  "table_label": "European Standardisation Regulation",
+  "table_refs": "(EU) No 1025/2012",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32012R1025",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32012R1025"
+  ]
+ },
+ {
+  "no": 58,
+  "status_in_table": "applicable",
+  "category": "Trust & Safety",
+  "short": "RED",
+  "table_label": "Radio Equipment Directive",
+  "table_refs": "2014/53/EU",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32014L0053",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32014L0053"
+  ]
+ },
+ {
+  "no": 59,
+  "status_in_table": "applicable",
+  "category": "Trust & Safety",
+  "short": "eIDAS",
+  "table_label": "eIDAS Regulation",
+  "table_refs": "(EU) No 910/2014, 2021/0136(COD)",
+  "current_status": "In force, amended by Regulation (EU) 2024/1183 (European Digital Identity Wallets)",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32014R0910",
+    "note": ""
+   },
+   {
+    "role": "proposal",
+    "celex": "52021PC0281",
+    "note": "COM(2021) 281"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024R1183",
+    "note": "eIDAS 2.0 amending Regulation"
+   }
+  ],
+  "extract_from": [
+   "32014R0910"
+  ]
+ },
+ {
+  "no": 60,
+  "status_in_table": "applicable",
+  "category": "Trust & Safety",
+  "short": "SDG",
+  "table_label": "Single Digital Gateway Regulation",
+  "table_refs": "(EU) 2018/1724",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32018R1724",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32018R1724"
+  ]
+ },
+ {
+  "no": 61,
+  "status_in_table": "applicable",
+  "category": "Trust & Safety",
+  "short": "GPSR",
+  "table_label": "General Product Safety Regulation",
+  "table_refs": "(EU) 2023/988",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32023R0988",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32023R0988"
+  ]
+ },
+ {
+  "no": 62,
+  "status_in_table": "applicable",
+  "category": "Trust & Safety",
+  "short": "Machinery",
+  "table_label": "Machinery Regulation",
+  "table_refs": "(EU) 2023/1230",
+  "current_status": "In force (applies from 20 Jan 2027)",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32023R1230",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32023R1230"
+  ]
+ },
+ {
+  "no": 63,
+  "status_in_table": "in_negotiation",
+  "category": "Trust & Safety",
+  "short": "AIAct",
+  "table_label": "AI Act (Regulation)",
+  "table_refs": "2021/0106(COD)",
+  "current_status": "Adopted: Regulation (EU) 2024/1689",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52021PC0206",
+    "note": "COM(2021) 206"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024R1689",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32024R1689"
+  ]
+ },
+ {
+  "no": 64,
+  "status_in_table": "in_negotiation",
+  "category": "Trust & Safety",
+  "short": "Ecodesign",
+  "table_label": "Ecodesign for Sustainable Products Regulation",
+  "table_refs": "2022/0095(COD)",
+  "current_status": "Adopted: Regulation (EU) 2024/1781",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52022PC0142",
+    "note": "COM(2022) 142"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024R1781",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32024R1781"
+  ]
+ },
+ {
+  "no": 65,
+  "status_in_table": "in_negotiation",
+  "category": "Trust & Safety",
+  "short": "AILD",
+  "table_label": "AI Liability Directive",
+  "table_refs": "2022/0303(COD)",
+  "current_status": "Withdrawn by the Commission (2025)",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52022PC0496",
+    "note": "COM(2022) 496"
+   }
+  ],
+  "extract_from": [
+   "52022PC0496"
+  ]
+ },
+ {
+  "no": 66,
+  "status_in_table": "applicable",
+  "category": "E-commerce & Consumer Protection",
+  "short": "UCTD",
+  "table_label": "Unfair Contract Terms Directive",
+  "table_refs": "93/13/EEC",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "31993L0013",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "31993L0013"
+  ]
+ },
+ {
+  "no": 67,
+  "status_in_table": "applicable",
+  "category": "E-commerce & Consumer Protection",
+  "short": "ECD",
+  "table_label": "E-commerce Directive",
+  "table_refs": "2000/31/EC",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32000L0031",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32000L0031"
+  ]
+ },
+ {
+  "no": 68,
+  "status_in_table": "applicable",
+  "category": "E-commerce & Consumer Protection",
+  "short": "UCPD",
+  "table_label": "Unfair Commercial Practices Directive",
+  "table_refs": "2005/29/EC",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32005L0029",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32005L0029"
+  ]
+ },
+ {
+  "no": 69,
+  "status_in_table": "applicable",
+  "category": "E-commerce & Consumer Protection",
+  "short": "CRD",
+  "table_label": "Consumer Rights Directive",
+  "table_refs": "2011/83/EU",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32011L0083",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32011L0083"
+  ]
+ },
+ {
+  "no": 70,
+  "status_in_table": "applicable",
+  "category": "E-commerce & Consumer Protection",
+  "short": "eInvoicing",
+  "table_label": "e-invoicing Directive",
+  "table_refs": "2014/55/EU",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32014L0055",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32014L0055"
+  ]
+ },
+ {
+  "no": 71,
+  "status_in_table": "applicable",
+  "category": "E-commerce & Consumer Protection",
+  "short": "GeoBlocking",
+  "table_label": "Geo-blocking Regulation",
+  "table_refs": "(EU) 2018/302",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32018R0302",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32018R0302"
+  ]
+ },
+ {
+  "no": 72,
+  "status_in_table": "applicable",
+  "category": "E-commerce & Consumer Protection",
+  "short": "DigitalContent",
+  "table_label": "Digital Content Directive",
+  "table_refs": "(EU) 2019/770",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32019L0770",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32019L0770"
+  ]
+ },
+ {
+  "no": 73,
+  "status_in_table": "applicable",
+  "category": "E-commerce & Consumer Protection",
+  "short": "SaleOfGoods",
+  "table_label": "Sale of Goods Directive",
+  "table_refs": "(EU) 2019/771",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32019L0771",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32019L0771"
+  ]
+ },
+ {
+  "no": 74,
+  "status_in_table": "applicable",
+  "category": "E-commerce & Consumer Protection",
+  "short": "DSA",
+  "table_label": "Digital Services Act (Regulation)",
+  "table_refs": "(EU) 2022/2065",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32022R2065",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32022R2065"
+  ]
+ },
+ {
+  "no": 75,
+  "status_in_table": "in_negotiation",
+  "category": "E-commerce & Consumer Protection",
+  "short": "RightToRepair",
+  "table_label": "Right to repair Directive",
+  "table_refs": "2023/0083(COD)",
+  "current_status": "Adopted: Directive (EU) 2024/1799",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52023PC0155",
+    "note": "COM(2023) 155"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024L1799",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32024L1799"
+  ]
+ },
+ {
+  "no": 76,
+  "status_in_table": "in_negotiation",
+  "category": "E-commerce & Consumer Protection",
+  "short": "PoliticalAds",
+  "table_label": "Political Advertising Regulation",
+  "table_refs": "2021/0381(COD)",
+  "current_status": "Adopted: Regulation (EU) 2024/900",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52021PC0731",
+    "note": "COM(2021) 731"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024R0900",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32024R0900"
+  ]
+ },
+ {
+  "no": 77,
+  "status_in_table": "planned",
+  "category": "E-commerce & Consumer Protection",
+  "short": "MDMS",
+  "table_label": "Multimodal digital mobility services (MDMS)",
+  "table_refs": "-",
+  "current_status": "Proposed: COM(2026) 231, 2026/0113(COD), pending",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52026PC0231",
+    "note": "COM(2026) 231"
+   }
+  ],
+  "extract_from": [
+   "52026PC0231"
+  ]
+ },
+ {
+  "no": 78,
+  "status_in_table": "planned",
+  "category": "E-commerce & Consumer Protection",
+  "short": "CPC-Enforcement",
+  "table_label": "Consumer protection: strengthened enforcement cooperation",
+  "table_refs": "-",
+  "current_status": "Not yet proposed (CPC Regulation revision expected with the Digital Fairness Act, Q4 2026)",
+  "docs": [],
+  "extract_from": []
+ },
+ {
+  "no": 79,
+  "status_in_table": "planned",
+  "category": "E-commerce & Consumer Protection",
+  "short": "ADR-Digital",
+  "table_label": "Consumer rights: adapting ADR to digital markets",
+  "table_refs": "-",
+  "current_status": "Adopted: Directive (EU) 2025/2647 amending ADR Directive 2013/11/EU",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52023PC0649",
+    "note": "COM(2023) 649"
+   },
+   {
+    "role": "adopted",
+    "celex": "32025L2647",
+    "note": ""
+   },
+   {
+    "role": "related",
+    "celex": "32013L0011",
+    "note": "ADR Directive 2013/11/EU (the act being amended)"
+   }
+  ],
+  "extract_from": [
+   "32025L2647",
+   "32013L0011"
+  ]
+ },
+ {
+  "no": 80,
+  "status_in_table": "applicable",
+  "category": "Competition",
+  "short": "TTBER",
+  "table_label": "Technology Transfer Block Exemption Regulation",
+  "table_refs": "(EU) No 316/2014",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32014R0316",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32014R0316"
+  ]
+ },
+ {
+  "no": 81,
+  "status_in_table": "applicable",
+  "category": "Competition",
+  "short": "CompanyLaw",
+  "table_label": "Company Law Directive",
+  "table_refs": "(EU) 2017/1132, 2023/0089(COD)",
+  "current_status": "In force, amended by Directive (EU) 2025/25 (digital tools in company law)",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32017L1132",
+    "note": ""
+   },
+   {
+    "role": "proposal",
+    "celex": "52023PC0177",
+    "note": "COM(2023) 177"
+   },
+   {
+    "role": "adopted",
+    "celex": "32025L0025",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32017L1132",
+   "32025L0025"
+  ]
+ },
+ {
+  "no": 82,
+  "status_in_table": "applicable",
+  "category": "Competition",
+  "short": "MarketSurveillance",
+  "table_label": "Market Surveillance Regulation",
+  "table_refs": "(EU) 2019/1020",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32019R1020",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32019R1020"
+  ]
+ },
+ {
+  "no": 83,
+  "status_in_table": "applicable",
+  "category": "Competition",
+  "short": "P2B",
+  "table_label": "Platform-to-Business Regulation",
+  "table_refs": "(EU) 2019/1150",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32019R1150",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32019R1150"
+  ]
+ },
+ {
+  "no": 84,
+  "status_in_table": "applicable",
+  "category": "Competition",
+  "short": "VBER",
+  "table_label": "Vertical Block Exemption Regulation",
+  "table_refs": "(EU) 2022/720",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32022R0720",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32022R0720"
+  ]
+ },
+ {
+  "no": 85,
+  "status_in_table": "applicable",
+  "category": "Competition",
+  "short": "DMA",
+  "table_label": "Digital Markets Act (Regulation)",
+  "table_refs": "(EU) 2022/1925",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32022R1925",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32022R1925"
+  ]
+ },
+ {
+  "no": 86,
+  "status_in_table": "applicable",
+  "category": "Competition",
+  "short": "FSR",
+  "table_label": "Foreign Subsidies Regulation",
+  "table_refs": "(EU) 2022/2560",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32022R2560",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32022R2560"
+  ]
+ },
+ {
+  "no": 87,
+  "status_in_table": "applicable",
+  "category": "Competition",
+  "short": "HBER",
+  "table_label": "Horizontal Block Exemption Regulations",
+  "table_refs": "(EU) 2023/1066, (EU) 2023/1067",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32023R1066",
+    "note": "R&D agreements"
+   },
+   {
+    "role": "in_force",
+    "celex": "32023R1067",
+    "note": "specialisation agreements"
+   }
+  ],
+  "extract_from": [
+   "32023R1066",
+   "32023R1067"
+  ]
+ },
+ {
+  "no": 88,
+  "status_in_table": "in_negotiation",
+  "category": "Competition",
+  "short": "PlatformWork",
+  "table_label": "Platform Work Directive",
+  "table_refs": "2021/0414(COD)",
+  "current_status": "Adopted: Directive (EU) 2024/2831",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52021PC0762",
+    "note": "COM(2021) 762"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024L2831",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32024L2831"
+  ]
+ },
+ {
+  "no": 89,
+  "status_in_table": "in_negotiation",
+  "category": "Competition",
+  "short": "SMEI-IMERA",
+  "table_label": "Single Market Emergency Instrument (SMEI)",
+  "table_refs": "2022/0278(COD)",
+  "current_status": "Adopted as the Internal Market Emergency and Resilience Act, Regulation (EU) 2024/2747",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52022PC0459",
+    "note": "COM(2022) 459"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024R2747",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32024R2747"
+  ]
+ },
+ {
+  "no": 90,
+  "status_in_table": "applicable",
+  "category": "Media",
+  "short": "SatCab1",
+  "table_label": "Satellite and Cable I Directive",
+  "table_refs": "93/83/EEC",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "31993L0083",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "31993L0083"
+  ]
+ },
+ {
+  "no": 91,
+  "status_in_table": "applicable",
+  "category": "Media",
+  "short": "InfoSoc",
+  "table_label": "Information Society (Copyright) Directive",
+  "table_refs": "2001/29/EC",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32001L0029",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32001L0029"
+  ]
+ },
+ {
+  "no": 92,
+  "status_in_table": "applicable",
+  "category": "Media",
+  "short": "AVMSD",
+  "table_label": "Audiovisual Media Services Directive",
+  "table_refs": "2010/13/EU",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32010L0013",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32010L0013"
+  ]
+ },
+ {
+  "no": 93,
+  "status_in_table": "applicable",
+  "category": "Media",
+  "short": "Portability",
+  "table_label": "Portability Regulation",
+  "table_refs": "(EU) 2017/1128",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32017R1128",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32017R1128"
+  ]
+ },
+ {
+  "no": 94,
+  "status_in_table": "applicable",
+  "category": "Media",
+  "short": "SatCab2",
+  "table_label": "Satellite and Cable II Directive",
+  "table_refs": "(EU) 2019/789",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32019L0789",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32019L0789"
+  ]
+ },
+ {
+  "no": 95,
+  "status_in_table": "applicable",
+  "category": "Media",
+  "short": "CDSM",
+  "table_label": "Copyright in the Digital Single Market Directive",
+  "table_refs": "(EU) 2019/790",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32019L0790",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32019L0790"
+  ]
+ },
+ {
+  "no": 96,
+  "status_in_table": "in_negotiation",
+  "category": "Media",
+  "short": "EMFA",
+  "table_label": "European Media Freedom Act",
+  "table_refs": "2022/0277(COD)",
+  "current_status": "Adopted: Regulation (EU) 2024/1083",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52022PC0457",
+    "note": "COM(2022) 457"
+   },
+   {
+    "role": "adopted",
+    "celex": "32024R1083",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32024R1083"
+  ]
+ },
+ {
+  "no": 97,
+  "status_in_table": "applicable",
+  "category": "Finance",
+  "short": "VAT",
+  "table_label": "Common VAT system Directive",
+  "table_refs": "2006/112/EC, 2022/0407(CNS)",
+  "current_status": "In force, amended by Council Directive (EU) 2025/516 (VAT in the Digital Age)",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32006L0112",
+    "note": ""
+   },
+   {
+    "role": "proposal",
+    "celex": "52022PC0701",
+    "note": "COM(2022) 701"
+   },
+   {
+    "role": "adopted",
+    "celex": "32025L0516",
+    "note": "ViDA"
+   }
+  ],
+  "extract_from": [
+   "32006L0112",
+   "32025L0516"
+  ]
+ },
+ {
+  "no": 98,
+  "status_in_table": "applicable",
+  "category": "Finance",
+  "short": "PSD2-PSD3",
+  "table_label": "Payment Services Directive 2 (PSD2)",
+  "table_refs": "(EU) 2015/2366, 2023/0209(COD)",
+  "current_status": "PSD2 in force; PSD3 2023/0209(COD): provisional agreement Nov 2025, formal adoption pending (OEIL: awaiting Council first-reading position)",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32015L2366",
+    "note": ""
+   },
+   {
+    "role": "proposal",
+    "celex": "52023PC0366",
+    "note": "COM(2023) 366 PSD3"
+   }
+  ],
+  "extract_from": [
+   "32015L2366",
+   "52023PC0366"
+  ]
+ },
+ {
+  "no": 99,
+  "status_in_table": "applicable",
+  "category": "Finance",
+  "short": "DORA",
+  "table_label": "Digital Operational Resilience Act (Regulation)",
+  "table_refs": "(EU) 2022/2554",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32022R2554",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32022R2554"
+  ]
+ },
+ {
+  "no": 100,
+  "status_in_table": "applicable",
+  "category": "Finance",
+  "short": "MiCA",
+  "table_label": "Markets in Crypto-assets Regulation",
+  "table_refs": "(EU) 2023/1114",
+  "current_status": "In force",
+  "docs": [
+   {
+    "role": "in_force",
+    "celex": "32023R1114",
+    "note": ""
+   }
+  ],
+  "extract_from": [
+   "32023R1114"
+  ]
+ },
+ {
+  "no": 101,
+  "status_in_table": "in_negotiation",
+  "category": "Finance",
+  "short": "DigitalEuro",
+  "table_label": "Digital euro (Regulation)",
+  "table_refs": "2023/0212(COD)",
+  "current_status": "Pending: awaiting Parliament first-reading position",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52023PC0369",
+    "note": "COM(2023) 369"
+   }
+  ],
+  "extract_from": [
+   "52023PC0369"
+  ]
+ },
+ {
+  "no": 102,
+  "status_in_table": "in_negotiation",
+  "category": "Finance",
+  "short": "FIDA",
+  "table_label": "Financial Data Access Regulation",
+  "table_refs": "2023/0205(COD)",
+  "current_status": "Pending: awaiting Parliament first-reading position",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52023PC0360",
+    "note": "COM(2023) 360"
+   }
+  ],
+  "extract_from": [
+   "52023PC0360"
+  ]
+ },
+ {
+  "no": 103,
+  "status_in_table": "in_negotiation",
+  "category": "Finance",
+  "short": "PSR",
+  "table_label": "Payment Services Regulation",
+  "table_refs": "2023/0210(COD)",
+  "current_status": "Provisional agreement Nov 2025, formal adoption pending (OEIL: awaiting Council first-reading position); rights below are from the Commission proposal",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52023PC0367",
+    "note": "COM(2023) 367"
+   }
+  ],
+  "extract_from": [
+   "52023PC0367"
+  ]
+ },
+ {
+  "no": 104,
+  "status_in_table": "planned",
+  "category": "Finance",
+  "short": "LatePayments",
+  "table_label": "Revision of the late payments Directive",
+  "table_refs": "-",
+  "current_status": "Proposed as Late Payment Regulation COM(2023) 533, 2023/0323(COD), pending at Council; Directive 2011/7/EU still in force",
+  "docs": [
+   {
+    "role": "proposal",
+    "celex": "52023PC0533",
+    "note": "COM(2023) 533"
+   },
+   {
+    "role": "related",
+    "celex": "32011L0007",
+    "note": "Late Payment Directive 2011/7/EU (in force)"
+   }
+  ],
+  "extract_from": [
+   "52023PC0533",
+   "32011L0007"
+  ]
+ }
+]

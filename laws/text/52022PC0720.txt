@@ -1,0 +1,1217 @@
+### Interoperable Europe Act | CELEX 52022PC0720 | text version 52022PC0720 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 18.11.2022
+ COM(2022) 720 final
+ 2022/0379(COD)
+ Proposal for a
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ laying down measures for a high level of public sector interoperability across the Union (Interoperable Europe Act)
+ {SEC(2022) 720 final} - {SWD(2022) 720 final} - {SWD(2022) 721 final} - {SWD(2022) 722 final}
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ This explanatory memorandum accompanies the proposal for a Regulation laying down measures for a high level of public sector interoperability across the Union (‘the Interoperable Europe Act’). 
+ The digital transformation of public administrations is among the top priorities of the decade, and Member States are investing intensely in the digitisation of their public administration. However, while more and more services provided by the EU public sector become digital, their level of interoperability is still insufficient. 
+ Interoperability allows organisations to interact towards mutually beneficial goals. It involves the sharing of information and knowledge between organisations through the business processes they support, by means of exchanging data between their network and information systems. Interoperability ensures that data can be exchanged seamlessly. 
+ In times when processes are automated and digital technologies become part of public administrations, it is crucial that public administrations remain capable of communicating with each other. Interoperability is an important element to reach such a goal. This cannot be ensured solely by technical means. It needs agreements and established processes between different organisations, aligned data descriptions, laws that allow for those data exchanges and structured long-term cooperation. A high level of interoperability of public sector digital services is essential for the digital single market. 
+ The COVID-19 pandemic experience has shown that interoperable solutions help to ensure that Union citizens can exercise their right to free movement laid down in the Treaties. Public sector interoperability also has an important impact on the right to free movement of goods and services laid down in the Treaties, as burdensome administrative procedures can create significant obstacles, especially for small and medium-sized enterprises (‘SMEs’). 
+ Interoperability is also a crucial factor in the mitigation of the increasing cybersecurity risks faced by the Union and the Member States. Today the public administrations are regular targets of cyberattacks. 
+ Interoperability is therefore not only a technical issue but requires action in several fields. These include: 
+ • ensuring that the legal frameworks under which different organisations operate do not obstruct the delivery of seamless public services between and within Member States (legal interoperability); 
+ • effective coordination between different public sector bodies at all levels of government in providing public services (organisational interoperability); and 
+ • ensuring that the format and meaning of exchanged data and information is preserved and understood in any exchanges between parties (semantic interoperability). 
+ Optimal public sector interoperability presupposes a high level of interoperability that enables more efficient and secure exchange of data to provide seamless public services. A low level of interoperability leads to citizens and businesses facing unnecessary administrative burden and increased costs for public administrations. Strengthening public sector interoperability provides significant opportunities for innovation, better planning ahead (e.g. in crisis situations) and improved technological sovereignty of the EU. The ideal degree of interoperability should set a clear and stable environment for the development of diverse interoperable solutions. 
+ Regulating cross-border interoperability is a fundamental prerequisite for further developing and completing all the existing facets of the Digital Single Market . 
+ The specific objectives of this initiative are: 
+ 1. to ensure a consistent, human-centric EU approach to interoperability from policymaking to policy implementation; 
+ 2. to establish an interoperability governance structure designed to enable public administrations from all levels and sectors, as well as private stakeholders, to work together – with a clear mandate to agree on shared interoperability solutions (e.g. frameworks, open specifications, open standards, applications, or guidelines); 
+ 3. to co-create an ecosystem of interoperability solutions for the EU’s public sector, so that public administrations at all levels in the EU and other stakeholders can contribute to and re-use such solutions, innovate together and create public value. 
+ Member States themselves have asked for a coherent, synergetic, needs-driven and cooperative approach to the topic of policy implementation with a view to the growing regulatory environment in the field. Examples include the Single Digital Gateway (established by Regulation (EU) 2018/1724 of the European Parliament and of the Council 
+ 1 
+ , installing the once-only-technical system through which Member States will exchange important evidences in the future); and the evolving legal framework around Digital Identity 
+ 2 
+ , which sets-up a framework for the purposes of the interoperability of national electronic identification schemes or the upcoming data spaces 
+ 3 
+ . The once-only-technical system is the first cross-sector data space between public services based on a full set of specific interoperability rules. 
+ As interoperability in the EU public sector is about various entities cooperating to pursue a unified objective, a common approach to interoperability can only be implemented within a dynamic yet homogenous framework, in absolute respect of subsidiarity, and through a consolidated multi-level governance. 
+ The experience of Member States has shown that, when a legal basis for interoperability frameworks is provided, those frameworks evolve into a consistent and coherent point of reference that places interoperability at the forefront of policy considerations. For example, the Proposal for a European Interoperability Framework for Smart Cities and Communities (EIF4SCC 
+ 4 
+ ) seeks to provide guidance on a local and regional approach to interoperability, complementing the overall one of the European Interoperability Framework (EIF). 
+ The proposal includes a clear governance model supported by Member States and EU institutions, while providing opportunities for stakeholders to express their viewpoints and concerns through seamless processes that ultimately contribute to common interoperability solutions. An effective interoperability policy would bring together key initiatives within an innovative collaborative architecture and would be open, secure, and inclusive, and support the implementation of the outcomes. 
+ This proposal provides for the development of a European Interoperability Framework. The EIF stresses the importance of considering all different levels of interoperability – technical, semantic, organisational and legal – as well as taking an integrated governance approach. The EIF was first formulated in 2004. Its latest version was published as Annex 2 to the Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions – European Interoperability Framework – Implementation Strategy COM/2017/0134 final. The implementation of the EIF on Member State level is monitored by the National Interoperability Framework Observatory. 
+ In addition, this proposal creates the premises to develop the necessary knowledge around interoperability and the respective solutions, especially among non-IT experts. Communication and cooperation are essential elements for interoperability. Therefore, it is important to have a one-stop-shop to support trusted exchange of information – the Interoperable Europe portal. 
+ Regulating cross-border interoperability in the public sector should focus on safeguarding the public interest in user-centric and open solutions. Open source supports the implementation of interoperability solutions. Open source enables users to actively assess and inspect the interoperability and security of the solutions, users are thus autonomous and independent in managing its own infrastructures without external constraints. Furthermore, it mitigates cybersecurity risks and lock-in effects that can be addressed by using a coordinated approach between Member States. It also ensures the best return on investment for public money, making it possible to build on and improve existing solutions instead of starting from scratch. Deploying open source strategies has positive spillover effects on the efficiency of innovation and on the Union 
+ 5 
+ . Open source and open standards together are enablers of interoperability. In this context, the question of appropriate licences is of particular importance. The current version of the European Union Public Licence (EUPL), a standard open source licence (version 1.2), was adopted by Commission Implementing Decision (EU) 2017/863. 
+ • Consistency with existing policy provisions in the policy area 
+ The policy area of public sector interoperability is not currently covered by binding overarching EU policy provisions. However, the non-binding European Interoperability Framework has been part of EU interoperability policy since 2010. Its latest version was adopted by the Commission in a Communication in 2017 
+ 6 
+ . Implementation of the framework was and continues to be supported by a series of funding instruments, like the ISA2 programme and, today, the Digital Europe Programme 
+ 7 
+ . The need for stronger action in the field was recognised and concrete action was announced in several Commission communications, among them the Communication ‘Shaping Europe’s Digital Future’ 
+ 8 
+ , ‘A European Strategy for Data’ 
+ 9 
+ , ‘Identifying and addressing barriers to the Single Market’ 
+ 10 
+ and ‘Digitalisation of justice in the European Union A toolbox of opportunities’ 
+ 11 
+ . This proposal also implements the political mandate provided by the European Council that called for an empowering interoperability framework 
+ 12 
+ . This initiative was included in the Commission work programme for 2022 (REFIT annex) 
+ 13 
+ . To ensure consistency with the approach taken in the past, this proposal builds on the evaluations of the non-binding policy framework the EIF 
+ 14 
+ and the ISA2 programme 
+ 15 
+ . 
+ In addition, there are fast-moving developments in the broader policy area of digital public services. Examples include the Single Digital Gateway Regulation 
+ 16 
+ , the Open data Directive 
+ 17 
+ and the Data Governance Act 
+ 18 
+ while new legislative proposals are being discussed by the Union legislator, e.g. a Regulation for a European Digital Identity 
+ 19 
+ and the Data Act 
+ 20 
+ . As these initiatives already touch on different aspects of the digital economy and interoperability, the proposed Interoperable Europe Act aims to facilitate the interoperable implementation of certain parts of those policies, which are relevant from the aspect of public services, by setting up an ongoing structured cooperation around public sector cross-border interoperability. 
+ Although some of these policy initiatives do have provisions that are relevant for providing public services (e.g. the rules on re-use of protected publicly held data set out in the Data Governance Act), they do not set up a comprehensive framework for the interoperability of network and information systems which are used to provide or manage public services in the Union. The Member States and EU institutions, agencies and bodies, as providers of network and information systems for public services, will agree on interoperability solutions via a dedicated governance body (the ‘Interoperable Europe Board’). This agreed consensus can speed up and support implementation, especially of other digital policies – ensuring interoperability between the various implementation measures. Furthermore, an ‘Interoperable Europe Community’ will ensure the coordination and cooperation between relevant stakeholders in the field of cross-border and cross-sector interoperability. The ‘Interoperable Europe Portal’ will provide a single point of entry for information related to interoperability of relevant network and information systems, and the ‘Interoperable Europe Agenda’ will lay down a strategic EU-wide agenda of suggestions for further improvements, including coordinated support measures. 
+ • Consistency with other Union policies 
+ It is necessary to establish a link between all specifications for public sector network and information systems that are mandatory to use due to Union legal provisions. It is not always easy for implementing authorities to find the requirements in the most recent and machine-readable format. A single point of entry and clear rules on the metadata of such information should help public sector bodies to have their digital service infrastructures comply with the existing and future rules. This is another important factor on how the proposal will help to integrate policies across different EU sectors and foster their coherent implementation. 
+ In fact, due to the crosscutting nature of interoperability, this proposal also aims to facilitate the digital implementation of sectoral policies. The proposal is designed to avoid binding interoperability requirements conflicting with sectoral policies that set requirements for network and information systems for public services, or vice versa. Instead, the interoperability assessment aims to foster the take-up of interoperable solutions in future policy developments, and to improve consistency with the proposed policy and with other policies, specifically their general digital implementation. 
+ Interoperability of network and information systems which are used to provide or manage public services is also important to reach the public sector related targets set out in the Commission Communication ‘2030 Digital Compass: the European way for the Digital Decade’ 
+ 21 
+ . While public services delivered 100% online could potentially also be achieved with non-interoperable solutions, the use of interoperable solutions will help public administrations to achieve the target more effectively and efficiently. The same is true for the sectorial targets, for example in the domain of health. The data collected under this Regulation can also contribute to relevant monitoring. 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ The legal basis for this proposal is Article 172 of the Treaty on the Functioning of the European Union (TFEU). 
+ In accordance with Article 170 TFEU, to help achieve the objectives referred to in Articles 26 and 174 TFEU, and to enable people in the EU, economic operators and regional and local communities to derive the full benefits of the setting-up of an area without internal borders, the EU should help to create and develop trans-European networks, notably in the area of telecommunications. Within the framework of a system of open and competitive markets, action by the European Union will aim to support and encourage the interconnection and cross-border interoperability of national networks and improve access to such networks. 
+ Pursuant to Article 171(1) TFEU, the Union shall establish guidelines, identify projects of common interest, and implement any measures necessary to ensure the interoperability of the trans-European networks. Pursuant to Article 171(2) ‘Member States shall, in liaison with the Commission, coordinate among themselves the policies pursued at national level which may have a significant impact’ on the objective of the establishment of trans-European networks, and the Commission ‘may, in close cooperation with the Member States, take any useful initiative to promote such coordination’. 
+ This proposal intends to develop a coherent, human-centric approach to cross-border interoperability of network and information systems which are used to provide or manage public services from policymaking to policy implementation, accompanied by a clear governance to streamline shared interoperability frameworks, solutions, guidelines and specifications in the context of provision of digital public services across EU borders. 
+ EU action to improve public sector interoperability – by setting up a governance structure to steer the development of cross-border interoperability of network and information systems used to provide or manage public services in the EU public sector – would help to further integrate the single market, as it removes obstacles to the circulation of information within the EU and fosters economic, social and territorial cohesion. TFEU gives the EU the competence to lay down appropriate provisions to establish and develop trans-European networks in the areas of telecommunications infrastructures (Article 170 TFEU) for this purpose. 
+ Since 1994, the EU has used this legal base and its predecessor to create funding programmes to support the development and dissemination of interoperability solutions for public administrations and businesses and setting up cross-border digital services infrastructures 
+ 22 
+ . It has been confirmed by the Court of Justice of the European Union that the EU measures contributing to the ‘telematic interchange of data between administrations in the Community (IDA)’ fell within the ambit of the trans-European networks for telecommunication under Article 129 of the EC Treaty 
+ 23 
+ . 
+ Article 172 is therefore the appropriate legal basis for the EU action to promote cross-border interoperability of network and information systems. 
+ In order to help set up and develop the trans-European networks in relation to the digital public services provided by public sector bodies, a new system of coordination at EU level with clear roles and mandates has to be created. 
+ • Subsidiarity (for non-exclusive competence) 
+ According to the principle of subsidiarity laid down in Article 5(3) of the TEU, action at EU level should be taken only when the aims envisaged cannot be achieved sufficiently by Member States alone and can therefore, by reason of the scale or effects of the proposed action, be better achieved by the EU. Furthermore, there is a need to match the nature and intensity of a given measure to the problem identified. 
+ Measures supporting cross-border public sector interoperability across the EU cannot be achieved by a Member State acting alone and require coordination at EU level. The development of EU-wide structured cooperation to support public sector interoperability is by its nature a task to be undertaken at EU level. 
+ • Proportionality 
+ In accordance with the principle of proportionality set out in Article 5(4) of the Treaty on European Union, the measures in this proposal do not go beyond what is necessary in order to achieve the objectives of the Treaties (developing and completing the Digital Single Market). The proposal addresses the existing barriers to interoperable public services in the EU. It sets out a legal framework for sharing and reusing open recommended interoperability solutions and government technology (‘GovTech’) in general to better support the interconnection of the relevant infrastructures. The proposal also sets out a framework for cooperation which enables the relevant public entities and the different sectors to coordinate their actions at EU level. It builds on existing solutions that were developed and partly implemented in different public entities and sectors in recent years, such as the EIF. 
+ In the shorter term, this proposal will lead to costs to be borne by the Commission in setting up the mechanism for structured cooperation among administrations in the EU and the Member States. In the longer term, the Commission will incur costs for facilitating interoperability governance and developing guidance and common solutions. Member States will incur costs as well, related to developing and implementing common interoperability solutions, based on the guidance and tools facilitated by cooperation mechanism. These costs would be offset over the longer term by the benefits generated through the improved cooperation and the development, implementation and reuse of common interoperability measures for public services, thus reducing duplication of effort and unnecessary burdens. 
+ In order to minimise the burden around regulatory reporting, the monitoring will build as much as possible on existing data reporting channels and infrastructure, and on automated data retrieval. 
+ As to businesses and members of the public, the proposal is likely to lead to a reduction in the costs of interacting with public administrations as well as in the costs of doing business in the EU. 
+ • Choice of the instrument 
+ A Regulation is considered to be the most appropriate legal instrument to set out a framework for public sector cross-border interoperability in the EU. The direct applicability of a Regulation in accordance with Article 288 TFEU will provide greater legal certainty by introducing a harmonised set of core rules, contributing to the functioning of the Single Market. The Regulation will also create a structured cooperation mechanism. 
+ 3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Ex-post evaluations/fitness checks of existing legislation 
+ The impact assessment accompanying this proposal draws on – among others – the evaluation of the European Interoperability Framework (EIF) 
+ 24 
+ , conducted back-to-back and published with this proposal. The evaluation’s key finding is that cross-border interoperability can be achieved more efficiently and effectively with EU measures than with national or sub-national action alone. Some EIF recommendations are already conceptually implemented in Member States. The costs of drawing up national interoperability frameworks aligned with the EIF were expected to be relatively low. However, the current EIF does not sufficiently support the practical implementation of interoperable European digital public services. A new mechanism is needed to make it more actionable. The impact assessment particularly highlights the need for: (i) improved governance of interoperability in the EU; (ii) more common, potentially binding rules; and (iii) more alignment of, in particular, EU policies and EU funding programmes with the EIF. 
+ • Stakeholder consultations 
+ The consultation process and its main conclusions on which this proposal is based, are summarised in Annex 2 of the impact assessment accompanying the proposal for an Interoperable Europe Act. Consultation activities included an open public and targeted online consultation, workshops with various categories of relevant stakeholders, and expert groups set up by the Commission. 
+ Respondents considered the precise objectives outlined in the impact assessment to be meaningful for the most part, specifying that many of these objectives are interconnected and cannot be accomplished individually. 
+ Stakeholders identified several additional goals, such as: (i) developing and promoting particular standards and guidelines that could steer public administrations towards interoperability-by-design; (ii) moving towards proactive and self-sovereign services; (iii) increasing transparency by applying the ‘once-only’ principle; (iv) a framework that centralises users’ information; and (v) highlighting the value of interoperability for civil rights, digital involvement for all, diversity and democratising public knowledge. 
+ The majority of stakeholders explicitly mentioned the need for agreed and open standards and specifications. Some of them additionally emphasised the need for more coordinated involvement of the public sector in standardisation organisations. Most stakeholders had similar views on incentivising the sharing of design costs around user-friendly, trusted and secure solutions (including between public and private stakeholders) and on fostering an EU-wide sharing and reuse of mature, reusable, open source interoperable solutions for public administrations. They also mentioned that such solutions should be accompanied by clear guidance on the use of open standards and open source (including clear definitions), and that it is necessary to cover technical assistance at all levels (including relevant training resources). 
+ In addition, stakeholders called for interoperability policy to be made more practical and consistent with other EU policies by bringing forward the idea of reference implementations. These implementations accompany policy proposals with non-binding ‘gold standards’ on how interoperable implementation across administrative level could work and show how the proposals can be implemented. 
+ • Collection and use of expertise 
+ The proposal was co-designed with the Expert Group on interoperability of European public services. As part of this process the Expert Group issued policy recommendations for the next European interoperability policy in October 2021 
+ 25 
+ . 
+ Several studies were carried out to support the work on the initiative. These included the: 
+ • Study supporting the evaluation of the implementation of the EIF 
+ 26 
+ ; 
+ • Study supporting the final evaluation of the programme on interoperability solutions for European public administrations, businesses and citizens (ISA 2 ) 
+ 27 
+ ; 
+ • JRC Technical Report – Quantifying the Benefits of Location Interoperability in the European Union 
+ 28 
+ . 
+ • Impact assessment 
+ The Impact Assessment accompanying this proposal was examined by the Regulatory Scrutiny Board on 19 January 2022. The Board gave a positive opinion with reservations. The comments were addressed by the Commission in the final version of the Impact Assessment (details are provided in its Annex 1). 
+ The impact assessment compares three options, in addition to the baseline of not acting. 
+ Option 1 seeks gradual continuous development of the EIF. 
+ Option 2 maintains the current voluntary framework. It proposes legislative action that concentrates on constructing a structural cooperation mechanism with a flexible mandate to ensure continuous development and maintenance of agreed common interoperability solutions, as well as to determine common experimentation and focused policy support initiatives. 
+ Similar to option 2, option 3 proposes legislative action, but the action proposed is more far-reaching. It focuses on enshrining directly applicable European interoperability minimum requirements in law, which would be revised by implementing decisions. 
+ According to the assessment of expected impacts, option 1 and the baseline will not effectively address the shortcomings revealed by the EIF evaluation. Due to insufficient cooperation incentives, both will not fulfil the political and operational expectations of the stakeholders, especially the Member States. Option 3 is equally less likely to garner political support, due to its broad scope and high level of sensitivity to subsidiarity (e.g., as regards EU and Member States legacy systems). Although enshrining directly applicable minimum interoperability requirements into EU law is expected to be efficient, it will be a lengthy procedure, and will require significant implementation costs and efforts. Therefore, it is presumed to be less impactful in guaranteeing a flexible and responsive reaction to rapidly changing technological and policy requirements. 
+ The impact assessment identified option 2 as the preferred scenario. The decision to create a structured cooperation mechanism is expected to provide Member States the stability and (legal) predictability they need, while also allowing for the required flexibility to continue developing shared interoperability solutions in response to changing policy needs. Option 2 also focuses on developing participatory processes. These processes are more relevant to accelerated technological progress. They are also less intrusive with regard to the impact on legacy systems, as they do not directly specify (minimum) compatibility requirements in law (as option 3 would). To date, option 3 is less likely to gain political support, due to its broad scope and high level of sensitivity to subsidiarity (notably as regards EU and Member States legacy systems). Therefore, option 2 is presumed to be less impactful in guaranteeing a flexible and responsive reaction to rapidly changing technological and policy requirements. Option 2 can also gradually lead to option 3 over time. 
+ A unified EU cross-border interoperability governance is envisaged to foster bottom-up collaboration and top-down ownership among key stakeholders in Member States, resulting in a shared interoperability ecosystem. This facilitates early-stage engagement in policy design and identification of (co-)investment needs and improves policy implementation. For these reasons, option 2 is not a threat but an enabler for subsidiarity, reinforcing resilience of public administrations and digital sovereignty. 
+ Finally, the measures proposed in option 2 are likely to have limited but positive impacts on the achievement of EU climate and energy goals. Greater cross-border interoperability could save the burden by, for example, facilitating carbon emissions reporting, reducing paper usage, and limiting physical travel required from users of public services when completing administrative procedures. 
+ • Regulatory fitness and simplification 
+ The policy measures proposed under the preferred option address the objectives of simplification and a reduced administrative burden, in line with the Commission’s regulatory fitness and performance programme (REFIT) 
+ 29 
+ . Its potential for reducing the administrative burden in the policy field has been recognised by the Fit for Future Platform, which has included it in its annual work programme for 2022 
+ 30 
+ . 
+ The purpose of this initiative is to reduce administrative burden not only in the policy field but also across sectors and administrative levels. Through enhanced interoperability, it aims to reduce administrative and compliance costs for public administrations. Members of the public will benefit from the reduced administrative burden, and they will be able to fully rely on digital public services and the facility to securely exchange data with the same legal value cross border. Businesses – especially small and medium-sized enterprises (SMEs) – will also benefit from savings in compliance costs. 
+ • Fundamental rights 
+ This proposal respects fundamental rights and observes the principles recognised in particular by the Charter of the Fundamental Rights of the European Union (CFR) 
+ 31 
+ . 
+ The proposal is particularly relevant for the right to good administration, as defined in Article 41 CFR. This article declares that good administration is a fundamental right by proclaiming that every individual has the right to have their affairs managed in a certain way by the EU’s institutions and bodies or by Member States that apply EU law. The right to good administration emphasises the importance of transparency in an increasingly digital age. Initiatives to support the digitalisation of public services can be regarded as facilitators of the right to good administration, as they have the ability to facilitate essential considerations of good administration, such as neutrality, impartiality, and a predictive capacity to resolve various matters 
+ 32 
+ . No further action on the EIF and related principles could entail negative consequences, such as for Article 8 CFR, the right to protection of personal data, or as for Article 22, CFR, the right to linguistic diversity. Where personal data are processed in regulatory sandboxes, the proposal includes appropriate data protection safeguards to ensure the rights of data subjects are protected. 
+ In terms of the right to freely move within the EU, research on SMEs demonstrates that non-interoperable administrative procedures undermine European SMEs’ ability to do business in other EU countries, as well as to function flexibly and unreservedly in the Single Market 
+ 33 
+ . 
+ 4. BUDGETARY IMPLICATIONS 
+ This proposal sets out a number of obligations for the Commission, in particular, to create the mechanism for structured cooperation among administrations in the EU and the Member States, to support this interoperability governance and to develop guidance and common solutions. In its 2021 and 2022 work programmes, the Digital Europe programme has already been supporting the related Commission activities with an initial contribution of almost EUR 50 million. 
+ The Regulation establishes an instrument for the coordination of public investments in interoperability solutions: the Interoperable Europe Agenda. It should deliver a comprehensive overview of funding possibilities and funding commitments in the field, integrating where appropriate the related Union programmes, such as the Digital Europe programme, the European Regional Development Fund, the Recovery and resilience facilities, the Technical Support Instrument, the Horizon Europe programme and other programmes. 
+ Fulfilling the Commission’s obligations set out in this legal proposal will require around EUR 130 million between 2023 and 2027 and will be funded directly from the Digital Europe programme. The contributions from the Digital Europe programme as of 2023 are subject to the availability of the appropriations provided for in the draft general budget of the Union, following the adoption of that budget by the budgetary authority, and will be considered in the context of the preparation of the respective work programmes. Ultimate allocations will be subject to the prioritisation for funding in the context of the underpinning adoption procedure and agreement of the respective Programme Committee. The Commission’s administrative costs are estimated at approximately EUR 2.822 million, including costs for human resources and other administrative expenditure. 
+ The legislative financial statement attached to this proposal sets out the budgetary, human and administrative resource implications. 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ Once adopted, the impacts of the Regulation will be monitored and evaluated in accordance with the Better Regulation Guidelines. The indicators will build as much as possible on existing monitoring data and prefer automated data retrieval over questionnaires. Monitoring data and evaluation reports will be publicly available and will provide details on the effective application and enforcement of this Regulation. 
+ As many stakeholders suggested to introduce even stronger measures, the question of further strengthening the policy will be addressed in future evaluations. 
+ • Detailed explanation of the specific provisions of the proposal 
+ Chapter 1 (General provisions) lays out the subject matter of the Regulation, namely to establish a European network for cross-border interoperability of network and information systems which are used to provide or manage public services in the Union and to support interlinkages between existing national public services. It also sets out the definitions used across the various instruments. To foster a coherent EU approach to cross-border interoperability and to support the three main pillars of the proposal (interoperability solutions, policy implementation support projects and governance framework) the Chapter sets out two general obligations for public sector bodies: to perform interoperability assessments and to support the sharing of interoperability solutions within the public sector. (Articles 1-4) 
+ Chapter 2 (Interoperability solutions) regulates the establishment of interoperability solutions by reference to: (1) The European Interoperability Framework (EIF) and its specialised interoperability frameworks, (2) Interoperable Europe specifications and applications that are recommended by the Interoperable Europe Board. Their use across sectors and administrative levels, while not being mandatory, is promoted through the mechanisms set out in Chapter 1 and Chapter 3. (Articles 5-8) 
+ Chapter 3 (Support measures) sets out measures designed to support public sector bodies in the implementation of the Regulation. The rules governing policy implementation support set out a process on how EU-wide policy projects carried out under the Regulation can support interoperable and digital EU policy implementation across the EU public sector. This chapter also sets out innovation measures to promote the development and uptake of innovative interoperability solutions in cross-border contexts. To support testing environments for innovative interoperability solutions, the Commission can authorise the set-up of regulatory sandboxes. The sandboxes should not only contribute to new technological solutions but also to regulatory learning. A peer-review system and provisions on training enhance two further important interoperability enablers: skills and knowledge exchange. (Articles 9-14) 
+ Chapter 4 (Governance) sets out a multi-level governance framework. In the ‘Interoperable Europe Board’, Member States and representatives from the Commission, the Committee of the Regions and the European Economic and Social Committee set the strategic goals and agree on concrete measures that can ensure the cross-border interoperability of their network and information system providing or managing digital public services. The Board is supported by a community (the ‘Interoperable Europe Community’) that will enable the involvement of a broader set of stakeholders and that is involved in the operational tasks linked to the implementation of the Regulation. (Articles 15-18) 
+ Chapter 5 (Planning, monitoring and evaluation) sets out an integrated planning mechanism (the ‘Interoperable Europe Agenda’). While the Regulation does not envisage a funding mechanism, it establishes a new dimension of planning across different EU funding programmes and relevant national initiatives to increase synergies of digitalisation measures in the public sector. The Chapter further sets out the rules on monitoring and evaluation. (Article 19-20) 
+ Chapter 6 (Final provisions) sets out the costs connected to this proposal and the date of its entry into force. (Articles 21-22) 
+ 2022/0379 (COD) 
+ Proposal for a 
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ laying down measures for a high level of public sector interoperability across the Union (Interoperable Europe Act) 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 172 thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Economic and Social Committee 
+ 34 
+ , 
+ Having regard to the opinion of the Committee of the Regions 
+ 35 
+ , 
+ Acting in accordance with the ordinary legislative procedure, 
+ Whereas: 
+ (1) It is necessary to strengthen the development of cross-border interoperability of network and information systems which are used to provide or manage public services in the Union, to allow public administrations in the Union to cooperate and make public services function across borders. The existing informal cooperation should be replaced with a clear legal framework to enable interoperability across different administrative levels and sectors and to ensure seamless cross-border data flows for truly European digital services. Public sector interoperability has an important impact on the right to free movement of goods and services laid down in the Treaties, as burdensome administrative procedures can create significant obstacles, especially for small and medium-sized enterprises (‘SMEs’). 
+ (2) Member States and the Union have been working for more than two decades to support the modernisation of administrations through digital transformation and foster the deep interconnections needed for a truly European digital space. The communication from the Commission ‘2030 Digital Compass: the European way for the Digital Decade’ (COM(2021) 118) underlines the need to speed up the digitalisation of public services by 2030, including by ensuring interoperability across all levels of government and across public services. Furthermore, the COVID-19 pandemic increased the speed of digitalisation, pushing public administrations to adapt to the online paradigm, including for cross-border digital public services, as well as for the smarter and greener use of technologies in accordance with the climate and energy targets set in the European Green Deal and the Regulation (EU) 2021/1119 of the European Parliament and of the Council 
+ 36 
+ . This Regulation aims to significantly contribute to these Union goals by creating a structured cooperation framework on cross-border interoperability amongst Member States and the Commission to support the setup of digital public services. 
+ (3) The new governance structure should have a legal mandate to drive the further development of the European Interoperability Framework and other common interoperability solutions, such as specifications and applications. Furthermore, this Regulation should establish a clear and easily recognisable label for some interoperability solutions. The creation of a vibrant community around open government technology solutions should be fostered. 
+ (4) It is in the interest of a coherent approach to public sector interoperability throughout the Union, of supporting the principle of good administration and the free movement of personal and non-personal data within the Union, to align the rules as far as possible for all public sectors that are controllers or providers of network and information systems used to facilitate or manage public services. This objective includes the Commission and other institutions, bodies and agencies of the Union, as well as public sector bodies in the Member States across all levels of administration: national, regional and local. Agencies are playing an important role in collecting regulatory reporting data from Member States. Therefore, the interoperability of this data - should also be in scope of this Regulation. 
+ (5) Cross-border interoperability is not solely enabled via centralised Member State digital infrastructures, but also through a decentralised approach. This entails data exchange between local administrations in different Member States without necessarily going through national nodes. Therefore, it is necessary to develop common solutions across all administrative levels, particularly for specifications and applications. Needs for cross-border digital interactions are increasing, which requires solutions that can fulfil these needs. With this Regulation, the intention is to facilitate and encourage the exchange between all levels of administration. 
+ (6) Interoperability facilitates successful implementation of policies, in particular those with a strong public sector connection, such as justice and home affairs, taxation and customs, transport, health, agriculture, as well as in business and industry regulation. However, a single sector interoperability perspective is associated with the risk that the adoption of different or incompatible solutions at national or sectoral levels will give rise to new electronic barriers that impede the proper functioning of the internal market and the associated freedoms of movement. Furthermore, it risks undermining the openness and competitiveness of markets and the delivery of services of general interest to businesses and citizens. Therefore, this Regulation should also facilitate, encourage and apply to cross-sector interoperability. 
+ (7) In order to eliminate fragmentation in the interoperability landscape in the Union, a common understanding of interoperability in the Union and a holistic approach to interoperability solutions should be promoted. A structured cooperation should support measures promoting digital-ready and interoperable by default policy set-up. Furthermore, it should promote the efficient management and use of digital service infrastructures and their respective components by public sector bodies and institutions, bodies and agencies of the Union that permit the establishment and operation of sustainable and efficient cross-border public services. 
+ (8) To set up cross-border interoperable public services, it is important to focus on the interoperability aspect as early as possible in the policymaking process. Therefore, the public organisation that intends to set up a new or to modify an existing network and information system that is likely result in high impacts on the cross-border interoperability, should carry out an interoperability assessment. This assessment is necessary to understand the magnitude of impact of the planned action and to propose measures to reap up the benefits and address potential costs. The interoperability assessment should be mandatory in three cases, which are in scope for cross-border interoperability. In other situations, the public organisations may decide to carry out the interoperability assessment on a voluntary basis. 
+ (9) Under some circumstances it may also be reasonable and economical for the subject of an interoperability assessment to be broader than a single project, for example when public sector bodies intend to establish a common application or processing platform. In those other cases, the assessment should be strongly encouraged to go beyond the achievement of the Interoperable Europe objectives towards a full implementation of interoperability. 
+ (10) The interoperability assessment should evaluate the impacts of the planned action on cross-border interoperability of network and information system, for example, having regard to the origin, nature, particularity and scale of those impacts. The outcome of that assessment should be taken into account when determining the appropriate measures that need to be taken in order to set up or modify the network and information system. 
+ (11) The organisation should publish the outcome of the interoperability assessment on its website. The publication of the outcome should not compromise intellectual property rights or trade secrets, and should be restricted where justified on the grounds of public order or security. The provisions of Union law governing the protection of personal data should be observed. 
+ (12) Public sector bodies or institutions, bodies or agencies of the Union that search for interoperability solutions should be able to request from other public sector bodies or institutions, bodies or agencies of the Union the software code those organisations use, together with the related documentation. Sharing should become a default among public sector bodies, and institutions, bodies and agencies of the Union while not sharing would need a legal justification. In addition, public sector bodies or institutions, bodies, or agencies of the Union should seek to develop new interoperability solutions or to further develop existing interoperability solutions. 
+ (13) When public administrations decide to share their solutions with other public administrations or the public, they are acting in the public interest. This is even more relevant for innovative technologies: for instance, open code makes algorithms transparent and allows for independent audits and reproducible building blocks. The sharing of interoperability solutions among public administration should set the conditions for the achievement of an open ecosystem of digital technologies for the public sector that can produce multiple benefits. 
+ (14) When monitoring the coherence of the interoperability solutions and proposing measures to ensure their compatibility with existing solutions that share a common purpose, the Interoperable Europe Board should take into account the obsolescence of solutions. 
+ (15) The European Interoperability Framework (EIF) should ensure coherence and be recognised as the single point of reference for the Union’s approach to interoperability in the public service sector. In addition, specialised interoperability frameworks can address the needs of specific sectors, domains or administrative levels. Those frameworks should further promote the implementation of interoperability solutions. 
+ (16) The EIF should be developed by the Interoperability Europe Board, composed, among others, by one representative of each Member State. The Member States, with the other members of the Interoperable Europe Board, are thus at the centre of the development and implementation of the EIF. The Interoperable Europe Board should update the EIF when necessary. 
+ (17) The specialised interoperability frameworks issued to complement the EIF should take into account and not prejudice the existing sector-specific frameworks developed at the Union level (for example in the health sector). 
+ (18) Interoperability is directly connected with, and dependent on the use of open specifications and standards. Therefore, the Union public sector should be allowed to agree on cross-cutting open specifications and other solutions to promote interoperability. The new framework should provide for a clear process on the establishment and promotion of such agreed interoperability solutions in the future. This way, the public sector will have a more coordinated voice to channel public sector needs and public values into broader discussions. 
+ (19) Many interoperability specifications used by the public sector could be derived from existing Union legislation. Therefore, it is necessary to establish a link between all specifications for public sector network and information systems that are mandatory to use due to Union legal provisions. It is not always easy for implementing authorities to find the requirements in the most recent and machine-readable format. A single point of entry and clear rules on the metadata of such information should help public sector bodies to have their digital service infrastructures comply with the existing and future rules. 
+ (20) An Interoperable Europe portal should be established as a point of reference for interoperability solutions, knowledge and community. The portal should be established as a link to official sources but should also be open to input from the Interoperable Europe Community. 
+ (21) The Interoperable Europe portal should make publicly available solutions that follow the EIF principles of openness, technical neutrality and security. As open source enables users to actively assess and inspect the interoperability and security of the solutions, it is important that open source supports the implementation of interoperability solutions. In this context, the use of open source licences should be promoted to enhance legal clarity and mutual recognition of licences in the Member States. 
+ (22) At the moment, the Union’s public services delivered or managed electronically depend in many cases on non-Union providers. It is in the Union’s strategic interest to ensure that it retains and develops essential technological capacities to secure its Digital Single Market, and in particular to ensure service delivery, protect critical network and information systems, and to provide key services. The Interoperable Europe support measures should help public administrations to evolve and be capable of incorporating new challenges and new areas in cross-border contexts. Interoperability is a condition for avoiding technological lock-in, enabling technical developments, and fostering innovation, which should boost the global competitiveness of the Union. 
+ (23) It is necessary to establish a governance mechanism to facilitate the implementation of Union policies in a way that ensures interoperability. This mechanism should focus on the interoperable digital implementation of policies once they have been adopted in the form of legal acts and should serve to develop interoperability solutions on a needs-driven basis. The mechanism should support public sector bodies. Projects to support public sector bodies should be proposed by the Interoperable Europe Board to the Commission who should decide whether to set up the projects. 
+ (24) All levels of government should cooperate with innovative organisations, be it companies or non-profit entities, in design, development and operation of public services. Supporting GovTech cooperation between public sector bodies and start-ups and innovative SMEs, or cooperation mainly involving civil society organisations (‘CivicTech’), is an effective means of supporting public sector innovation and promoting use of interoperability tools across private and public sector partners. Supporting an open GovTech ecosystem in the Union that brings together public and private actors across borders and involves different levels of government should allow to develop innovative initiatives aimed at the design and deployment of GovTech interoperability solutions. 
+ (25) Identifying shared innovation needs and priorities and focusing common GovTech and experimentation efforts across borders would help Union public sector bodies to share risks, lessons learnt, and results of innovation support projects. Those activities will tap in particular into the Union’s rich reservoir of technology start-ups and SMEs. Successful GovTech projects and innovation measures piloted by Interoperable Europe innovation measures should help scale up GovTech tools and interoperability solutions for reuse. 
+ (26) Interoperable Europe support measures could benefit from safe spaces for experimentation, while ensuring responsible innovation and integration of appropriate risk mitigation measures and safeguards. To ensure a legal framework that is innovation-friendly, future-proof and resilient to disruption, it should be made possible to run such projects in regulatory sandboxes. Regulatory sandboxes should consist in controlled test environments that facilitate the development and testing of innovative solutions before such systems are integrated in the network and information systems of the public sector. The objectives of the regulatory sandboxes should be to foster interoperability through innovative solutions by establishing a controlled experimentation and testing environment with a view to ensure alignment of the solutions with this Regulation and other relevant Union law and Member States’ legislation, to enhance legal certainty for innovators and the competent authorities and to increase the understanding of the opportunities, emerging risks and the impacts of the new solutions. To ensure a uniform implementation across the Union and economies of scale, it is appropriate to establish common rules for the regulatory sandboxes’ implementation. The European Data Protection Supervisor may impose administrative fine to Union institutions and bodies in the context of regulatory sandboxes, according to Article 58( 2 )(i) of Regulation (EU) 2018/1725 of the European Parliament and of the Council. 
+ (27) It is necessary to provide a legal basis for the use of personal data collected for other purposes in order to develop certain interoperability solutions in the public interest within the regulatory sandbox, in accordance with Article 6(4) of Regulation (EU) 2016/679 of the European Parliament and of the Council, and Article 6 of Regulation (EU) 2018/1725 of the European Parliament and of the Council. The Regulation aims only at establishing a legal basis f or the processing of personal data in the context of the regulatory sandbox as such. Any other processing of personal data falling within the scope of this Regulation would require a separate legal basis. 
+ (28) It is necessary to enhance a good understanding of interoperability issues, especially among public sector employees. Continuous training is key in this respect and cooperation and coordination on the topic should be encouraged. Beyond trainings on Interoperable Europe solutions, all initiatives should, where appropriate, build on, or be accompanied by, the sharing of experience and solutions and the exchange and promotion of best practices. 
+ (29) To create a mechanism facilitating a mutual learning process among public sector bodies and sharing of best practices in implementing Interoperable Europe solutions across the Member States, it is necessary lay down provisions on the peer review process. Peer reviews can lead to valuable insights and recommendations for the public sector body undergoing the review. In particular, they could contribute to facilitating the transfer of technologies, tools, measures and processes among the Member States involved in the peer review. They create a functional path for the sharing of best practices across Member States with different levels of maturity in interoperability. In order to ensure that the peer review process is cost-effective and produces clear and conclusive results, and also to avoid the placement of unnecessary burden, the Commission may adopt guidelines on the best set-up for such peer reviews, based on the needs that occur and after consulting the Interoperable Europe Board. 
+ (30) To develop the general direction of the Interoperable Europe structured cooperation in promoting the digital interconnection and interoperability of public services in the Union and to oversee the strategic and implementation activities related to that cooperation, an Interoperable Europe Board should be established. The Interoperable Europe Board should carry out its tasks taking into consideration cross-border interoperability rules and solutions already implemented for existing network and information systems. 
+ (31) Certain Union bodies such as the European Data Innovation Board and the European Health Data Space Board have been created and tasked to, among others, enhance interoperability at specific domain or policy level. However, none of the existing bodies is tasked to address cross-border interoperability of network and information systems which are used to provide or manage public services in the Union. The Interoperable Europe Board created by this Regulation should support the Union bodies working on policies, actions and solutions relevant for cross-border interoperability of network and information systems which are used to provide or manage public services in the Union, for example on semantic interoperability for data spaces portability and reusability. The Interoperable Europe Board should interact with all relevant Union bodies in order to ensure alignment and synergies between cross-border interoperability actions and sector specific ones. 
+ (32) Advancing public sector interoperability needs the active involvement and commitment of experts, practitioners, users and the interested public across Member States, across all levels of government and involving international partners and the private sector. In order to tap into their expertise, skills and creativity, a dedicated open forum (the ‘Interoperable Europe Community’) should help channel feedback, user and operational needs, identify areas for further development and help scope priorities for EU interoperability cooperation. The establishment of the Interoperable Europe Community should support the coordination and cooperation between the strategic and operational key players for interoperability. 
+ (33) The Interoperable Europe Community should be open to all interested parties. Access to the Interoperable Europe Community should be made as easy as possible, avoiding unnecessary barriers and burdens. The Interoperable Europe Community should bring together public and private stakeholders, including citizens, with expertise in the field of cross-border interoperability, coming from different backgrounds, such as academia, research and innovation, education, standardisation and specifications, businesses and public administration at all levels. 
+ (34) To ensure the rules laid down by this Regulation are efficiently implemented, it is necessary to designate national competent authorities responsible for its implementation. In many Member States, some entities have already the role of developing interoperability. Those entities could take over the role of competent authority in accordance with this Regulation. 
+ (35) An Interoperable Europe Agenda should be established as the Union’s main instrument for the coordination of public investments in interoperability solutions. It should deliver a comprehensive overview of funding possibilities and funding commitments in the field, integrating where appropriate the related Union programmes. This should contribute to creating synergies and coordinating financial support related to interoperability development and avoiding duplication. 
+ (36) Information should be collected in order to assess the performance of this Regulation against the objectives it pursues, and in order give feedback for an evaluation of this Regulation in accordance with paragraph 22 of the Interinstitutional Agreement of 13 April 2016 on Better Law-Making 
+ 37 
+ . Therefore, the Commission should carry out a monitoring and evaluation of this Regulation. The evaluation should be based on the five criteria of efficiency, effectiveness, relevance, coherence and EU value added. The evaluation should also be the basis for impact assessments of possible further measures. The monitoring should integrate existing data sources and monitoring processes. 
+ (37) In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should be conferred on the Commission to set out rules and the conditions for the establishment and the operation of the regulatory sandboxes. 
+ (38) Since the objective of this Regulation, namely interoperability within public administrations on a Union-wide scale, cannot be sufficiently achieved by the Member States, but can rather, by reason of its scale and effects, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in the same Article, this Regulation does not go beyond what is necessary in order to achieve the objectives of the Treaties, especially with regards to the strengthening of the Single Market. 
+ (39) The application of this Regulation should be deferred to three months after the date of its entry into force in order to provide Member States and the institutions, bodies and agencies of the Union with sufficient time to prepare for the application of this Regulation. Such time is necessary to establish the Interoperable Europe Board and the Interoperable Europe Community and for the designation of national competent authorities and interoperability coordinators. 
+ (40) The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council 
+ 38 
+ and delivered an opinion on … 
+ HAVE ADOPTED THIS REGULATION: 
+ Chapter 1 
+General provisions 
+ Article 1 
+ Subject matter and scope 
+ 1. This Regulation lays down measures to promote the cross-border interoperability of network and information systems which are used to provide or manage public services in the Union by establishing common rules and a framework for coordination on public sector interoperability, with the aim of fostering the development of interoperable trans-European digital public services infrastructure. 
+ 2. This Regulation applies to public sector bodies of Member States and institutions, bodies and agencies of the Union that provide or manage network or information systems that enable public services to be delivered or managed electronically. 
+ Article 2 
+ Definitions 
+ For the purpose of this Regulation, the following definitions apply: 
+ (1) ‘cross-border interoperability’ means the ability of network and information systems to be used by public sector bodies in different Member States and institutions, bodies, and agencies of the Union in order to interact with each other by sharing data by means of electronic communication; 
+ (2) ‘network and information system’ means a network and information system as defined in Article 4, point (1), of the proposal for a Directive of the European Parliament and of the Council on measures for a high common level of cybersecurity across the Union, repealing Directive (EU) 2016/1148 [proposal NIS 2]; 
+ (3) ‘interoperability solution’ means a technical specification, including a standard, or another solution, including conceptual frameworks, guidelines and applications, describing legal, organisational, semantic or technical requirements to be fulfilled by a network and information system in order to enhance cross-border interoperability; 
+ (4) ‘public sector body’ means a public sector body as defined in Article 2, point (1), of Directive (EU) 2019/1024; 
+ (5) ‘data’ means data as defined in Article 2, point (1), of Regulation (EU) 2022/868 on European data governance and amending Regulation (EU) 2018/1724 (Data Governance Act) 
+ 39 
+ ; 
+ (6) ‘machine-readable format’ means a machine-readable format as defined in Article 2, point (13), of Directive (EU) 2019/1024; 
+ (7) ‘GovTech’ means a technology-based cooperation between public and private sector actors supporting public sector digital transformation; 
+ (8) ‘standard’ means a standard as defined in Article 2, point (1), of Regulation (EU) No 1025/2012 of the European Parliament and of the Council 
+ 40 
+ ; 
+ (9) ‘highest level of management’ means a manager, management or coordination and oversight body at the most senior administrative level, taking account of the high-level governance arrangements in each institution, body or agency of the Union. 
+ Article 3 
+ Interoperability assessment 
+ 1. Where a public sector body or an institution, an agency or body of the Union intends to set up a new or significantly modify an existing network and information system that enables public services to be delivered or managed electronically, it shall carry out an assessment of the impacts of the planned action on cross-border interoperability (‘interoperability assessment’) in the following cases: 
+ (a) where the intended set-up or modification affects one or more network and information systems used for the provision of cross-border services across several sectors or administrations; 
+ (b) where the intended set-up or modification will most likely result in procurements for network and information systems used for the provision of cross-border services above the threshold set out in Article 4 of Directive 2014/24/EU; 
+ (c) where the intended set-up or modification concerns a network and information system used for the provision of cross-border services and funded through Union programmes. 
+ The public sector body or the institution, body or agency of the Union concerned may also carry out the interoperability assessment in other cases. 
+ 2. The interoperability assessment shall be carried out before taking decisions on the legal, organisational, semantic or technical requirements for the new or modified network and information system in a binding manner. A single interoperability assessment may be carried out to address a set of requirements and several network and information systems. 
+ The public sector body or the institution, body or agency of the Union concerned shall publish a report presenting the outcome of the interoperability assessment on its website. 
+ 3. The national competent authorities and the interoperability coordinators shall provide the necessary support to carry out the interoperability assessment. The Commission may provide technical tools to support the assessment. 
+ 4. The interoperability assessment shall contain at least: 
+ (a) a description of the intended operation and its impacts on the cross-border interoperability of one or several network and information systems concerned, including the estimated costs for the adaptation of the network and information systems concerned; 
+ (b) a description of the level of alignment of the network and information systems concerned with the European Interoperability Framework, and with the Interoperable Europe solutions, after the operation and where it has improved compared to the level of alignment before the operation; 
+ (c) a description of the Application Programming Interfaces that enable machine-to-machine interaction with the data considered relevant for cross-border exchange with other network and information systems. 
+ 5. The public sector body, or institution, body or agency of the Union concerned shall consult recipients of the services affected or their representatives on the intended operation if it directly affects the recipients. This consultation is without prejudice to the protection of commercial or public interests or the security of such systems. 
+ 6. The Interoperable Europe Board shall adopt guidelines on the content of the interoperability assessment by ... at the latest [one year after the entry into force of this Regulation], including practical check lists. 
+ Article 4 
+ Share and reuse of interoperability solutions between public sector bodies, institutions, bodies and agencies of the Union 
+ 1. A public sector body or an institution, body or agency of the Union shall make available to any other such entity that requests it, interoperability solutions that support the public services that it delivers or manages electronically. The shared content shall include the technical documentation and, where applicable, the documented source code. This obligation to share shall not apply to any of the following interoperability solutions: 
+ (a) that support processes which fall outside the scope of the public task of the public sector bodies or institutions, bodies, or agencies of the Union concerned as defined by law or by other binding rules, or, in the absence of such rules, as defined in accordance with common administrative practice in the Member State or Union administrations in question, provided that the scope of the public tasks is transparent and subject to review; 
+ (b) for which third parties hold intellectual property rights and do not allow sharing; 
+ (c) access to which is excluded or restricted on grounds of: 
+ (i) sensitive critical infrastructure protection related information as defined in Article 2, point (d) of Council Directive 2008/114/EC 
+ 41 
+ ; 
+ (ii) the protection of defence interests , or public security . 
+ 2. To enable the reusing entity to manage the interoperability solution autonomously, the sharing entity shall specify the guarantees that will be provided to the reusing entity in terms of cooperation, support and maintenance. Before adopting the interoperability solution, the reusing entity shall provide to the sharing entity an assessment of the solution covering its ability to manage autonomously the cybersecurity and the evolution of the reused interoperability solution. 
+ 3. The obligation in paragraph 1 of this Article may be fulfilled by publishing the relevant content on the Interoperable Europe portal or a portal, catalogue or repository connected to the Interoperable Europe portal. In that case, paragraph 2 of this Article shall not apply to the sharing entity. The publication on the Interoperable European portal shall be made by the Commission, at the request of the sharing entity. 
+ 4. A public sector body, an institution, body or agency of the Union or a third party using an interoperability solution may adapt it to its own needs. If the interoperability solution was made public as set out in paragraph 3, the adapted interoperability solution shall be made public in the same way. 
+ 5. The sharing and reusing entities may conclude an agreement on sharing the costs for future developments of the interoperability solution. 
+ Chapter 2 
+Interoperability solutions 
+ Article 5 
+ General principles 
+ 1. The Commission shall publish Interoperable Europe solutions and the European Interoperability Framework on the Interoperable Europe portal , by electronic means, in formats that are open, machine-readable, accessible 
+ 42 
+ , findable and re-usable, if applicable, together with their metadata. 
+ 2. The Interoperable Europe Board shall monitor the overall coherence of the developed or recommended interoperability solutions, and propose measures to ensure, where appropriate, their compatibility with other interoperability solutions that share a common purpose, while supporting, where relevant, the complementarity with or transition to new technologies. 
+ Article 6 
+ European Interoperability Framework and specialised interoperability frameworks 
+ 1. The Interoperable Europe Board shall develop a European Interoperability Framework (EIF) 
+ 43 
+ and propose to the Commission to adopt it. The Commission may adopt the EIF. The Commission shall publish the EIF in the Official Journal of the European Union. 
+ 2. The EIF shall provide a model and a set of recommendations on legal, organisational, semantic and technical interoperability, addressed to all entities falling within the scope of this Regulation for interacting with each other through their network and information systems. The EIF shall be taken into account in the interoperability assessment in accordance with Article 3(4), point (b) and Article 3(6). 
+ 3. The Commission, after consulting the Interoperable Europe Board, may adopt other interoperability frameworks (‘specialised interoperability frameworks’) targeting the needs of specific sectors or administrative levels. The specialised interoperability frameworks shall be based on the EIF. The Interoperable Europe Board shall assess the alignment of the specialised interoperability frameworks with the EIF. The Commission shall publish the specialised interoperability frameworks on the Interoperable Europe portal. 
+ 4. Where a Member State develops a national interoperability framework and other relevant national policies, strategies or guidelines, it shall take into account the EIF. 
+ Article 7 
+ Interoperable Europe solutions 
+ The Interoperable Europe Board shall recommend interoperability solutions for the cross-border interoperability of network and information systems which are used to provide or manage public services to be delivered or managed electronically in the Union. When an interoperability solution is recommended by the Interoperable Europe Board, it shall carry the label ‘Interoperable Europe solution’ and shall be published on the Interoperable Europe portal. 
+ Article 8 
+ Interoperable Europe portal 
+ 1. The Commission shall provide a portal (‘the Interoperable Europe portal’) as a single point of entry for information related to cross-border interoperability of network and information systems which are used to provide or manage public services to be delivered or managed electronically in the Union. The portal shall be electronically accessible and free of charge. The portal shall have at least the following functions: 
+ (a) access to Interoperable Europe solutions; 
+ (b) access to other interoperability solutions not bearing the label ‘Interoperable Europe solution’ and provided for by other Union policies or fulfilling the requirements set out in Paragraph 2; 
+ (c) access to ICT technical specifications eligible for referencing in accordance with Article 13 of Regulation (EU) No 1025/2012; 
+ (d) access to information on processing of personal data in the context of regulatory sandboxes referred to in Articles 11 and 12, if any high risks to the rights and freedoms of the data subjects, as referred to in Article 35(1) of Regulation (EU) 2016/679 and in Article 39 of Regulation (EU) 2018/1725, has been identified, as well as access to information on response mechanisms to promptly mitigate those risks. The published information may include a disclosure of the data protection impact assessment; 
+ (e) fostering knowledge exchange between members of the Interoperable Europe Community, as set out in Article 16, such as providing a feedback system to express their views on measures proposed by the Interoperable Europe Board or express their interest to participate to actions related to the implementation of this Regulation; 
+ (f) access to interoperability-related monitoring data referred to in Article 20; 
+ (g) allowing citizens and civil society organisations to provide feedback on the published content. 
+ 2. The Interoperable Europe Board may propose to the Commission to publish on the portal other interoperability solutions or to have them referred to on the portal. Such solutions shall: 
+ (a) not be subject to third party rights or contain personal data or confidential information; 
+ (b) have a high-level of alignment with the Interoperable Europe solutions which may be proven by publishing the outcome of the interoperability assessment referred to in Article 3; 
+ (c) use a licence that allows at least for the reuse by other public sector bodies or institutions, bodies or agencies of the Union or be issued as open source. An open source licence means a licence whereby the reuse of the software is permitted for all specified uses in a unilateral declaration by the right holder, and where the source codes of the software are made available for users; 
+ (d) be regularly maintained under the responsibility of the owner of the interoperability solution. 
+ 3. When a public sector body or an institution, body or agency of the Union provides a portal, catalogue or repository with similar functions, it shall take the necessary measures to ensure interoperability with the Interoperable Europe portal. Where such portals collect open source solutions, they shall allow for the use of the European Union Public Licence. 
+ 4. The Commission may adopt guidelines on interoperability for other portals with similar functions as referred to in paragraph 3. 
+ Chapter 3 
+Interoperable Europe support measures 
+ Article 9 
+ Policy implementation support projects 
+ 1. The Interoperable Europe Board may propose to the Commission to set up projects to support public sector bodies in the digital implementation of Union policies ensuring the cross-border interoperability of network and information systems which are used to provide or manage public services to be delivered or managed electronically (‘policy implementation support project’). 
+ 2. The policy implementation support project shall set out: 
+ (a) the existing Interoperable Europe solutions deemed necessary for the digital implementation of the policy requirements; 
+ (b) any missing interoperability solutions to be developed, deemed necessary for the digital implementation of the policy requirements; 
+ (c) other recommended support measures, such as trainings or peer-reviews. 
+ 3. The Commission shall set out, after consulting the Interoperable Europe Board, the scope, the timeline, the needed involvement of sectors and administrative levels and the working methods of the support project. If the Commission has already performed and published an interoperability assessment, in accordance with Article 3, the outcome of that assessment shall be taken into account when setting up the support project. 
+ 4. In order to reinforce the policy implementation support project, the Interoperable Europe Board may propose to establish a regulatory sandbox as referred to in Article 11. 
+ 5. The outcome of a policy implementation support project as well as interoperability solutions developed in the project shall be openly available and made public on the Interoperable Europe Portal. 
+ Article 10 
+ Innovation measures 
+ 1. The Interoperable Europe Board may propose to the Commission to set up innovation measures to support the development and uptake of innovative interoperability solutions in the EU (‘innovation measures’). 
+ 2. Innovation measures shall: 
+ (a) contribute to the development of existing or new Interoperable Europe solutions; 
+ (b) involve GovTech actors. 
+ 3. In order to support the development of innovation measures, the Interoperable Europe Board may propose to set up a regulatory sandbox. 
+ 4. The Commission shall make the results from the innovation measures openly available on the Interoperable Europe portal. 
+ Article 11 
+ Establishment of regulatory sandboxes 
+ 1. Regulatory sandboxes shall provide a controlled environment for the development, testing and validation of innovative interoperability solutions supporting the cross-border interoperability of network and information systems which are used to provide or manage public services to be delivered or managed electronically for a limited period of time before putting them into service. 
+ 2. Regulatory sandboxes shall be operated under the responsibility of the participating public sector bodies and, where the sandbox entails the processing of personal data by public sector bodies, under the supervision of other relevant national authorities, or where the sandbox entails the processing of personal data by institutions, bodies, and agencies of the Union, under the responsibility of the European Data Protection Supervisor. 
+ 3. The establishment of a regulatory sandbox as set out in paragraph 1 shall aim to contribute to the following objectives: 
+ (a) foster innovation and facilitate the development and roll-out of innovative digital interoperability solutions for public services; 
+ (b) facilitate cross-border cooperation between national competent authorities and synergies in public service delivery; 
+ (c) facilitate the development of an open European GovTech ecosystem, including cooperation with small and medium enterprises and start-ups; 
+ (d) enhance authorities’ understanding of the opportunities or barriers to cross-border interoperability of innovative interoperability solutions, including legal barriers; 
+ (e) contribute to the development or update of Interoperable Europe solutions. 
+ 4. The establishment of regulatory sandboxes shall contribute to improving legal certainty through cooperation with the authorities involved in the regulatory sandbox with a view to ensuring compliance with this Regulation and, where appropriate, with other Union and Member States legislation. 
+ 5. The Commission, after consulting the Interoperable Europe Board and, where the regulatory sandbox would include the processing of personal data, the European Data Protection Supervisor, shall upon joint request from at least three participating public sector bodies authorise the establishment of a regulatory sandbox. This consultation should not replace the prior consultation referred to in Article 36 of Regulation (EU) 2016/679 and in Article 40 of Regulation (EU) 2018/1725. Where the sandbox is set up for interoperability solutions supporting the cross-border interoperability of network and information systems which are used to provide or manage public services to be delivered or managed electronically by one or more institutions, bodies or agencies of the Union, eventually with the participation of public sector bodies, no authorisation is needed. 
+ Article 12 
+ Participation in the regulatory sandboxes 
+ 1. The participating public sector bodies shall ensure that, to the extent the innovative interoperability solution involves the processing of personal data or otherwise falls under the supervisory remit of other national authorities providing or supporting access to data, the national data protection authorities and those other national authorities are associated to the operation of the regulatory sandbox. As appropriate, the participating public sector bodies may allow for the involvement in the regulatory sandbox of other actors within the GovTech ecosystem such as national or European standardisation organisations, notified bodies, research and experimentation labs, innovation hubs, and companies wishing to test innovative interoperability solutions. Cooperation may also be envisaged with third countries establishing mechanisms to support innovative interoperability solutions for the public sector. 
+ 2. Participation in the regulatory sandbox shall be limited to a period that is appropriate to the complexity and scale of the project, and in any case not longer than 2 years from the establishment of the regulatory sandbox. The participation may be extended for up to one more year if necessary to achieve the purpose of the processing. 
+ 3. Participation in the regulatory sandbox shall be based on a specific plan elaborated by the participants taking into account the advice of other national competent authorities or the European Data Protection Supervisor, as applicable. The plan shall contain as a minimum the following: 
+ (a) description of the participants involved and their roles, the envisaged innovative interoperability solution and its intended purpose, and relevant development, testing and validation process; 
+ (b) the specific regulatory issues at stake and the guidance that is expected from the authorities supervising the regulatory sandbox; 
+ (c) the specific modalities of the collaboration between the participants and the authorities, as well as any other actor involved in the regulatory sandbox; 
+ (d) a risk management and monitoring mechanism to identify, prevent and mitigate any risk; 
+ (e) the key milestones to be completed by the participants for the interoperability solution to be considered ready to be put into service; 
+ (f) evaluation and reporting requirements and possible follow-up; 
+ (g) where personal data are processed, an indication of the categories of personal data concerned, the purposes of the processing for which the personal data are intended and the actors involved in the processing and their role. 
+ 4. The participation in the regulatory sandboxes shall not affect the supervisory and corrective powers of any authorities supervising the sandbox. 
+ 5. Participants in the regulatory sandbox shall remain liable under applicable Union law and Member States legislation on liability for any damage caused in the course of their participation in the regulatory sandbox. 
+ 6. Personal data may be processed in the regulatory sandbox subject to the following cumulative conditions: 
+ (a) the innovative interoperability solution is developed for safeguarding public interests in the area of a high level of efficiency and quality of public administration and public services; 
+ (b) the data processed is limited to what is necessary for the functioning of the interoperability solution to be developed or tested in the sandbox, and the functioning cannot be effectively achieved by processing anonymised, synthetic or other non-personal data; 
+ (c) there are effective monitoring mechanisms to identify if any high risks to the rights and freedoms of the data subjects, as referred to in Article 35(1) of Regulation (EU) 2016/679 and in Article 39 of Regulation (EU) 2018/1725, may arise during the operation of the sandbox, as well as a response mechanism to promptly mitigate those risks and, where necessary, stop the processing; 
+ (d) any personal data to be processed are in a functionally separate, isolated and protected data processing environment under the control of the participants and only authorised persons have access to that data; 
+ (e) any personal data processed are not to be transmitted, transferred or otherwise accessed by other parties that are not participants in the sandbox nor transferred to parties other than the participants of the sandbox; 
+ (f) any processing of personal data does not affect the application of the rights of the data subjects as provided for under Union law on the protection of personal data, in particular in Article 22 of Regulation (EU) 2016/679 and Article 24 of Regulation (EU) 2018/1725; 
+ (g) any personal data processed are protected by means of appropriate technical and organisational measures and deleted once the participation in the sandbox has terminated or the personal data has reached the end of its retention period; 
+ (h) the logs of the processing of personal data are kept for the duration of the participation in the sandbox and for a limited period after its termination solely for the purpose of and only as long as necessary for fulfilling accountability and documentation obligations under Union or Member States legislation; 
+ (i) a complete and detailed description of the process and rationale behind the training, testing and validation of the interoperability solution is kept together with the testing results as part of the technical documentation and transmitted to the Interoperable Europe Board; 
+ (j) a short summary of the interoperability solution developed in the sandbox, its objectives and expected results are made available on the Interoperable Europe portal. 
+ 7. The participating public sector bodies shall submit periodic reports and a final report to the Interoperable Europe Board and the Commission on the results from the regulatory sandboxes, including good practices, lessons learnt and recommendations on their setup and, where relevant, on the development of this Regulation and other Union legislation supervised within the regulatory sandbox. The Interoperable Europe Board shall issue an opinion to the Commission on the outcome of the regulatory sandbox, specifying, where applicable, the actions needed to implement new interoperability solutions to promote the cross-border interoperability of network and information systems which are used to provide or manage public services to be delivered or managed electronically. 
+ 8. The Commission shall ensure that information on the regulatory sandboxes is available on the Interoperable Europe portal. 
+ 9. The Commission is empowered to adopt implementing acts to set out the detailed rules and the conditions for the establishment and the operation of the regulatory sandboxes, including the eligibility criteria and the procedure for the application for, selection of, participation in and exiting from the sandbox, and the rights and obligations of the participants. 
+ 10. Where a regulatory sandbox involves the use of artificial intelligence, the rules set out under Article 53 and 54 of the [proposal for a] Regulation of the European Parliament and of the Council laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts shall prevail in case of conflict with the rules set out by the Regulation. 
+ Article 13 
+ Training 
+ 1. The Commission, assisted by the Interoperable Europe Board, shall provide training material on the use of the EIF and on Interoperable Europe solutions. Public sector bodies and institutions, bodies and agencies of the Union shall provide their staff entrusted with strategical or operational tasks having an impact on network and information systems in the Union with appropriate training programmes concerning interoperability issues. 
+ 2. The Commission shall organise training courses on interoperability issues at Union level to enhance cooperation and the exchange of best practices between the staff of public sector bodies, institutions, bodies and agencies of the Union. The courses shall be announced on the Interoperable Europe portal. 
+ Article 14 
+ Peer reviews 
+ 1. A mechanism for cooperation between public sector bodies designed to support them to implement Interoperable Europe solutions in their network and information systems and to help them perform the interoperability assessments referred to in Article 3 (‘peer review’) shall be established. 
+ 2. The peer review shall be conducted by interoperability experts drawn from Member States other than the Member State where the public sector body undergoing the review is located. The Commission may, after consulting the Interoperable Europe Board, adopt guidelines on the methodology and content of the peer-review. 
+ 3. Any information obtained through a peer review shall be used solely for that purpose. The experts participating in the peer review shall not disclose any sensitive or confidential information obtained in the course of that review to third parties. The Member State concerned shall ensure that any risk of conflict of interests concerning the designated experts is communicated to the other Member States and the Commission without undue delay. 
+ 4. The experts conducting the peer review shall prepare and present within one month after the end of the peer review a report and submit it to the public sector body concerned and to the Interoperable Europe Board. The reports shall be published on the Interoperable Europe portal when authorised by the Member State where the public sector body undergoing the review is located. 
+ Chapter 4 
+Governance of cross-border interoperability 
+ Article 15 
+ Interoperable Europe Board 
+ 1. The Interoperable Europe Board is established. It shall facilitate strategic cooperation and the exchange of information on cross-border interoperability of network and information systems which are used to provide or manage public services to be delivered or managed electronically in the Union. 
+ 2. The Interoperable Europe Board shall be composed of: 
+ (a) one representative of each Member State; 
+ (b) one representative designated by each of the following: 
+ (i) the Commission; 
+ (ii) the Committee of the Regions; 
+ (iii) the European Economic and Social Committee. 
+ 3. The Board shall be chaired by the Commission. Countries participating in the European Economic Area and candidate countries may be invited as observers. In addition, the Chair may give the status of observer to individuals and organisations after consultation with the Interoperable Europe Board. The Chair may invite to participate, on an ad hoc basis, experts with specific competence in a subject on the agenda. The Commission shall provide the secretariat of the Interoperable Europe Board. 
+ The members of the Interoperable Europe Board shall make every effort to adopt decisions by consensus. In the event of a vote, the outcome of the vote shall be decided by simple majority of the component members. The members who have voted against or abstained shall have the right to have a document summarising the reasons for their position annexed to the opinions, recommendations or reports. 
+ 4. The Interoperable Europe Board shall have the following tasks: 
+ (a) support the implementation of national interoperability frameworks and other relevant national policies, strategies or guidelines; 
+ (b) adopt guidelines on the content of the interoperability assessment referred to in Article 3(6); 
+ (c) propose measures to foster the share and reuse of interoperable solutions; 
+ (d) monitor the overall coherence of the developed or recommended interoperability solutions; 
+ (e) propose to the Commission measures to ensure, where appropriate, the compatibility of interoperability solutions with other interoperability solutions that share a common purpose, while supporting, where relevant, the complementarity with or transition to new technologies; 
+ (f) develop the EIF and update it, if necessary, and propose it to the Commission; 
+ (g) assess the alignment of the specialised interoperability frameworks with the EIF and answer the request of consultation from the Commission on those frameworks; 
+ (h) recommend Interoperable Europe solutions; 
+ (i) propose to the Commission to publish on the Interoperable Europe portal the interoperability solutions referred to in Article 8(2), or to have them referred to on the portal; 
+ (j) propose to the Commission to set up policy implementation support projects and innovation measures and other measures that the Interoperable Europe Community may propose; 
+ (k) review reports from innovation measures, on the use of the regulatory sandbox and on the peer reviews and propose follow-up measures, if necessary; 
+ (l) propose measures to enhance interoperability capabilities of public sector bodies, such as trainings; 
+ (m) adopt the Interoperable Europe Agenda; 
+ (n) provide advice to the Commission on the monitoring and reporting on the application of this Regulation; 
+ (o) propose measures to relevant standardisation organisations and bodies to contribute to European standardisation activities, in particular through the procedures set out in Regulation (EU) No 1025/2012; 
+ (p) propose measures to collaborate with international bodies that could contribute to the development of the cross-border interoperability, especially international communities on open source solutions, open standards or specifications and other platforms without legal effects; 
+ (q) coordinate with the European Data Innovation Board, referred to in Regulation (EU) No 2022/686 on interoperability solutions for the common European Data Spaces, as well as with any other Union institution, body, or agency of the Union working on interoperability solutions relevant for the public sector; 
+ (r) inform regularly and coordinate with the interoperability coordinators and the Interoperable Europe Community on matters concerning cross-border interoperability of network and information systems. 
+ 5. The Interoperable Europe Board may set up working groups to examine specific points related to the tasks of the Board. Working groups shall involve members of the Interoperable Europe Community. 
+ 6. The Interoperable Europe Board shall adopt its own rules of procedure. 
+ Article 16 
+ Interoperable Europe Community 
+ 1. The Interoperable Europe Community is established. It shall contribute to the activities of the Interoperable Europe Board by providing expertise and advice. 
+ 2. Public and private stakeholders residing or having their registered office in a Member State may register on the Interoperable Europe portal as a member of the Interoperable Europe Community. 
+ 3. After confirmation of the registration, the membership status shall be made public on the Interoperable Europe portal. Membership shall not be limited in time. It may however be revoked by the Interoperable Europe Board at any time for proportionate and justified reasons, especially if a person is no longer able to contribute to the Interoperable Europe Community or has abused its status as a member of the Community. 
+ 4. The members of the Interoperable Europe Community may be invited to among other: 
+ (a) contribute to the content of the Interoperable Europe portal; 
+ (b) participate in the working groups; 
+ (c) participate in the peer reviews. 
+ 5. The Interoperable Europe Board shall organise once a year an online assembly of the Interoperable Europe Community. 
+ 6. The Interoperable Europe Board shall adopt the code of conduct for the Interoperable Europe Community that shall be published on the Interoperable Europe portal. 
+ Article 17 
+ National competent authorities 
+ 1. By ... at the latest [the date of application of this Regulation], each Member State shall designate one or more competent authorities as responsible for the application of this Regulation. Member States may designate an existing authority to that effect. 
+ 2. The competent authority shall have the following tasks: 
+ (a) appoint a member to the Interoperable Europe Board; 
+ (b) coordinate within the Member State all questions related to this Regulation; 
+ (c) support public sector bodies within the Member State to set up or adapt their processes to do interoperability assessment referred to in Article 3; 
+ (d) foster the share and reuse of interoperability solutions through the Interoperable Europe portal or other relevant portal; 
+ (e) contribute with country-specific knowledge to the Interoperable Europe portal; 
+ (f) coordinate and encourage the active involvement of a diverse range of national entities in the Interoperable Europe Community and their participation in policy implementation support projects as referred to in Article 9 and innovation measures referred to in Article 10; 
+ (g) support public sector bodies in the Member State to cooperate with the relevant public sector bodies in other Member States on topics covered by this Regulation. 
+ 3. The Member States shall ensure that the competent authority has adequate competencies and resources to carry out, in an effective and efficient manner, the tasks assigned to it. 
+ 4. The Member States shall set up the necessary cooperation structures between all national authorities involved in the implementation of this Regulation. Those structures may build on existing mandates and processes in the field. 
+ 5. Each Member State shall notify to the Commission, without undue delay, the designation of the competent authority, its tasks, and any subsequent change thereto, and inform the Commission of other national authorities involved in the oversight of the interoperability policy. Each Member State shall make public the designation of their competent authority. The Commission shall publish the list of the designated competent authorities. 
+ Article 18 
+ Interoperability coordinators for institutions, bodies and agencies of the Union 
+ 1. All institutions, bodies and agencies of the Union that provide or manage network and information systems that enable public services to be delivered or managed electronically shall designate an interoperability coordinator under the oversight of its highest level of management to ensure the contribution to the implementation of this Regulation. 
+ 2. The interoperability coordinator shall support the concerned departments to set up or adapt their processes to implement the interoperability assessment. 
+ Chapter 5 
+Interoperable Europe planning and monitoring 
+ Article 19 
+ Interoperable Europe Agenda 
+ 1. After organising a public consultation process through the Interoperable Europe portal that involves, among others, the members of the Interoperable Europe Community, the Interoperable Europe Board shall adopt each year a strategic agenda to plan and coordinate priorities for the development of cross-border interoperability of network and information systems which are used to provide or manage public services to be delivered or managed electronically. (‘Interoperable Europe Agenda’). The Interoperable Europe Agenda shall take into account the Union’s long-term strategies for digitalisation, existing Union funding programmes and ongoing Union policy implementation. 
+ 2. The Interoperable Europe Agenda shall contain: 
+ (a) needs for the development of interoperability solutions; 
+ (b) a list of ongoing and planned Interoperable Europe support measures; 
+ (c) a list of proposed follow-up actions to innovation measures; 
+ (d) identification of synergies with other relevant Union and national programmes and initiatives. 
+ 3. The Interoperable Europe Agenda shall not constitute financial obligations. After its adoption, the Commission shall publish the Agenda on the Interoperable Europe portal. 
+ Article 20 
+ Monitoring and evaluation 
+ 1. The Commission shall monitor the progress of the development of cross-border interoperable public services to be delivered or managed electronically in the Union. The monitoring shall give priority to the reuse of existing international, Union and national monitoring data and to automated data collection. 
+ 2. As regards topics of specific interest for the implementation of this Regulation, the Commission shall monitor: 
+ (a) the implementation of the EIF by the Member States; 
+ (b) the take-up of the interoperability solutions in different sectors, across the Member States, and at local level; 
+ (c) the development of open source solutions for the public services, public sector innovation and the cooperation with GovTech actors in the field of cross-border interoperable public services to be delivered or managed electronically in the Union. 
+ 3. Monitoring results shall be published by the Commission on the Interoperable Europe portal. Where feasible, they shall be published in a machine-readable format. 
+ 4. By ... at the latest [three years after the date of application of this Regulation], and every four years thereafter, the Commission shall present to the European Parliament and to the Council a report on the application of this Regulation, which shall include conclusions of the evaluation. The report shall specifically assess the need for establishing mandatory interoperability solutions. 
+ Chapter 6 
+Final provisions 
+ Article 21 
+ Costs 
+ 1. Subject to the availability of funding, the general budget of the Union shall cover the costs of: 
+ (a) the development and maintenance of the Interoperable Europe portal; 
+ (b) the development, maintenance and promotion of Interoperable Europe solutions; 
+ (c) the Interoperable Europe support measures. 
+ 2. These costs shall be met in compliance with the applicable provisions of the relevant basic act. 
+ Article 22 
+ Entry into force 
+ This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . 
+ It shall apply from [3 months after the date of entry into force of this Regulation]. 
+ This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+ Done at Brussels, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The President 
+ [...] 
+ [...] 
+ LEGISLATIVE FINANCIAL STATEMENT 
+ 1. FRAMEWORK OF THE PROPOSAL/INITIATIVE 
+ 1.1.Title of the proposal/initiative 
+ 1.2.Policy area(s) concerned 
+ 1.3.The proposal/initiative relates to: 
+ 1.4.Grounds for the proposal/initiative 
+ 1.4.1.Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative 
+ 1.4.2.Added value of Union involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this point ‘added value of Union involvement’ is the value resulting from Union intervention which is additional to the value that would have been otherwise created by Member States alone. 
+ 1.4.3.Lessons learned from similar experiences in the past 
+ 1.4.4.Compatibility with the Multiannual Financial Framework and possible synergies with other appropriate instruments 
+ 1.4.5.Assessment of the different available financing options, including scope for redeployment 
+ 1.5.Duration and financial impact of the proposal/initiative 
+ 1.6.Management mode(s) planned 
+ 2.MANAGEMENT MEASURES 
+ 2.1.Monitoring and reporting rules 
+ 2.2.Management and control system(s) 
+ 2.2.1.Justification of the management mode(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed 
+ 2.2.2.Information concerning the risks identified and the internal control system(s) set up to mitigate them 
+ 2.2.3.Estimation and justification of the cost-effectiveness of the controls (ratio of “control costs ÷ value of the related funds managed”), and assessment of the expected levels of risk of error (at payment & at closure) 
+ 2.3.Measures to prevent fraud and irregularities 
+ 3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE 
+ 3.1.Heading(s) of the multiannual financial framework and expenditure budget line(s) affected 
+ 3.2.Estimated financial impact of the proposal on appropriations 
+ 3.2.1.Summary of estimated impact on operational appropriations 
+ 3.2.2.Summary of estimated impact on administrative appropriations 
+ 3.2.3.Compatibility with the current multiannual financial framework 
+ 3.2.4.Third-party contributions 
+ 3.3.Estimated impact on revenue 
+ LEGISLATIVE FINANCIAL STATEMENT 
+ 1. FRAMEWORK OF THE PROPOSAL/INITIATIVE 
+ 1.1. Title of the proposal/initiative 
+ Proposal for a Regulation of the European Parliament and of the Council laying down measures for a high level of public sector interoperability across the Union (Interoperable Europe Act) 
+ 1.2. Policy area(s) concerned 
+ Trans-European Networks 
+ Digital (digital transformation of public administrations, public sector interoperability) 
+ 1.3. The proposal/initiative relates to: 
+  a new action 
+  a new action following a pilot project/preparatory action 
+ 44 
+  the extension of an existing action 
+  a merger or redirection of one or more actions towards another/a new action 
+ 1.4. Grounds for the proposal/initiative 
+ 1.4.1. Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative 
+ The regulation will be applicable 20 days after publication in the Official Journal. 
+ 1.4.2. Added value of Union involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this point ‘added value of Union involvement’ is the value resulting from Union intervention which is additional to the value that would have been otherwise created by Member States alone. 
+ Reasons for action at European level (ex-ante): 
+ The evaluations of the EIF and the ISA² programme supporting European interoperability cooperation, as well as the impact assessment carried out for this initiative, demonstrate that the voluntary interoperability cooperation approach taken so far has not delivered on the needs and policy expectations of Member States as expressed, for instance, in the 2017 Tallinn and 2020 Berlin ministerial declarations and the recommendations adopted by the interoperability expert group in 2021. The successful digital transformation of Europe’s public sector requires a more stable cooperation framework and more certainty in the use of interoperability solutions. 
+ Expected generated Union added value (ex-post): 
+ Interoperability cannot be achieved by one entity alone. Building a structural cooperation framework at EU level enables Member State and Union entities to design public services interoperable by design and improve digital policy implementation. This will increase efficiency and effectiveness of policies and support the digital single market. 
+ 1.4.3. Lessons learned from similar experiences in the past 
+ The initiative builds on the evaluations of the EIF and of the ISA² programme supporting European interoperability cooperation which both concluded that EU interoperability action is beneficial but also demonstrated that impact could be considerably improved by establishing a mandatory interoperability cooperation framework at EU level. 
+ 1.4.4. Compatibility with the Multiannual Financial Framework and possible synergies with other appropriate instruments 
+ The initiative draws on the resources of the dedicated interoperability line within strategic objective 5 of the Digital Europe Programme and is compatible with and relevant for, amongst other, the RRF (EUR 45 billion earmarked for public sector digital transformation), TSI (supporting public sector reform projects), and Horizon Europe (e.g. EIC activities). 
+ 1.4.5. Assessment of the different available financing options, including scope for redeployment 
+ The initiative relies on redeployment of administrative resources so far used for voluntary interoperability cooperation (EIF, Interoperability Expert Group) and the funding available for interoperability under the DEP. 
+ 1.5. Duration and financial impact of the proposal/initiative 
+  limited duration 
+ –  
+ in effect from [DD/MM]YYYY to [DD/MM]YYYY 
+ –  
+ Financial impact from YYYY to YYYY for commitment appropriations and from YYYY to YYYY for payment appropriations. 
+  unlimited duration 
+ – Implementation with a start-up period from 2023 to 2027, 
+ – followed by full-scale operation. 
+ 1.6. Management mode(s) planned 
+ 45 
+  Direct management by the Commission 
+ –  by its departments, including by its staff in the Union delegations; 
+ –  
+ by the executive agencies 
+  Shared management with the Member States 
+  Indirect management by entrusting budget implementation tasks to: 
+ –  third countries or the bodies they have designated; 
+ –  international organisations and their agencies (to be specified); 
+ –  the EIB and the European Investment Fund; 
+ –  bodies referred to in Articles 70 and 71 of the Financial Regulation; 
+ –  public law bodies; 
+ –  bodies governed by private law with a public service mission to the extent that they provide adequate financial guarantees; 
+ –  bodies governed by the private law of a Member State that are entrusted with the implementation of a public-private partnership and that provide adequate financial guarantees; 
+ –  persons entrusted with the implementation of specific actions in the CFSP pursuant to Title V of the TEU, and identified in the relevant basic act. 
+ – If more than one management mode is indicated, please provide details in the ‘Comments’ section. 
+ Comments 
+ No comments. 
+ 2. MANAGEMENT MEASURES 
+ 2.1. Monitoring and reporting rules 
+ Specify frequency and conditions. 
+ The Commission will monitor the progress of the development of interoperable trans-European digital public services, giving priority to the reuse of existing international, Union and national monitoring data and to automated data collection. 
+ The Commission will in particular monitor: the take-up of interoperability solutions in different sectors, across the Member States, and at local level; and the development of open-source solutions for the public services, public sector innovation and the co-operation with GovTech actors in the field of interoperability of digital public services. 
+ 2.2. Management and control system(s) 
+ 2.2.1. Justification of the management mode(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed 
+ The actions foreseen under this Regulation will be implemented through direct management, using the implementation modes offered by the Financial Regulation, mainly being grants and procurement. Direct management allows to establish grant agreements and contracts with beneficiaries and contractors directly engaged in activities that serve Union policies. The Commission will ensure direct monitoring over the outcome of the actions financed. The payment modalities of the actions funded will be adapted to the risks pertaining to the financial transactions. 
+ In order to ensure the effectiveness, efficiency and economy of the Commission controls, the control strategy will be oriented towards a balance of ex-ante and ex-post checks and focus on three key stages of grant/contract implementation, in accordance with the Financial Regulation: Selection of proposals/tenders that fit the policy objectives of the Regulation; Operational, monitoring and ex-ante controls that cover project implementation, public procurement, pre-financing, interim and final payments, management of guarantees; Ex-post controls at the beneficiaries/contractors’ sites will also be carried out on a sample of transactions. 
+ 2.2.2. Information concerning the risks identified and the internal control system(s) set up to mitigate them 
+ The implementation of this Regulation includes the setting up and operation of a governance mechanism with Member States and the attribution of public procurement contracts and grants for specific activities. 
+ The main risks are the following: 
+ a) Risk of not fully achieving the objectives of the Regulation due to insufficient engagement of partners, uptake of solutions, and/or quality and/or delays in the implementation of the selected projects or contracts. 
+ b) Risk of inefficient or non-economic use of funds awarded, both for grants (complexity of funding rules) and for procurement (limited number of economic providers with the required specialist knowledge entailing insufficient possibilities to compare price offers in some sectors). 
+ c) Reputational risk for the Commission, in case of slow or insufficient implementation of the cooperation framework, or if fraud or criminal activities are discovered. 
+ The Commission put in place internal procedures that aim at covering the risks identified above. The internal procedures are in full compliance with the Financial Regulation and include anti-fraud measures and cost-benefit considerations. Within this framework, the Commission continues to explore possibilities to enhance the management and to realise efficiency gains. 
+ Main features of the control framework are the following: 
+ 1) Controls to ensure stakeholder engagement 
+ Appropriate stakeholder management practices are put in place to ensure the interoperability cooperation mechanism set up with this regulation is properly functioning and its impact regularly monitored. 
+ 2) Controls before and during the implementation of the projects (in line with the rules governing the DEP): 
+ a) An appropriate project management system is put in place under DEP, focusing on the contributions of projects and contracts to the policy objectives, ensuring a systematic involvement of all actors, establishing a regular project management reporting complemented by on-site-visits on a case by case basis, including risk reports to senior management, as well as maintaining appropriate budgetary flexibility. 
+ b) Model grant agreements and service contracts used are developed within the Commission. They provide for a number of control provisions such as audit certificates, financial guarantees, on-site audits as well as inspections by OLAF. The rules governing the eligibility of costs are being simplified, for example, by using unit costs, lump sums, contributions not linked to costs and other possibilities offered by the Financial Regulation. This will reduce the cost of controls and put the focus on checks and controls in high-risk areas. 
+ c) All staff sign up to the code of good administrative behaviour. Staff who are involved in the selection procedure or in the management of the grant agreements/contracts (also) sign a declaration of absence of a conflict of interest. Staff is regularly trained and uses networks to exchange best practices. 
+ d) Technical implementation of a project is checked at regular intervals at the desk on the basis of technical progress reports of the contractors and beneficiaries; in addition, contractors’/beneficiaries’ meetings and on-site-visits are foreseen on a case by case basis. 
+ 3) Controls at the end of the project: 
+ Ex-post audits are performed on a sample of transactions to verify on-the-spot the eligibility of cost claims. The aim of these controls is to prevent, detect and correct material errors related to the legality and regularity of financial transactions. With a view to achieving a high control impact, the selection of beneficiaries to be audited foresees to combine a risk-based selection with a random sampling, and to pay attention to operational aspects whenever possible during the on-site audit. 
+ 2.2.3. Estimation and justification of the cost-effectiveness of the controls (ratio of “control costs ÷ value of the related funds managed”), and assessment of the expected levels of risk of error (at payment & at closure) 
+ Rules on the operation of the DEP apply. 
+ 2.3. Measures to prevent fraud and irregularities 
+ Specify existing or envisaged prevention and protection measures, e.g. from the Anti-Fraud Strategy. 
+ As for its activities in direct management, the Commission shall take appropriate measures ensuring that the financial interests of the European Union are protected by the application of preventive measures against fraud, corruption and any other illegal activities, by effective checks and, if irregularities are detected, by the recovery of the amounts wrongly paid and, where appropriate, by effective, proportional and deterrent penalties. 
+ 3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE 
+ 3.1. Heading(s) of the multiannual financial framework and expenditure budget line(s) affected 
+ · Existing budget lines 
+ In order of multiannual financial framework headings and budget lines. 
+ Heading of multiannual financial framework 
+ Budget line 
+ Type of 
+ expenditure 
+ Contribution 
+ Number 
+ Diff./Non-diff. 
+ 46 
+ from EFTA countries 
+ 47 
+ from candidate countries 
+ 48 
+ from third countries 
+ within the meaning of Article 21(2)(b) of the Financial Regulation 
+ 1 
+ 02.06.05.02 Deployment/ Interoperability 
+ Diff. 
+ YES 
+ YES 
+ YES 
+ NO 
+ · New budget lines requested 
+ In order of multiannual financial framework headings and budget lines. 
+ Heading of multiannual financial framework 
+ Budget line 
+ Type of 
+ expenditure 
+ Contribution 
+ Number 
+ Diff./Non-diff. 
+ from EFTA countries 
+ from candidate countries 
+ from third countries 
+ within the meaning of Article 21(2)(b) of the Financial Regulation 
+ None 
+ YES/NO 
+ YES/NO 
+ YES/NO 
+ YES/NO 
+ 3.2. Estimated financial impact of the proposal on appropriations 
+ 3.2.1. Summary of estimated impact on operational appropriations 
+ –  
+ The proposal/initiative does not require the use of operational appropriations 
+ –  
+ The proposal/initiative requires the use of operational appropriations. The budgetary impact of the proposal will be entirely covered by the allocations already foreseen in the Digital Europe Programme, as explained below: 
+ EUR million (to three decimal places) 
+ Heading of multiannual financial 
+ framework 
+ 1 
+ Single Market, Innovation and Digital 
+ DG: DIGIT 
+ Year 
+ 2023 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 2027 
+ Post 2027 
+ 49 
+ TOTAL 
+ □ Operational appropriations 
+ 02.04.05.02 Digital Europe Programme: Deployment/Interoperability 
+ 50 
+ Commitments 
+ (1a) 
+ 23.790 
+ 24.131 
+ 25.511 
+ 28.573 
+ 29.162 
+ 131.167 
+ Payments 
+ (2a) 
+ 7.137 
+ 21.513 
+ 24.511 
+ 26.292 
+ 28.443 
+ 23.271 
+ 131.167 
+ Budget line 
+ Commitments 
+ (1b) 
+ Payments 
+ (2b) 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 51 
+ 02.01.30.01 Support expenditure for the Digital Europe programme 
+ (3) 
+ 0.400 
+ 0.400 
+ 0.400 
+ 0.400 
+ 0.400 
+ 2.000 
+ TOTAL appropriations 
+ for DG DIGIT 
+ Commitments 
+ =1a+1b +3 
+ 24.190 
+ 24.531 
+ 25.911 
+ 28.973 
+ 29.562 
+ 133.167 
+ Payments 
+ =2a+2b 
+ +3 
+ 7.537 
+ 21.913 
+ 24.911 
+ 26.692 
+ 28.843 
+ 23.271 
+ 133.167 
+ □ TOTAL operational appropriations 
+ Commitments 
+ (4) 
+ 23.790 
+ 24.131 
+ 25.511 
+ 28.573 
+ 29.162 
+ 131.167 
+ Payments 
+ (5) 
+ 7.137 
+ 21.513 
+ 24.511 
+ 26.292 
+ 28.443 
+ 23.271 
+ 131.167 
+ □ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes 
+ (6) 
+ 0.400 
+ 0.400 
+ 0.400 
+ 0.400 
+ 0.400 
+ 2.000 
+ TOTAL appropriations 
+ under HEADING 1 
+ of the multiannual financial framework 
+ Commitments 
+ =4+ 6 
+ 24.190 
+ 24.531 
+ 25.911 
+ 28.973 
+ 29.562 
+ 133.167 
+ Payments 
+ =5+ 6 
+ 7.537 
+ 21.913 
+ 24.911 
+ 26.692 
+ 28.843 
+ 23.271 
+ 133.167 
+ If more than one operational heading is affected by the proposal / initiative, repeat the section above: 
+ □ TOTAL operational appropriations (all operational headings) 
+ Commitments 
+ (4) 
+ 23.790 
+ 24.131 
+ 25.511 
+ 28.573 
+ 29.162 
+ 131.167 
+ Payments 
+ (5) 
+ 7.137 
+ 21.513 
+ 24.511 
+ 26.292 
+ 28.443 
+ 23.271 
+ 131.167 
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes (all operational headings) 
+ (6) 
+ 0.400 
+ 0.400 
+ 0.400 
+ 0.400 
+ 0.400 
+ 2.000 
+ TOTAL appropriations 
+ under HEADINGS 1 to 6 
+of the multiannual financial framework 
+ (Reference amount) 
+ Commitments 
+ =4+ 6 
+ 24.190 
+ 24.531 
+ 25.911 
+ 28.973 
+ 29.562 
+ 133.167 
+ Payments 
+ =5+ 6 
+ 7.537 
+ 21.913 
+ 24.911 
+ 26.692 
+ 28.843 
+ 23.271 
+ 133.167 
+ Heading of multiannual financial 
+ framework 
+ 7 
+ ‘Administrative expenditure’ 
+ This section should be filled in using the ‘budget data of an administrative nature’ to be firstly introduced in the 
+ Annex to the Legislative Financial Statement 
+ (Annex V to the internal rules), which is uploaded to DECIDE for interservice consultation purposes. 
+ EUR million (to three decimal places) 
+ Year 
+ 2023 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL 
+ DG: DIGIT 
+ □ Human resources 
+ 2.717 
+ 2.717 
+ 2.717 
+ 2.717 
+ 2.717 
+ 13.585 
+ □ Other administrative expenditure 
+ 0.105 
+ 0.105 
+ 0.105 
+ 0.105 
+ 0.105 
+ 0.525 
+ TOTAL DG DIGIT 
+ Appropriations 
+ 2.822 
+ 2.822 
+ 2.822 
+ 2.822 
+ 2.822 
+ 14.110 
+ TOTAL appropriations 
+ under HEADING 7 
+of the multiannual financial framework 
+ (Total commitments = Total payments) 
+ 2.822 
+ 2.822 
+ 2.822 
+ 2.822 
+ 2.822 
+ 14.110 
+ EUR million (to three decimal places) 
+ Year 
+ 2023 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 2027 
+ Post 2027 
+ TOTAL 
+ TOTAL appropriations 
+ under HEADINGS 1 to 7 
+of the multiannual financial framework 
+ Commitments 
+ 27.012 
+ 27.353 
+ 28.733 
+ 31.795 
+ 32.384 
+ 147.277 
+ Payments 
+ 10.359 
+ 24.735 
+ 27.733 
+ 29.514 
+ 31.665 
+ 23.271 
+ 147.277 
+ 3.2.2. Summary of estimated impact on administrative appropriations 
+ –  
+ The proposal/initiative does not require the use of appropriations of an administrative nature 
+ –  
+ The proposal/initiative requires the use of appropriations of an administrative nature, as explained below: 
+ EUR million (to three decimal places) 
+ Year 
+ 2023 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ TOTAL 
+ HEADING 7 
+ of the multiannual financial framework 
+ Human resources 
+ 2.717 
+ 2.717 
+ 2.717 
+ 2.717 
+ 2.717 
+ 13.585 
+ Other administrative expenditure 
+ 0.105 
+ 0.105 
+ 0.105 
+ 0.105 
+ 0.105 
+ 0.525 
+ Subtotal HEADING 7 
+ of the multiannual financial framework 
+ 2.822 
+ 2.822 
+ 2.822 
+ 2.822 
+ 2.822 
+ 14.110 
+ Outside HEADING 7 
+ 52 
+ of the multiannual financial framework 
+ Human resources 
+ Other expenditure 
+ of an administrative nature 
+ 0.400 
+ 0.400 
+ 0.400 
+ 0.400 
+ 0.400 
+ 2.000 
+ Subtotal 
+ outside HEADING 7 
+ of the multiannual financial framework 
+ 0.400 
+ 0.400 
+ 0.400 
+ 0.400 
+ 0.400 
+ 2.000 
+ TOTAL 
+ 3.222 
+ 3.222 
+ 3.222 
+ 3.222 
+ 3.222 
+ 16.110 
+ The appropriations required for human resources and other expenditure of an administrative nature will be met by appropriations from the DG that are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints. 
+ 3.2.2.1. Estimated requirements of human resources 
+ –  
+ The proposal/initiative does not require the use of human resources. 
+ –  
+ The proposal/initiative requires the use of human resources, as explained below: 
+ Estimate to be expressed in full time equivalent units 
+ Year 
+ 2023 
+ Year 
+ 2024 
+ Year 2025 
+ Year 2026 
+ Year 2027 
+ □ Establishment plan posts (officials and temporary staff) 
+ 20 01 02 01 (Headquarters and Commission’s Representation Offices) 
+ 14 
+ 14 
+ 14 
+ 14 
+ 14 
+ 20 01 02 03 (Delegations) 
+ 01 01 01 01 (Indirect research) 
+ 01 01 01 11 (Direct research) 
+ Other budget lines (specify) 
+ □ External staff (in Full Time Equivalent unit: FTE) 
+ 53 
+ 20 02 01 (AC, END, INT from the ‘global envelope’) 
+ 6 
+ 6 
+ 6 
+ 6 
+ 6 
+ 20 02 03 (AC, AL, END, INT and JPD in the delegations) 
+ XX 01 xx yy zz 
+ 54 
+ - at Headquarters 
+ - in Delegations 
+ 01 01 01 02 (AC, END, INT - Indirect research) 
+ 01 01 01 12 (AC, END, INT - Direct research) 
+ Other budget lines (specify) 
+ TOTAL 
+ 20 
+ 20 
+ 20 
+ 20 
+ 20 
+ XX is the policy area or budget title concerned. 
+ The human resources required will be met by staff from the DG who are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints. 
+ Description of tasks to be carried out: 
+ Officials and temporary staff 
+ Officials and temporary staff (policy officers and programme managers) will implement the tasks and activities as per the Regulation, in particular implementation of Art.5-19, namely: 
+ - Development and management of a catalogue of reusable interoperability solutions and Interoperable Europe Portal; 
+ - Regular reviews and updates of the European Interoperability Frameworks, methodologies and tools for interoperability impact assessments; 
+ - Design monitoring mechanisms and implementation; 
+ - Management and support for governance framework (Interoperable Europe Board and communities); 
+ - Horizontal tasks on communication, stakeholder management and inter-institutional relations; 
+ - Preparation and drafting of delegated acts, in compliance with this Regulation. 
+ 9 AD, 2 AST and 2 AST-SC officials will be covered with staff currently working on interoperability activities in DG DIGIT. 
+ The overall workload of interoperability activities will increase particularly to support the set up and management of a structured cooperation mechanism and communities as well as to develop methodologies and tools for interoperability assessments. For this reason, 1 additional AD post is required, bringing the total to 14 posts. 
+ External staff 
+ The AC and END posts support the implementation of the Regulation, complementing the officials posts mainly in areas related to coordination with the Member States and the organisation of Interoperable Europe Board meetings, workshops and conferences, the follow-up of projects such as establishing a catalogue of reusable interoperability solutions and the Interoperable Europe Portal and monitoring activities. 2 AC and 3 END will be covered with staff currently working on interoperability activities in DG DIGIT. An additional AC hors-quota will be required, bringing the total to 6 FTEs. 
+ 3.2.3. Compatibility with the current multiannual financial framework 
+ The proposal/initiative: 
+ –  
+ can be fully financed through redeployment within the relevant heading of the Multiannual Financial Framework (MFF). 
+ Appropriations will be redeployed within the financial envelope allocated to Interoperability activities in the Digital Europe Programme in the MFF 2021-2027. 
+ –  
+ requires use of the unallocated margin under the relevant heading of the MFF and/or use of the special instruments as defined in the MFF Regulation. 
+ Explain what is required, specifying the headings and budget lines concerned, the corresponding amounts, and the instruments proposed to be used. 
+ –  
+ requires a revision of the MFF. 
+ Explain what is required, specifying the headings and budget lines concerned and the corresponding amounts. 
+ 3.2.4. Third-party contributions 
+ The proposal/initiative: 
+ –  
+ does not provide for co-financing by third parties 
+ –  
+ provides for the co-financing by third parties estimated below: 
+ Appropriations in EUR million (to three decimal places) 
+ Year 
+ N 
+ Year 
+ N+1 
+ Year 
+ N+2 
+ Year 
+ N+3 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ Total 
+ Specify the co-financing body 
+ TOTAL appropriations co-financed 
+ 3.3. Estimated impact on revenue 
+ –  
+ The proposal/initiative has no financial impact on revenue. 
+ –  
+ The proposal/initiative has the following financial impact: 
+ –  
+ on own resources 
+ –  
+ on other revenue 
+ – please indicate, if the revenue is assigned to expenditure lines  
+ EUR million (to three decimal places) 
+ Budget revenue line: 
+ Appropriations available for the current financial year 
+ Impact of the proposal/initiative 
+ Year 
+ N 
+ Year 
+ N+1 
+ Year 
+ N+2 
+ Year 
+ N+3 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ Article …………. 
+ For assigned revenue, specify the budget expenditure line(s) affected. 
+ […] 
+ Other remarks (e.g. method/formula used for calculating the impact on revenue or any other information). 
+ […] 
+ (1) 
+ Regulation (EU) 2018/1724 of the European Parliament and of the Council of 2 October 2018 establishing a single digital gateway to provide access to information, to procedures and to assistance and problem-solving services and amending Regulation (EU) No 1024/2012 (OJ L 295, 21.11.2018, p. 1–38). 
+ (2) 
+ See Proposal for a Regulation of the European Parliament and the Council amending Regulation (EU) No 910/2014 as regards establishing a framework for a European Digital Identity (COM(2021) 281 final). 
+ (3) 
+ Horizontal rules for the data spaces are proposed with the Proposal for a Regulation of the European Parliament and of the Council on harmonised rules on fair access to and use of data (Data Act) (COM(2022) 68 final) and the Proposal for a Regulation of t he European Parliament and o f t he Council on European data governance (Data Governance Act) (COM(2020) 767 final). 
+ (4) 
+ https://op.europa.eu/en/publication-detail/-/publication/f69284c4-eacb-11eb-93a8-01aa75ed71a1/language-en 
+ (5) 
+ It is estimated that companies located in the EU invested EUR 1 billion in open source software (numbers gathered for 2018), and this contributed EUR 65 to 95 billion to the European Economy. European Commission, Directorate-General for Communications Networks, Content and Technology, Blind, K., Pätsch, S., Muto, S., et al., The impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy: final study report, Publications Office, 2021, 
+ https://data.europa.eu/doi/10.2759/430161 
+ (6) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - European Interoperability Framework – Implementation Strategy (COM(2017) 134 final). 
+ (7) 
+ Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme and repealing Decision (EU) 2015/2240. (OJ L 166, 11.5.2021, p. 1). 
+ (8) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - Shaping Europe ’ s digital future (COM(2020) 67 final). 
+ (9) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - A European strategy for data, 19.02.2020 (COM(2020) 66 final). 
+ (10) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - Identifying and addressing barriers to the Single Market (COM(2020) 93 final). 
+ (11) 
+ Commission Communication on the Digitalisation of justice in the European Union - A toolbox of opportunities (COM (2020) 710 final). 
+ (12) 
+ Communication from the General Secretariat of the Council to the Delegations on the Conclusions of the Special meeting of the European Council (1 and 2 October 2020) (EUCO 13/20). 
+ (13) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - Commission work programme 2022 Making Europe stronger together (COM(2021) 645 final). 
+ (14) 
+ The details of the evaluation process and results together with the supporting evidence are available in Commission staff working document (SWD(2022) 720 final). 
+ (15) 
+ Commission Staff Document - Final evaluation of the ISA² programme (SWD(2021) 965 final), accompanying the document Report from the Commission to the European Parliament and the Council - Results of the final evaluation of the ISA² programme (COM(2021) 965 final). 
+ (16) 
+ Regulation (EU) 2018/1724 of the European Parliament and of the Council of 2 October 2018 establishing a single digital gateway to provide access to information, to procedures and to assistance and problem-solving services and amending Regulation (EU) No 1024/2012 (Text with EEA relevance.) (PE/41/2018/REV/2). 
+ (17) 
+ Directive (EU) 2019/1024 of the European Parliament and of the Council of 20 June 2019 on open data and the re-use of public sector information (PE/28/2019/REV/1). 
+ (18) 
+ Regulation (EU) 2022/868 of the European Parliament and of the Council of 30 May 2022 on European data governance and amending Regulation (EU) 2018/1724 (Data Governance Act) (PE/85/2021/REV/1) . 
+ (19) 
+ Proposal for a Regulation of the European Parliament and the Council amending Regulation (EU) No 910/2014 as regards establishing a framework for a European Digital Identity (COM(2021) 281 final) . 
+ (20) 
+ Proposal for a Regulation of the European Parliament and of the Council on harmonised rules on fair access to and use of data (Data Act) (COM(2022) 68 final). 
+ (21) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2030 Digital Compass: the European way for the Digital Decade (COM/2021/118 final). 
+ (22) 
+ The latest being the Decision (EU) 2015/2240 of the European Parliament and of the Council establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector and Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme and repealing Decision (EU) 2015/2240. 
+ (23) 
+ Case C-22/96, European Parliament v. Council of the European Union, ECLI:EU:C:1998:258. The Court ruled that: ‘[...] [C]ertain aspects of the contested decision concern the interoperability of networks within the meaning of the second indent of Article 129c(1). First, [...] the preamble to that decision emphasises the need to ensure the interoperability of national telematic systems. Second, [...] the contested decision provides that the special procedure laid down by Article 4 is applicable to the ‘ adoption of common rules and procedures for bringing about technical and administrative interoperability ’ . Moreover, according to Article 5(1), the types of action which the Community contribution may encompass include, in particular, measures relating to interoperability. Indeed, interoperability is specified as one of the framework conditions laid down in Article5(2). Although the establishment and development of trans-European telecommunications networks between administrations entail, in themselves, the interconnection and interoperability of national networks as well as access to such networks, the content of the contested decision shows that it covers measures falling specifically within the second indent of Article 129c(1). ’ (paragraphs 35-36). 
+ (24) 
+ SWD(2022) 720 final. 
+ (25) 
+ Register of Commission expert groups and other similar entities. (2021, October 18). European Commission, 
+ https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3714 
+ (26) 
+ CEPS (2021): Study supporting the evaluation of the implementation of the EIF, European Commission. DOI: 10.2799/58201. 
+ (27) 
+ CEPS (2021): Study supporting the final evaluation of the programme on interoperability solutions for European public administrations, businesses and citizens (ISA²), European Commission. DOI: 10.2799/94683. 
+ (28) 
+ Ulrich, P., Duch Brown, N., Minghini, M., Kotsev, A., Hernandez Quiros, L., Boguslawski, R., & Pignatelly, F. (2021). Quantifying the Benefits of Location Interoperability in the European Union. European Commission. 
+ (29) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - EU Regulatory Fitness (COM(2012) 746 final). 
+ (30) 
+ 2022 Annual Work Programme Fit for Future Platform. (n.d.). European Commission, 
+ https://ec.europa.eu/info/sites/default/files/2022_annual_work_programme_-_fit_for_future_platform_en.pdf 
+ (31) 
+ Charter of Fundamental Rights of the European Union, European Union of 26 October 2012 (2012/C 326/02). 
+ (32) 
+ Matusiak, J., & Princ, M. (2018). eGovernment as an element of the right to good administration. Central and Eastern European eDem and eGov Days, 331, 29–39. 
+ https://doi.org/10.24989/ocg.v331.3 
+ (33) 
+ SWD(2020) 54 final, Identifying and addressing barriers to the Single Market. 
+ (34) 
+ OJ C [...], [...], p. [...] 
+ (35) 
+ OJ C [...], [...], p. [...] 
+ (36) 
+ Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 (‘European Climate Law’) (OJ L 243, 9.7.2021, p. 1). 
+ (37) 
+ OJ L 123, 12.5. 2016, p 1. 
+ (38) 
+ Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39). 
+ (39) 
+ Regulation (EU) 2022/868 of the European Parliament and of the Council of 30 May 2022 on European data governance and amending Regulation (EU) 2018/1724 (Data Governance Act) (OJ L 152, 03.06.2022, p. 1). 
+ (40) 
+ Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12). 
+ (41) 
+ Council Directive 2008/114/EC of 8 December 2008 on the identification and designation of European critical infrastructures and the assessment of the need to improve their protection (OJ L 345, 23.12.2008, p. 75). 
+ (42) 
+ Directive (EU) 2019/882 of the European Parliament and of the Council of 17 April 2019 on the accessibility requirements for products and services (Text with EEA relevance) (OJ L 151, 7.6.2019, p. 70–115). 
+ (43) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions European Interoperability Framework – Implementation Strategy , COM/2017/0134 fina l. 
+ (44) 
+ As referred to in Article 58(2)(a) or (b) of the Financial Regulation. 
+ (45) 
+ Details of management modes and references to the Financial Regulation may be found on the BudgWeb site: 
+ https://myintracomm.ec.europa.eu/budgweb/EN/man/budgmanag/Pages/budgmanag.aspx 
+ (46) 
+ Diff. = Differentiated appropriations / Non-diff. = Non-differentiated appropriations. 
+ (47) 
+ EFTA: European Free Trade Association. 
+ (48) 
+ Candidate countries and, where applicable, potential candidates from the Western Balkans. 
+ (49) 
+ All figures in this column (“ Post 2027” ) are indicative and subject to the continuation of the programmes and availability of appropriations. 
+ (50) 
+ According to the official budget nomenclature. 
+ (51) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (52) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (53) 
+ AC= Contract Staff; AL = Local Staff; END= Seconded National Expert; INT = agency staff; JPD= Junior Professionals in Delegations. 
+ (54) 
+ Sub-ceiling for external staff covered by operational appropriations (former ‘BA’ lines).

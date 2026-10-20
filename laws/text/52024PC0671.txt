@@ -1,0 +1,429 @@
+### Digitalisation of travel documents | CELEX 52024PC0671 | text version 52024PC0671 | role proposal
+EUROPEAN COMMISSION
+ Strasbourg, 8.10.2024
+ COM(2024) 671 final
+ 2024/0248(CNS)
+ Proposal for a
+ COUNCIL REGULATION
+ on the issuance of and technical standards for digital travel credentials based on identity cards
+ (Text with EEA relevance)
+ {SWD(2024) 671 final} - {SWD(2024) 672 final}
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ Directive 2004/38/EC of the European Parliament and of the Council 
+ 1 
+ provides that Union citizens can exercise their right to free movement and residence using identity cards and passports. These travel documents are high-security physical documents based on the specifications of the International Civil Aviation Organization (ICAO), and are equipped with a contactless storage medium ( chip ) containing the holder’s biographic data, facial image and two fingerprints . 
+ Since 2016, ICAO has been working to digitalise travel documents to facilitat e air travel. The result of this work by ICAO is the development of a digital travel credential standard that makes use of the personal data (excluding fingerprints) stored on the chip of a travel document. A digital travel credential can be stored securely, for example on a mobile phone, either for single use or for multiple uses. Holders can share their digital travel credential with relevant stakeholders ahead of travel, such as border authorities and carriers, using an interface such as a mobile phone application. The first version of the ICAO digital travel credential technical standard 
+ 2 
+ has already been finalised and tested in pilot projects 
+ 3 
+ . 
+ That technological p rogress in the field of travel documents could be harnessed to facilitate the exercise of the right to free movement , by using the data in the contactless chip of physical documents to create digital travel credentials 
+ 4 
+ . In the context of this proposal , ‘digital travel credential’ means a digital representation of the person’s identity derived from the information stored in the chip of the identity card that can be securely and reliably validated using the public key infrastructure of the Member State authority issuing the identity card. Such a digital travel credential should contain the same personal data, including the holder’s facial image, as the identity card based on which they are created, with the exception of the holder’s fingerprints. 
+ Digital travel credentials based on identity cards have the potential to make it easier for Union citizens to exercise their right to free movement. Because Union citizens may use their identity cards to cross the external borders of the Schengen area, such digital travel credentials would allow them to pass through border controls more quickly and more smoothly. 
+ For this purpose , t his initiative goes side-by-side with a proposal for a regulation of the European Parliament and of the Council establishing an application for the electronic submission of travel data (“ EU Digital Travel application”) and amending Regulations (EU) 2016/399 and (EU) 2018/1726 of the European Parliament and of the Council and Council Regulation (EC) No 2252/2004, as regards the use of digital travel credentials 
+ 5 
+ . Among other things, that proposal introduces a digital travel credential based on passports and sets out specifications for the ‘ EU Digital Travel application ’ , a mobile phone application for the issuance and submission of digital travel credentials for advance check ahead of travel . Adopting both proposals at the same time ensures consistency in the developments for identity cards and passports, taking into account that both types of travel document s can be used to exercise the right to free movement. As a result , Union citizens holding an identity card should be able to use the ‘ EU Digital Travel application ’ to create and submit identity card-based digital travel credentials just like when using passports . 
+ Once available, digital travel credentials could also be used to facilitate other aspects of free movement, such as registering with national authorities when taking up residence in another Member State, which has the potential to reduce administrative burden. At a later stage, it may also become possible to exercise free movement based on a digital travel credential only, that is, without the need for a physical identity card or passport. Lastly, an authentic digital travel credential could facilitate access to electronic identification schemes, and to services that require reliable identification. This has the potential to simplify the daily life of Union citizens, including those that reside in a Member State other than that of which they are a national. 
+ Industry and national governments have already begun exploring ways of using digital travel information to make travel a more seamless and customer-centric process. T he Commission considers that a uniform standard for digital travel credentials should be laid down at Union level, as announced in the 2023 Commission work programme 
+ 6 
+ , because this would: (i) avoid fragmentation; (ii) ensure compliance with Union values; and (iii) guarantee that all Union citizens can benefit from digital travel credentials . This would also enable the Union to shape progress on global standards , and promote both its economic interests and its technological strategic autonomy. 
+ In view of the above, this initiative aims to set up a digital travel credential based on identity cards issued by Member States that Union citizens can use when exercising their right to free movement. 
+ To achieve global interoperability, the Union’s technical specifications for identity card-based digital travel credentials should be based on ICAO’s digital travel credential standard. To ensure that all Union citizens who hold an identity card can obtain a digital travel credential, all Member States issuing identity cards should offer digital travel credentials to their nationals. At the same time, Union citizens should not be obliged to hold a digital travel credential if they wish to exercise free movement using their physical identity card or passport only. 
+ To promote the uptake of digital travel credentials , Union citizens should have the option to receive an identity card-based digital travel credential when they receive a new physical identity card. In addition, they should be able to obtain a digital travel credential using an already existing and valid identity card , including by creating it via mobile phone applications. Lastly, Union citizens should be able to store the digital travel credential in their European Digital Identity Wallet 
+ 7 
+ . 
+ • Consistency with existing policy provisions in the policy area 
+ T his initiative necessitates that the identity cards issued by Member States comply with a standard that ensures that the se identity card s can serve as the basis for the creation of digital travel credentials . For this reason, this initiative builds on – and is aligned with – the relevant rules at Union level on identity cards, currently found in Regulation (EU) 2019/1157 of the European Parliament and of the Council 
+ 8 
+ . Following the Court of Justice ’s invalidation of Regulation (EU) 2019/1157 in Landeshauptstadt Wiesbaden 
+ 9 
+ , the Commission adopted, on 23 July 2024, a proposal 
+ 10 
+ setting in motion the procedure for a new regulation on identity card standards . 
+ This initiative does not amend the substantive conditions laid down in Directive 2004/38/EC on the right of Union citizens to move and reside freely within the territory of the Member States. At the same time, by providing Union citizens with an identity card-based digital travel credential, this initiative seeks to make it easier for Union citizens to exercise that right in full consistency with Directive 2004/38/EC. 
+ • Consistency with other Union policies 
+ This initiative and the implementation of digital travel credentials in the Union more generally is closely linked to ongoing developments on creating a European digital identity and the European Digital Identity Wallet. It should be possible to store digital travel credentials alongside digital driving licences, medical prescriptions and other documents in the European Digital Identity Wallet. 
+ T his initiative is also connected with the Commission’s ‘ Digital Europe ’ strategy of 2020, which aims to support the uptake of technology that will make a real difference to people’s daily lives. The initiative also supports the ‘ Digital Compass ’ for the Union ’s ‘D igital Decade’ programme , part of which promotes the digitalisation of public services. The specific objective of the ‘Digital Compass’ is for all Union citizens to have access to digital identification by the end of 2030 
+ 11 
+ . In the European Declaration on Digital Rights and Principles for the Digital Decade 
+ 12 
+ , the Commission and the co-legislators committed to ensuring that people living in the Union are offered the possibility to use an accessible, voluntary, secure and trusted digital identity. More generally, the proposal helps to expand the use of digital technologies. 
+ The initiative also responds to the general global trend in digitalisation and to travellers’ expectations for ever faster and more seamless travel formalities. 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ Article 77(3) of the Treaty on the Functioning of the European Union (TFEU) confers on the Union a competence to adopt provisions on passports, identity cards, residence permits or any other such document intended to facilitate the exercise of the right to move and reside freely within the territory of the Member States guaranteed in Article 20(2)(a) TFEU 
+ 13 
+ . 
+ The objective of this proposal is to facilitate the exercise of the right to free movement of Union citizens in a secure environment by providing them with authentic digital travel credentials based on the identity cards issued to them by the Member States. This proposal is thus inextricably linked to the rules on physical identity cards. T h erefore, th is proposal is based on the same legal basis as the Commission’s proposal for a Council r egulation on strengthening the security of identity cards of Union citizens and of residence documents issued to Union citizens and their family members exercising their right of free movement 
+ 14 
+ . 
+ Article 77(3) TFEU provides for a special legislative procedure. When adopting measures pursuant to Article 77(3) TFEU, the Council must act unanimously after consulting Parliament. 
+ • Subsidiarity (for non-exclusive competence) 
+ The current Union legal framework does not allow for the use of digital solutions in the context of the exercise of the right to free movement. Due to the nature of the problem and the need to ensure interoperability, Member States themselves cannot effectively introduce a Union-wide uniform format for digital travel credentials based on identity cards, and therefore cannot facilitate the exercise of free movement on the basis of such digital travel credentials. Any national solutions would bear the risk of not being accepted in other Member States, and would raise questions regarding their compliance with Union law when used in the context of free movement. 
+ This proposal aims to facilitate the exercise of the right to free movement by giving Union citizens the option to obtain and use digital travel credentials based on their national identity cards. For reasons of scale and expected impacts, the objectives can only be achieved efficiently and effectively at Union level. 
+ At the same time, this proposal does not require Member States to introduce identity cards where they are not provided for under national law. 
+ • Proportionality 
+ The proposal does not go beyond what is necessary to achieve its objective, as it does not fundamentally alter the rules and provisions of Directive 2004/38/EC or those laid down in the Commission’s proposal for a Council r egulation on strengthening the security of identity cards of Union citizens and of residence documents issued to Union citizens and their family members exercising their right of free movement 
+ 15 
+ . 
+ In addition, the decision as to whether or not to obtain a digital travel credential would be left to individual Union citizens. Those who decide not to do so would still be able to exercise their right to free movement using their physical passport or identity card only. However, they might not benefit from some of the facilitations available to Union citizens who also hold a digital travel credential. 
+ Additional explanations on the proportionality of the different policy options – including those not retained – are given in the impact assessment accompanying this proposal 
+ 16 
+ . 
+ • Choice of the instrument 
+ A regulation is the sole legal instrument ensuring the direct, immediate and common implementation of Union law in all Member States. 
+ 3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Stakeholder consultations 
+ The preparation of this initiative and the accompanying proposal 
+ 17 
+ involved a wide range of consultations of stakeholders, including Member State authorities, Union agencies, industry, the general public, and international organisations involved in international travel. A public consultation was organised as part of the impact assessment 
+ 18 
+ . A special Eurobarometer survey was also carried out to gain further insights into Union citizens’ views on the use of digital travel credentials for cross-border travel 
+ 19 
+ . Most stakeholders that were consulted expressed wide support for the initiative, underlining the expected benefits and convenience for both national authorities and travellers that would result from enabling travellers to use digital travel credentials . 
+ The Commission has taken account of the feedback received in these consultation activities in preparing this initiative. For example, the initiative provides for the use of digital travel credentials to be voluntary (not mandatory for travellers) and it proposes a uniform technical standard for all Union digital travel credentials. 
+ • Collection and use of expertise 
+ To help prepare the impact assessment, the Commission contracted an external study on a Union initiative on the digitalisation of travel documents and facilitation of travel to develop options and assess their potential impacts. The study involved collecting stakeholder views and expertise in the form of strategic interviews, targeted consultations, in-depth interviews and the public consultation. 
+ Three Member States (Finland, Croatia and the Netherlands) are also carrying out Union-funded pilot projects to test digital travel credentials for cross-border travel. The experiences and results received so far from these pilot projects were taken into account and reflected in the impact assessment and this proposal. 
+ • Impact assessment 
+ In prepar ing this initiative and the accompanying proposal 
+ 20 
+ , the Commission also conducted an impact assessment 
+ 21 
+ . The impact assessment evaluated three policy options, each entailing legislative measures given that they required amending or complementing existing Union legislation on travel documents and border checks. This ruled out a ‘soft law’ approach from the outset. 
+ Each policy option contained a few common building blocks, namely: (i) a transition period; (ii) the use of the existing international ICAO technical standard; (iii) the voluntary use of digital travel credentials by travellers (as confirmed by the public consultation); and (iv) a central Union technical solution for creating and submitting digital travel credentials. 
+ The main difference between the three policy options is the level of flexibility enjoyed by Member States on: (i) the possibility for people to receive digital travel credentials (as some Member States have explicitly prohibited access to the chip data of travel documents); and (ii) the use of digital travel credentials in the context of cross-border travel. 
+ The summary below only covers the aspects that are relevant to this proposal. 
+ Policy option 1 allowed Member States to make digital travel credentials available to travellers. 
+ Policy option 2 obliged Member States to make digital travel credentials available to travellers. 
+ Policy option 3 obliged Member States to make digital travel credentials available to travellers and laid down a harmonised approach regarding their use across Member States. 
+ Based on the findings of the impact assessment, the preferred option was option 3 combined with a suitable transition period. Under option 3, all Member States would offer digital travel credentials based on the travel documents they already issue. Union citizens would be able to use their digital travel credentials: (i) in the Member States that choose to implement digital travel credentials during a transition period; and (ii) in all Member States concerned after the transition period and once the common Union-wide technical solution is ready. 
+ Overall, the preferred option has the most positive impact in terms of meeting the objectives to: (i) enable the smoother and easier exercise of free movement; and (ii) uphold strict security standards. This impact is mainly due to the dual obligation on Member States to allow individuals to both obtain digital travel credentials and actually use them for travel purposes. Fulfilling this dual obligation is expected to result in the highest expected uptake of digital travel credentials of all policy options. The preferred option would give every Union citizen holding a compliant identity card the option to obtain a digital travel credential in the most effective way. 
+ Standardising identity card-based digital travel credentials would also bring further benefits, such as greater efficiency for transport carriers (airlines, passenger shipping, rail companies, etc.) that might decide on a voluntary basis to integrate these digital travel credentials into their workflows. By incorporating digital travel credentials into the European Digital Identity Wallet, this proposal would enable Union citizens to make further use of them. 
+ The preferred option puts a limited burden on Member States linked to the delivery of digital travel credentials, which is offset by the expected positive impact of the measures. The ultimate benefits will depend on the uptake of digital travel credentials. Further information on the costs, benefits and scenario-based evaluations of the preferred option are provided in the impact assessment. 
+ No significant environmental impacts are expected from this initiative, in particular given that the initiative is not expected to have an impact on the volume of travel. 
+ The Regulatory Scrutiny Board issued a positive opinion on the impact assessment on 15 December 2023 
+ 22 
+ , in which it recommended that the impact assessment better distinguish benefits in terms of competitiveness and better assess costs and benefits of the different options. 
+ • Regulatory fitness and simplification 
+ No specific impacts on small and medium-sized enterprises were identified in the process of preparing this proposal. 
+ As this proposal would set up an identity card-based digital travel credential, it is fully compatible with the ‘digital by default’ principle. 
+ • Fundamental rights 
+ This proposal has a positive impact on Union citizens’ fundamental right to free movement and residence under Article 45 of the Charter of Fundamental Rights of the European Union (‘the Charter’) by introducing a digital travel credential based on identity cards aimed at facilitating the exercise of that right. 
+ This proposal will lead to the processing of personal data ( including biometric data , namely the facial image of the holder of the digital travel credential ) . The obligation to include a facial image in the digital travel credential issued on the basis of identity cards constitutes a limitation to both the right to respect for private life and the right to the protection of personal data 
+ 23 
+ . Limitations on those rights must be provided for by law and must respect the essence of those rights. In addition, in compliance with the principle of proportionality, such limitations may be made only if they are necessary and genuinely meet objectives of general interest recognised by the Union or the need to protect the rights of others 
+ 24 
+ . 
+ In this context, the proposal provides that applicable Union legislation 
+ 25 
+ , notably the provisions on the protection of personal data in the context of physical identity cards 
+ 26 
+ , would apply. T he limitations, as well as the conditions for application and scope of those limitations, will thus be laid down in Union legislation, primarily in this proposal as well as the proposed regulation on identity cards 
+ 27 
+ . The obligation to include the facial image of the holder does not adversely affect the essence of the fundamental rights enshrined in Articles 7 and 8 of the Charter, as the information provided by the facial image does not, in itself, make it possible to have an overview of the private and family life of data subjects 
+ 28 
+ . 
+ The inclusion of the facial image in the digital travel credential is intended to enable the holder of that credential to be reliably identified by comparing their facial image to that in the digital travel credential when the digital travel credential is presented , and thus to combat document fraud , which is an objective of general interest recognised by the Union, as also confirmed by the Court of Justice 
+ 29 
+ . 
+ The inclusion of the facial image in the digital travel credential is appropriate for attaining the general-interest objective of combating document fraud, as it is a means to reliably verify the identity of the holder of the digital travel credential, and thereby to reduce the risk of fraud. 
+ This is not called into question by the fact that digital travel credentials do not, unlike physical identity cards, include the fingerprints of the holder, because digital travel credentials are used in combination with a physical document rather than replacing them. If they have doubts as to the authenticity of the digital travel credential or the identity of the holder, competent authorities retain the possibility to use the fingerprints stored in the chip of the identity card. There are currently no standards for the inclusion of fingerprints in digital travel credentials, and due to the cryptographic protection of fingerprints, it is in any event not possible to extract them from the chip of the identity card. 
+ The inclusion of the facial image is also necessary to attain the general interest pursued. Without its inclusion, the digital travel credential would only contain biographic data of the holder (such as name, date of birth, etc.), which is not a reliable and effective means of identification. 
+ In addition, the digital travel credentials based on this proposal will not contain personal data that are not already contained in the chip of the identity card on the basis of which it is issued. In fact, they will contain fewer personal data, given that the digital travel credential does not contain the fingerprints of the holder. 
+ As already noted by the Court of Justice in Landeshauptstadt Wiesbaden on physical identity cards 
+ 30 
+ , the limitations resulting from the inclusion of such biometric data are not – having regard to the nature of the data at issue, the nature of the processing operations, the manner in which they are carried out and the safeguards laid down – of a seriousness that is disproportionate when compared with the significance of the objective pursued. Accordingly, such a measure must be regarded as being based on a fair balance between, on the one hand, those objectives and, on the other, the fundamental rights involved. As a result, the limitations on the exercise of the rights guaranteed in Articles 7 and 8 of the Charter are not contrary to the principle of proportionality. 
+ 4. BUDGETARY IMPLICATIONS 
+ The proposal has no implications for the Union budget. 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ Within 5 years of the creation of the first digital travel credentials using the ‘ EU Digital Travel application ’ , t he Commission will evaluate the effectiveness, efficiency, relevance, coherence and Union added value of the proposal . This will ensure that sufficient data on all aspects of the regulation are available. That evaluation could be carried out together with the evaluation provided for in the accompanying proposal 
+ 31 
+ . 
+ • Detailed explanation of the specific provisions of the proposal 
+ Article 1 describes the subject matter of the regulation. 
+ Article 2 contains the substantive rules on the creation of digital travel credentials based on identity cards that have been issued by Member States to their own nationals as referred to in Article 4(3) of Directive 2004/38/EC in a format that complies with the proposed regulation on physical identity cards 
+ 32 
+ . 
+ When issuing a new identity card, Member States should provide applicants, at their request, with a corresponding digital travel credential. Holders of compatible identity cards should also be able to request a corresponding digital travel credential from the Member States having issued the identity card at a later stage. 
+ In addition, holders of an identity card should be able to create a digital travel credential based on that card. It should be possible for holders to be issued with a digital travel credential remotely by means available to the person concerned, such as a mobile phone capable of reading the contactless chip of the identity card together with a mobile phone application. 
+ Before a digital travel credential is created, Member States should put in place a system to confirm the authenticity and integrity of the chip of the identity card and to match the facial image of the person seeking to create the digital travel credential against the facial image stored on the chip. This is to ensure that the digital travel credential is created by the person to whom the identity card was issued. 
+ For the purpose of creating a digital travel credential themselves , holders of an identity card should be able to use the ‘ EU Digital Travel application ’ , provisions for which are laid down in the accompanying proposal 
+ 33 
+ . This application will support the creation of digital travel credentials based on identity cards , given that they will use the same technical standards as digital travel credentials based on passports . 
+ Digital travel credentials should contain the same personal data, including the holder’s facial image, as the identity card on which they are based, apart from the fingerprints of the holder, which should not be included. 
+ It should be possible for holders of a digital travel credential to store it in the European Digital Identity Wallet. 
+ In addition, this article empowers the Commission to set, by way of implementing act, the latest date as of which Member States are to enable the creation of digital travel credentials using the ‘EU Digital Travel application’. This empowerment is meant to ensure that the legal requirement to enable the creation of digital travel credentials using the ‘EU Digital Travel application’ applies only once that application has become operational. 
+ Article 3 sets out the obligation for Member States to designate contact points for the implementation of the regulation. These could be the same as those designated for the implementation of the proposed regulation on physical identity cards 
+ 34 
+ . 
+ Article 4 provides that , in addition to the generally applicable Union data protection legal framework, the specific data protection framework of the proposed regulation on identity cards 
+ 35 
+ is to apply to the processing of personal data under this regulation . No separate data protection framework is needed given that the digital travel credentials established by this regulation contain the same personal data as physical identity cards, except for the fingerprints of the holder, and are intended to be used for the same purposes. 
+ Article 5 empowers the Commission to adopt the necessary technical specifications, procedures and requirements for digital travel credentials issued on the basis of identity cards, including those regarding their: (i) data schema and format; (ii) issuance and disclosure process; (iii) validity; (iv) trust model; (v) authentication and validation; and (vi) revocation. 
+ These technical specifications should, as far as possible, be based on the relevant international standards and practices agreed upon at the level of ICAO to ensure both a consistent approach at international level and the global interoperability of digital travel credentials. 
+ The technical specifications will also aim to ensure that the digital travel credential can be stored in the European Digital Identity Wallet. 
+ Article 6 contains rules on the committee tasked with assisting the Commission in implementing the regulation. 
+ The ‘Committee on a uniform visa format’ 
+ 36 
+ established by Article 6 of Council Regulation (EC) No 1683/95 
+ 37 
+ is designated as the responsible committee, given that is equally responsible for assisting the Commission regarding the proposed regulation on physical identity cards 
+ 38 
+ . 
+ Article 7 sets out that the Commission is to evaluat e the regulation and report thereon within 5 years after the date as of which Member States are to enable the creation of digital travel credentials using the ‘ EU Digital Travel application ’ as per the implementing act to be adopted pursuant to Article 2 . This evaluation will be carried out in line with the Commission’s ‘b etter r egulation ’ g uidelines 
+ 39 
+ and pursuant to paragraphs 22 and 23 of the Interinstitutional Agreement of 13 April 2016 on Better Law-Making 
+ 40 
+ . In order to be able to issue such a report, the Commission will require input from Member States and relevant Union agencies . 
+ Article 8 contains rules on the entry into force and application of the regulation. It provides that Member States must start to issue identity card-based digital travel credentials outside the ‘EU Digital Travel application’ 12 months after the adoption of the necessary technical specifications referred to in Article 5. Creating identity card-based digital travel credentials using the ‘EU Digital Travel application’ will become possible at a later stage, and only once the Commission has adopted the implementing act referred to Article 2. 
+ 2024/0248 (CNS) 
+ Proposal for a 
+ COUNCIL REGULATION 
+ on the issuance of and technical standards for digital travel credentials based on identity cards 
+ (Text with EEA relevance) 
+ THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 77(3) thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Parliament 
+ 41 
+ , 
+ Acting in accordance with a special legislative procedure, 
+ Whereas: 
+ (1) Pursuant to Directive 2004/38/EC of the European Parliament and of the Council 
+ 42 
+ physical identity cards and passports are the documents enabling Union citizens to exercise their right to free movement and residence . 
+ (2) In order to increase the reliability and acceptance of identity cards issued by Member States to their nationals and of residence documents issued by Member States to Union citizens and their family members and, therefore, facilitat e the exercise of the right to free movement, Council Regulation (EU) XXXX / XXXX 
+ 43 
+ [ COM(2024) 316 final ] strengthens the security standards applicable to th o se identity cards and residence documents . For identity cards, that Regulation sets out the security standard s , format and specifications with which such physical documents are to comply with . 
+ (3) To facilitate the exercise of the right to free movement and residence, rules at Union level should be laid down for the creation of identity card-based digital travel credentials , that is, a digital representation of the person’s identity that is derived from the information stored in the storage medium of an identity card and that can be validated using the public key infrastructure of the authority issuing the identity card. Doing so also serves to avoid the emergence of incompatible standards within the Union , and makes sure that all Union citizens holding an identity card can obtain digital travel credentials if they so wish. 
+ (4) When the exercise of the right to free movement involves travel to another Member State, the use of identity card-based digital travel credentials could speed up any applicable checks. Accordingly, Union citizens should be entitled to receive and use digital travel credentials based on their identity cards . At the same time, they should not be obliged to hold a digital travel credential or to continue using it once obtained. 
+ (5) To make it easy for Union citizens to obtain a digital travel credential , Member States should, when issuing an identity card and upon request of the applicant, also issue Union citizens with a corresponding digital travel credential based on harmonised Union specifications . 
+ (6) In addition, given that a Union citizen may not have chosen to receive a digital travel credential when being issued an identity card, Member States should offer holders of identity cards issued by them in a format that complies with the requirements of Regulation (EU) XXXX/XXXX [ COM(2024) 316 final ] the possibility to create a corresponding digital travel credential at a later stage, including remotely by using devices such as mobile phones capable of reading the storage medium of the identity card together with a mobile phone application . 
+ (7) When a digital travel credential is created remotely, Member State s should ensure, by configuring the necessary software solution accordingly, that the authenticity and integrity of the storage medium of the physical identity card are verified and that the facial image of the person seeking to create the digital travel credential is matched against the facial image stored on the storage medium before the credential is created . This is to ensure that digital travel credentials are only created by the person to whom the identity card was issued. 
+ (8) Given that the ‘ EU Digital Travel application ’ , provisions for which are laid down in Regulation (EU) XXXX/XXXX of the European Parliament and of the Council 
+ 44 
+ [ COM(2024) 670 final ] , will allow for the creation of digital travel credentials based on identity cards that meet the requirements of Regulation (EU) XXXX/XXXX [ COM(2024) 316 final ] , Union citizens holding such identity cards should be able to use that application when remote ly creati ng corresponding digital travel credentials . 
+ (9) The digital travel credential should support being stored in European Digital Identity Wallet s issued in accordance with Regulation (EU) No 910/2014 of the European Parliament and of the Council 
+ 45 
+ . 
+ (10) Given that they are derived from an identity card, digital travel credentials should contain the same personal data, including a facial image. The inclusion of biometric data, namely the facial image , in the digital travel credential should enable the holder of that credential to be reliably identified by comparing their facial image to that in the digital travel credential when the digital travel credential is presented , and thus to combat document fraud . As the Court of Justice confirmed, combating document fraud , which includes, among other things, combating the production of false documents and combating the use of genuine documents by people other than the true owners of those genuine documents , constitutes an objective of general interest recognised by the Union. 
+ (11) However, digital travel credentials should not include the fingerprints of the holder , which are present in the storage medium of identity cards to combat document fraud . There are currently no standards for their inclusion in digital travel credentials , and due to their cryptographic protection , it is in any event not possible to extract fingerprints from the storage medium of identity cards . The absence of fingerprints in digital travel credentials does not undermine the protection against the fraudulent use of identity card s , as digital travel credentials are used in combination with physical identity cards rather than replacing them. I f competent authorities have doubts as to the authenticity of the digital travel credential or the identity of the holder, they retain the possibility to use the fingerprints stored in the storage medium of the identity card. 
+ (12) To boost the uptake of digital travel credentials , and without prejudice to the competence of Member States to determine the fees for the issuance of identity cards, digital travel credentials should be issued free of charge. 
+ (13) Member States should exchange with each other the information necessary to allow for the verification of the authenticity and validity of digital travel credentials . 
+ (14) Given that a digital travel credential issued pursuant to this Regulation consists of the information in the storage medium of the holder’s identity card, its issuance should facilitate the exercise of free movement and residence for persons holding such a document, including in the context of entry into the territory of a Member State. 
+ (15) R egulation (EU) 2016/679 of the European Parliament and of the Council 
+ 46 
+ applies with regard to the personal data to be processed in the context of the application of this Regulation. Given that the digital travel credentials established by this Regulation contain the same personal data as identity cards, except for the fingerprints of the holder, and are used for the same purposes, t he specific rules in Regulation (EU) XXXX/XXXX [COM(2024) 316 final] on the protection of personal data should also apply to digital travel credentials covered by this Regulation. 
+ (16) In order to ensure uniform conditions for the issuance and creation of identity card-based digital travel credentials , implementing powers should be conferred on the Commission to adopt technical specifications , procedures and requirements, including regarding their issuance process , validity , authentication, validation and revocation . When drawing up the technical specifications for the digital travel credential , the Commission should , as far as possible , base itself on the relevant international standards and practices agreed upon through the International Civil Aviation Organization to ensure both a consistent approach at international level and the global interoperability of digital travel credentials . The Commission should also seek to ensure accessibility for persons with disabilities in accordance with accessibility requirements under Union law . In addition, implementing powers should be conferred on the Commission to confirm that it is technically possible to create identity card-based digital travel credentials using the ‘ EU Digital Travel application ’ , provisions for which are laid down in Regulation (EU) XXXX/XXXX [ COM(2024) 670 final ] and, on that basis, to establish the date as of which Member States should enable the creation of identity card-based digital travel credentials using that application at the latest. Those implementing powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council 
+ 47 
+ . 
+ (17) Since the objectives of this Regulation, namely to facilitate the exercise of the right of free movement by establishing identity card-based digital travel credentials, cannot be sufficiently achieved by the Member States but can rather, by reason of the scale and effects of the action, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union . In accordance with the principle of proportionality as set out in that Article , this Regulation does not go beyond what is necessary in order to achieve those objectives . 
+ (18) In accordance with paragraphs 22 and 23 of the Interinstitutional Agreement of 13 April 2016 on Better Law-Making 
+ 48 
+ , the Commission should carry out an evaluation of this Regulation in order to assess its actual effects and the need for any further action. 
+ (19) In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union , Denmark is not taking part in the adoption of this Regulation and is not bound by it or subject to its application. 
+ (20) [In accordance with Article 3 of the Protocol No 21 on the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the Treaty on European Union and the Treaty on the Functioning of the European Union, Ireland has notified its wish to take part in the adoption and application of this Regulation.] OR [In accordance with Articles 1 and 2 of Protocol No 21 on the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, and without prejudice to Article 4 of that Protocol, Ireland is not taking part in the adoption of this Regulation and is not bound by it or subject to its application.] 
+ (21) This Regulation respects fundamental rights and observes the principles recognised in particular by the Charter of Fundamental Rights of the European Union (the Charter) including the right of free movement and the right to the protection of personal data . Member States should comply with the Charter when implementing this Regulation. 
+ (22) The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council 
+ 49 
+ and delivered an opinion on XXXX 
+ 50 
+ , 
+ HAS ADOPTED THIS REGULATION: 
+ Article 1 
+Subject matter 
+ This Regulation lays down the framework for the issuance and creation of digital travel credentials based on identity cards issued by Member States to Union citizens in accordance with the requirements laid down in Regulation (EU) XXXX/XXXX [COM(2024) 316 final] for the purpose of facilitating the exercise of the right referred to in Article 20(2)(a) of the Treaty on the Functioning of the European Union by Union citizens holding such digital travel credentials. 
+ Article 2 
+ Digital travel credential s 
+ 1. Upon request from the person having applied for an identity card , identity cards issued by Member States shall be accompanied by a digital travel credential . 
+ 2. Upon request from the holder of an identity card issued in accordance with the requirements of Regulation (EU) XXXX/XXXX [COM(2024) 316 final] , the Member State having issued the identity card shall issue a digital travel credential . 
+ 3. Member States shall offer holders of an identity card issued by them in accordance with the requirements of Regulation (EU) XXXX/XXXX [COM(2024) 316 final] the possibility to remotely create a digital tra vel credential . To that effect, holders shall be able to use the ‘ EU Digital Travel application ’ , provisions for which are laid down in Regulation (EU) XXXX/XXXX [ COM(2024) 670 final ] . Holders shall be allowed to access the parts of the storage medium of identity cards that are necessary for the purpose of creating a digital travel credential . 
+ Before the digital travel credential is created, Member States shall ensure that the integrity and authenticity of the storage medium of the identity card are verified and that the facial image of the person seeking to create the digital travel credential is matched against the facial image stored on the storage medium. 
+ 4. Digital travel credentials issued or created pursuant to this Article shall : 
+ (a) be based on the technical specifications adopted pursuant to Article 5; 
+ (b) be in a format that enables their storage in European Digital Identity Wallets issued in accordance with Regulation (EU) No 910/2014 ; 
+ (c) be free of charge; 
+ (d) contain the same personal data, including facial image, as the identity card based on which they are issued or created . 
+ For the purpose of point (d), digital travel credentials issued or created pursuant to this Article shall not include the fingerprints of the holder. 
+ 5. Member States shall enable the authentication and validation of digital travel credential s in accordance with the technical specifications adopted pursuant to Article 5 . 
+ 6. Once the Commission has confirmed that it is technically possible to create digital travel credentials based on identity cards issued in accordance with the requirements laid down in Regulation (EU) XXXX/XXXX [COM(2024) 316 final] using the ‘ EU Digital Travel application ’ , provisions for which are laid down in Regulation (EU) XXXX/XXXX [ COM(2024) 670 final ] , Member States shall enable the creation of digital travel credentials pursuant to paragraph 3 of this Article at the latest from the date set by the Commission by means of an implementing act. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 6(2) . 
+ Article 3 
+Contact point 
+ Each Member State shall designate an authority as the contact point for the implementation of this Regulation. Each Member State shall communicate the name of that authority to the Commission and the other Member States. If a Member State changes its designated authority, it shall inform the Commission and the other Member States accordingly. 
+ Article 4 
+Protection of personal data 
+ Personal data stored in digital travel credentials issued or created pursuant to Article 2 shall be processed in accordance with Article 11 of Regulation (EU) XXXX/XXXX [COM(2024) 316 final] . 
+ Article 5 
+ T echnical specifications , procedures and requirements 
+ The Commission shall, by way of implementing acts, adopt technical specifications, procedures and requirements for digital travel credentials issued or created on the basis of identity cards, including on their: 
+ (a) data schema and format ; 
+ (b) issuance and disclosure process ; 
+ (c) validity ; 
+ (d) trust model ; 
+ (e) authentication and validation; 
+ (f) revocation. 
+ Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 6(2). 
+ When adopting those technical specifications, the Commission shall take into account accessibility requirements under Union law. 
+ Article 6 
+Committee procedure 
+ 1. The Commission shall be assisted by the Committee established by Article 6 of Council Regulation (EC) No 1683/95 
+ 51 
+ . That committee shall be a committee within the meaning of Regulation (EU) No 182/2011. 
+ 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. 
+ Article 7 
+Evaluation 
+ By 5 years after the adoption of the implementing act referred to in Article 2(6), the Commission shall carry out an evaluation of this Regulation and present a report on the main findings to the European Parliament and the Council. 
+ Member States and relevant Union agencies shall provide the Commission with the information necessary for the preparation of that report. 
+ Article 8 
+Entry into force 
+ This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . 
+ Article 2(1) and Article 2(2) shall apply from 12 months after the entry into force of the technical specifications, procedures and requirements referred to in Article 5. 
+ This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties. 
+ Done at Strasbourg, 
+ For the Council 
+ The President 
+ (1) 
+ Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC (OJ L 158, 30.4.2004, p. 77 , ELI: 
+ http://data.europa.eu/eli/dir/2004/38/oj 
+ ). 
+ (2) 
+ See ICAO, 
+ Guiding Core Principles for the Development of Digital Travel Credential (DTC) 
+ and 
+ Digital Travel Credentials (DTC), Virtual Component Data Structure and PKI Mechanisms 
+ , Technical report version 1.2, October 2020. 
+ (3) 
+ See, for example, Raja Rajavartiolaitos, “Finland and Croatia are testing digital travel credentials in external border traffic in a DTC Pilot project”, 03.02.2023, available online at: 
+ https://raja.fi/-/suomi-ja-kroatia-kokeilevat-digitaalisen-matkustusasiakirjan-kayttoa-ulkorajaliikenteessa-dtc-pilottiprojektissa?languageId=en_US 
+ ; Government of Netherlands, “Dutch participation in European DTC pilot”, 27.10.2023, available online at 
+ https://www.government.nl/documents/publications/2023/02/23/dtc 
+ . 
+ (4) 
+ For more d etails regarding the crossing of the external borders of the area without internal border controls, see COM(2024) 670 final . 
+ (5) 
+ COM(2024) 670 final. 
+ (6) 
+ COM ( 202 2 ) 548 final . 
+ (7) 
+ Laid down in Regulation (EU) 2024/1183 of the European Parliament and of the Council of 11 April 2024 amending Regulation (EU) No 910/2014 as regards establishing the European Digital Identity Framework ( OJ L, 2024/1183, 30.4.2024, ELI: 
+ http://data.europa.eu/eli/reg/2024/1183/oj 
+ ). 
+ (8) 
+ Regulation (EU) 2019/1157 of the European Parliament and of the Council of 20 June 2019 on strengthening the security of identity cards of Union citizens and of residence documents issued to Union citizens and their family members exercising their right of free movement (OJ L 188, 12.7.2019, p. 67 , ELI: 
+ http://data.europa.eu/eli/reg/2019/1157/oj 
+ ). 
+ (9) 
+ Judgment of 21 March 2024, C-61/22, Landeshauptstadt Wiesbaden , ECLI:EU:C:2024:251 . 
+ (10) 
+ COM(2024) 316 final. 
+ (11) 
+ https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_en 
+ (12) 
+ OJ C 23, 23.1.2023, p. 1 . 
+ (13) 
+ Judgment of 21 March 2024, C-61/22, Landeshauptstadt Wiesbaden , ECLI:EU:C:2024:251, paragraph 54. 
+ (14) 
+ COM(2024) 316 final. 
+ (15) 
+ COM(2024) 316 final. 
+ (16) 
+ SWD(2024) 671 final. 
+ (17) 
+ COM(2024) 670 final . 
+ (18) 
+ https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13514-Travel-digitalising-travel-documents-to-make-travelling-easier/public-consultation_en 
+ (19) 
+ Special Eurobarometer 536 report 
+ on the digitalisation of travel documents and the facilitation of travel. 
+ (20) 
+ COM(2024) 670 final . 
+ (21) 
+ SWD(2024) 671 final . 
+ (22) 
+ SEC(2024) 670 . 
+ (23) 
+ Judgment of 21 March 2024, C-61/22, Landeshauptstadt Wiesbaden , ECLI:EU:C:2024:251, paragraphs 73 to 74. 
+ (24) 
+ Judgment of 21 March 2024, C-61/22, Landeshauptstadt Wiesbaden , ECLI:EU:C:2024:251, paragraph 76. 
+ (25) 
+ Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) ( OJ L 119, 4.5.2016, p. 1 , ELI: 
+ http://data.europa.eu/eli/reg/2016/679/oj 
+ ) and Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA ( OJ L 119, 4.5.2016, p. 89 , ELI: 
+ http://data.europa.eu/eli/dir/2016/680/oj 
+ ) . 
+ (26) 
+ COM(2024) 316 final. 
+ (27) 
+ COM(2024) 316 final. 
+ (28) 
+ See also judgment of 21 March 2024, C-61/22, Landeshauptstadt Wiesbaden , ECLI:EU:C:2024:251, paragraphs 80 to 81. 
+ (29) 
+ J udgment of 21 March 2024, C-61/22, Landeshauptstadt Wiesbaden , ECLI:EU:C:2024:251, paragraph 8 7 and case-law cited . 
+ (30) 
+ Judgment of 21 March 2024, C-61/22, Landeshauptstadt Wiesbaden , ECLI:EU:C:2024:251, paragraphs 106-125 . 
+ (31) 
+ COM(2024) 670 final . 
+ (32) 
+ COM(2024) 316 final. 
+ (33) 
+ COM(2024) 670 final . 
+ (34) 
+ COM(2024) 316 final. 
+ (35) 
+ COM(2024) 316 final. 
+ (36) 
+ https://ec.europa.eu/transparency/comitology-register/screen/committees/C20800/consult?lang=en 
+ (37) 
+ Council Regulation (EC) No 1683/95 of 29 May 1995 laying down a uniform format for visas (OJ L 164, 14.7.1995, p. 1, ELI: 
+ http://data.europa.eu/eli/reg/1995/1683/oj 
+ ). 
+ (38) 
+ COM(2024) 316 final. 
+ (39) 
+ https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation/better-regulation-guidelines-and-toolbox_en 
+ (40) 
+ Interinstitutional Agreement between the European Parliament, the Council of the European Union and the European Commission on Better Law-Making ( OJ L 123, 12.5.2016, p. 1 , ELI: 
+ http://data.europa.eu/eli/agree_interinstit/2016/512/oj 
+ ). 
+ (41) 
+ OJ C […] , […] , p. […] . 
+ (42) 
+ Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC (OJ L 158, 30.4.2004, p. 77 , ELI: 
+ http://data.europa.eu/eli/dir/2004/38/oj 
+ ). 
+ (43) 
+ Council Regulation (EU) XXXX / XXXX of […] on strengthening the security of identity cards of Union citizens and of residence documents issued to Union citizens and their family members exercising their right of free movement ( OJ L […] , […] , p. […] , ELI: […] ). 
+ (44) 
+ Regulation (EU) XXXX/XXXX of the European Parliament and of the Council of […] establishing an application for the electronic submission of travel data (“ EU Digital Travel application”) and amending Regulations (EU) 2016/399 and (EU) 2018/1726 of the European Parliament and of the Council and Council Regulation (EC) No 2252/2004, as regards the use of digital travel credentials (OJ L […], […], p. […], ELI: […] ) . 
+ (45) 
+ Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market (OJ L 257, 28.8.2014, p. 73 , ELI: 
+ http://data.europa.eu/eli/reg/2014/910/oj 
+ ) . 
+ (46) 
+ Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI: 
+ http://data.europa.eu/eli/reg/2016/679/oj 
+ ). 
+ (47) 
+ Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers ( OJ L 55, 28.2.2011, p. 13 , ELI: 
+ http://data.europa.eu/eli/reg/2011/182/oj 
+ ). 
+ (48) 
+ Interinstitutional Agreement between the European Parliament, the Council of the European Union and the European Commission on Better Law-Making ( OJ L 123, 12.5.2016, p. 1 , ELI: 
+ http://data.europa.eu/eli/agree_interinstit/2016/512/oj 
+ ). 
+ (49) 
+ Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: 
+ http://data.europa.eu/eli/reg/2018/1725/oj 
+ ). 
+ (50) 
+ OJ C […], […], p. […]. 
+ (51) 
+ Council Regulation (EC) No 1683/95 of 29 May 1995 laying down a uniform format for visas (OJ L 164, 14.7.1995, p. 1, ELI: 
+ http://data.europa.eu/eli/reg/1995/1683/oj 
+ ) .

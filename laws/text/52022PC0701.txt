@@ -1,0 +1,920 @@
+### Common VAT system Directive | CELEX 52022PC0701 | text version 52022PC0701 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 8.12.2022
+ COM(2022) 701 final
+ 2022/0407(CNS)
+ Proposal for a
+ COUNCIL DIRECTIVE
+ amending Directive 2006/112/EC as regards VAT rules for the digital age
+ {SEC(2022) 433 final} - {SWD(2022) 393 final} - {SWD(2022) 394 final}
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ Value added tax (VAT) is a major source of revenue in all EU Member States 
+ 1 
+ . It is also a key source of financing for the EU budget since 0.3 % of VAT collected at national level is transferred to the EU as own resources, representing 12% of the total EU budget. Despite the key importance of VAT in budgetary policymaking, t he VAT system is hampered by sub-optimal VAT collection and control methods. It also imposes excessive burdens and compliance costs. 
+ T he revenue loss, known as the ‘VAT g ap 
+ 2 
+ ’, delineates the issues caused by sub-optimal VAT collection and control . E stimated at EUR 93 billion in total for 2020 , a significant part of this loss is due to missing trader intra- C ommunity (MTIC) fraud 
+ 3 
+ . The VAT g ap also includes revenues lost to domestic VAT fraud and evasion, VAT avoidance, bankruptcies and financial insolvencies, as well as miscalculations and administrative errors . The VAT system is not only prone to fraud, but has also become increasingly complex and burdensome for businesses. In particular, the 30-year-old VAT rules for cross-border trade are not adapted to doing business in the digital age, thus calling for reflection on how technology can be used to reduce administrative burdens and related costs for businesses and at the same time fight tax fraud. 
+ Therefore, i n its 2020 A ction Plan for fair and simple taxation supporting the recovery 
+ 4 
+ , the Commission announced the legislative package ‘ VAT rules for the digital age ’, which was also included in the 2022 Commission work programme 
+ 5 
+ . This proposal is part of this package, together with a proposal for a Council Regulation amending the Regulation (EU) No 904/2010 as regards the VAT administrative cooperation arrangements needed for the digital age 
+ 6 
+ , and the proposal for a Council implementing Regulation amending Council Implementing Regulation (EU) No 282/2011 as regards information requirements for certain VAT schemes 
+ 7 
+ . 
+ Following the announcement of the Commission’s Tax Action Plan, the Council stated that it “ supports the Commission’s suggestion to clarify, simplify and modernise the EU VAT rules ”, “ welcomes the initiative announced by the Commission to modernise reporting obligations for cross-border transactions (…) and the Commission’s intention to examine the need to adapt the VAT framework to the platform economy ” 
+ 8 
+ . The European Parliament resolutions generally support initiatives to fight VAT fraud 
+ 9 
+ . Further, the European Parliament mentioned its explicit support for the initiative saying it “ looks forward to the legislative proposal for modernising VAT reporting obligations ” 
+ 10 
+ . More recently, the European Parliament adopted a resolution 
+ 11 
+ noting the potential for data and digital tools to reduce red tape and simplify various taxpayer obligations, in particular in the area of VAT returns and recapitulative statements, (…) and welcoming the Commission's proposal to modernise, simplify and harmonise VAT requirements, using transaction-based real-time reporting and e-invoicing . T he resolution also emphasises that variances in the Member States’ tax regulations constitute a cumbersome challenge and, while endorsing the Union One Stop Shop (OSS), the resolution asks for its scope to be broadened to cover a wider range of services . 
+ This package has three main objectives: 
+ (1) Modernising VAT reporting obligations 
+ 12 
+ , by introducing Digital Reporting Requirements, which will standardise the information that needs to be submitted by taxable persons on each transaction to the tax authorities in an electronic format. At the same time it will impose the use of e-invoicing for cross-border transactions; 
+ (2) Addressing the challenges of the platform economy 
+ 13 
+ , by updating the VAT rules applicable to the platform economy in order to address the issue of equal treatment, clarifying the place of supply rules applicable to these transactions and enhancing the role of the platforms in the collection of VAT when they facilitate the supply of short-term accommodation rent al or passenger transport services; and 
+ (3) Avoiding the need for multiple VAT registrations in the EU and improving the functioning of the tool implemented to declare and pay the VAT due on distance sales of goods 
+ 14 
+ , by introducing Single VAT Registration (SVR). That is, improving and expanding the existing systems of One-Stop Shop (OSS)/Import One-Stop Shop (IOSS) and reverse charge in order to minimise the instances for which a taxable person is required to register in another Member State. 
+ (1) VAT reporting and digital reporting requirements (DRRs) 
+ The VAT Directive dates from the 1970s and, as such, the default reporting requirements are not digital. This said, the global trend shows a move from traditional VAT compliance towards real-time sharing of transaction-based data with tax administration s , often based on e-invoicing. T he VAT Directive 
+ 15 
+ represents a significant barrier towards digitalisation , as Member States need to obtain a derogation for them to be able to adopt DRRs based on obligatory e-invoicing requirements. 
+ Even so, by means notably of such a derogation , several Member States have introduced various types of DRRs, providing information to tax authorities on a transaction-by-transaction basis . The measures have proven successful in increasing VAT collection, thanks to the improvements in tax control and the deterrent effect on non-compliance. The related increase in VAT revenue from 2014 to 2019 is estimated to be between EUR 19 billion and EUR 28 billion in th os e Member States which have introduced DRRs in this period, corresponding to an annual increase of VAT revenue of between 2.6% and 3.5% 
+ 16 
+ . 
+ The VAT Directive grants Member States a wide discretion to introduce the obligations they deem necessary to ensure the correct collection of the tax and to prevent evasion. Therefore, DRRs vary substantially from one Member State to the other. They can consist of (i) the transmission of monthly reports of business transactions, (ii) the real-time submission of invoices, (iii) the real or quasi-real time transmission of invoice data, or (iv) the submission of tax and accounting data or VAT records. Other Member States have implemented non-digital tools for reporting transactions, such as listings which do not provide data at transactional level, but only provide the values of sales or purchases per customer or supplier (listings of suppliers and customers). All these requirements are in addition to the requirement to submit VAT returns. 
+ The scale of the problem s caused by the rapid introduction of divergent digital VAT reporting requirements and the need to act swiftly was confirmed by stakeholders during the consultation 
+ 17 
+ . The resulting fragmentation in the regulatory framework brings additional compliance costs for businesses that operate in different Member States , and therefore hav e to comply with varying local requirements , and creates barriers within the s ingle m arket. With an increasing number of Member States implementing different models of digital reporting obligations 
+ 18 
+ , the costs of fragmentation for multinational companies ( companies with presence in more than one Member State) 
+ 19 
+ are significant . EU-wide they are estimated at about EUR 1.6 billion annually , of which EUR 1.2 billion are borne by small-scale multinational companies and EUR 0.4 billion by large-scale multinational companie s 
+ 20 
+ . 
+ In addition , the current reporting system of intra-Community transactions (referred to in the VAT Directive as ‘ recapitulative statements ’ 
+ 21 
+ ) does not allow Member States to effectively tackle VAT fraud linked to these transactions T he current recapitulative statements date from 1993 and have not substantially changed since then. They are ill-prepared for the digital economy and can hardly be compared to the much more modern digital reporting systems implemented by some Member States for domestic transactions. 
+ Among other shortcomings, recapitulative statements only provide aggregated data for each taxable person, and not transaction-by-transaction data. Moreover they do not allow data from supplies to be cross-matched with that of acquisitions, as the VAT Directive leaves the reporting of intra-Community acquisitions optional for Member States and fewer than half of the Member States have introduced this obligation. Further, theses data may not be available to tax authorities in other Member States at the right time, both because of filing frequency because of the time it takes for local tax authorities to upload data onto the system. These shortcomings were rightly highlighted by almost two thirds of informed stakeholders responding to the public consultation who totally or partly agreed that recapitulative statements would be more effective in fighting intra-EU fraud if data were collected on a transaction-by-transaction basis and closer to the moment of the transaction. 
+ A ny reform of the reporting of cross-border transactions inevitably entails changes to administrative cooperation and exchange of data between the competent authorities of the Member States and the VAT Information Exchange System (VIES) 
+ 22 
+ . 
+ These issues will be solved, in relation to the fight against VAT resulting from intra-Community trade, by introducing a transaction-by-transaction reporting system that will provide information to Member States in almost real time, in line with the successful systems several Member States have implemented for domestic transactions. In relation to the lack of harmonisation of domestic reporting systems, the issues will be tackled by establishing a common template that those reporting will have to follow, allowing taxable persons to always report data from electronic invoices issued according to the European standard set up in Directive 2014/55/EU on electronic invoicing in public procurement 
+ 23 
+ . 
+ (2) VAT treatment of the platform economy 
+ The rise of the platform economy business mode l 
+ 24 
+ has triggered new problems for the VAT system. One of the se problem s is VAT inequality. 
+ Under VAT rules , a taxable person means any person (natural or legal) who, independently, carries out any economic activity 
+ 25 
+ . T axable person s are required to register for VAT and charge VAT on their sales. However , individuals acting in their private capacity are not considered as taxable persons. In addition, small enterprises are exempt from VAT due to a simplification measure reli e ving them of VAT administrative obligations . 
+ Until recently, private individuals and exempted small enterprises were not considered to have any impact on market competition with VAT registered businesses. But the platform economy has introduced new business models that are changing this situation. 
+ Private individuals and small businesses can provide their VAT-free se rvices via a platform and with t he economies of scale and network effect 
+ 26 
+ be in direct competition with traditional VAT registered suppliers. This means that, for example, a hotel could be competing with accommodation listings which do not charge VAT on their services. I n Europe the cost of accommodation via a platform can be, on average, some 8% to 17% cheaper than a regional hotel’s average daily rate 
+ 27 
+ . The information provided by the “VAT in the D igital A ge ” 
+ 28 
+ study indicates that (although it varies depending on the type of platform) up to 70% of the total of underlying suppliers using a platform are not registered for VAT . More than two third s of respondents with an opinion on the issue had experience d such distortions of competition. 
+ The passenger transport and accommodation sectors have been explicitly identified by the study as sectors in which VAT inequality is at its most apparent (in that the accommodation platform model compet es directly with the hotel sector, and the passenger transportation platform model compet es directly with private taxi firms) . T hese are also the two largest sectors of the platform economy 
+ 29 
+ , behind the sale of goods via platforms (also known as ‘ e-commerce ’) , which has its own rules regarding the supply of goods . 
+ Another problem area is the lack of clarity on VAT rules that apply to the services rendered by these platforms and, in particular, to identifying the VAT status of the underlying supplier. 
+ The taxable status of those providing services through the platform determines the VAT treatment of the platform facilitation services when the provider is established in a different Member State to that of the platform. In such a situation, regardless of whether the provider is a non-taxable person or a taxable person, the platform could use the One Stop Shop or apply the reverse charge. However, this determination is not straightforward, as the platforms often lack information they need to assess the status of the underlying supplier. 
+ In addition , v arious rules in the VAT Directive applicable to the platform economy have been applied differently by Member States 
+ 30 
+ . For example, the facilitation services charged by the platforms are regarded in some Member States as electronically supplied service s , whil e in others they are regarded as intermediary service s . Clarification of these rules is needed, as the current divergent application of EU VAT rules across the Member States can lead to different places of supply being applied 
+ 31 
+ , which can subsequently lead to double taxation or non-taxation. 
+ One additional problem area relates to the obligations imposed on the platforms. 
+ Platforms are required to keep certain information 
+ 32 
+ relating to supplies facilitated by them and to make this available on request to Member States. However, p latforms are faced with a number of different requirements from Member States regarding the timeframe and format for this information. Therefore a regularisation is necessary. In addition, in order to combat fraud platforms need to keep this information and make it available not only for business to business (B2B) (as it is now) but also for business to consumer (B2C) supplies. 
+ These issues will be solved by introducing a deemed supplier model, by which platforms will account for the VAT on the underlying supply where no VAT is charged by the supplier, thereby ensuring equal treatment between the digital and off-line sectors of short-term accommodation rental and passenger transport. In addition, clarifications will be given on the treatment of the facilitation service to allow for a uniform application of the place of supply rules, and steps will be taken to harmonise the transmission of information from the platform to the Member States. 
+ (3) VAT registration requirements in the EU 
+ Businesses carrying out transactions taxed in other Member States still face considerable VAT compliance burdens and costs, which constitute a barrier within the single market. These are estimated as follows: 
+ · The m inimum one-off cost of VAT registration in another Member State is EUR 1 200. 
+ · The minimum ongoing cost, on a yearly basis, for VAT compliance in another Member State is EUR 8 000 for an average business and EUR 2 400 for a n SME. 
+ The VAT e-commerce package that entered into application on 1 July 2021 provided, for the first time, comprehensive VAT legislation dealing with the e-commerce economy (whereby consumers order, essentially via the internet, directly from suppliers in other Member States and in non-EU countries). The schemes developed (or extended) through the e-commerce package have alleviated the registration burden for businesses carrying out transactions in Member States in which they are not established, avoiding the need for the VAT registration of suppliers/deemed suppliers in each Member State of establishment of their customer. 
+ These schemes are known as the One-Stop-Shop (OSS) for supplies to consumers within the EU and the Import One-Stop-Shop (IOSS) for the importation of small parcels of consumer goods (where the value does not exceed EUR 150). Specific VAT provisions and obligations were introduced for ‘platforms’ (introducing the notion of a ‘deemed supplier’) which have a predominant position in the e-commerce economy. 
+ The implementation of the OSS and IOSS has proved to be a great success as shown by the evaluation 
+ 33 
+ of the e-commerce package. The benefit s of the OSS and IOSS for businesses and for the s ingle m arket was confirmed by Member States in the Council Conclusions 
+ 34 
+ of the March 2022 ECOFIN. 
+ However, some supplies of goods and services are not covered by either of these simplification schemes and instead remain subject to burdensome VAT accounting requirements in other Member States. These include certain types of supplies of goods that, even though they may have a cross-border aspect, do not fall within the definition of intra-EU distance sales of goods. As the IOSS is currently optional, its capacity to alleviate the need for multiple VAT registrations is limited and the complexity of the import process is not reduced as far as possible. 
+ An extension of the scope of the OSS and IOSS would ensure a further decrease in the need for multiple VAT registrations in the EU. 
+ The VAT in the Digital Age proposal is a REFIT initiative that addresses the VAT rules in the context of rising use of digital technology 
+ 35 
+ , among both tax authorities and the business communit y . The VAT system has not yet fully taken advantage of the opportunities created by these technological advances . New digital tools and solutions will help tax authorities tackle the VAT Gap more efficiently while allowing for VAT compliance to be simplified and reducing associated costs. This initiative thus seeks to further adapt the EU VAT framework to the digital era. 
+ • Consistency with existing policy provisions in the policy area 
+ This initiative is consistent with the proposal 
+ 36 
+ tabled in 2018 by t he Commission for a definitive VAT system for the taxation of trade between Member States, which is still being discussed in Council. This proposal aim s to replace the transitional system in force today 
+ 37 
+ by treating intra-Community transactions in the same way as domestic ones. VAT would be due in the Member State of destination of the goods 
+ 38 
+ at the rate of that Member State but would be charged and collected by the supplier in its own Member State. The VAT in the D igital A ge initiative has the potential to strengthen both the current and the definitive VAT system. 
+ The VAT e-commerce package was designed to reshape, update and modernise the VAT system to ensure its relevance and effective application to the new realities of the e-commerce market. At the same time, the reforms sought to make VAT compliance easier for legitimate businesses who carry out cross-border online commercial activity by taking a new approach to tax collection. The main aim was to create a fairer, simpler and more harmonised system of taxation. This proposal builds on the successful reform of the VAT e-commerce rules by further reducing the need for non-identified trades to register in the Member State of consumption. This will inter alia include an update of the current e-commerce rules applicable to Smal l and Medium E nterprises (SMEs) allowing SMEs to benefit from the simplifications brought by both the new SME 
+ 39 
+ and existing OSS schemes. 
+ The initiative supports the EU’s sustainable growth strategy 
+ 40 
+ that refers to better tax collection, reduction of tax fraud, avoidance and evasion and to the reduction of compliance costs for business, individuals, and tax administrations. Improving taxation systems to favour more sustainable and fairer economic activity is also part of the EU’s competitive sustainability agenda. 
+ • Consistency with other Union policies 
+ The VAT in the Digital Age initiative is linked to the treaty-based goal of establishing a functional internal market 
+ 41 
+ and reflects the European Commission’s priorities 
+ 42 
+ to improve the business taxation environment in the s ingle m arket, as well as to tackle differences in tax rules that can be an obstacle to the deeper integration of the s ingle m arket . This initiative seeks to adapt the EU VAT framework to the digital era. Therefore, its objectives are also consistent with one of the six top priorities of the Commission, ‘ A Europe fit for the digital age ’, and its objective to empower businesses to seize the potential of the digital transformation. 
+ The Commission has set the improvement of tax collection and the reduction of tax fraud, avoidance and evasion as priorities 
+ 43 
+ . These two topics are the cornerstone of the initiative. The initiative also supports the EU’s sustainable growth strategy 
+ 44 
+ that refers to better tax collection, reduction of tax fraud, avoidance and evasion and to the reduction of compliance costs for business, individuals, as well as tax administrations. Improvement of taxation systems to favour more sustainable and fairer economic activity is also included in the EU’s competitive sustainability agenda. 
+ The VAT in the Digital Age initiative runs alongside other Commission initiatives relating to the Digital Economy, such as the recent proposal for a Directive to improve working conditions of people working through digital labour platform s 
+ 45 
+ , and the ongoing work relating to s hort - t erm r entals. Under these initiatives the general direction is to make platforms more accountable and play a greater role in the regulatory framework . This is in in line with the changes proposed in this Directive for the platform economy where , under certain circumstances , platforms will be responsible for paying t he VAT due instead of small platform suppliers . This will improve the collection of VAT , as m any of these suppliers are unaware of their potential VAT obligation s and would in any case encounter difficulties in comply ing with these obligations . 
+ T he VAT in the Digital Age initiative also ensures consistency with existing legislation in the digital area such , as the EU Directive on electronic invoicing in public procurement (B2G) 
+ 46 
+ . This Directive aims to facilitat e the use of a common European s tandard on electronic invoicing across Member States to promote interoperability and convergence at EU level . This has the potential to reduc e obstacles to cross-border trade that arise from the coexistence of different national legal requirements and technical standards in e-invoicing . T he VAT in the Digital Age initiative provides for this European s tandard on electronic invoicing to be the default method for digital VAT reporting requirements p urposes . 
+ This initiative is also consistent with the Customs Action Plan 
+ 47 
+ . M anagement of e-commerce is one of the four key areas of action in t he Customs Action Plan . As a result, t he improvement of the import one stop shop (IOSS) scheme in this proposal is limited to the mandatory provision of this scheme for platform s . Any other improvement or extension , such as t he removal of EUR 150 threshold below which this simplification scheme can be used , will be done in the framework of this c ustoms reform 
+ 48 
+ . 
+ In the final report of the Conference on the Future of Europe 
+ 49 
+ citizens call for ‘Harmonizing and coordinating tax policies within the Member States of the EU in order to prevent tax evasion and avoidance’, ‘Promoting cooperation between EU Member States to ensure that all companies in the EU pay their fair share of taxes’. The VAT in the Digital Age initiative is consistent with these goals. 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ This Directive amends the VAT Directive on the basis of Article 113 of the Treaty on the Functioning of the European Union. That Article provides that the Council, acting unanimously in accordance with a special legislative procedure and after consulting the European Parliament and the Economic and Social Committee, can adopt provisions to harmonise Member States' rules in the area of indirect taxation. 
+ • Subsidiarity (for non-exclusive competence) 
+ This initiative is consistent with the principle of subsidiarity. Given the need to modify the VAT Directive, the objectives of this initiative cannot be achieved by the Member States themselves. Therefore, the Commission, which has responsibility for ensuring the smooth functioning of the single market and for promoting the general interest of the EU, needs to propose actions to improve the situation. 
+ In addition , as the main problems at stake - sub-optimal VAT collection and control , and excessive burdens and compliance costs - are common to all Member States , uncoordinated fragmented national actions would have the potential to distort intra-EU trade. I n the targeted consultation 
+ 50 
+ , businesses stated their preference in this regard to have VAT rules applied uniformly at EU level , rather than having to comply with different reporting or registration obligations at national level. As with platforms, there are significant distortions of competition between the on-line and off-line markets in the short-term accommodation rental and passenger transport sectors, as well as a non-harmonised approach to the place of supply of the facilitation services. Therefore, the Commission needs to ensure that the VAT rules are harmonised. Regarding VAT collection and control, the size of the VAT gap and its persistence over time indicates that national instruments are not sufficient to fight cross-border fraud, as shown by the estimated levels of MTIC fraud, which can only be fought efficiently and effectively by coordinated action at EU level. T he intra- EU aspect of VAT fraud therefore requires EU intervention regarding reporting obligations. 
+ • Proportionality 
+ The proposal is consistent with the principle of proportionality and does not go beyond what is necessary to meet the objectives of the Treaties, in particular the smooth functioning of the single market. 
+ Proportionality is ensured by the fact that Member States will be able to decide whether or not to introduce domestic reporting requirements based notably on whether the level of domestic VAT fraud is an urgent issue for them. The requirement for interoperability or convergence of national systems with the intra-EU digital reporting is necessary to adopt an EU wide DRR framework. 
+ In the platform economy area, proportionality is ensured by focusing the measure on the accommodation and passenger transport sectors, where the issue of VAT inequality is most acute. 
+ Proportionality is furthermore ensured by the fact that the ‘single VAT registration’ pillar of the initiative does not interfere with national VAT registration processes. Instead, it focusses on limiting the instances in which a trader who is established outside the Member State of consumption is required to register for VAT in that Member State. 
+ An EU-wide framework for handling VAT registration is proportionate as it will make the functioning of the single market more sustainable. Removing the need for multiple registrations within the EU can, by its very nature, only be achieved with a proposal to amend the VAT Directive. 
+ • Choice of the instrument 
+ The proposal requires amending Directive 2006/112/EC on the common system of value added tax (the 'VAT Directive'), Council Implementing Regulation (EU) No 282/2011 laying down implementing measures for Directive 2006/112/EC on the common system of value added tax and Council Regulation (EU) No 904/2010 on administrative cooperation and combating fraud in the field of value added tax. 
+ 3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Ex-post evaluations/fitness checks of existing legislation 
+ The e-commerce package came into application on 1 July 2021 and introduced a number of amendments to the VAT rules governing the taxation of business-to-consumer (B2C) cross-border e-commerce activity in the EU. The most noteworthy amendments include the extension of the scope of the Union and non-Union Mini One Stop Shop (MOSS) schemes; the abolition of the EUR 22 VAT exemption threshold for imported goods; and the introduction of the IOSS (Import One-Stop Shop) and special arrangements to support the collection of VAT on distance sales of imported goods not exceeding EUR 150. 
+ The Commission conducted an ex-post evaluation of the first 6 months of application of the e-commerce package. The initial results are very encouraging and are testament to the success of the new measures. In total, in the first 6 months, almost EUR 8 billion of VAT was collected via the three schemes (Union and non-Union OSS and IOSS). The results of the evaluation show that approximately EUR 6.8 billion of VAT was collected in the Union One-Stop Shop and non-Union One-Stop Shop schemes, which equates to at least EUR 13.6 billion on an annual basis. Furthermore, in the first 6 months, approximately EUR 2 billion of VAT was collected specifically in relation to imports of low value consignments with an intrinsic value not exceeding EUR 150, which equates to around EUR 4 billion on an annual basis. Of the EUR 2 billion of VAT that was collected in relation to imports of low value goods in the first 6 months, almost EUR 1.1 billion was collected via the Import One-Stop Shop. The package has met the goal of achieving a fairer and simpler system of taxation, while protecting Member States’ VAT revenue has been met. 
+ The implementation of the package has also helped to counter VAT fraud. Analysis from customs data indicates that the top 8 IOSS registered traders accounted for approximately 91% of all transactions declared for import into the EU via the IOSS. This is a very encouraging statistic as it shows the impact the new ‘deeming’ provision for marketplaces has had on compliance. The proposal therefore envisages the introduction of a deemed supplier regime in the accommodation and passenger transport sectors in the platform economy. 
+ • Stakeholder consultations 
+ On 6 December 2019, the European Commission’s Directorate-General for Taxation and Customs (DG TAXUD) organised an event on ‘VAT in the Digital Age’ in Brussels, Belgium. This event brought stakeholders working in the field of VAT together to reflect on the opportunities and challenges that new technologies bring in the area of VAT. In particular, the potential of using advanced technologies was discussed. The seminar also provided a chance to share recent experiences on how Member States use digital solutions for VAT reporting, collecting and fraud-detection. 
+ The Commission worked with two expert groups for discussions at technical level: the Group on the Future of VAT (GF V ) and the VAT Expert Group (VEG) . M eetings of the GFV (9 February and 6 May 2022) and of the VEG (29 November 2021 and 10 June 2022) took place to discuss different issues related to the VAT in the Digital Age initiative. A s ub-group ‘ VAT aspects of the p latform economy ’ composed of members of the GFV and the VEG , was tasked with advis ing and assist ing DG TAXUD by carrying out an in-depth analysis of the problems related to VAT encountered by the different actors in the platform economy. The outcome of its work can be found at : 
+ 2. GROUP ON THE FUTURE OF VAT (GFV) - Library (europa.eu) 
+ . 
+ Two Fiscalis workshops also took place (May and October 2021) to gather feedback from Member States and stakeholders on the interim report and the draft final report of the ‘VAT in the Digital Age’ study. 
+ A public consultation was also organised , from 2 0 Jan uary to 5 May 2022 , resulting in 193 responses . The consultation sought stakeholders' views on whether the current VAT rules are suited to the digital age, and on how digital technology can be used to help Member States fight VAT fraud and to benefit businesses. The consultation report is available on the initiative’s p ublic c onsultation page : 
+ https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13186-VAT-in-the-digital-age/public-consultation_en 
+ . 
+ Stakeholders agreed there was a disconnect between the old VAT rules and today’s digital age. 
+ On VAT reporting, the respondents agreed that a DRR could bring benefits and made clear their preference for an e-invoicing solution that can also be used for their internal processes. Member States called for more autonomy in deciding on domestic DRR. 
+ On platform economy, stakeholders broadly recognised problems, with more nuanced views depending on the respondent’s business model. Those that would be impacted (i.e. platforms) generally rejected the ‘deemed supplier’ provision and expressed their preference for the status quo. 
+ On VAT registration, stakeholders unanimously agreed that the scope of the OSS/IOSS needs to be extended. Businesses also asked for the reverse charge to be made mandatory for B2B supplies by non-established persons. There was also support for making the IOSS mandatory. 
+ • Collection and use of expertise 
+ The Commission used the analysis carried out by Economisti Associati S.r.l., for the s tudy ‘ VAT in the Digital Age’ ( running from O ctober 2020 to March 2022) 
+ 51 
+ . The f inal r eport was submitted on 1 April 2022 . 
+ The study’s aim was first to evaluate the current situation with regard to the digital reporting requirements, to the VAT treatment of the platform economy; and to the single VAT registration and the Import One-Stop Shop and secondly, to assess the impacts of a number of possible policy initiatives in these areas. 
+ • Impact assessment 
+ Examined by the Regulatory Scrutiny Board on 22 June 2022, the impact assessment for the proposal obtained a positive opinion (Ares(2022)4634471). The Board recommended more detail be added, to describe better the methodologies used for modelling and to further clarify the options. The impact assessment was accordingly amended to include Member State and sectoral perspectives on the platform economy, the econometric analysis/techniques used for modelling were comprehensively described and the structure of the DRRs linked to the options was detailed. 
+ Several policy options were analysed in the impact assessment. 
+ · For VAT reporting , the options ranged from a simple recommendation to introduce an EU DRR and request for data in a specific format , to the introduction of DRR at both EU and domestic level. 
+ · O n the VAT treatment of the platform economy area, the options ranged from legal clarifications to the introduction of a wide ‘deemed supplier’ provision applicable to all sales of services via platforms . 
+ · F or VAT registration the options related to intra-EU trade (different ranges of OSS extension and the introduction of a reverse charge for B2B supplies by non-established persons) and importations of low value consignments (making the IOSS mandatory for different suppliers, with/without a certain limit and the removal of the EUR 150 threshold for use of the IOSS). 
+ The analysis revealed that best balance regarding the policy options in terms of effectiveness, proportionality and subsidiarity would be achieved by combining the introduction of DRRs at EU level, a ‘deemed supplier’ provision for the short-term accommodation rental and passenger transport sectors and a combination of broader OSS extension, reverse charge and a mandatory IOSS for platforms. 
+ Between 2023 and 2032 this approach is expected to bring between EUR 172 billion and EUR 214 billion net benefits, including EUR 51 billion in savings. These savings include: 
+ · EUR 41.4 billion from VAT reporting (EUR 11 billion from the removal of old reporting obligations, EU 24.2 billion reduction of fragmentation costs, EUR 4.3 billion savings pre-filled VAT returns, and EUR 1.9 billion e-invoicing benefits) ; 
+ · EUR 0.5 billion from streamlining and clarifications in platform economy area ; and 
+ · EUR 8.7 billion from removing VAT registration obligations. Environmental, social and business automation benefits, as well as benefits related to the functioning of the Internal Market (more level-playing field) and tax control efficiency are also expected. 
+ In line with the sustainable development goals No 8 and 9 
+ 52 
+ , a more efficient and sustainable VAT system promotes economic growth, while digital reporting supports business automation and foster s innovation. In line with the ‘digital by default’ principle, the introduction of digital reporting saves paper invoices and benefits the environment. 
+ The impact assessment and its annexes, the executive summary and the Board’s opinion on the impact assessment are available at the consultation’s page on “Have your say” portal : 
+ https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13186-VAT-in-the-digital-age_en 
+ . 
+ • Regulatory fitness and simplification 
+ This proposal is a REFIT initiative to modernise the current VAT rules a nd take account of the opportunities offered by digital technologies 
+ 53 
+ . The proposal is expected to harmonise VAT treatment and promote the provision of cross-border supplies in the single market, and help improv e tax c ollection and therefore ensur e sustainable revenues during the recovery from the COVID-19 pandemic . 
+ The expectation is that companies engaged in cross-border transactions will see a net benefit from the introduction of the proposal. Overall, the introduction of digital reporting requirements (DRR) at EU level, the deemed supplier regime and the single VAT registration (SVR), will support the ‘one in, one out’ principle or even go further, to ‘one in, multiple out’ taking account of the multiple obligations created by national authorities. The overall saving over the 10-year period between 2023 and 2032 is estimated at EUR 51 billion and the total implementation cost (for businesses and national administrations) is EUR 13.5 billion in the same period. 
+ The removal of recapitulative statements as a result of the DRR is expected to bring a net benefit to companies engaged in cross-border transactions. However, companies that are not active across borders, (the vast majority of micro and small entities) would incur costs related to the introduction of a DRR. Those costs could be partly mitigated by the introduction of additional services at national level, such as the pre-filling of VAT returns. As for the SVR, it is expected to further reduce the need for multiple registrations in other Member States and help reduce administrative burdens and related costs for businesses involved in cross-border supplies in the single market. 
+ The Fit for Future Platform included the V AT in the Digital Age in its annual work programme for 2022, recognising its potential for reducing the administrative burden in the policy field 
+ 54 
+ . The evidence behind the opinion of this expert group of 5 December 2022 has been taken into account during the preparation of this proposal. 
+ • Fundamental rights 
+ N/A 
+ 4. BUDGETARY IMPLICATIONS 
+ The proposal is expected to increase VAT revenues for Member States. The operational objectives are set at a VAT gap decrease of up to 4 percentage points compared with 2019 level, baseline included. The estimated overall benefit between 2023 and 2032 including additional VAT revenue ranges between EUR 172 billion and EUR 214 billion. 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ The VAT Committee, an advisory committee on VAT issues in which representatives of all Member States participate and which is chaired by Commission officials from the Directorate General Taxation and Customs Union (DG TAXUD), will monitor the implementation of the VAT in the Digital Age initiative, and discuss and clarify possible interpretation issues between Member States regarding the new legislation. 
+ The Standing Committee on Administrative Cooperation (SCAC) will deal with all possible issues regarding administrative co-operation between Member States resulting from the new provisions covered in this legislative package. In case new legislative developments are required, the GFV and the VEG may be further consulted. 
+ In addition, the Commission and the Member States will monitor and evaluate whether this initiative is functioning properly and the extent to which its objectives have been achieved based on the indicators set out in Section 4 of the impact assessment accompanying this proposal. 
+ • Explanatory documents (for directives) 
+ The proposal does require explanatory documents on the transposition. 
+ • Detailed explanation of the specific provisions of the proposal 
+ Platforms: Articles 28a, 46a, 135 (3), 136b, 172a, 242a, 306 
+ A deemed supplier regime will be introduced in the short-term accommodation rental, and passenger transport sectors of the platform economy (Article 28a). Under this measure, where the underlying supplier does not charge VAT because they are, for example, a natural person or they make use of the special scheme for small enterprises, the platform will charge and account for the VAT on the underlying supply. This will ensure a level playing field between platforms offering services and other traditional suppliers qualifying as taxable persons, while not imposing a burden on the underlying suppliers operating through the platform. The ‘deemed supplier’ model is a simplification measure intended to facilitate the collection of VAT in specific situations. This is typically the case when the intermediary in a transaction (i.e. the platform) is better placed than the underlying supplier to ensure the collection of the VAT due on this transaction. The reasons are either because it would be too burdensome for this underlying supplier to collect the VAT (e.g. when the underlying supplier is a natural person or a taxable person using special schemes for small enterprises), or because it is more secure to collect it from this intermediary (when the underlying supplier is not established in the EU). Further elements relating to the practical application of the measure are in the accompanying proposal to amend Implementing Regulation (EU) No 282/2011. 
+ In order to prevent abuse, it has been clarified that a transaction for which a platform is the deemed supplier cannot be included in the special scheme for travel agents (Article 306). 
+ Further, clarifications to the existing VAT legislation in this area have been introduced. Namely: 
+ · That the facilitation service provided by a platform should be regarded as an intermediary service (Article 46a ) . This allows for a uniform application of the place of supply rules for the facilitation service. 
+ · T hat t he supply by the underlying supplier to the platform shall be VAT exempt without a deduction right (Article 13 6 b ). 
+ · That the provision of short - term accommodation rental shall be regarded as a sector similar in nature to the hotel sector, and therefore not eligible to be exempt from VAT (Article 135) . This ensures that the deemed supply from the platform to the final consumer has the same VAT treatment as the provision of services from traditional hotels to the final consumer. 
+ · That the s upply by the platform to the final cust o mer should not impact on the deduction right of the platform for its activities (Article 172a). 
+ · That, for supplies falling outside the deemed supplier model , the platform will be obliged to keep the records relating to both business to business (B2B) and business to consumer (B2C) supplies (Article 242a) . Accompanying legislation (the proposal to amend Regulation (EU) No 904/2010) will standardise how this information is to be transmitted to the Member States. For supplies falling within the deemed supplier model, the normal VAT accounting rules will apply. 
+ E-invoicing will be the general rule for the issuance of invoices: Articles 217 , 218 and 232 
+ The adaptation of the VAT Directive to the new digital reality requires a change in the treatment given to electronic invoices. Until now, the VAT Directive has put on an equal footing paper and electronic invoices. Article 232 required that the issuance of electronic invoices be subject to the acceptance of the recipient. This requirement impeded Member States from implementing mandatory electronic invoicing that could be used as a basis for an electronic reporting system. It also slowed down the development of electronic invoices, as taxable persons could not adapt their invoicing systems to implement full electronic invoicing because they had to issue paper invoices whenever the recipient did not accept electronic invoices. 
+ The proposal changes this situation, providing in Article 218 that electronic invoicing will be the default system for the issuance of invoices. The use of paper invoices will only be possible in situations where Member States authorise them. T his authorisation cannot cover those cases that are subject to the reporting obligation s in Chapter 6 of Title XI , as that would prevent or create difficulties for the automatic reporting of the data . Taxable persons will always be allowed to issue electronic invoices according to the European standard. This standard is the one adopted by the Commission Implementing Decision (EU) 2017/1870 
+ 55 
+ according to the request laid down in Directive 2014/55/EU . The issuance and transmission of electronic invoices cannot be conditional on a prior authorisation of validation by the tax authorities of the Member State in order to be sent to the recipient. Several Member States have been granted a special measure to apply mandatory e-invoicing, where such clearance systems have been implemented. These systems can only be applied by those Member States up to 1 January 2028, ensuring the convergence with the EU digital reporting system. 
+ To ensure that taxable persons will not depend on the authorisation of the recipient to issue an electronic invoice, Article 232 is deleted from the VAT Directive. 
+ Further, the definition of electronic invoice in the VAT Directive is changed to align the concept with the one in Directive 2014/55/EU on electronic invoicing in public procurement, which regulates electronic invoicing in B2G transactions. As a result, when referring to electronic invoices in the VAT Directive, reference will be made to structured electronic invoices. 
+ Deadline for the issuance of invoices on intra-Community supplies of goods and supplies of services where the reverse charge applies: Article 222 
+ In the case of exempted intra-Community supplies of goods and for services supplied by non-established taxable persons subject to the reverse charge, the VAT Directive provides for a deadline to issue an electronic invoice that could take up to forty-five days from the moment the chargeable event occurred. 
+ The new reporting system is built under the philosophy of real-time information. Given that the reporting is based on the issuance of the invoice, such a deadline will delay excessively the arrival of the information on those supplies to the tax administration. For that reason, Article 222 sets up a deadline of two days after the chargeable event takes place for the issuance of invoices in these cases. 
+ Elimination of the possibility to issue summary invoices: Article 223 
+ The aim of the new reporting system is to provide information on transactions in almost real-time to the tax administrations and foster the use of electronic invoices. The possibility to issue summary invoices for a calendar month goes against those goals. For that reason, Article 223 is deleted, so there will be no possibility to continue issuing summary invoices. 
+ Content of the invoices: Article 226 
+ The aim of the new reporting system is to provide the necessary information to tax administrations while minimising the administrative burden for taxable persons. In order to achieve the latter objective, the reporting system will take advantage of the issuance of an electronic invoice to automate the process of reporting. However, for this to be possible, it is necessary to include in the invoice all the information required by the tax administrations for the reporting obligation. 
+ This is the reason why Article 226 has been changed to ensure the inclusion in the invoice of all the data that needs to be reported. The data elements added to the content of the invoice are the identifier of the bank account in which the payment for the invoice will be credited, the agreed dates and amount of each payment related to a concrete transaction, and, in the case of an invoice that amends the initial invoice, the identification of that initial invoice. 
+ Elimination of outdated Articles: Article 237 
+ Article 237 provides for an obligation on the Commission to present a report to the European Parliament and the Council on the impact of the invoicing rules. Given that this obligation has already been fulfilled 
+ 56 
+ , there is no reason to keep this Article in the VAT Directive. 
+ Digital reporting system for intra-Community transactions: Articles 262 to 271 
+ One of the objectives of the initiative is to replace the outdated recapitulative statements with a digital reporting requirements system for intra-Community transactions, which will provide faster information on a transaction-by-transaction basis and with higher quality. That information will feed into the risk analysis systems of the Member States to help them counter the VAT fraud linked with the intra-Community trade, in particular Missing Trader Intra-Community fraud. For that purpose, Chapter 6 of Title XI, which referred to the recapitulative statements, refers now to digital reporting requirements, and its new section 1, to digital reporting requirements for intra-Community transactions. 
+ The digital reporting requirements for intra-Community transactions will cover the same transactions that were covered by the recapitulative statements with the exception of the call-off stocks under the conditions set out in Article 17a, which will cease to exist. For this reason, the second paragraph of Article 262 is deleted. In addition, supplies of goods and services subject to the reverse charge mechanism in accordance with Article 194 will also be included in the recapitulative statements and consequently in the digital reporting requirements. 
+ Article 263 provides for the main features of the new digital reporting system: the information has to be transmitted on a transaction-by-transaction basis, the deadline for the transmission of the data is two working days after the issuance of the invoice, or after the date the invoice should have been issued in case the taxable person has not complied with their obligation to issue an invoice, the transmission of the data has to be carried out electronically, and Member States will provide the means for that transmission. Finally, the information can be submitted directly by the taxable person or by a third party on their behalf. 
+ The transmission of the data can be done according to the European Standard. Member States can provide for the transmission of the data from electronic invoices issued under a different format, as long as they also allow the use of the European Standard. In any case, the data formats allowed by Member States will have to guarantee the interoperability with the European standard. 
+ This provision provides flexibility to Member States and taxable persons to use different data formats for the transmission of the data. However, it provides for at least one standard which will be accepted by all Member States and therefore allows companies to submit their data on intra-Community transactions according to the European Standard in any Member State, without needing to adapt to different reporting systems. 
+ The first paragraph of Article 264 provides for the information that has to be submitted for each transaction. Basically, this information is the same that had to be submitted in the recapitulative statements, but detailed for each transaction instead of aggregated by customer. However, there are new fields that have been added to improve the detection of fraud. These new fields are the reference to the previous invoice in case of rectification of invoices, the identification of the bank account into which the payment for the invoice will be credited and the dates agreed for the payment of the amount of the transaction. With a view to a full standardization and interoperability, implementing rules shall be adopted by the Commission to define a common electronic message to this purpose. 
+ Article 266 allowed Member States to request additional data on intra-Community transactions. This possibility runs counter to the desired harmonisation in this field. For that reason, this Article is deleted from the VAT Directive, so taxpayers will always submit the same information when they carry out an intra-Community transaction, irrespective of the Member State in which the transaction takes place. 
+ Article 268 places an obligation on Member States to collect data from the taxpayers that, in their territory, make intra-Community acquisitions of goods or transactions treated as such. The collection of this data was optional for Member States under the recapitulative statements. 
+ The replacement of the recapitulative statements with a new digital reporting system requires the modification of certain Articles of the VAT Directive which contained references to the recapitulative statements, to replace them with the reference to the new reporting system. This is the case with Articles 42, 138a, 262, 265 and 267. Other Articles that regulated aspects of the recapitulative statements and are no longer necessary with the new reporting system have been deleted. This is the case with Articles 266, 269, 270 and 271. 
+ Digital reporting system for supplies of goods and services for consideration carried out within the territory of one Member State: Articles 271a to 273 
+ Apart from replacing the recapitulative statements with a new digital reporting system for intra-Community transactions, the initiative aims to achieve the harmonization of the existing and future reporting systems for supplies of goods and services for consideration carried out within the territory of the Member State, in order to avoid the administrative burden which this fragmented framework entails for taxable persons operating cross-border. These systems will align with the digital reporting system designed for intra-Community transactions, simplifying compliance to taxpayers, which will be able to provide with a common format the data required for both domestic and intra-Community transactions, in any Member State. 
+ This harmonisation is achieved by the rules included in the new Section 2 of Chapter 6 of Title XI. 
+ The first paragraph of Article 271a allows Member States to put in place a reporting system for supplies of goods and services carried out between taxable persons within their territory. The second paragraph of Article 271a allows Member States to put in place reporting systems for any other type of transaction. This second paragraph covers for instance, the reporting of supplies of goods or services carried out by a taxable person to a private individual. 
+ To be noted that Article 271a constitutes an option, but not an obligation for Member States. However, if they decide to put in place a reporting system according to the first paragraph of that Article, that is to say a reporting system for transactions between taxable persons within the territory of their Member State, such a system will have to comply with the features laid down in Article 271b. 
+ The features of the reporting system in Article 271b are similar to the one designed for intra-Community transactions: reporting on a transaction-by-transaction basis, transmission of the data two working days after the issuance of the invoice, or after the date the invoice should have been issued where the taxable person has not complied with their obligation to issue an invoice, the possibility of transmitting the data directly by the taxable person or through a service provider, and the possibility to transmit the data according to the European Standard. Member States can put at the disposal of taxable persons additional tools to transmit the data. The objective is, once again, to provide enough flexibility to Member States and taxable persons to use different methods for the transmission of the data, while providing for at least one standard which will be accepted by all Member States and therefore allowing companies to submit their data according to the European Standard in any Member State, without needing to adapt to different reporting systems. 
+ It will be necessary to verify if the reform of reporting system achieves its objectives of reducing the VAT gap and reducing the costs for taxable persons derived from the fragmentation of those systems. For that reason, Article 271c asks the Commission to submit by March 2033 a report evaluating the results achieved by this reform and, if necessary, a proposal to overcome the limitations and proposing a further harmonisation of domestic reporting. This deadline will allow to evaluate the reporting systems once they are fully implemented, account taken that the full adaptation to the harmonised requirements does not need to take place until 2028. 
+ To achieve the harmonisation of reporting systems it is not enough that the future systems are implemented according to the features laid down in this initiative. Member States which already have reporting systems in place for these transactions will have to adapt them to the features of the harmonised reporting system. For that purpose, the initiative requires that this adaptation takes place by 2028 at the latest. 
+ Article 273 continues to give Member States freedom to implement these obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion. However, this freedom is limited in relation to reporting obligations, which can only be implemented according to the provisions of Chapter 6 of Title XI, in relation to the transactions under their scope. 
+ Single VAT Registration (SVR) and improvements to the existing e-commerce rules and the margin scheme 
+ Modifications and clarifications to the existing VAT legislation have been introduced as set out below. 
+ Moving towards the taxation at destination principle and in line with Article 4 of Council Directive (EU) 2022/542 amending Directives 2006/112/EC and (EU) 2020/285 as regards VAT rates 
+ 57 
+ , Article 14(4) , point (1)(a) , is modified to extend the definition of intra-Community distance sales of goods to cover second-hand goods, works of art, collectors’ items and antiques . Furthermore, A rticle 35 is deleted and as such, these supplies are taxed at the place of destination in line with Article 33 point (a). As a consequence, it allows for the application of the OSS simplification scheme to declare these distance sales, thereby further minimising the need to register in the several Member States . 
+ In order to reduce opportunities for VAT avoidance, the new Article 39a provides that the supplies of works of art and antiques without dispatch or transport (or supplies where the dispatch or transport of the goods begins and ends in the same Member State) are taxed at the place where the customer is established, has their permanent address or usually resides. 
+ The application of the deemed supplier rule is extended by the modifications to Article 14a. In particular, in respect of supplies of goods made within the EU, paragraph 2 is modified to extend the application of the deemed supplier rule. Under its expanded scope, the deemed supplier rule will now include all supplies of goods within the EU facilitated by an electronic interface, irrespective of where the underlying supplier is established and the status of the purchaser. In addition, a new paragraph 3 is inserted to provide for the application of the deemed supplier rule to certain transfers of own goods that are facilitated via an electronic interface. 
+ The provisions in the VAT Directive pertaining to call-off stock arrangements are amended to introduce a cut-off date, 31 December 2024, beyond which, no new transfers of stock under those arrangements can be effected. Article 17a, which governs call-off stock arrangements is further amended by the insertion of a new paragraph to clarify that the Article will cease to apply with effect from 31 December 2025. These amendments are introduced to reflect the fact that the current call-off stock arrangements will no longer be required as the new OSS simplification scheme for transfers of own goods is comprehensive and encompasses cross-border movements of goods that are currently covered by call-off stock arrangements. 
+ Article 59c stipulates that there is a EUR 10.000 calendar-based threshold, below which cross-border supplies of telecommunications, broadcasting and electronic (TBE) services and intra-Community distance sales of goods, supplied by an EU established supplier who is established in only one Member State, may remain subject to VAT in the Member State where that taxable person supplying those TBE services is established, or where those goods are located at the time their dispatch or transport begins. In addition to cross-border supplies of TBE services, it is now clarified that only intra-Community distance sales of goods that are supplied from the Member State where the taxable person is established are included in that threshold. 
+ The modification in Article 66 helps to clarify the timing of the chargeable event in respect of supplies under the non-Union OSS and Union OSS simplification schemes. 
+ The new paragraph 1a of Article 143 foresees that an implementing act shall be adopted to introduce special measures to prevent certain forms of tax evasion or avoidance by better securing the correct use and verification process of the IOSS VAT identification number of the supplier or of the intermediary acting on their behalf that is required for the application of the exemption provided for in point (ca) of Article 143(1). 
+ In order to further minimise the need to register in a Member State where the taxation of a domestic B2B supply occurs, the modification in Article 194 renders mandatory for the Member States to accept the application of the reverse charge mechanism where a supplier, who is not established for VAT purposes in the Member State in which VAT is due, makes supplies of goods to a person who is identified for VAT in that Member State. This reform will ensure that, in such circumstances, the supplier who is not identified there, does not have to register in that Member State. Further, the modification excludes supplies of margin scheme goods from the mandatory application of the reverse charge mechanism. To ensure adequate follow-up of the goods, this type of supplies is now to be mentioned in the recapitulative statement as referred to in Article 262. 
+ As the new OSS simplification scheme for transfers of own goods covers cross-border movements of goods that are currently covered by call-off stock arrangements, the modifications in Articles 243(3) and 262(2) remove the provisions in the VAT Directive pertaining to call-off stock arrangements with effect from 1 January 2026 as they are no longer required. As already mentioned, a window of 12 months is foreseen so that call-off stocks arrangements effected on or before 31 December 2024 can be finalised. 
+ The modification in Article 359 extends the scope of the non-union OSS to supplies of services from non-EU business to all non-taxable persons, even if they do not have their permanent address, nor do they usually reside, in a Member State. 
+ The modification in Article 365 clarifies the time by which amendments can be made to the relevant VAT returns in the non-Union OSS scheme. Amendments can now be made in the same return insofar as these amendments take place before the time that the return was required to be submitted. 
+ For the purpose of the Union OSS scheme, the new paragraphs in Article 369a broaden the definition of Member State of consumption to include supplies of goods according to Articles 36 (supply of goods with installation or assembly), 37 (supply of goods on board ships, aircrafts or trains) and 39 (supply of gas, electricity, heating and cooling), and domestic supplies of goods. 
+ In Article 369b, it is stipulated that, for the above-mentioned types of supplies, the Union OSS scheme can also be used insofar as these goods are supplied to non-taxable persons (or to taxable persons or non-taxable legal persons whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) of Directive 2006/112/CE). In addition, the scheme can also be applied for domestic supplies of margin scheme goods to any other taxable person supplied under the margin scheme by taxable dealers. 
+ The modification in Article 369g(1) and the new paragraphs amend the content of the Union OSS return to enable the inclusion of the above-mentioned supplies. 
+ The modification in Article 369g(2) and the new paragraph (2a) clarify the information to be provided in the Union OSS return in relation to the above-mentioned supplies and indicate that zero rated and otherwise exempted supplies of goods are covered by the Union OSS and, therefore, shall also be reported. 
+ The modification in Article 369g(3) indicates that the Union OSS return shall include zero rated and otherwise exempted supplies of services covered by the special scheme. 
+ The modification in Article 369g(4) clarifies that amendments to VAT returns in the Union OSS scheme after the time that the return had to be submitted, need to be done in a subsequent return. 
+ The modification in Article 369j stipulates that deduction is not possible in the VAT return of the Union OSS scheme but that VAT is to be refunded in accordance with the appropriate refund system. 
+ The new paragraph in Article 369m makes the use of the IOSS mandatory for electronic interfaces facilitating as deemed supplier certain distance sales of imported goods. 
+ Article 369p is amended to provide that, before commencing to use the special scheme for Imports (IOSS), a taxable person or an intermediary appointed on their behalf must indicate to the Member State of identification the taxable person’s status as a deemed supplier in respect of distance sales of goods imported into the EU. 
+ The modification in Article 369r and the new paragraphs provide that, if a taxable person fails to comply with the rules of the IOSS, they will be excluded from the scheme unless the said taxable person is obliged to use this scheme as deemed supplier. If such a deemed supplier persistently fails to comply with the rules relating to this special scheme, they will incur other sanctions rather than exclusion from the scheme. 
+ The modification in paragraph 2 of Article 369t clarifies the time by which amendments can be made to the relevant VAT returns for the IOSS scheme. If amendments are to be made after the time that the return had to be submitted, these have to be done in a subsequent return. 
+ The modification to Article 369w stipulates that, under the special scheme, VAT is not to be deducted but to be refunded in accordance with the appropriate refund system. 
+ The new Articles 369xa to 369xk provide for the application of a new scheme specifically designed to simplify the VAT compliance obligations associated with certain transfers of own goods. 
+ Article 369xa provides definitions that apply to the new scheme for transfers of own goods. Capital goods, or goods that do not allow for a full right of deduction in the Member State where the intra-Community acquisition takes place, are excluded from the special scheme. 
+ Article 369xb defines the scope of the scheme. Any taxable person making transfers of own goods, as defined in Article 369xa, can register to use this special scheme, in which case all of their relevant transfers will be covered by the special scheme. 
+ Article 369xc requires taxable persons making use of the scheme to inform their Member State of identification, by electronic means, in case of commencement, cessation or relevant changes to their taxable activities covered by this special scheme. 
+ Article 369xd provides that a taxable person using this special scheme shall, for the purpose of transfers covered by that scheme, be registered in one Member State of identification only. For the purpose of identification in the special scheme for transfers of own goods, the Member State of identification shall use the individual VAT identification number already allocated to the taxable person in respect of their obligations under the internal system. 
+ Article 369xe provides for the circumstances under which taxable persons making use of the scheme for transfers of own goods shall be excluded from that scheme, including, among other situations, where they persistently fail to comply with the rules of the scheme or cease their relevant activities. 
+ Article 369xf stipulates that VAT returns shall be submitted every month by electronic means, even when no relevant activity has been carried out. 
+ Article 369xg describes the information that the monthly VAT return shall contain and stipulates that amendments to these returns, after the time that the return had to be submitted, have to be done in a subsequent return. 
+ Article 369xh sets out the requirements in relation to the currency to be used in the VAT return. 
+ Article 369xi stipulates that, for transfers of own goods under the scheme, the intra-Community acquisitions are exempt in the Member State to which the goods are dispatched or transported. 
+ Article 369xj stipulates that deduction is not possible in the above-mentioned VAT return but that VAT is to be refunded in accordance with the appropriate refund system or deducted as inputs in the national VAT return of a Member State in circumstances where the taxable person is already identified for VAT purposes in a Member State in respect of activities not covered by the special scheme. 
+ Article 369xk sets out the record keeping obligations for taxable persons making use of the special scheme for transfers of own goods. 
+ 2022/0407 (CNS) 
+ Proposal for a 
+ COUNCIL DIRECTIVE 
+ amending Directive 2006/112/EC as regards VAT rules for the digital age 
+ THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 113 thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Parliament 
+ 58 
+ , 
+ Having regard to the opinion of the European Economic and Social Committee 
+ 59 
+ , 
+ Acting in accordance with a special legislative procedure, 
+ Whereas: 
+ (1) The rise of the digital economy has significantly impacted on the operation of the Union VAT system , as it is unsuited to the new digital business models, and does not allow for the full use of the data generated by digitalisation. Council Directive 2006/112/EC 
+ 60 
+ should be amended to take account of this evolution . 
+ (2) The VAT reporting obligations should be adapted to address the challenges of the platform economy and to reduce the need for multiple VAT registrations in the Union . 
+ (3) VAT revenue loss, known as the ‘VAT Gap’, was in 2020 estimated at EUR 93 billion 
+ 61 
+ in the Union , a significant part of which consists of fraud, in particular missing trader intra-Community fraud 
+ 62 
+ , estimated in the range of EUR 40-60 billion 
+ 63 
+ . In the final report of the Conference on the Future of Europe citizens call for ‘Harmonizing and coordinating tax policies within the Member States of the EU in order to prevent tax evasion and avoidance’, ‘Promoting cooperation between EU Member States to ensure that all companies in the EU pay their fair share of taxes’. The VAT in the Digital Age initiative is consistent with these goals. 
+ (4) In order to increase tax collection on cross-border transactions and to end the existing fragmentation stemming from Member States’ implementation of divergent reporting systems , rules should be laid down for Union digital reporting requirements . Such rules should provide information to tax administrations on a transaction-by-transaction basis , in order to allow cross matching of data , increas e the control capabilities of tax administrations and creat e a deterrent effect on non-compliance , while reducing compliance costs for businesses operating in different Member States and eliminating barriers within the internal m arket. 
+ (5) To facilitate the automation of the reporting process for both taxable persons and tax administrations, the transactions to be reported to tax administrations should be documented electronically. The use of electronic invoicing should become the default system for issuing invoices . Nevertheless, Member States should be allowed to authorise other means for domestic supplies . The issuance of electronic invoices by the supplier and its transmission to the customer should not be conditional on a prior authorisation or verification by the tax administration. 
+ (6) The definition of an electronic invoice should be aligned with that used in Directive 2014/55/EU of the European Parliament and the Council 
+ 64 
+ , to achieve standardisation i n the area of VAT reporting . 
+ (7) For the VAT reporting system to be implemented in an efficient manner , it is necessary that the information reach es the tax administration without delay . Therefore , the deadline for the issuance of an invoice for cross-border transactions should be set at 2 working days after the chargeable event has taken place . 
+ (8) The electronic invoice should facilitate the automated transmission to the tax administration of the data needed for control purposes. For this purpose, the electronic invoice should contain all the data that have to be later transmitted to the tax administration. 
+ (9) The implementation of the electronic invoice as the default method for documenting transactions for VAT purposes would not be possible if the use of the electronic invoice remains subject to the acceptance by the recipient . Therefore, such an acceptance should no longer be required for the issuance of electronic invoices. 
+ (10) The Commission has complied with its obligation to present a report to the Europea n Parliament and the Council on the impact of the invoicing rules applicable from 1 January 2013 and notably on the extent to which they have effectively led to a decrease in administrative burdens for businesses , as required by Article 237 of Directive 2006/112/EC . As this obligation has already been fulfilled, it should be removed from th at Directive . 
+ (11) The obligation to submit recapitulative statements for the reporting of intra-Community transactions should be removed, as the digital reporting requirements for intra-Community transactions cover , under their scope , the same transaction s , but with faster and more detailed information . T he digital reporting requirements cover the same transactions that the recapitulative statements with the exception of transactions under call-off stocks arrangements, as referred to in Article 17a of Directive 2006/112/EC , which should be reported through the o ne -s top -s hop (OSS) return. 
+ (12) In order to facilitate for taxable persons the transmission of t he invoice data , Member States should put at the disposal of the taxable person s the necessary means for such transmission, whi ch should allow that the data is sen t by the taxable person directly or by a third party on that taxable person’s behalf. 
+ (13) Whilst the information to be transmitted through the digital reporting requirements for intra-Community transactions should be s imilar to w hat was transmitted through the recapitulative statements , it is necessary to request taxable persons to provide additional data , including bank details and payment amounts , so that tax administrations can follow not only the goods but also the financial flows . 
+ (14) P lacing an unnecessary administrative burden on taxable persons operating in different Member States should be avoided . Therefore, s uch taxable persons should be able to provide the required information to their tax administrations using the European standard laid down in Commission Implementing Decision (EU) 2017/1870 
+ 65 
+ , which fulfils the request laid down in Article 3(1) of Directive 2014/55/EU to create a n European standard for the semantic data model of the core elements of an electronic invoice . Member States should be allowed to provide for additional methods to report the data that could be easier for certain taxable persons to comply with. 
+ (15) In order to achieve the necessary harmonisation in the reporting of data on intra-Community transactions, the information to be reported should be the same in all Member States, without the possibility for Member States to request additional data. 
+ (16) An important element in the fight against VAT fraud related to intra-Community transactions is to compare the data declared by the supplier with the data declared by the customer. For that purpose, the person acquir ing the goods and the recipient of the services should be required to report the data on their intra-Community transactions. 
+ (17) Several Member States have put in place divergent reporting requirements for transactions within the ir territor ies , le a d ing to significant administrative burdens for taxable persons which operate in different Member States, as they need to adapt their accounting systems to comply with th o se requirements. In order to avoid the costs derived from such divergence , the systems implemented in Member States to report supplies of goods and services for consideration between taxable persons within their territory should comply with the same features of the system implemented for intra-Community transactions. Member States should provide for the electronic means for the transmission of the information and, as is the case for intra-Community transactions, it should be possible for the taxable person to submit the data in accordance with the European standard laid down in Implementing Decision (EU) 2017/1870 , even though the relevant Member State could provide for additional means to transmit the data. The data should be allowed to be sent by the taxable person directly or by a third party on that person’s behalf. 
+ (18) Member States should not be obliged to implement a digital reporting requirement for supplies of goods and services for consideration between taxable persons within their territory. However , if they are to implement such a requirement in the future , they should align it with the digital reporting requirement s for intra- Community transactions . Member States which already have a reporting system for these transactions in place should adapt such systems to ensure that the data are reported in accordance with the digital reporting requirements for intra- Community transactions . 
+ (19) In order to evaluate the effectiveness of the digital reporting requirements , the Commission should prepare an assessment report evaluat ing the impact of digital reporting requirements on the reduction of the VAT gap and in the implementation and compliance costs for taxable persons and tax administrations , in order to verify whether the system has achieved its objectives or needs further adjustments. 
+ (20) Member States should be able to continue to implement other measures to ensure the correct collection of VAT and to prevent evasion. However, they should not be able to impose additional reporting obligations on the transactions that are covered by the digital reporting requirements . 
+ (21) T he platform economy has raise d certain difficulties for the application of the VAT rules - in particular the establishment of the taxable status of the provider of the service and the level playing field between s mall and medium-sized enterprises (SMEs) and other businesses . 
+ (22) The platform economy has led to an unjustified distortion of competition between supplies performed through online platforms that escape VAT taxation, and supplies performed in the traditional economy that are subject to VAT . The distortion has been most acute in the two largest sectors of the platform economy behind e-commerce, namely the short - term accommodation rental sector and the passenger transport sector . 
+ (23) It is therefore necessary to la y down rules to address the distortions of competition in the short - term accommodation rental and passenger transport sectors by changing the role that platforms play in the collection of VAT (becoming the ‘deemed supplier’) . Under this model, p latforms should be required to charge VAT where VAT is due but the underlying supplier does not charge it because they are, for example, a natural person or a taxable person using the special scheme for small enterprises . 
+ (24) Member States interpret the place of supply of the facilitation service provided by the platforms to non-taxable persons differently. Therefore it is necessary to clarify this rule. 
+ (25) Some Member States rely upon Article 135(2) of Directive 2006/112/EC to apply a VAT exemption to shor t- term accommodation rental, while others do not. In order to ensure equal treatment and consistency , whilst continuing to address the distortion of competition in the accommodation sector , it should be clarified that this exemption does not apply to short-term accommodation rental s . The criteria used to identify short-term accommodation rentals, which shall be regarded as having a similar function to the hotel sector, are only to be applied for the purposes of this Directive and are without prejudice to the definitions used in other Union legislation . This Directive therefore does not create an EU definition of short-term accommodation rentals. 
+ (26) In order to avoid that platforms making deemed supplies are inadvertently included in the special scheme for travel agents, or vice versa, t ransactions for which the platform is the deemed supplier should be excluded from that special schem e . 
+ (27) T his proposal is without prejudice to the rules laid down by other Union legal acts, in particular, Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act) 
+ 66 
+ regulating other aspects of the provision of services by online platforms, such as obligations applicable to providers of online platforms allowing consumers to conclude distance contracts with traders. 
+ (28) Council Directive s (EU) 2017/2455 
+ 67 
+ and 2019/1995 
+ 68 
+ amended Directive 2006/112/EC as regards the VAT rules governing the taxation of business-to-consumer cross-border e-commerce activity in the Union. Those amending Directives reduced distortions of competition, improved administrative cooperation and introduced a number of simplifications. Whilst the amendments introduced by those Directives that apply since 1 July 2021 have been largely successful, the need for certain improvements have nevertheless been identified. 
+ (29) To this end , some existing rules should be clarified . This includ es the rule on the calculation of the EUR 10 000 calendar-based threshold laid down in Article 59c of Directive 2006/112/EC , below which supplies of telecommunications, broadcasting and electronic (TBE) services and intra-Community distance sales of goods, supplied by a Union established supplier established in only one Member State, may remain subject to VAT in the Member State where that taxable person supplying those TBE services is established, or where those goods are located at the time their dispatch or transport begins. Article 59c of Directive 2006/112/EC should be amended to ensure that only intra-Community distance sales of goods that are supplied from the Member State where the taxable person is established are included in the calculation of the EUR 10 000 threshold , but not distance sales made from a stock of goods in another Member State . 
+ (30) Directive 2006/112/EC should also be amended to clarify that all business-to-consumer supplies of services, supplied within the Union by taxable persons established outside the Union , fall within the scope of the special scheme for services supplied by taxable persons not established within the Community (the non-Union s cheme) , and not only supplies of services to Union established customers . F ollowing the introduction of the new rules on VAT rates by Council Directive (EU) 2022/542 
+ 69 
+ and the foreseen entry into force of the new SME rules 
+ 70 
+ and in order to cover exemptions under Article 151 of Directive 2006/112/EC regarding supplies of goods and services inter alia under diplomatic, consular arrangements and to certain other international bodies , it is also necessary to broaden the Union OSS scheme under Title XII , Chapter 6, Section 3 of Directive 2006/112/EC by ensuring that zero - rated and VAT - exempt supplies fall within the scope of that scheme, such as supplies by small and medium - enterprises (SMEs). In addition, Directive 2006/112/EC should be amended to clarify the time by which amendments by the taxable person making use of the special schemes can be made to the relevant VAT returns across the three existing simplification schemes; the non-Union OSS, the Union OSS and the Import OSS (‘IOSS’) . This clarification will allow taxable persons registered for the schemes to make corrections to the relevant VAT returns up to the deadline of submission of those returns. Finally, the timing of the chargeable event in respect of supplies under the Union and non-Union OSS simplification scheme s should be c learly settled in order to avoid differences in the application of the rules amongst the Member States . 
+ (31) VAT identification is , in general, required in every Member State where taxable transactions take place. However, to reduce the instances in which multiple VAT registrations are required, Directive (EU) 2017/2455 introduced into Directive 2006/112/EC a number of measures to minimise the need for multiple VAT registrations . I n order to further reduce the need for multiple VAT registrations, a number of extension measures have been identified to support the objective of a single VAT registration in the Union . Rules should therefore be laid down to provide for these extension measures . 
+ (32) Amongst other measures, Directive (EU ) 2017/2455 extended the scope of the Mini OSS to become a broader OSS , cover ing all cross-border supplies of services to non-taxable persons taking place in the Union and all intra-Community distance sales of goods. Exceptionally, electronic interfaces , such as marketplaces and platforms, which become deemed suppliers for certain supplies of goods within the Union can also declare certain domestic supplies of goods in the Union OSS scheme. To support the objective of a single VAT registration in the Union , the scope of the Union OSS scheme should be further expanded to cover other supplies of goods, including domestic business-to-consumer supplies of goods in the Union by taxable persons who are not identified for VAT purposes in the Member State of consumption , ensuring that businesses do not need to register for VAT in each Member State where such supplies of goods to consumers take place. In addition, the scope of the Union OSS scheme should be expanded to also include domestic supplies of margin scheme goods to any person, when those goods are supplied by a taxable person ( taxable dealer) who is not identified in the Member State were such supplies of goods take place. This amendment would allow taxable dealers to benefit from the OSS simplifications , and allow for the VAT due on th o se supplies to be declared and paid in one Member State of identification via th e enlarged Union OSS scheme. 
+ (33) VAT is normally charged and accounted for by the supplier of the goods or services. However, in certain circumstances Member States may provide that, under the reverse charge mechanism, the recipient of the supply, rather than the supplier, is obliged to account for the VAT due. To further support the objective of a single VAT registration in the Union , rules should be laid down for the mandatory application by Member States of the reverse charge mechanism in situations where a supplier is not established for VAT purposes in the M ember S tate in which VAT is due . A supplier , mak ing supplies of goods or services to a person who is identified for VAT in th e Member State where the supply is taxable, should be entitled to apply the reverse charge . For control purposes, s uch supplies should be reported in the recapitulative statement. 
+ (34) Directive (EU) 2017/2455 introduced into Directive 2006/112/EC the liability of electronic interfaces, such as marketplaces and platforms , when acting as deemed supplier, where they facilitate certain supplies of goods to consumers in the Union . I n terms of supplies of goods made within the Union , the deemed supplier rule is currently limited to supplies of goods to non-taxable persons , where those goods are supplied in the Union by taxable person s not established in the Union . In order to level the playing field between Union and non- Union traders and minimise the costs of doing business cross-border within the Union , measures should be adopted t o further reduc e the compliance burden for Union sellers that operate via electronic interfaces . Under its expanded scope, t he deemed supplier rule would include all supplies of goods within the Union facilitated by an electronic interface, irrespective of where the underlying supplier is established and irrespective of the status of the purchaser. 
+ (35) Directive (EU) 2017/2455 introduced into Directive 2006/112/EC a specific simplification, the IOSS, which was designed to reduce the VAT compliance burden associated with the importation of certain low value goods to consumers in the Union . Accordingly, t axable persons who opt to register for the IOSS do not need to register for VAT in each Member State in which their eligible imports of goods to consumers take place. Instead, the VAT due on those supplies can be declared and paid in one Member State via the IOSS scheme. To further support and enhance VAT compliance in respect of certain imported goods measure s should be adopted to make the use of the IOSS mandatory for electronic interfaces, such as marketplaces and platforms, when they facilitate certain imports of goods to consumers in the Union . However, t axable persons who operate electronic interfaces and who exclusively facilitate domestic supplies in their Member State of establishment should fall outside the scope of the measure . 
+ (36) In order to ensure uniform conditions for the implementation of Directive 2006/112/EC , powers should be conferred on the Commission t o better secure the correct use and the verification process of IOSS VAT identification numbers for the purposes of the exemption provided for in that Directive . This empowerment should allow the Commission to adopt an implementing act to introduce special measures to prevent certain forms of tax evasion or avoidance. Such special measures involve, inter alia, linking the unique consignment number with the IOSS VAT identification number. Those powers should be exercised in accordance with the examination procedure referred to in Article 5 of Regulation (EU) No 182/2011 of the European Parliament and of the Council 
+ 71 
+ and for this purpose the committee should be the one established by Article 58 of Regulation (EU) No 904/2010 of the European Parliament and of the Council 
+ 72 
+ . 
+ (37) T he VAT registration of a supplier is required when that supplier is not identified for VAT in the Member State where VAT is due. In particular, the transfer of a taxable person's own goods to another Member State for, inter alia , the purposes of that person’s e-commerce related activity triggers a need to register in the Member States from and to where the goods are transferred . In congruence with the objective of a single VAT registration in the Union , the instances in which multiple VAT registrations are required should be further reduced by providing for the application of a new scheme in the framework of the OSS schemes, which is specifically designed to simplify the VAT compliance obligations associated with certain transfers of own goods. 
+ (38) Directive 2006/112/EC provides for a simplified VAT treatment of goods transferred under call-off stock arrangements where certain prescribed conditions are met. As the OSS simplification scheme for transfers of own goods is comprehensive and encompasses cross-border movements of goods that are currently covered by call-off stock arrangements under article 17a of that Directive , it is necessary to phase out these arrangements by including an end date prior to the complete remov al of the call-off stock provisions in Directive 2006/112/EC . Therefore, a n end date of 31 December 2024 should be laid down , after which it will no longer be pos sible to effect any new call-off stock arrangements. For call-off stock arrangements commencing on or before 31 December 2024, the relevant conditions, including the 12 month time limit for transferring ownership of those goods to the intended purchaser, should continue to apply. In parallel with the inclusion of this new end date, a new paragraph should be inserted in t he provisions pertaining to call-off stock arrangements to ensure that those arrangements will cease to apply on 31 December 2025 , as they will no longer be required after that date . 
+ (39) The margin scheme operates by allowing taxable dealers to pay VAT on the difference between the sale price and the purchase price of goods covered by the scheme namely second-hand goods, works of art, collectors' items and antiques . T o ensure that the taxation of those specific supplies occurs in the Member State where the customer is established, has his or her permanent address or usually resides , Directive 2006/112/EC should be amended to introduc e a new place of supply rule. In addition, Directive 2006/112/EC should be amended to specifically exclude supplies of margin scheme goods from the mandatory application of the reverse charge mechanism. However, to support the objective of a single VAT registration in the Union , and to minimise compliance burdens, taxable dealers that operate under the margin scheme can opt to register to use the Union OSS scheme to declare and pay the VAT due on certain supplies of margin scheme goods via that scheme, without the need to register in multiple Member States. 
+ (40) In accordance with the Joint Political Declaration of 28 September 2011 of Member States and the Commission on explanatory documents 
+ 73 
+ , Member States have undertaken to accompany, in justified cases, the notification of their transposition measures with one or more documents explaining the relationship between the components of a directive and the corresponding parts of national transposition instruments. With regard to this Directive, the legislator considers the transmission of such documents to be justified. 
+ (41) Since the objectives of this Directive, namely bringing the VAT system into the digital era, cannot sufficiently be achieved by the Member States but can rather, b y reason of the need to harmonise and encourage the use of D igital R eporting R equirement s, improve the VAT treatment of platforms , and reduce the instances in which a business is required to register in other Member States, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Directive does not go beyond what is necessary in or der to achieve those objectives. 
+ (42) Directive 2006/112/EC should therefore be amended accordingly, 
+ HAS ADOPTED THIS DIRECTIVE: 
+ Article 1 
+ Amendments to Directive 2006/112/EC with effect from 1 January 2024 
+ Directive 2006/112/EC is amended as follows: 
+ (1) Article 17a is amended as follows: 
+ (a) in paragraph 2, point (a) is replaced by the following: 
+ ‘(a) goods are dispatched or transported by a taxable person, or by a third party on his or her behalf, on or before 31 December 2024, to another Member State with a view to those goods being supplied there, at a later stage and after arrival, to another taxable person who is entitled to take ownership of those goods in accordance with an existing agreement between both taxable persons;’; 
+ (b) the following paragraph 8 is added : 
+ ‘8. 
+ This Article shall cease to apply on 31 December 2025.’; 
+ (2) in Title V, Chapter 3a, the heading is replaced by the following: 
+ ‘CHAPTER 3a 
+ Threshold for taxable persons making certain supplies of goods covered by Article 33, point (a), and certain supplies of services covered by Article 58’; 
+ (3) Article 59c is amended as follows: 
+ (a) in paragraph 1, point (b) is replaced by the following: 
+ ‘(b) services are supplied to a non-taxable person who is established, has a permanent address or usually resides in any Member State other than the Member State referred to in point (a), or goods are dispatched or transported from the Member State referred to in point (a) to another Member State; and’; 
+ (b) paragraph 3 is replaced by the following: 
+ ‘3. 
+ The Member State referred to in paragraph 1, point (a), shall grant taxable persons carrying out supplies eligible under that paragraph the right to opt for the place of supply to be determined in accordance with Article 33, point (a), and Article 58, which shall, in any event, cover two calendar years.’; 
+ (4) Article 66 is replaced by the following: 
+ ‘Article 66 
+ 1. 
+ By way of derogation from Articles 63, 64 and 65, Member States may provide that VAT is to become chargeable in respect of certain transactions or certain categories of taxable person, at one of the following times: 
+ (a) no later than the time the invoice is issued; 
+ (b) no later than the time the payment is received; 
+ (c) where an invoice is not issued, or is issued late, within a specified time no later than on expiry of the time - limit for issue of invoices imposed by Member States pursuant to the second paragraph of Article 222 or where no such time - limit has been imposed by the Member State, within a specified period from the date of the chargeable event. 
+ 2. 
+ The derogation provided for in paragraph 1 shall not apply to the following supplies: 
+ (a) supplies of services covered by the special scheme as set out in Title XII, Chapter 6, Section 2 where those supplies are carried out by a taxable person who is permitted to use that scheme in accordance with Article 359; 
+ (b) supplies covered by the special scheme as set out in Title XII, Chapter 6, Section 3, where those supplies are carried out by a taxable person who is permitted to use that scheme in accordance with Article 369b; 
+ (c) supplies of services in respect of which VAT is payable by the customer pursuant to Article 196; 
+ (d) supplies or transfers of goods referred to in Article 67.’; 
+ (5) in Article 167a, the first paragraph is replaced by the following: 
+ ‘Member States may provide, within an optional scheme that the right of deduction of a taxable person whose VAT solely becomes chargeable in accordance with Article 66(1), point (b), be postponed until the VAT on the goods or services supplied to that person has been paid to the supplier.’; 
+ (6) Article 217 is replaced by the following: 
+ ‘Article 217 
+ For the purposes of this Directive, ‘electronic invoice’ shall mean an invoice that contains the information required by this Directive, and which has been issued, transmitted and received in a structured electronic format which allows for its automatic and electronic processing.’; 
+ (7) Article 218 is replaced by the following: 
+ Article 218 
+ 1. For the purposes of this Directive, Member State shall accept documents or messages on paper or in electronic form as invoices if they meet the conditions laid down in this Chapter. 
+ 2. Member States may impose the obligation to issue electronic invoices. Member States imposing this obligation shall allow for the issuance of electronic invoices which comply with the European standard on electronic invoicing and the list of its syntaxes pursuant to Directive 2014/55/EU of the European Parliament and of the Council*. The issuance of electronic invoices by taxable persons and their transmission shall not be subject to a prior mandatory authorisation or verification by the tax authorities, without prejudice to the special measures authorised under Article 395 and already implemented at the time this Directive enters into force. 
+ *Directive 2014/55/EU of the European Parliament and of the Council of 16 April 2014 on electronic invoicing in public procurement (OJ L 133, 6.5.2014, p. 1).’; 
+ (8) in Article 226 , point 7a is replaced by the following: 
+ ‘(7a) where the VAT becomes chargeable at the time when the payment is received in accordance with Article 66(1), point (b), and the right of deduction arises at the time the deductible tax becomes chargeable, the mention ‘Cash accounting’; 
+ (9) Article 232 is deleted; 
+ (10) Article 237 is deleted; 
+ (11) Article 359 is replaced by the following: 
+ ‘Article 359 
+ Member States shall permit any taxable person not established within the Community supplying services to a non-taxable person to use t his special scheme. That scheme shall apply to all those services supplied within the Community.’; 
+ (12) in Article 369j, the first paragraph is replaced by the following: 
+ ‘The taxable person making use of this special scheme may not, in respect of his or her taxable activities covered by this special scheme, deduct VAT incurred in the Member States of consumption pursuant to Article 168 of this Directive. Notwithstanding Article 1, point (1), of Directive 86/560/EEC, Article 2, point (1), Article 3, and Article 8(1), point (e), of Directive 2008/9/EC, the taxable person in question shall be refunded in accordance with those Directives. Article 2(2) and (3) and Article 4(2) of Directive 86/560/EEC shall not apply to refunds relating to goods covered by this special scheme.’; 
+ (13) in Article 369w, the first paragraph is replaced by the following: 
+ ‘The taxable person making use of this special scheme may not, in respect of his or her taxable activities covered by this special scheme, deduct VAT incurred in the Member States of consumption pursuant to Article 168 of this Directive. Notwithstanding Article 1, point (1), of Directive 86/560/EEC and Article 2, point (1), Article 3, and Article 8(1), point (e), of Directive 2008/9/EC, the taxable person in question shall be refunded in accordance with those Directives. Article 2(2) and (3), and Article 4(2) of Directive 86/560/EEC shall not apply to refunds relating to goods covered by this special scheme.’; 
+ Article 2 
+ Amendments to Directive 2006/112/EC with effect from 1 January 2025 
+ Directive 2006/112/EC is amended as follows: 
+ (1) in Article 14(4) , point (1)(a) , is replaced by the following: 
+ ‘(a) the supply of goods is carried out for a taxable person, or a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) or for any other non-taxable person; or the supply is a supply of second-hand goods, works of art, collectors’ items or antiques, supplied by a taxable dealer to any other taxable person, where the goods are subject to VAT in accordance with the special arrangements provided for in Title XII Chapter 4, Section 2, of this Directive .’; 
+ (2) Article 14a is amended as follows: 
+ (a) p aragraph 2 is replaced by the following: 
+ ‘2. 
+ Where a taxable person facilitates, through the use of an electronic interface such as a marketplace, platform, portal or similar means, the supply of goods within the Community by a taxable person, the taxable person who facilitates the supply shall be deemed to have received and supplied those goods.’; 
+ (b) the following paragraphs 3 and 4 are added : 
+ ‘3. 
+ Where a taxable person facilitates, through the use of an electronic interface such as a marketplace, platform, portal or similar means, the transfer of goods to another Member State in accordance with Article 17(1) by a taxable person, other than capital goods as defined by the Member State to which the goods are dispatched or transported in accordance with Article 189, point (a), or goods in relation to which there is no full right of deduction in that Member State, the taxable person who facilitates the transfer shall be deemed to have received and supplied those goods. 
+ 4. 
+ Where a taxable person established only in one Member State facilitates through the use of an electronic interface such as a marketplace, platform, portal or similar means, supplies of goods only in that Member State without dispatch or transport, or with dispatch or transport which begins and ends in that Member State, that taxable person shall not be deemed to have received and supplied those goods.’; 
+ (3) the following Articles 28a is inserted: 
+ ‘Article 28a 
+ Notwithstanding Article 28, a taxable person who facilitates, through the use of an electronic interface such as a platform, portal, or similar means, the supply of short-term accommodation rental, as referred to in Article 135(3), or passenger transport, shall be deemed to have received and supplied those services themselves where the person providing those services is one of the following: 
+ (a) a non-established person who is not identified for VAT purposes in a Member State; 
+ (b) a non-taxable person; 
+ (c) a taxable person carrying out only supplies of goods or services in respect of which VAT is not deductible; 
+ (d) a non-taxable legal person; 
+ (e) a taxable person subject to the common flat-rate scheme for farmers; 
+ (f) a taxable person subject to the special scheme for small enterprises .’ ; 
+ (4) Article 35 is deleted; 
+ (5) in Title V, Chapter 1, the following Section 5 is added: 
+ ‘ Section 5 
+ Supply of works of art and antiques that are supplied under the special arrangements for taxable dealers 
+ Article 39a 
+ The place of supply of works of art and antiques that are supplied without dispatch or transport, or where the dispatch or transport of those goods begins and ends in the same Member State, and that are supplied in accordance with the special scheme provided for in Title XII, Chapter 4, Section 2, subsection 1, shall be the place where the customer is established, has his or her permanent address, or usually resides.’; 
+ (6) The following Article 46a is inserted: 
+ ‘Article 46a 
+ The place of supply of the facilitation service provided to a non-taxable person by a platform, portal or similar means shall be the place where the underlying transaction is supplied in accordance with this Directive. 
+ (7) in Article 135, the following paragraph 3 is added: 
+ ‘3. 
+ The uninterrupted rental of accommodation for a maximum of 45 days with or without the provision of other ancillary services shall be regarded as having a similar function to the hotel sector .’; 
+ (8) Article 136a is replaced by the following: 
+ ‘Article 136a 
+ Where a taxable person is deemed to have received and supplied goods in accordance with Article 14a(2) or Article 14a(3), Member States shall exempt the supply of those goods to that taxable person.’; 
+ (9) the following Article 136b is inserted : 
+ ‘Article 136b 
+ Where a taxable person is deemed to have received and supplied services in accordance with Article 28a, Member States shall exempt the supply of those services to that taxable person.’; 
+ (10) in Article 143, the following paragraph 1a is inserted: 
+ ‘1a. 
+ For the purposes of the exemption provided for in paragraph 1, point (ca), the Commission shall adopt an implementing act to introduce special measures to prevent certain forms of tax evasion or avoidance by, inter alia, linking the unique consignment number with the corresponding VAT identification number as referred to in Article 369q . 
+ That implementing act shall be adopted in accordance with the examination procedure referred to in Article 5 of Regulation (EU) No 182/2011* and for that purpose the committee shall be the committee established by Article 58 of Regulation (EU) No 904/2010±. 
+ * Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13). 
+ ± Council Regulation (EU) No 904/2010 of 7 October 2010 on administrative cooperation and combating fraud in the field of value added tax (OJ L 268 12.10.2010, p. 1).’; 
+ (11) the following Article 172a is inserted: 
+ ‘Article 172a 
+ Where a taxable person is deemed to have received and supplied services in accordance with Article 28a, those supplies shall not affect the right of deduction of that taxable person, regardless of whether the supply is one for which VAT is deductible or not.’; 
+ (12) Article 194 is replaced by the following : 
+ ‘Article 194 
+ 1. 
+ Without prejudice to Articles 195 and 196, w here the taxable supply of goods or services is carried out by a taxable person who is not established in the Member State in which the VAT is due, Member States shall allow that the taxable person liable for payment of VAT is the person to whom the goods or services are supplied if that person is already identified in that Member State. 
+ 2 . 
+ Paragraph 1 shall not apply to a supply of goods carried out by a taxable dealer as defined in Article 311(1), point (5), where the goods are subject to VAT in accordance with the special arrangements provided for in Section 2 of Chapter 4 of Title XII of this Directive .’; 
+ (13) in Article 222 the first paragraph is replaced by the following : 
+ ‘For supplies of goods carried out in accordance with the conditions specified in Article 138 or for supplies of goods or services for which VAT is payable by the customer pursuant to Articles 194 and 196, an invoice shall be issued no later than on the fifteenth day of the month following that in which the chargeable event occurs.’ 
+ (14) Article 242a is amended as follows: 
+ (a) the following paragraph 1a is inserted: 
+ ‘1a. 
+ Where a taxable person facilitates, through the use of an electronic interface such as a platform, portal or similar means, the supply of short-term accommodation rental or passenger transport services, and that person is not considered to have received and supplied those services themselves under Article 28a, the taxable person who facilitates the supply shall be obliged to keep records of those supplies.’; 
+ (b) paragraph 2 is replaced by the following: 
+ ‘2. 
+ The records referred to in paragraphs 1 and 1a must be made available electronically on request to the Member States concerned. 
+ Those records must be kept for a period of 10 years from the end of the year during which the transaction was carried out.’; 
+ (15) i n Article 262, paragraph 1, point (c) is replaced by the following: 
+ ‘(c) the taxable persons, and the non-taxable legal persons identified for VAT purposes, to whom that taxable person identified for VAT purposes has supplied goods or services, other than goods or services that are exempted from VAT in the Member State where the transaction is taxable, for which the recipient is liable to pay the tax pursuant to Articles 194 and 196.’; 
+ (16) i n Article 306, the following paragraph 3 is added: 
+ ‘3. 
+ The special scheme referred to in paragraph 1 of this Article shall not apply to supplies made under Article 28a.’; 
+ (17) i n Title XII, the heading of Chapter 6, is replaced by the following: 
+ ‘CHAPTER 6 
+ Special schemes for taxable persons supplying services to non-taxable persons or making distance sales of goods, or certain domestic supplies of goods or transfers of own goods’; 
+ (18) Article 365 is replaced by the following: 
+ ‘ Article 365 
+ The VAT return shall show the individual VAT identification number for the application of this special scheme and, for each Member State of consumption in which VAT is due, the total value, exclusive of VAT, of supplies of services covered by this special scheme for which the chargeable event has occurred during the tax period and total amount per rate of the corresponding VAT. The applicable rates of VAT and the total VAT due must also be indicated on the return. 
+ Where any amendments to the VAT return are required after the date on which the return was required to be submitted in accordance with Article 364, such amendments shall be included in a subsequent return within three years of the date on which the initial return was required to be submitted pursuant to Article 364. That subsequent VAT return shall identify the relevant Member State of consumption, the tax period and the amount of VAT for which any amendments are required.’; 
+ (19) i n Title XII, Chapter 6, the heading of Section 3 is replaced by the following: 
+ ‘Section 3 
+ Special scheme for intra-Community distance sales of goods, for certain supplies of goods within a Member State made by a taxable person not identified for VAT purposes in that Member State or by electronic interfaces facilitating those supplies and for services supplied to a non-taxable person by taxable persons established within the Community but not in the Member State of consumption’; 
+ (20) i n Article 369a, point ( 3 ) is amended as follows: 
+ (a) point (c) is replaced by the following: 
+ ‘(c) in the case of the supply of goods made by a taxable person facilitating those supplies in accordance with Article 14a(2) where the dispatch or transport of the goods supplied begins and ends in the same Member State, where those goods are supplied to a taxable person or a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1), or to any other non-taxable person, that Member State;’; 
+ (b) the following points (d) and (e) are added : 
+ ‘(d) in the case of the supply of goods in accordance with Articles 36, 37 and 39, where those goods are supplied to a taxable person or a non-taxable legal person , whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) , or to any other non-taxable person, the Member State in which the supply is deemed to take place; 
+ (e) in the case of the supply of goods without dispatch or transport of the goods, or where the dispatch of the goods supplied begins and ends in the same Member State where those goods are supplied to a taxable person or to a non-taxable legal person whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) , or to any other non-taxable person , that Member State.’; 
+ (21) Article 369b is replaced by the following: 
+ ‘Article 369b 
+ Member States shall permit the following taxable persons to use this special scheme: 
+ (a) a taxable person carrying out intra-Community distance sales of goods; 
+ (b) without prejudice to Article 14a(2), for the purpose of this special scheme, a taxable person facilitating the supply of goods in accordance with Article 14a(2) without dispatch or transport or where the dispatch of transport begins and ends in the same Member State, where those goods are supplied to a taxable person or to a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1), or to any other non-taxable person. 
+ (c) a taxable person not established in the Member State of consumption supplying services to a non-taxable person; 
+ (d) a taxable person not identified in the Member State in which the goods are subject to VAT, supplying goods in accordance with Articles 36, 37 and 39 to a taxable person or a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) or to any other non-taxable person; 
+ (e) a taxable person not identified in the Member State in which the goods are subject to VAT, supplying goods without dispatch or transport or where the dispatch begins and ends in the same Member State to either of the following : 
+ (a) a taxable person or a non-taxable legal person , whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) or to any other non-taxable person; 
+ (b) any other taxable person where the supply is a supply of second-hand goods, works of art, collectors’ items or antiques, where the goods are subject to VAT in accordance with the margin scheme provided for in Articles 312 to 325. 
+ This special scheme applies to all those goods or services supplied in the Community by the taxable person concerned.’ 
+ (22) Article 369g is amended as follows: 
+ (a) paragraph 1 is replaced by the following: 
+ ‘1. 
+ The VAT return shall show the VAT identification number referred to in Article 369d and, for each Member State of consumption, the total value exclusive of VAT, the applicable rates of VAT, where relevant, the total amount per rate of the corresponding VAT, where relevant, and the total VAT due in respect of the following supplies covered by this special scheme for which the chargeable event has occurred during the tax period: 
+ (a) intra-Community distance sales of goods; 
+ (b) without prejudice to Article 14a(2), for the purpose of this special scheme, supplies of goods in accordance with Article 14a(2) where the dispatch or transport of those goods begins and ends in the same Member State, where those goods are supplied to a taxable person or a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) or to any other non-taxable person; 
+ (c) s upplies of services; 
+ (d) supplies of goods in accordance with Articles 36, 37 and 39, where those goods are supplied to a taxable person or a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) or to any other non-taxable person ; 
+ (e) supplies of goods without dispatch or transport, or where the dispatch begins and ends in the same Member State, where those goods are supplied to a taxable person or a non-taxable legal person , whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) or to any other non-taxable person. 
+ The VAT return shall also include amendments relating to previous tax periods as provided for in paragraph 4 of this Article.’; 
+ (b) paragraph 2 is replaced by the following: 
+ ‘2. 
+ Where goods are dispatched or transported in or from Member States other than the Member State of identification, the VAT return shall also include the total value exclusive of VAT, the applicable rates of VAT, where relevant, the total amount per rate of the corresponding VAT, where relevant, and the total VAT due in respect of the following supplies covered by this special scheme, for each Member State where such goods are dispatched or transported in or from: 
+ (a) intra-Community distance sales of goods other than those made by a taxable person in accordance with Article 14a(2); 
+ (b) intra-Community distance sales of goods and supplies of goods where the dispatch or transport of those goods begins and ends in the same Member State, made by a taxable person in accordance with Article 14a(2) where those goods are supplied to a taxable person or a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) or to any other non-taxable person; 
+ (c) supplies of goods in accordance with Articles 36, 37 and 39, where those goods are supplied to a taxable person or a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) or to any other non-taxable person; 
+ (d) supplies of goods to a taxable person or a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) or to any other non-taxable person , where the dispatch begins and ends in the same Member State. 
+ In relation to the supplies referred to in point (a), the VAT return shall also include the individual VAT identification number or the tax reference number allocated by each Member State where such goods are dispatched or transported from, if available. 
+ In relation to the supplies referred to in point (b), the VAT return shall also include the individual VAT identification number or the tax reference number allocated by each Member State where such goods are dispatched or transported from, if available. 
+ The VAT return shall include the information referred to in this paragraph broken down by Member State of consumption.’; 
+ (c) the following paragraph 2a is inserted: 
+ ‘2a. 
+ The requirement to provide the information set out in paragraph 2 shall also appl y to supplies of goods without dispatch or transport taking place in a Member State other than the Member State of identification.’ ; 
+ (d) paragraph 3 is replaced by the following: 
+ ‘3. 
+ Where the taxable person supplying services covered by this special scheme has one or more fixed establishments other than that in the Member State of identification, from which the services are supplied, the VAT return shall also include the total value exclusive of VAT, the applicable rates of VAT, where relevant, the total amount per rate of the corresponding VAT, where relevant, and the total VAT due of such supplies, for each Member State in which that person has an establishment, together with the individual VAT identification number or the tax reference number of th at establishment, broken down by Member State of consumption.’; 
+ (e) paragraph 4 is replaced by the following: 
+ ‘4. 
+ Where any amendments to the VAT return are required after the date on which the return was required to be submitted in accordance with Article 369f, such amendments shall be included in a subsequent return within 3 years of the date on which the initial return was required to be submitted pursuant to Article 369f. That subsequent VAT return shall identify the relevant Member State of consumption, the tax period and the amount of VAT for which any amendments are required.’; 
+ (23) in Article 369m, the following paragraph 4 is added: 
+ ‘4. 
+ Notwithstanding paragraph 1, Member States shall require the taxable person acting as deemed supplier in accordance with Article 14a(1) to use this special scheme for all his or her distance sales of goods imported from third territories or third countries . 
+ (24) Article 369p is amended as follows: 
+ (a) in paragraph 1 , the following point (e) is added : 
+ ‘(e) status as taxable person deemed to have received and supplied goods in accordance with Article 14a(1).’ ; 
+ (b) in paragraph 3 , the following point (f) is added: 
+ ‘(f) status as taxable person deemed to have received and supplied goods in accordance with Article 14a(1).’; 
+ (25) Article 369r is amended as follows: 
+ (a) in paragraph 1, point (d) is replaced by the following: 
+ ‘(d) if that taxable person persistently fail s to comply with the rules relating to this special scheme and insofar the use of this scheme is not obligatory in accordance with Article 369m(4).’, 
+ (b) in paragraph 3, point (d) is replaced by the following: 
+ ‘(d) if that taxable person persistently fails to comply with the rules relating to this special scheme and insofar as the use of this scheme is not obligatory in accordance with Article 369m(4);’, 
+ (c) a new paragraph 4 is inserted: 
+ ‘4. Where the use of the special scheme is obligatory in accordance with Article 369m(4), Member States of identification shall adopt appropriate measures, other than deletion from the identification register, where the taxable person persistently fails to comply with the rules relating to this special scheme.’; 
+ (26) in Article 369t, paragraph 2 is replaced by the following: 
+ ‘2. 
+ Where any amendments to the VAT return are required after the date on which the return was required to be submitted in accordance with Article 369s, such amendments shall be included in a subsequent return within three years of the date on which the initial return was required to be submitted pursuant to Article 369s. That subsequent VAT return shall identify the relevant Member State of consumption, the tax period and the amount of VAT for which any amendments are required.’; 
+ (27) i n Title XII, Chapter 6, the following Section 5 is added : 
+ ‘Section 5 
+ Special scheme for transfers of own goods 
+ Article 369xa 
+ For the purposes of this Section, and without prejudice to other Community provisions, the following definitions shall apply: 
+ (1) 
+ ‘ t ransfer of own goods’ means the transfer of goods to another Member State in accordance with Article 17(1), including transfers pursuant to Article 14a(3), and shall not include transfers of capital goods as defined by the Member State to which the goods are dispatched or transported in accordance with Article 189(a) or goods in relation to which there is no full right of deduction in that Member State. 
+ (2) 
+ ‘Member State of identification’ means the Member State in the territory of which the taxable person has established his or her business or, if that taxable person has not established his or her business in the Community, where that taxable person has a fixed establishment. 
+ Where a taxable person has not established his or her business in the Community, but has more than one fixed establishment therein, the Member State of identification shall be the Member State with a fixed establishment where that taxable person indicates that he or she will make use of this special scheme. The taxable person shall be bound by that decision for the calendar year concerned and the two calendar years following. 
+ Where a taxable person has not established his or her business in the Community and has no fixed establishment therein, the Member State of identification shall be the Member State in which the dispatch or transport of the goods begins. Where there is more than one Member State in which the dispatch or transport of the goods begins, the taxable person shall indicate which of those Member States shall be the Member State of identification. The taxable person shall be bound by that decision for the calendar year concerned and the two calendar years following. 
+ Article 369xb 
+ Member States shall permit any taxable persons making transfers of own goods to use this special scheme. 
+ This special scheme shall apply to all transfers of own goods carried out by a taxable person registered for this scheme. 
+ Article 369xc 
+ A taxable person shall state to the Member State of identification when that taxable person commences and ceases his or her taxable activities covered by this special scheme, or changes those activities in such a way that that taxable person no longer meets the conditions necessary for use of this special scheme. That taxable person shall communicate that information electronically. 
+ Article 369xd 
+ A taxable person making use of this special scheme shall, for the taxable transactions carried out under this scheme, be identified for VAT purposes in the Member State of identification only. For that purpose the Member State shall use the individual VAT identification number already allocated to the taxable person in respect of his or her obligations under the internal system. 
+ Article 369xe 
+ The Member State of identification shall exclude a taxable person from the special scheme in any of the following cases: 
+ (a) if that taxable person notif ies that he or she no longer carr ies out transfer s of own goods covered by this special scheme; 
+ (b) if it may otherwise be assumed that that taxable person’s taxable activities covered by this special scheme have ceased; 
+ (c) if that taxable person no longer meet s the conditions necessary for use of this special scheme; 
+ (d) if that taxable person persistently fail s to comply with the rules relating to this special sc heme. 
+ Article 369xf 
+ The taxable person making use of this special scheme shall submit by electronic means to the Member State of identification a VAT return for each month, whether or not transfers of goods covered by this special scheme have been carried out. The VAT return shall be submitted by the end of the month following the end of the tax period covered by the return. 
+ Article 369xg 
+ 1. 
+ The VAT return shall show the VAT identification number referred to in Article 369xd and, for each Member State to which goods are dispatched or transferred, the total value exclusive of VAT of the transfers covered by this special scheme for which the chargeable event has occurred during the tax period. 
+ The VAT return shall also include amendments relating to previous tax periods as provided in paragraph 3 of this Article. 
+ 2. 
+ Where goods are dispatched or transported from Member States other than the Member State of identification, the VAT return shall also include the total value exclusive of VAT of the transfers covered by this special scheme, for each Member State where such goods are dispatched or transported from. 
+ The VAT return shall also include the individual VAT identification number or the tax reference number allocated by each Member State where such goods are dispatched or transported from, if available. The VAT return shall include the information referred to in this paragraph broken down by Member State where the goods are dispatched or transported to. 
+ 3. 
+ Where any amendments to the VAT return are required after the date on which the return was required to be submitted in accordance with Article 369xf, such amendments shall be included in a subsequent return within three years of the date on which the initial return was required to be submitted pursuant to Article 369xf. That subsequent VAT return shall identify the relevant Member State where the goods are dispatched or transported to, the tax period and the taxable amount for which any amendments are required. 
+ Article 369xh 
+ 1. 
+ The VAT return shall be made out in euro. 
+ Member States which have not adopted the euro may require the VAT return to be made out in their national currency. 
+ If the supplies have been made in other currencies, the taxable person making use of this special scheme shall, for the purposes of completing the VAT return, use the exchange rate applying on the last date of the tax period. 
+ 2. 
+ The conversion shall be made by applying the exchange rates published by the European Central Bank for that day, or, if there is no publication on that day, on the next day of publication. 
+ Article 369xi 
+ For the purpose of this special scheme, the intra-Community acquisition of goods in the Member State where the goods are dispatched or transported to, is exempt. 
+ Article 369xj 
+ The taxable person making use of this special scheme may not, in respect of his or her taxable activities covered by this special scheme, declare in the VAT return of that scheme the VAT deductible pursuant to Article 168 of this Directive in the Member States to or from which the goods are dispatched or transported. Notwithstanding Article 1, point (1), of Directive 86/560/EEC, Article 2, point (1), Article 3 and Article 8(1), point (e), of Directive 2008/9/EC, the taxable person in question shall be refunded in accordance with those Directives. Article 2(2) and (3) and Article 4(2) of Directive 86/560/EEC shall not apply to refunds relating to goods covered by this special scheme. 
+ If the taxable person making use of this special scheme is required to be registered in a Member State for activities not covered by this special scheme, he or she shall deduct VAT incurred in that Member State in respect of goods or services supplied to him or her in that Member State in the VAT return to be submitted pursuant to Article 250. 
+ Article 369xk 
+ 1. The taxable person making use of this special scheme shall keep records of the transfers of own goods covered by this special scheme. Those records must be sufficiently detailed to enable the tax authorities of the Member States from and to which the good have been dispatched or transported to verify that the VAT return is correct. 
+ 2. 
+ The records referred to in paragraph 1 must be made available electronically on request to the Member State from and to which the goods have been dispatched or transported and to the Member State of identification. 
+ Those records must be kept for a period of 5 years from 31 December of the year during which the transfer of own goods was carried out.’. 
+ Article 3 
+ Amendments to Directive 2006/112/EC with effect from 1 January 2026 
+ Directive 2006/112/EC is amended as follows: 
+ (1) in Article 243, paragraph 3 is deleted; 
+ (2) in Article 262, paragraph 2 is deleted; 
+ Article 4 
+ Amendments to Directive 2006/112/EC with effect from 1 January 2028 
+ Directive 2006/112/EC is amended as follows: 
+ (1) in Article 42, point (b) is replaced by the following: 
+ ‘(b) the person acquiring the goods has complied with the obligations laid down in Article 265 relating to the transmission of data on the intra-Community acquisitions.’; 
+ (2) in Article 138, paragraph 1a is replaced by the following: 
+ ‘1a. 
+ The exemption provided for in paragraph 1 of this Article shall not apply where the supplier has not complied with the obligation provided for in Articles 262 and 263 to communicate the data on intra-Community transactions, or that data transmitted does not contain the correct information concerning the supply as required under Article 264, unless the supplier can duly justify any shortcomings to the satisfaction of the competent authorities.’; 
+ (3) Article 218 is replaced by the following: 
+ For the purposes of this Directive, invoices shall be issued in a structured electronic format. However, Member States may accept documents on paper or other formats as invoices for transactions not subject to the reporting obligations laid down in Title XI Chapter 6. Member States shall allow for the issuance of electronic invoices which comply with the European standard on electronic invoicing and the list of its syntaxes pursuant to Directive 2014/55/EU of the European Parliament and of the Council. The issuance of electronic invoices by taxable persons and their transmission shall not be subject to a prior mandatory authorisation or verification by the tax authorities.’; 
+ (4) in Article 222, the first paragraph is replaced by the following : 
+ ‘For supplies of goods carried out in accordance with the conditions specified in Article 138 or for supplies of goods or services for which VAT is payable by the customer pursuant to Articles 194 and 196, an invoice shall be issued no later than 2 working days following the chargeable event.’; 
+ (5) Article 223 is deleted; 
+ (6) In A rticle 226 , the following points (16), (17) and (18) are added : 
+ ‘(16) in the case of a corrective invoice , the sequential number which identifies the corrected invoice, as referred to in point (2) ; 
+ (17) the IBAN number of the supplier’s bank account to which the payment for the invoice will be credited. If the IBAN number is not available, any other identifier which unambiguously identifies the bank account to which the invoice will be credited; 
+ (18) The date on which the payment of the supply of goods or services is due or, where partial payments are agreed, the date and amount of each payment .’; 
+ (7) in Title XI, the heading of Chapter 6 is replaced by the following: 
+ ‘CHAPTER 6 
+ Digital reporting requirements ’; 
+ (8) i n Title XI, Chapter 6 the following heading of Section 1 is inserted: 
+ ‘Section 1 
+ Digital reporting requirements for cross-border supplies of goods and services for consideration made between taxable persons’; 
+ (9) Article 262 is amended as follows: 
+ (a) i n paragraph 1, the introductory wording is replaced by the following: 
+ ‘Every taxable person identified for VAT purposes shall submit to the Member State in which that person is established or identified for VAT purposes the following data on each supply and transfer of goods carried out in accordance with Article 138, on each intra-Community acquisition of goods in accordance with Article 20 and each supply of a service that is taxable in a Member State other than that in which the supplier is established:’; 
+ (10) Article 263 is replaced by the following: 
+ ‘Article 263 
+ 1. The data referred to in Article 262(1) shall be transmitted for each individual transaction carried out by the taxable person no later than 2 working days after issuing the invoice, or after the date the invoice had to be issued where the taxable person does not comply with the obligation to issue an invoice. The data shall be transmitted by the taxable person or by a third party on that taxable person’s behalf. Member States shall provide for the electronic means for submitting such data. 
+ Member States shall allow for the transmission of data from electronic invoices which comply with the European standard on electronic invoicing and the list of its syntaxes pursuant to Directive 2014/55/EU of the European Parliament and of the Council. 
+ Member States may allow for the transmission of the data from electronic invoices using other data formats which ensure interoperability with the European Standard on electronic invoicing. 
+ 2. The common electronic message for providing the data referred to in paragraph 1 shall be determined in accordance with the procedure provided for in Article 58(2) of Regulation (EU) No 904/2010.’; 
+ (11) Article 264 is replaced by the following: 
+ ‘Article 264 
+ The data transmitted in accordance with Article 263 shall contain all of the following: 
+ (a) the information referred to in Article 226, points (1) to (4), (6), (8) to (11a), (16), (17) and (18); 
+ (b) in respect of supplies of goods consisting in transfers to another Member State, as referred to in Article 138(2), point (c), the total value of the supply, determined in accordance with Article 76. 
+ (12) Article 265 is replaced by the following : 
+ ‘ Article 265 
+ In the case of intra-Community acquisitions of goods, as referred to in Article 42, the taxable person identified for VAT purposes in the Member State which issued him with the VAT identification number under which that person made such acquisitions shall set out the following information in the data to be transmitted: 
+ (a) that person’s VAT identification number in that Member State and under which the acquisition and subsequent supply of goods were made; 
+ (b) the VAT identification number, in the Member State in which dispatch or transport of the goods ended, of the person to whom the subsequent supply was made by the taxable person; 
+ (c) the value, exclusive of VAT, of each supply made by the taxable person in the Member State in which dispatch or transport of the goods ended.’; 
+ (13) Article 266 is deleted; 
+ (14) Article 267 is replaced by the following: 
+ ‘Article 267 
+ Member States shall take the measures necessary to ensure that persons who, in accordance with Article 194 or 204, are regarded as liable for payment of VAT, instead of a taxable person who is not established in their territory, comply with the obligation, laid down in this Chapter, to submit the data.’; 
+ (15) Article 268 is replaced by the following: 
+ ‘Article 268 
+ Member States shall require that taxable persons who, in their territory, make intra-Community acquisitions of goods, or transactions treated as such pursuant to Article 21 or 22, submit data on those transactions as provided for in this Chapter.’; 
+ (16) Articles 269, 270 and 271 are deleted; 
+ (17) i n Title XI, Chapter 6, the following Section 2 is inserted: 
+ ‘ Section 2 
+Digital reporting requirements for supplies of goods and services for consideration made between taxable persons within the territory of a Member State 
+ Article 271a 
+ 1. 
+ Member States may require that taxable persons identified for VAT purposes in their territory send electronically to their tax authorities data on the supplies of goods and services made for consideration to other taxable persons within their territory. 
+ 2. 
+ Member States may require that taxable persons identified for VAT purposes in their territory send electronically to their tax authorities data on taxable transactions other than those referred to in paragraph 1 of this Article and in Article 262. 
+ Article 271b 
+ Where a Member State requires to send the data pursuant to Article 271a, the taxable person, or a third party on behalf of the taxable person, shall transmit that data on a transaction-by-transaction basis by no later than 2 working days after the invoice is issued, or after the date the invoice had to be issued where the taxable person does not comply with the obligation to issue an invoice. Member States shall allow for the transmission of data from electronic invoices which comply with the European standard on electronic invoicing and the list of its syntaxes pursuant to Directive 2014/55/EU. 
+ Member States may allow for the transmission of the data from electronic invoices using other data formats. 
+ Article 271c 
+ By 31 March 2033 at the latest the Commission shall, based on the information provided by Member States, present to the Council a report on the functioning of the domestic reporting requirements set out in this Section. In that report, the Commission shall assess the need for further harmonisation measures and shall if deemed necessary, make an appropriate proposal for such measures.’; 
+ (18) Article 273 is replaced by the following: 
+ ‘Article 273 
+ Member States may impose other obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion, subject to the requirement of equal treatment as between domestic transactions and transactions carried out between Member States by taxable persons and provided that such obligations do not, in trade between Member States, give rise to formalities connected with the crossing of borders. 
+ The option under the first paragraph may not be relied upon in order to impose additional invoicing obligations over and above those laid down in Chapter 3, nor to implement additional reporting obligations -over and above those laid down in Title XI, Chapter 6.’; 
+ Article 5 
+ Transposition 
+ 1. Member States shall adopt and publish, by 31 December 2023, the laws, regulations and administrative provisions necessary to comply with Article 1 of this Directive. They shall immediately inform the Commission thereof. 
+ They shall apply those provisions from 1 January 2024. 
+ When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 
+ 2. Member States shall adopt and publish, by 31 December 2024, the laws, regulations and administrative provisions necessary to comply with Article 2 of this Directive. 
+ They shall apply those provisions from 1 January 2025. 
+ When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 
+ 3. Member States shall adopt and publish, by 31 December 2025, the laws, regulations and administrative provisions necessary to comply with Article 3 of this Directive. 
+ They shall apply those provisions from 1 January 2026. 
+ When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 
+ 4. Member States shall adopt and publish, by 31 December 2027, the laws, regulations and administrative provisions necessary to comply with Article 4 of this Directive. 
+ They shall apply these provisions from 1 January 2028. 
+ When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 
+ 5. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive. 
+ Article 6 
+ Entry into force 
+ This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . 
+ Article 7 
+ Addressees 
+ This Directive is addressed to the Member States. 
+ Done at Brussels, 
+ For the Council 
+ The President 
+ (1) 
+ Eurostat: 
+ https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tax_revenue_statistics 
+ (2) 
+ The VAT Gap is the overall difference between the expected VAT revenue based on VAT legislation and ancillary regulations and the amount actually collected : 
+ https://ec.europa.eu/taxation_customs/business/vat/vat-gap_en 
+ (3) 
+ Europol: 
+ https://www.europol.europa.eu/crime-areas-and-statistics/crime-areas/economic-crime/mtic-missing-trader-intra-community-fraud 
+ (4) 
+ COM(2020) 312 final . 
+ (5) 
+ COM(2021) 645 final (Annex II, Point 20). 
+ (6) 
+ Please include reference when available. 
+ (7) 
+ Please include reference when available. 
+ (8) 
+ Council conclusions on fair and effective taxation in times of recovery, on tax challenges linked to digitalisation and on tax good governance in the EU and beyond (FISC 226 ECOFIN 1097, doc. 
+ 13350/20 
+ ). 
+ (9) 
+ European Parliament resolution of 24 November 2016 on towards a definitive VAT system and fighting VAT fraud (2016/2033(INI)); European Parliament resolution of 4 October 2018 on fighting customs fraud and protecting EU own resources (2018/2747(RSP)). 
+ (10) 
+ European Parliament resolution of 16 February 2022 on the implementation of the Sixth VAT Directive: what is the missing part to reduce the EU VAT gap? (2020/2263(INI)). 
+ (11) 
+ European Parliament resolution of 10 March 2022 with recommendations to the Commission on fair and simple taxation supporting the recovery strategy (P9_TA(2022)0082). 
+ (12) 
+ VAT reporting obligations refer to the obligation of VAT-registered businesses to make periodic declarations of their transactions to the tax authority to allow monitoring the collection of VAT. 
+ (13) 
+ In this respect, the term ‘platform economy’ relates to supplies of services made via a platform. 
+ (14) 
+ https://ec.europa.eu/taxation_customs/business/vat/vat-e-commerce_en 
+ (15) 
+ There is no explicit option available for Member States to introduce mandatory e-invoicing requirements as a means of ensuring the correct collection of VAT and preventing VAT fraud. The VAT Directive makes the use of e-invoices subject to their acceptance by the recipient, in Article 232; this provision cannot be derogated via Article 273, which allows Member States to introduce other obligations on taxpayers to ensure the correct collection of VAT and to prevent VAT fraud. Hence, if a Member State wishes to introduce mandatory e-invoicing requirements, it must do so by requesting a derogation from the Directive under Article 395, which is subject to the unanimous agreement of the Council based on a proposal from the Commission. 
+ (16) 
+ To estimate whether DRRs improved VAT compliance, thus reducing the VAT gap and increasing VAT revenues, an econometric analysis was carried out in the ‘VAT in the Digital Age’ study. The effects of DRRs are estimated on two dependent variables: the VAT gap and C-efficiency. Full details of the model specifications and the results are available in Annex 4 of the impact assessment report accompanying this proposal (Commission staff working document SWD (2022) 393 ) . 
+ (17) 
+ Summary of the public consultation can be found here: 
+ VAT in the digital age (europa.eu) 
+ . 
+ (18) 
+ Different types of digital reporting requirements are currently in place in several Member States: clearance e-invoicing (Italy), real-time reporting (Hungary, Spain), SAF-T reporting (Lithuania, Poland, Portugal), VAT listing (Bulgaria, Croatia, Czechia, Estonia, Latvia, Slovak Republic) and some Member States publicly announced upcoming reporting requirements (France, Greece, Romania). 
+ (19) 
+ Based on Eurostat estimates, there are about 210 000 multinational companies (MNCs) in the Union, 85% of which have a local headquarters and the rest being controlled by foreign entities. 
+ (20) 
+ These mainly result from significant setup costs, especially in countries with more complex DRRs. For compliance, a small-scale MNC can be expected to invest about EUR 10 000 for SAF-T requirements, EUR 25 000 for real-time requirements and more than EUR 50 000 in case of e-invoicing. For a large scale MNC, figures reach up to EUR 50 000 for SAF-T requirements, EUR 200 000 for real-time requirements and EUR 500 000 for e-invoicing. 
+ (21) 
+ When a business sells goods or services to a business in another Member State , it is obliged to submit a recapitulative statement to its Member State detailing the business to whom it has made the supply, and the total amount of supplies to that business. The information is shared between Member States, and is used to help ensure compliance . 
+ (22) 
+ In 1993, with the introduction of the Internal Market, the border controls were abolished and replaced by reporting obligations of intra-Community supplies in the form of periodical recapitulative statements for VAT purposes (a r ecapitulative statement is a simple form submitted on a monthly/quarterly basis by traders, in addition to their VAT return, to declare goods delivered and services provided to traders in other Member States , contain ing the VAT number of the customers and the aggregated value of supplies per customer during a given period ) . These recapitulative statements are stored in national VAT databases. These databases are then connected through an electronic interface called VIES ( VAT Information Exchange System ) , with the Commission manag ing the communication links between the Member States while national VIES applications are developed by the Member States. Tax administrations access VIES information for control purposes, while economic operators use a module of VIES, called the ‘VIES-on-the-web’ ( VoW ) to check the validity of their client’s VAT number registered in the European Union for cross - border transactions on goods or services . 
+ (23) 
+ Directive 2014/55/EU of the European Parliament and of the Council of 16 April 2014 on electronic invoicing in public procurement 
+ . 
+ (24) 
+ ‘Platform economy’ is used to describe a multi-sided model of transactions, where there are three or more parties involved. In these transactions, an online platform facilitates the connection between two or more distinct but interdependent sets of users. In these interactions, one of the parties to the platform (providers or underlying suppliers) could offer services to the other party (consumer) in return for monetary consideration. A platform usually charges a fee for the facilitation of the transaction. 
+ (25) 
+ According to Article 9 of the VAT Directive and its settled case-law the concept of “economic activity” has a very broad meaning. The concept of “independently” however means that e mployees are not treated as taxable persons . 
+ (26) 
+ The capacity to build networks through which any additional user will enhance the experience of all existing users; an increased numbers of people or participants improve the value of a good or service . 
+ (27) 
+ https://ipropertymanagement.com/research/airbnb-statistics 
+ (28) 
+ VAT in the Digital Age. Final Report (vol. I – III). Specific Contract No 07 implementing Framework Contract No TAXUD/2019/CC/150 . 
+ (29) 
+ Having an ecosystem value of EUR 38.2 billion and EUR 43.2 billion per annum 
+ (30) 
+ Table 25 of the VAT in the Digital Age Study (Part II) shows that 44% of respondents found the different application of the VAT rules by Member States to be a problem. 
+ (31) 
+ The place of supply of an electronically supplied service to a non-taxable person is the place where the customer is established, whereas the place of supply of intermediary services to a non-taxable person is where the underlying transaction is supplied, which, in the case of services relating to immoveable property for example, would be where the property is located. 
+ (32) 
+ Ar ticle 242a of the VAT Directive. 
+ (33) 
+ See point 3 hereafter. 
+ (34) 
+ Council conclusions on the implementation of the VAT e-commerce package, ST 7104/22 of 15 March 2022. 
+ (35) 
+ 2022 Commission Work Programme , Annex II: REFIT initiatives , sub-section "An economy that works for people" (No 20). 
+ (36) 
+ COM(2018) 329 final. 
+ (37) 
+ Under the existing system VAT is not charged on cross-border transactions, contrary to domestic ones, allowing taxable persons to buy goods free of VAT within the s ingle m arket, breaking the chain of fractioned payment and creating an incentive for fraud 
+ (38) 
+ This system would be extended to services at a later stage. 
+ (39) 
+ Council Directive (EU) 2025/285 on the common system of VAT as regards the special scheme for small enterprises 
+ (40) 
+ Member States’ recovery and resilience plans envisage a wide set of reforms aimed at improving the business environment and favouring adoption of digital and green technologies. These reforms are complemented by important efforts to digitalise tax administrations as a strategic sector of the public administration. ( Annual Sustainable Growth Survey 2022 (COM(2021) 740 final)). 
+ (41) 
+ Article 3 of Treaty on European Union (TEU) . 
+ (42) 
+ https://ec.europa.eu/info/sites/default/files/political-guidelines-next-commission_en_0.pdf . 
+ (43) 
+ Annual Growth Survey 2021 (see page 13) 
+ : 
+ https://ec.europa.eu/info/system/files/economy-finance/2022_european_semester_annual_sustainable_growth_survey.pdf 
+ . 
+ (44) 
+ Member States’ recovery and resilience plans envisage a wide set of reforms aimed at improving the business environment and favouring adoption of digital and green technologies. These reforms are complemented by important efforts to digitalise tax administrations as a strategic sector of the public administration. ( Annual Sustainable Growth Survey 2022 (COM(2021) 740 final)). 
+ (45) 
+ The proposed D irective is expected to bring legal certainty on the employment status of people working through digital labour platform s, improve their working conditions (including for self-employed people subject to algorithmic management) and enhance transparency and traceability in platform work, including in cross-border situations 
+ (46) 
+ Directive 2014/55/EU of the European Parliament and of the Council of 16 April 2014 on electronic invoicing in public procurement . 
+ (47) 
+ C ommunication from the Commission to the European parliament, the Council and the European Economic and Social Committee -Taking the Customs Union to the Next Level: a Plan for Action, Brussels, 28.9.2020 ( 
+ customs-action-plan-2020_en.pdf (europa.eu) 
+ ) . 
+ (48) 
+ Commission seeks views on upcoming EU customs reform (europa.eu) 
+ . 
+ (49) 
+ Conference on the Future of Europe – Report on the Final Outcome, May 2022, Proposal 16 (1)-(3). The Conference on the Future of Europe was held between April 2021 and May 2022. It was a unique, citizen-led exercise of deliberative democracy at the pan-European level, involving thousands of European citizens as well as political actors, social partners, civil society representatives and key stakeholders . 
+ (50) 
+ VAT in the Digital Age. Final Report (vol. IV Consultation Activities ). Specific Contract No 07 implementing Framework Contract No TAXUD/2019/CC/150. 
+ (51) 
+ VAT in the Digital Age. Final r eport (vol. I – III). Specific Contract No 07 implementing Framework Contract No TAXUD/2019/CC/150 . 
+ (52) 
+ https://sdgs.un.org/goals 
+ . 
+ (53) 
+ 2022 Commission Work Programme , Annex II: REFIT initiatives , sub-section "An economy that works for people" (No 20). 
+ (54) 
+ 2022_annual_work_programme_-_fit_for_future_platform_en.pdf (europa.eu) 
+ (55) 
+ Commission Implementing Decision (EU) 2017/1870 of 16 October 2017 on the publication of the reference of the European standard on electronic invoicing and the list of its syntaxes pursuant to Directive 2014/55/EU of the European Parliament and of the Council 
+ (56) 
+ R eport from the Commission to the European Parliament and the Council assessing the invoicing rules of Directive 2006/112/EC on the common system of value added tax (COM(2020)47). 
+ (57) 
+ Council Directive (EU) 2022/542 of 5 April 2022 ame n d ing Directives 2006/112/EC and (EU) 2020/285 as regards rates of value added tax. 
+ (58) 
+ OJ C , , p. . 
+ (59) 
+ OJ C , , p. . 
+ (60) 
+ Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (OJ L 347, 11.12.2006, p. 1). 
+ (61) 
+ The VAT Gap is the overall difference between the expected VAT revenue based on VAT legislation and ancillary regulations and the amount actually collected : 
+ https://ec.europa.eu/taxation_customs/business/vat/vat-gap_en 
+ (62) 
+ Europol: 
+ https://www.europol.europa.eu/crime-areas-and-statistics/crime-areas/economic-crime/mtic-missing-trader-intra-community-fraud 
+ (63) 
+ European Court of Auditors : 
+ https://www.eca.europa.eu/Lists/ECADocuments/SR15_24/SR_VAT_FRAUD_EN.pdf 
+ (64) 
+ Directive 2014/55/EU of the European Parliament and of the Council of 16 April 2014 on electronic invoicing in public procurement (OJ L 133, 6.5.2014, p. 1). 
+ (65) 
+ Commission Implementing Decision (EU) 2017/1870 of 16 October 2017 on the publication of the reference of the European standard on electronic invoicing and the list of its syntaxes pursuant to Directive 2014/55/EU of the European Parliament and of the Council ( OJ L 266, 17.10.2017, p. 19 ). 
+ (66) 
+ Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act) ( OJ L 277, 27.10.2022, p. 1–102) 
+ (67) 
+ Council Directive (EU) 2017/2455 of 5 December 2017 amending Directive 2006/112/EC and Directive 2009/132/EC as regards certain value added tax obligations for supplies of services and distance sales of goods (OJ L 348, 29.12.2017, p. 7). 
+ (68) 
+ Council Directive (EU) 2019/1995 of 21 November 2019 amending Directive 2006/112/EC a s regards provisions relating to distance sales of goods and certain domestic supplies of goods 
+ (69) 
+ Council Directive (EU) 2022/542 of 5 April 2022 amending Directives 2006/112/EC and (EU) 2020/285 as regards rates of value added tax (OJ L 107, 6.4.2022, p. 1). 
+ (70) 
+ Council Directive (EU) 2020/285 of 18 February 2020 amending Directive 2006/112/EC on the common system of value added tax as regards the special scheme for small enterprises and Regulation (EU) No 904/2010 as regards the administrative cooperation and exchange of information for the purpose of monitoring the correct application of the special scheme for small enterprises (OJ L 62, 2.3.2020, p. 13) . 
+ (71) 
+ Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13). 
+ (72) 
+ C ouncil Regulation (EU) No 904/2010 of 7 October 2010 on administrative cooperation and combating fraud in the field of value added tax ( OJ L 268 , 12.10.2010, p. 1) . 
+ (73) 
+ OJ C 369, 17.12.2011, p. 14.

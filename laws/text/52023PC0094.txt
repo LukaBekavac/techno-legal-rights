@@ -1,0 +1,817 @@
+### Broadband Cost Reduction Directive | CELEX 52023PC0094 | text version 52023PC0094 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 23.2.2023
+ COM(2023) 94 final
+ 2023/0046(COD)
+ Proposal for a
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ on measures to reduce the cost of deploying gigabit electronic communications networks and repealing Directive 2014/61/EU (Gigabit Infrastructure Act)
+ {SEC(2023) 96 final} - {SWD(2023) 46 final} - {SWD(2023) 47 final}
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ A high-quality digital infrastructure is an increasingly significant cornerstone of the whole economy, taking its place alongside electricity, gas, water and transport networks. Excellent and secure connectivity for everybody and everywhere in the EU is becoming a prerequisite to deliver sustainable economic and social benefits based on modern online services and fast internet connections. 
+ Given the fast advances in digital technologies, significant network investment is required to keep up with increasing bandwidth demands. The 2020 Communication on ‘Shaping Europe’s Digital Future’ 
+ 1 
+ estimated that , for digital infrastructure and networks alone , the EU has an investment gap of EUR 65 billion a year . In view of this , the Commission announced a revision of the 2014 Broadband Cost Reduction Directive 
+ 2 
+ (BCRD). 
+ A major part of network deployment costs can be attributed to : (i) inefficiencies in the roll-out process related to the use of existing passive infrastructure (such as ducts, cabinets, and antenna installations) ; (ii) difficulties in the coordination of civil works ; (iii) burdensome administrative permit - granting procedures ; and (iv) bottlenecks in deploying in-building physical infrastructure. T o facilitate and incentivise network roll-out, the Commission proposed the Broadband Cost Reduction Directive in 2013 with harmonised measures to reduce the cost of deploying high-speed electronic communications networks 
+ 3 
+ . 
+ In the meantime, the digital agenda targets on which the BCRD was based have mostly been met , but they have also become obsolete. The share of households having access to 30 Mbps internet speeds has increased from 58.1% in 2013 to 90.1% in 2021. However, given the increased need of businesses and people for very high - capacity fixed and mobile connectivity, the availability of only 30 Mbps is no longer future-proof. It is also not aligned with the new objectives set out in Directive (EU) 2018/1972 (European Electronic Communications Code – ‘the Code’) 
+ 4 
+ for ensuring connectivity and widespread availability of very high capacity networks (VHCN). Moreover, the Council , in its Conclusions on Shaping Europe ’ s Digital Future of 9 June 2020 stressed that the COVID -19 pandemic demonstrated the increased need for fast and ubiquitous connectivity . It called for a package of additional measures to support current and emerging network deployment needs, including boosting the measures provided for under the BCRD. Therefore, in its Communication ‘2030 Digital Compass: the European way for the Digital Decade’ 
+ 5 
+ , the Commission set updated targets for 2030 that better correspond to the expected connectivity needs of the future. Those targets were then reflected and refined in the Digital Decade Policy Programme 
+ 6 
+ . The programme sets out a governance structure , including monitoring and a mechanism for close cooperation between the Commission and Member States to ensure the EU achieves its objectives and digital targets by 2030. 
+ Th is proposal for a Gigabit Infrastructure Act, which is a n initiative of the Commission’s regulatory fitness and performance programme (REFIT) 
+ 7 
+ , aims to address the shortcomings of the BCRD and contribute to the cost - efficient and timely deployment of the VHCN necessary to meet the EU’s increased connectivity needs 
+ 8 
+ . 
+ • Consistency with existing policy provisions in the policy area 
+ The proposal is part of the regulatory framework for electronic communications and is consistent with the other legislative and non-legislative instruments , which are also part of that framework 
+ 9 
+ . In particular, the proposal is consistent with other instruments supporting the achievement of fixed and mobile connectivity targets in the EU (i.e. the European Electronic Communications Code). While the Code mainly provides , except in specific cases, for the possibility to impose obligations on electronic communications operators with a dominant position – significant market power (SMP) – in a given electronic communications market, the current proposal addresses undertakings operating an electronic communications network or utilities, regardless of whether they hold SMP. 
+ The proposal is also in line with the Recommendation on a Connectivity Toolbox adopted in September 2020 , which aimed to reduc e the cost of deploy ing VHCN and ensur e timely access to 5G radio spectrum. The subsequent Connectivity Toolbox 
+ 10 
+ agreed by Member States in March 2021 includes 22 best practices to help reduce network cost s , which have large ly been taken into account in the measures proposed here . 
+ Moreover, the proposal is consistent with the recent Commission proposal for a Union Secure Connectivity Programme 
+ 11 
+ , which aims to facilitate broadband access by satellite to areas that lie beyond the reach of other fixed and mobile electronic communications network infrastructure. 
+ Finally, the proposal is consistent with funding initiatives to support deploying broadband networks in rural , remote and other less well - served areas, including the digital part of the Connected Europe Facility (CEF and CEF Digital) 
+ 12 
+ , post-COVID -19 recovery funds 
+ 13 
+ and national State a id initiatives 
+ 14 
+ . The new Guidelines on State aid for broadband networks 
+ 15 
+ , recently adopted, also contribute to accelerat ing and extend ing broadband deployment by clarifying when public support is in line with competition rules. 
+ • Consistency with other Union policies 
+ The proposal is consistent with the climate targets of the European Green Deal 
+ 16 
+ , enshrined in the European Climate Law 
+ 17 
+ by the Council and Parliament in June 2021. Digital connectivity infrastructure is essential for achieving the twin digital and green transition s , which are the Commission ’s main priorities . Digital infrastructure s will play a crucial role in the transition to a green economy as they are important enablers of energy efficiency in other sectors. Furthermore, the major building renovation wave 
+ 18 
+ by 2030 , triggered by the Green Deal objectives , represents a huge opportunity for achieving synergies and ensuring high performance in in-building infrastructure, including fibre-ready physical infrastructure and fibre wiring. This will reduce the inconvenience for building owners and/or tenants and ensure a more efficient use of national and EU funds available for the major renovation of building stock. 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ The legal basis for this proposal is Article 114 of the Treaty on the Functioning of the European Union (TFEU). This is the same legal basis for the Broadband Cost Reduction Directive, which this proposal repeals. This is justified by the current proposal’s aim to further harmonise the EU’s electronic communications markets and improve the conditions for the establishment and functioning of the internal market. 
+ • Subsidiarity (for non-exclusive competence) 
+ Experience gained with the implementation of the BCRD has demonstrated that the objective of providing the EU with full high-speed broadband coverage could not be achieved by a directive neither by Member States alone within a reasonable time and with the most efficient use of private and public investment. In addition, some provisions of the Code, namely Article 44, partially overlap with the BCRD, and there is a need to streamline the rules. Achieving gigabit coverage by 2030 also requires concerted efforts by all Member States. The measures that Member States have adopted so far to incentivise network deployments and, in particular, reduce the cost and timeframe of deployments are very different, sometimes even in the same Member State. Moreover, expected EU added value has been reduced significantly by the considerable scope for exclusions or exemptions in many different circumstances and in different Member States and the lack of upfront guidelines or common principles on the different measures set out in the BCRD. 
+ The current patchwork of rules creates barriers to cross-border investment. This limits the freedom to provide electronic communications networks and services. It also affects the functioning of the internal market, in particular for inherent cross-border applications, such as connected and autonomous driving, which need ubiquitous VHCN. The current situation also makes it very difficult for electronic communications operators and other stakeholders (equipment manufacturers, civil engineering companies, etc.) to achieve economies of scale. The problems encountered in accelerating high-speed broadband deployment or future VHCN deployments are common to most, if not all, Member States. Reducing costs and streamlining administrative procedures are also common measures that are essential to address these problems. This proposal does not affect the procedural autonomy of Member States to allocate competences internally. 
+ • Proportionality 
+ The proposal complies with the principle of proportionality and is a focused policy action with an intensity proportionate to its objectives of promoting VHCN in line with the Code and of achieving the Digital Decade ’s 2030 target of coverage with next-generation wireless high-speed networks with performance at least equivalent to that of 5G and gigabit networks 
+ 19 
+ . The proposal ’s main benefit is that it will provide for more efficient planning and investment deployment processes (and thus very substantial economies of scale) for public electronic communications network operators. Moreover, the economies of scale and associated savings will go beyond the electronic communications sector and spread to other industries (e.g. equipment manufacturers, construction companies). 
+ These benefits are possible with a minimum of administrative burden. Obligations are limited to certain parts of the network infrastructure where significant cost savings can be expected (e.g. cables are excluded from the definition of physical infrastructure and therefore from the access and transparency obligations set out in this proposal ) 
+ 20 
+ . T he proposed rules also introduce proportionate adjustments (e.g. the option to refuse access requests subject to specific conditions). Moreover, t he proposal provides for exceptions where some obligations do not apply in certain circumstances (e.g. access to certain categories of buildings owned or controlled by public sector bodies for reasons of architectural, historical , religious or natural value, or provi ding information about those buildings) . These exceptions contribute to ensuring the proportionality of the proposal and give the appropriate flexibility needed to take national circumstances into account . Furthermore, the proposed measures for digitalis ing the relevant administrative procedures lets Member States reuse and expand existing digital services and platforms at local, regional or national level that serve the same purpose and comply with this R egulation. 
+ • Choice of the instrument 
+ The instrument proposed is a regulation. This is based on the experience gained with transposing and implementing the BCRD and its proven limitations to tackle the persistent identified problems which resulted not only from its minimum harmonisation approach but also from the low level of harmonisation pursued (e.g. many provisions remained optional and others, like those on transparency only harmonised a minimum number of elements) as well as from the slow and ineffective transposition. 
+ A regulation is the best solution to speed up the network deployment needed to make Europe fit for the digital age. It will have the greatest impact in advancing gigabit network deployment because it is directly applicable to all Member States. In the rapidly evolving digital economy, it is vital to swiftly implement measures that reduce the burden on businesses and public authorities. Conversely, a directive would take time for Member States to transpose into national law, which would delay the entry into application of the proposed rules and jeopardise achieving the 2030 objectives. Unlike a directive, a regulation has direct effect, which is important for rules that mostly apply in commercial relations between electronic communications network providers and network operators. 
+ The Commission therefore is putting forward a proposal for a regulation, the Gigabit Infrastructure Act, to prevent further divergences that hamper providing the relevant services in the internal market and guarantee the same rights and obligations for businesses. This is necessary to provide legal certainty and transparency for all economic actors involved. 
+ The proposal repeals the BCRD, which – due to shortcomings mentioned above - led to a very fragmented and minimal implementation. A regulation, covering all areas of substance with more straightforward rules and a higher level of harmonisation overall, should overcome those shortcomings while remaining proportionate and still leave some flexibility to Member States on specific provisions to reflect specific national circumstances. 
+ 3. RESULTS OF EX POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Ex post evaluations/fitness checks of existing legislation 
+ The BCRD evaluation report accompanying this proposal shows that the Directive was only partially effective and efficient in delivering on its general and specific objectives, which nevertheless are still relevant. Implementation to date broadly shows good performance on the other three analysed criteria: relevance, coherence and EU added value. 
+ Overall, the BCRD has helped the deployment of high-speed broadband (nearly 100 000 km of duct and aerial infrastructure has been reused). Where effectively applied, the BCRD can accelerate deployment of high-speed broadband projects by several months, save between 10-30% in deployment costs and increase network coverage proportionally. 
+ Most progress has been made on the access to existing physical infrastructure and the related transparency measures, while there has been less progress on granting permit s , coordination of civil works and access to in-building infrastructure. Moreover, the outcome is patchy across the EU and, even in areas of action with more effectiveness 
+ 21 
+ , it does not fully satisfy the need for faster and a more efficient roll-out of electronic communications networks , which have an impact on the functioning of the internal market. 
+ Current BCRD provisions need to be strengthened so they are better aligned with current and future connectivity needs and EU priorities and fully reflect market and technological developments. The continued presence of barriers to rolling out electronic communications networks, the lack of uniform and digitalised administrative procedures and the insufficiently effective single information points (SIPs) still hinder the potential benefits of cost reduction measures that could foster a more cost-efficient and faster deployment of networks across the EU. High deployment costs for VHCN, including fibre to the home and mid-band 5G, undermine deployment incentives and the viability of new deployments. Deploying networks across the EU has been slowed considerably by the lack of coordination between the different authorities responsible for granting permits, the variety of permits needed for network deployment, the lack of electronic procedures for permit applications, and the overall non-respect of deadlines to grant deployment permits, including those for rights of way. 
+ • Stakeholder consultations 
+ Baseline sources of information to prepare this proposal were a literature review, information on the implementation of current policies, analyses of previous monitoring and evaluation activities and reports, input from stakeholders, and dedicated support studies. 
+ In addition, stakeholders were consulted through: 
+ – a call for 
+ feedback 
+ for the r oadmap/ i nception i mpact a ssessment (19 June 2020 to 17 July 2020); 
+ – a 
+ public consultation 
+ (2 December 2020 to 2 March 2021) based on a broad questionnaire covering both backward - and forward - looking aspects; 
+ – thematic online stakeholder participatory workshops held in 
+ January 
+ and 
+ February 
+ 2021; 
+ – 
+ the opinion 
+ of the Body of European Regulators for Electronic Communications (BEREC 
+ 22 
+ ) on the revision of the Broadband Cost Reduction Directive , covering both backward - and forward - looking aspects; 
+ – bilateral meetings, including with market stakeholders and their associations as well as local and regional authorities; 
+ – dedicated workshops , organised by consultants preparing the support study, in June 2021 and January 2022 and ad hoc survey s /consultation s . 
+ Overall, stakeholders stress that high-quality connectivity played a vital role during the pandemic and the economic recovery. 
+ A large group of operators and most business associations point out the need for further harmonisation and regulation at EU level, especially on administrative procedures such as permit-granting, to overcome market fragmentation. However, a smaller number of operators indicate the need for giving Member States leeway in how they implement and enforce EU legislation. Public authorities, including BEREC, favour measures at EU level. They call for harmonisation to do just what is necessary to achieve the objectives and indicate some areas where national measures would be more suitable (e.g. guidance on access conditions). Some public authorities expressed certain reservations on the additional burden and costs related to the transparency and digitalisation measures. 
+ Most respondents to stakeholder consultations consider that the BCRD created a good framework for making the deployment of electronic communications networks more efficient, and the measures covered under the Directive are perceived as relevant. However, there are diverse views among stakeholders on how effective the BCRD has been in achieving its general objective to reduce the cost and increase the speed of network deployment. 
+ Stakeholders stress the relevance of the availability of suitable physical infrastructure, including the non-network elements owned or controlled by public authorities, for deploying networks efficiently, in particular for 5G networks. Stakeholders also call for guidance on fair and reasonable terms and conditions as well as on the criteria for refusing access requests. This would help prevent undue refusals on the grounds of the availability of other viable means of access. 
+ Most stakeholders agree that coordination of civil works have the potential to reduce deployment costs. Though BEREC considered it beneficial to extend the obligation to coordinate to all (publicly and privately financed) network deployment projects, many stakeholders argued against such an extension. 
+ The majority of stakeholders consider that the availability of regularly updated minimum information on existing physical information or planned civil works, including georeferenced locations and routes, via SIPs is relevant to network deployment. Public authorities, including local authorities, call for flexibility in reusing and improving well-established digital tools already in place in various Member States, some of them also serving other sectors. 
+ Most stakeholders, including network operators, agree that simplified permit-granting procedures, including the electronic submission of permit applications, would help network deployment. 
+ Stakeholders also call for strengthening the current rules on in-building infrastructure, including raising the ambition from high-speed to VHCN/fibre and proposing an obligation for building owners to deploy and give access to in-building fibre wiring. 
+ • Collection and use of expertise 
+ The Commission relied on a dedicated support study prepared by ICF SA, Wavestone SA and Center for European Policy Study with support from WIK Consult GMBH and EcoAct 
+ 23 
+ . This study assessed the effect s of measures adopted under the BCRD and took into account , where relevant , the effect s of national measures taken to reduc e the cost of high-speed broadband deployment. The study also supported the preparation of an impact assessment on the possible policy options to accompany this initiative. Moreover, the national roadmaps and implementation reports submitted by Member States as part of the 
+ Connectivity Toolbox 
+ 24 
+ , which included a set of 39 best practices aiming to improv e network deployment and prompt access to 5G spectrum, provided valuable information on the most appropriate measures and their take-up. Finally, the Commission relied on other sources of information identified through a literature review, including several studies 
+ 25 
+ and reports 
+ 26 
+ . 
+ • Impact assessment 
+ The executive summary of the impact assessment and the positive opinion of the Regulatory Scrutiny Board can be found on the Commission’s website 
+ 27 
+ . The following policy options were considered in the impact assessment . 
+ Option 0: Baseline 
+ The ‘no-change of the BCRD’ option means there are no additional measures beyond the existing ones. The current BCRD and related regulatory and non-regulatory instruments continue to be implemented as now. This approach could be complemented by sharing good practices, stimulated by exchange initiatives (e.g. Connectivity Toolbox). It is assumed that, under the no-change option, network deployment would continue, but the observed fragmentation would persist; network deployment would not be as effective and efficient as it could be, and the 2030 connectivity targets would be at risk. 
+ Option 1: Update, clarify and align (minimal approach) 
+ This option proposes aligning the BCRD with the Code (VHCN scope instead of high-speed networks), making some currently voluntary measures mandatory (transparency, granting permits) and clarifying certain provisions to align Member States’ different interpretations (such as permits, publicly financed projects subject to civil works coordination, and the fact that assets subject to SMP or State aid obligations are excluded from parallel BCRD access obligations). This option is based on the consideration that a slightly revised directive, coupled with the implementation of the Connectivity Toolbox best practices and the rest of the electronic communications regulatory framework, would improve its implementation. In particular, this improvement would be achieved by partly addressing the problems of the lack of or incomplete information about existing physical infrastructure and delays in and high costs of permit-granting procedures. 
+ Other measures to remove more barriers, leading to a faster and more efficient deployment of electronic communications networks as identified in the evaluation report and public consultation, would not be carried out. 
+ Option 2: Extend and strengthen measures compared to BCRD, exclude VHCN from obligations 
+ This option includes what is proposed in Option 1 but in the form of a regulation. In addition, it extends the scope of access obligations to include publicly controlled/owned (non-network) physical infrastructure (unless where it would be disproportionate) and strengthens obligations on granting permits (e.g. interim deadlines, national permit exemptions, and parallel processing of permits and rights of way). Unlike options 3 and 4, this option exempts VHCN from access and civil works coordination obligations to address investment incentive problems (e.g. unviable network replication). 
+ Option 3 (preferred option): Extend and strengthen measures compared to BCRD with partial harmonisation 
+ Option 3 would largely maintain the measures included in Option 2 and also be in the form of a regulation (including extending the scope of the obligation to grant access to non-network publicly owned assets and permit measures). However, instead of providing for an exemption for VHCN infrastructure, it would set out clearer rules on key aspects of access to physical infrastructure and civil works coordination (such as ‘fair and reasonable’ access conditions, alternative means of access and cost apportionment for coordinated civil works). It would address the problem of unviable network replication by better specifying the grounds for refusing access to physical infrastructure or when requests for coordination of civil works could be considered unreasonable, limiting them to more specific circumstances compared to Option 2. Such rules would be accompanied by guidance at EU level to ensure a consistent application and a harmonised approach to similar problems. This option would also set out that rules and processes on granting permits should be consistent at national level, supported by a ‘one-stop shop’ through a single national digital entry point, establish that permits should be tacitly approved where possible, and limit permit fees to administrative costs. Deployments subject to exemptions from permits would be specified at EU level, and consistency of permit processes would be ensured at national level. This more harmonised approach would address the problems of high complexity, time frames and costs to obtain permits. 
+ To improve transparency and access to information, Option 3 would expand information requirements on existing physical infrastructure, unless where it would be disproportionate, and on planned civil works (proactive notification of all planned civil works). Both sets of information would have to be available in digital format on platforms and be interconnected if possible. Finally, to address the lack of and access to suitable in-building infrastructure, this option would mandate fibre-ready in-building infrastructure and fibre in-building in every new (or majorly renovated) household. This option would also provide for the standardisation of in-building physical infrastructure at national level and guidance on access to in-building infrastructure at EU level. 
+ Option 4: Extend and strengthen, fully applying to private assets, and full harmonisation 
+ Option 4 would introduce maximum harmonisation at EU level. The regulation would include all the measures in Option 3. In addition, it would extend access and transparency obligations to private non-network operators’ assets (e.g. commercial buildings) and obligations of civil works coordination to projects that are not publicly funded. This option would mandate setting up a single digital platform for existing physical infrastructure, planned civil works and, optionally, permit-granting procedures. Finally, this option would mandate the standardisation of in-building physical infrastructure at EU level (compared to standardisation at national level in Option 3). 
+ Considering all the assessment criteria, Option 3 is likely to better fulfil the policy objectives. It also provides the most EU added value, while ensuring Member States have a role in identifying the specific cases in which obligations may not apply to them (e.g. because they would fall within categories set out in the regulation where obligations may not apply for several reasons or because they would end up being disproportionate). Option 3 therefore appears to best balance short-term implementation costs with medium-term benefits and limit unnecessary regulatory burdens. 
+ • Regulatory fitness and simplification 
+ The measures proposed support REFIT and meet the objectives of simplification and the reduction of administrative burden. Several of the proposed changes aim to make rules and procedures clearer, more streamlined and simpler, help parties easily understand their rights and obligations, and promote synergies (for example, on the coordination proposed for renovating buildings to improve energy performance). The proposal also provides for guidance at EU level (access to physical infrastructure, including in-building physical infrastructure, and some criteria for access and civil works coordination rules). This guidance should facilitate the consistent implementation of the rules as well as the resolution of potential disputes. 
+ The proposal involves certain short - term overall costs mainly for administrations . These are linked to setting up consistent permit - granting procedures and digital entry points/platforms for processing permits and provi ding and giving access to information. However, once these are set up , the regulation is expected to lead to annual administrative cost savings for electronic communications network operators (estimated at approximately EUR 40 million a year ) . These savings will come from better access to network and public non-network physical infrastructure (approximately EUR 24 million a year ) , and processing permit applications (approximately EUR 15 million a year ) . There will also be savings for public authorities , including municipalities (no estimates). These benefits can possibly be extended to other sectors (beyond electronic communications) if permit platforms are implemented and used by these sectors, as is the case already in several Member States. Moreover, construction companies would benefit from standards on in-building infrastructure and wiring , which should guarantee a more efficient installation of ‘ f ibre to the h ome’ in new and majorly renovated buildings (no estimate) 
+ 28 
+ . 
+ • Fundamental rights 
+ The proposal takes full account of the rights and principles recognised in the Charter of Fundamental Rights of the European Union. In particular, the proposed measures are consistent with Article 16 (freedom to conduct a business), Article 17 (right to property), and Article 37 (environmental protection). 
+ 4. BUDGETARY IMPLICATIONS 
+ The proposed Regulation has no implications for the budget of the Union. 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ Monitoring of the implementation will be based on a report on the implementation of the regulation to be submitted to the European Parliament and the Council 5 years after the date of entry into force. This report will include a summary of the impact of the measures and an assessment of progress towards achieving its objectives, including whether and how the Regulation could further contribute towards achieving the connectivity targets set out in the Digital Decade Policy Programme 2030. To this end, the Commission may request information from Member States based on relevant indicators and a periodic data collection mechanism, which will be drawn up by the Communications Committee as established by Directive (EU) 2018/1972. 
+ • Detailed explanation of the specific provisions of the proposal 
+ Article 1 – Subject matter and scope 
+ Article 1 updates the scope of the 2014 Directive on the deployment of electronic communications networks, i.e. from high-speed to VHCN to match the new ambitions of the Code and Digital Decade connectivity objectives. 
+ Article 2 – Definitions 
+ This Article contains definitions in addition to those specified in the Code, including VHCN. It extends the concept of ‘physical infrastructure’ to include public non-network assets and introduces a new definition of ‘in-building fibre wiring’ along with a change from ‘high-speed-ready’ to ‘fibre-ready’ in-building physical infrastructure. In addition, taking into account the fast development of providers of wireless physical infrastructure such as ‘tower companies’, and their increasingly significant role as providers of access to physical infrastructure suitable to install elements of wireless electronic communications networks, such as 5G, the definition of ‘network operator’ is extended beyond undertakings providing or authorised to provide electronic communications networks and operators of other types of networks, such as transport, gas or electricity, to include undertakings providing associated facilities, which thus become subject to all the obligations and benefits set out in the Regulation, except the provisions regarding in-building physical infrastructure and access. It also amends the definition of ‘permit’ to reflect the multiple decision-layers that sometimes exist for granting permits and clarifies that civil works refer to ‘deployment of elements of VHCN’ for easier reference throughout the text. 
+ Article 3 – Access to existing physical infrastructure 
+ Article 3 extends the access obligation to physical infrastructure that is not part of a network but is owned or controlled by public sector bodies. It also provides for exceptions for certain categories of buildings (e.g. for reasons of public security, safety and health) and introduces the possibility for Members States to set up a body to coordinate access relating to public assets. 
+ It clarifies the reasons for refusing access and avoids duplication of access obligations when these are already imposed under the Code/State aid rules on the same assets. 
+ It provides for the possibility for the Commission to issue guidance on the application of access provisions. 
+ This Article also builds on the precedent set out in Article 57 of the Code for the installation of small wireless access points. 
+ Article 4 – Transparency on physical infrastructure 
+ Article 4 mandates the provision of minimum information on existing physical infrastructure by network operators and public sector bodies owning or controlling physical infrastructure, including georeferenced information, via SIPs in electronic format. 
+ Access to this minimum information could be restricted, for example, for security reasons or certain categories of buildings. Similarly, the obligation to provide minimum information would not apply when the obligation would be disproportionate based on a cost-benefit analysis. 
+ Article 5 – Coordination of civil works 
+ Article 5 clarifies that the obligation to coordinate civil works relates to civil works that are ‘fully/partially financed by public means’. 
+ It sets out that requests for coordination of civil works should be filed at least 2 months before the submission of the final project and specifies when a request to coordinate civil works can be considered unreasonable. 
+ It provides for the possibility for the Commission to issue guidance on the application of civil works coordination provisions. 
+ Article 6 – Transparency on planned civil works 
+ Article 6 provides for the right of access to minimum information for all (public and private) planned civil works carried out by network operators via SIPs in electronic format, including georeferenced information. 
+ Such access could be limited, for example, for network security, national security or business secrets. The transparency obligation would not apply in certain circumstances, e.g. in an emergency or for national security reasons. 
+ It provides for the earlier and proactive provision of minimum information on planned public civil works by all network operators via SIPs to facilitate the potential coordination of civil works. 
+ Article 7 – Procedures for granting permits, including rights of way 
+ Article 7 introduces a new principle of nationally consistent rules governing the conditions and procedures applicable for granting permits, including rights of way. It makes the submission of applications in electronic format via SIPs mandatory. 
+ It mandates the Commission to specify the categories of deployments that will be exempted from permits by way of an implementing act. 
+ It strengthens transparency by not considering permit applications for civil works admissible if the minimum information provided for in Article 6 has not been made available via a SIP. 
+ It introduces several measures aiming to ensure permits, including rights of way, applications are dealt with within the legal deadlines, e.g. a shorter period to consider the application complete, tacit approval or compensation for damages caused by non-compliance with the deadlines. 
+ Finally, it lays down that fees and charges for permits, including rights of way, cannot go beyond the administrative charges. 
+ Article 8 – In-building physical infrastructure and fibre wiring 
+ Article 8 mandates in-building physical infrastructure, access points and in-building fibre wiring for new and majorly renovated buildings. This includes buildings at the end-user’s location when they are renovated to improve energy efficiency. Exemptions are expanded to address the possible lack of proportionality for specific locations based on a cost-benefit analysis. 
+ It introduces the obligation for Member States to adopt relevant national standards/technical specifications and certification mechanisms. With these certification mechanisms, companies can demonstrate compliance with those standards/technical specifications and qualify for the now mandatory ‘fibre-ready label’, which is conditional on the issuance of the building permit. 
+ Article 9 – Access to in-building physical infrastructure 
+ Article 9 lays down the right for public electronic communications network providers to terminate their networks up to the access point and access existing in-building physical infrastructure. It also provides for refusal of access to in-building physical infrastructure where access to in-building fibre wiring is provided pursuant to obligations imposed under the Code or made available under fair, reasonable and non-discriminatory terms and conditions, including price. 
+ It provides for the possibility for the Commission to issue guidance on the application of provisions for access to in-building infrastructure. 
+ Article 10 Digitalisation 
+ Article 10 provides for a single national digital entry point and access to digital tools, especially when there is more than one SIP or when information is located elsewhere, allowing the exercise of rights and compliance with obligations set out in this Regulation. 
+ Article 11 – Dispute settlement 
+ This provision ensures that any party is entitled to refer a dispute to a competent national dispute settlement body, which must resolve the dispute within shortened time frames (compared with current provisions of the BCRD) and issue a binding decision. 
+ Article 12 – Competent bodies 
+ Article 12 introduces additional requirements inspired by the Code’s institutional provisions. These include: (i) the impartiality and independence of public sector bodies that own/control physical infrastructure; (ii) the structural separation of dispute settlement bodies and SIPs; (iii) the exercise of powers and resources of the competent authorities; and (iv) making the tasks of competent bodies more transparent. 
+ It also provides for more detailed requirements on the right to appeal, building on similar provisions in the Code. 
+ Article 13 – Committee procedure 
+ Article 13 sets the Committee procedure with the Communications Committee established by Article 118(1) of Directive (EU) 2018/1972. 
+ Articles 14-18 – Final provisions 
+ Articles 14 and 15 contain final provisions, including on penalties, monitoring and reporting obligations. The relevant indicators and a data gathering mechanism will be drawn up by the Communications Committee. 
+ Article 16 includes transitional measures where necessary (continuation of the application of some current provisions of the BCRD) in view of the enlargement of the scope to VHCN and the delayed application of some provisions of this Regulation. Articles 17 and 18 include provisions for repeal of the Directive 2014/61/EU and the regulation’s entry into force and application. 
+ 2023/0046 (COD) 
+ Proposal for a 
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ on measures to reduce the cost of deploying gigabit electronic communications networks and repealing Directive 2014/61/EU (Gigabit Infrastructure Act) 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Economic and Social Committee 
+ 29 
+ , 
+ Having regard to the opinion of the Committee of the Regions 
+ 30 
+ , 
+ Acting in accordance with the ordinary legislative procedure, 
+ Whereas: 
+ (1) The digital economy has been changing the internal market profoundly over the last decade. The Union ’ s vision is a digital economy that delivers sustainable economic and social benefits based on excellent and secure connectivity for everybody and everywhere in Europe. A high - quality digital infrastructure based on very high capacity networks underpins almost all sectors of a modern and innovative economy . It is of strategic importance to social and territorial cohesion and overall for the Union’s competitiv eness and digital leadership. Therefore, people as well as the private and public sectors should have the opportunity to be part of the digital economy. 
+ (2) T he rapid evolution of technologies, the exponential growth in broadband traffic and the increasing demand for advanced very high - capacity connectivity have further accelerated during the COVID -19 pandemic . As a result, the targets laid down in the Digital Agenda in 2010 
+ 31 
+ have mostly been met , but they have also become obsolete. The share of households having access to 30 Mbps internet speeds has increased from 58.1% in 2013 to 90% in 2022. Availability of only 30 Mbps is no longer future-proof and not aligned with the new objectives set in Directive (EU) 2018/1972 of the European Parliament and of the Council 
+ 32 
+ for ensuring connectivity and widespread availability of very high capacity networks. Therefore, in the Decision ( EU) 2022/2481 of the European Parliament and Council 
+ 33 
+ , the EU set updated targets for 2030 that better correspond to the expected connectivity needs of the future where all European households should be covered by a g igabit network, with all populated areas covered by 5G. 
+ (3) To achieve th o se targets, there is a need for policies to speed up and lower the costs of the deployment of very high - capacity fixed and wireless networks across the Union, including proper planning , coordination and the reduction of administrative burdens. 
+ (4) Directive 2014/61/EU, which was adopted in response to the need for policies to lower the costs of broadband deployment, included measures on infrastructure sharing, civil works coordination and the reduction of administrative burden s . To further facilitate the roll-out of very high capacity networks, including fibre and 5G, the European Council , called in its Conclusions on Shaping Europe ’ s Digital Future of 9 June 2020 , called for a package of additional measures to support current and emerging network deployment needs, including by reviewing Directive 2014/61/EU. 
+ (5) The roll-out of very high capacity networks ( as defined in Directive (EU) 2018/1972 ) across the Union requires substantial investment, a significant proportion of which is the cost of civil engineering works. Sharing physical infrastructure would limit the need for cost ly civil engineering works and make advanced broadband roll-out more effective. 
+ (6) A major part of the costs of deploy ing very high capacity networks can be attributed to inefficiencies in the roll-out process related to : (i) the use of existing passive infrastructure (such as ducts, conduits, manholes, cabinets, poles, masts, antenna installations, towers and other supporting constructions) ; (ii) bottlenecks related to the coordination of civil works ; (iii) burdensome administrative procedures to grant permit s; and (iv) bottlenecks in in-building deployment of networks, which lead to high financial barriers, particular ly in rural areas. 
+ (7) Directive 2014/61/EU of the European Parliament and of the Council 
+ 34 
+ , which was adopted in response to the need to lower the costs of broadband deployment, included measures on infrastructure sharing, civil works coordination and the reduction of administrative burden s . To further facilitate the roll-out of very high capacity networks, including fibre and 5G, the European Council , in its Conclusions on Shaping Europe ’ s Digital Future of 9 June 2020 , called for a package of additional measures to support current and emerging network deployment needs, including by reviewing Directive 2014/61/EU. 
+ (8) T he measures set out in Directive 2014/61/EU contribute d to less costly deployment s of high-speed electronic communications networks . However, these measures should be strengthened to further reduce costs and speed up network deployment. 
+ (9) Measures aiming to make us ing public and private existing infrastructures more efficient and reduc e costs and obstacles in carrying out new civil engineering works should contribut e substantially to ensuring a fast and extensive deployment of very high capacity networks . These measures should maintain effective competition without harming the safety, security and smooth operation of the existing infrastructure. 
+ (10) Some Member States have adopted measures to reduce the costs of broadband roll-out, including by going beyond the provisions of Directive 2014/61/EU. However, those measures are still very different across Member States and have led to different results across the Union. Scaling up some of those measures across the Union and taking new reinforced measures could significantly contribute to the better functioning of the digital single market. Moreover, differences in regulatory requirements and inconsistent implementation of Union rules sometimes prevent cooperation across utilit y companies. The differences may also raise barriers to entry for new undertakings providing or authorised to provide public electronics communications net works or associated facilities , as defined in Directive (EU) 2018/1972 (‘operators’). These differences may also close off new business opportunities, hindering the development of an internal market for the use and deployment of physical infrastructures for very high capacity networks. Moreover , the measures notified in the national roadmaps and implementation reports adopted by Member State s under Commission Recommendation (EU) 2020/1307 
+ 35 
+ neither cover all the areas of Directive 2014/61/EU nor address all issues in a consistent and complete manner . This is despite how essential it is to take action across the whole roll-out process and across sectors to achieve a coherent and significant impact. 
+ (11) This Regulation aims to strengthen and harmonis e rights and obligations applicable across the Union to accelerate the roll-out of very high capacity networks and cross-sector coordination. Due to the persistent fragmentation of electronic communications markets in individual national markets, undertakings providing or authorised to provide electronic communications networks are unable to achieve economies of scale . This can have a strong downstream effect on cross-border trade and services provision, since many services can only be provided where an adequately performant network is in place across the Union . While ensuring an improved level playing field, this Regulation does not prevent national measures in compliance with Union law that serve to promote the joint use of existing physical infrastructure or enable a more efficient deployment of new physical infrastructure by complement ing the rights and obligations laid down in this Regulation. For example , Member States could extend provisions on civil works coordination also to privately funded projects or require that more information on physical infrastructure or planned civil works is provided to a single information point in electronic format , provided that they do not violate Union law including the provisions of this Regulation. 
+ (12) T o ensure legal certainty, including regarding specific regulatory measures imposed under Directive (EU) 2018/1972 , under Title II, Chapters II to IV and Directive 2002/77/EC 
+ 36 
+ , the provisions of these directives should prevail over this Regulation . 
+ (13) It can be significantly more efficient for operators, in particular new entrants, to reuse existing physical infrastructure, including that of other utilities, to roll out very high capacity networks or associated facilities . This is the case, in particular , in areas where no suitable electronic communications network is available or where it may not be economically feasible to build new physical infrastructure. Moreover, synergies across sectors may significantly reduce the need for civil works relating to the deployment of very high capacity networks . This reuse can also reduce the social and environmental costs linked to these works , such as pollution, noise and traffic congestion. Therefore, this Regulation should apply not only to operators but also to owner s or holder s of rights to use extensive and ubiquitous physical infrastructure suitable to host electronic communications network elements, such as physical networks for the provision of electricity, gas, water and sewage and drainage systems, and heating and transport services. In the case of holders of rights, this does not change any property rights of third parties. 
+ (14) T o improv e the deployment of very high capacity networks in the internal market, this Regulation should lay down rights for undertakings providing public electronic communications networks or associated facilities ( including undertakings of a public nature ) to access physical infrastructure regardless of its location under fair and reasonable terms consistent with the normal exercise of property rights. The obligation to give access to the physical infrastructure should be without prejudice to the rights of the owner of the land or of the building in which the infrastructure is located. 
+ (15) In particular , taking into account the fast development of providers of wireless physical infrastructure such as ‘ tower companies ’ , and their increasingly significant role as providers of access to physical infrastructure suitable to install elements of wireless electronic communications networks, such as 5G, the definition of ‘network operator’ should be extended beyond undertakings providing or authorised to provide electronic communications networks and operators of other types of networks, such as transport, gas or electricity, to include undertakings providing associated facilities, which thus become subject to all the obligations and benefits set out in the R egulation , except the provisions regarding in-building physical infrastructure and access . 
+ (16) In view of their low degree of differentiation, the physical facilities of a network can often host a wide range of electronic communications network elements at the same time without affecting the main service provided and with minimum adaptation costs. These elements includ e those capable of delivering broadband access services at speeds of at least 100 Mbps in line with the technological neutrality principle . Therefore, physical infrastructure , that is intended to only host other elements of a network without becoming an active network element itself, such as dark fibre, can in principle be used to accommodate electronic communications cables, equipment or any other element of electronic communications networks, regardless of its current use or its ownership, security concerns or future business interests of the infrastructure ’s owner . The physical infrastructure of public electronic communications networks can in principle also be used to accommodate elements of other networks . T herefore , in appropriate cases , public electronic communications network operators may give access to their networks so that other networks can be deployed . Without prejudice to the pursuit of the specific general interest linked to the provision of the main service, synergies between network operators should at the same time be encouraged to contribute to achieving the digital targets set out in Decision (EU) 2022/2481 . 
+ (17) In the absence of a justified exception, physical infrastructure elements owned or controlled by public sector bodies, even when they are not part of a network, can also host electronic communications network elements and should be made accessible to facilitate instal ling network elements of very high capacity networks, in particular wireless networks. Examples of physical infrastructure elements are buildings, entries to buildings, and any other asset , including street furniture, such as light poles, street signs, traffic lights, billboards, bus and tramway stops and metro stations . I t is for Member States to identify specific buildings owned or controlled by public sector bodies in their territories where access obligations can not apply, for example, for reasons of architectural, historical, religious or natural value. 
+ (18) T his Regulation should be without prejudice to any specific safeguard needed to ensure safety and public health, the security and integrity of the networks, in particular critical infrastructure, as defined by national law, and to ensure that the main service provided by the network operator is not affected, in particular in networks used for the provision of water intended for human consumption . However, general rules in national legislation prohibiting network operators from negotiating access to physical infrastructures by undertakings providing or authorised to provide electronic communications networks or associated facilities could prevent creating a market for access to physical infrastructure. Such general rules should therefore be abolished. At the same time, the measures set out in this Regulation should not prevent Member States from incentivis ing utility operators to give access to infrastructure by excluding revenue generated from the access to their physical infrastructure when calculati ng end-user tariffs for their main activity or activities, in accordance with applicable Union law. 
+ (19) In order t o ensure legal certainty and avoid disproportionate burdens on network operators result ing from the simultaneous application of two distinct access regimes to the same physical infrastructure , physical infrastructure subject to access obligations imposed by national regulatory authorities pursuant to Directive (EU) 2018/1972 or access obligations resulting from the application of Union S tate aid rules should not be subject to access obligations set out in this Regulation for as long as such access obligations remain in place . However, this Regulation should be applicable whe re a national regulatory authority has imposed an access obligation under Directive (EU) 2018/1972 that limits the use that can be made of the physical infrastructure concerned. F or instance , this could occur when an operator planning to connect base stations request s access to existing physical infrastructure to which access obligations are imposed in the market for access to wholesale dedicated capacity 
+ 37 
+ . 
+ (20) T o ensure proportionality and preserve investment incentives, a network operator or public sector body should have the right to refuse access to specific physical infrastructure for objective and justified reasons. In particular, a physical infrastructure for which access has been requested could be technically un suitable due to specific circumstances, or because of lack of currently available space or future needs for space that are sufficiently demonstrated, for instance , in publicly available investment plans. To ensure proportionality and preserve investment incentives, a network operator or public sector body may refuse access to specific physical infrastructure. To avoid any potential distortion of competition or any possible abuse of the conditions to refuse access, any such refusal should be duly justified and based on objective and detailed reasons . For example such reasons would not be considered objective where an undertaking providing or authorised to provide electronic communications networks has deployed physical infrastructure thanks to civil works coordination with a network operator other than an electronic communications network operator and refuses to grant access based on an alleged lack of availability of space to host the elements of very high capacity networks which results from decisions made by the undertaking under its control. In such case, a competition distortion could arise if there is no other VHCN in the area concerned by the access request . Similarly, in specific circumstances, sharing the infrastructure could jeopardise safety or public health , network integrity and security, including that of critical infrastructure, or could endanger the provision of services that are primarily provided over the same infrastructure. Moreover, where the network operator already provide s a viable alternative means of wholesale physical access to electronic communications networks that would meet the needs of the access seeker, such as dark fibre or fibre unbundling, access to the underlying physical infrastructure could have an adverse economic impact on its business model, in particular that of wholesale-only operators, and incentives to invest . It may also risk an inefficient duplication of network elements. The assessment of the fair and reasonable character of the terms and conditions for such alternative means of wholesale physical access should take into account, inter alia , the underlying business model of the undertaking providing or authorised to provide public electronic communications networks granting access and the need to avoid any reinforcement of the significant market power, if any, of either party. 
+ (21) T o facilitate the reuse of existing physical infrastructure, where operators request access in a specified area, network operators and public sector bodies that own or control physical infrastructure should make an offer for the shared use of their facilities under fair and reasonable terms and conditions, including price, unless access is refused for objective and justified reasons. Public sector bodies should also be required to offer access under non-discriminatory terms and conditions. Depending on the circumstances, several factors could influence the conditions under which such access is granted . These include : (i) any additional maintenance and adaptation costs; (ii) any preventive safeguards to be adopted to limit adverse effects on network safety, security and integrity; (iii) any specific liability arrangements in the event of damages; (iv) the use of any public subsidy granted for the construction of the infrastructure, including specific terms and conditions attached to the subsidy or provided under national law in compliance with Union law; (v) the ability to deliver or provide infrastructure capacity to meet public service obligations; and (vi) any constraints stemming from national provisions aiming to protect the environment, public health, public security or to meet town and country planning objectives. 
+ (22) I nvestments in physical infrastructure of public electronic communications networks or associated facilities should directly contribute to the objectives set out in Decision (EU) 2022/2481 and avoid opportunistic behaviour . Therefore, any obligation of access to existing physical infrastructure or coordination of civil works should fully take into account a number of factors such as (i) the economic viability of those investments based on their risk profile ; (ii) any time schedule for the return on investment ; (iii) any impact that the access has on downstream competition and consequently on prices and return on investment ; (iv) any depreciation of the network assets at the time of the access request ; (v) any business case underpinning the investment, in particular in the physical infrastructure used for provi ding very high capacity network services ; and (vi) any possibility previously offered to the access seeker to co-deploy. 
+ (23) Public sector bodies that own or control physical infrastructure may lack sufficient resources, experience or the necessary technical knowledge to engage in negotiations with operators on access. To facilitate access to these public sector bodies’ physical infrastructure, a body could be appointed to coordinate the access requests, provide legal and technical advice for negotiati ng access terms and conditions, and make relevant information on such physical infrastructure available via a single information point. The coordinating body could also support public sector bodies in preparing model contracts and monitor the outcome and the length of time of the access requests process . The body could also help if disputes arise on access to physical infrastructure that public sector bodies own or control. 
+ (24) To ensure consistency of approaches among Member States, the Commission, in close cooperation with the Body of European Regulators for Electronic Communications (BEREC) , could provide guidance on applying the provisions on access to physical infrastructure, including but not only on the application of fair and reasonable conditions . The views of stakeholders and national dispute settlement bodies should be duly taken into account in the preparation of the guidance. 
+ (25) O perators should have access to minimum information on physical infrastructure and planned civil works in the area of deployment . This will enable them to effectively plan deploy ing very high capacity networks and ensure the most effective use of existing physical infrastructure , suitable for rolling out such networks , and planned civil works. Such minimum information is a pre - requisite to assess the potential for using existing physical infrastructure or coordinating the planned civil works in a specific area, as well as to reduce damage to any existing physical infrastructure s . In view of the number of stakeholders involved ( covering public ly and privately financed civil works as well as existing or planned physical infrastructure ) and to facilitate access to that information ( across sectors and borders ) , the n etwork operators and public sector bodies subject to transparency obligations should proactively (rather than upon request) provide and maintain such minimum information via a single information point . This will simplify managing requests to access such information and enable operators to express their interest in accessing physical infrastructure or coordinating civil works, for which timing is critical. The minimum information on planned civil works should be provided via a single information point as soon as the information is available to the network operator concerned and, in any event and where permits are required, no later than 3 months before the permit application is first submitted to the competent authorities. 
+ (26) The minimum information should be made available promptly via the single information point under proportionate, non-discriminatory and transparent terms so that operators can submit their requests for information. The single information point should consist of a repository of information in electronic format, where information can be accessed and requests can be made online using digital tools, such as webpages, digital applications, and digital platforms . The information made available may be limited to ensure network security and integrity, in particular that of critical infrastructure, national security, or to safeguard legitimate operating and business secrets. The single information point does not have to host the information as long as it ensures that links are available to other digital tools , such as web portals, digital platforms or digital applications, where the information is stored. The single information point may provide additional functionalities, such as access to additional information or support to the process of requests for access to existing physical infrastructure or to coordinate civil works. 
+ (27) In addition, if the request is reasonable, in particular if needed to share existing physical infrastructures or coordinate civil works , operators should be granted the possibility to make on-site surveys and request information on planned civil works under transparent, proportionate and non-discriminatory conditions and without prejudice to the safeguards adopted to ensure network security and integrity, protection of confidentiality, as well as operating and business secrets. 
+ (28) Advanced transparency of planned civil works via single information points should be incentivised . This can be done by easily redirecting operators to such information whenever available . Transparency should also be enforced by making permit - granting applications subject to prior publication of information on planned civil works via a single information point. 
+ (29) The discretion that Member States retain to allocate the functions of the single information point s to more than one competent body should not affect their ability to effectively fulfil th o se functions. Where more than one single information point is set up in a Member State, a single national digital entry point consisting of a common user interface should ensur e seamless access to all single information points by electronic means . The single information point should be fully digitised and provide easy access to the relevant digital tools . This will enable network operators and public sector bodies exercise their rights and compl y with the obligations set out in this Regulation . This includ es fast access to the minimum information on existing physical infrastructure and planned civil works, electronic administrative procedures for granting permits and rights of way , and the applicable conditions and procedures. As part of this minimum information, the single information point should give access to georeferenced information on the location of existing physical infrastructure and planned civil works. To facilitate this, Member States should provide automated digital tools for the submission of the georeferenced information and conversion tools to the supported data formats . These could be made available to network operators and public sector bodies responsible for provid ing this information via the single information point. Furthermore, where georeferenced location data are available via other digital tools, such as the INSPIRE G eoportal under Directive 2007/2/EC of the European Parliament and of the Council 
+ 38 
+ , the single information point c ould provide user-friendly access to this information. 
+ (30) T o ensure proportionality and security, the requirement to provide information on existing physical infrastructure via the single information point need not apply for the same reasons as those justifying a refusal of an access request . In addition, provi ding information on existing physical infrastructure via the single information point could, in very specific cases, be burdensome or disproportionate for network operators and public sector bodies . This could arise, for example , where the mapping of relevant assets is not yet available and it would be very costly to map or where access requests are expected to be very low in certain areas of a Member State or in respect to certain specific physical infrastructure. Where it appears that provi ding information is disproportionate based on a detailed cost-benefit analysis, network operators and public sector bodies should not be obliged to provide such information. Member States should conduct such detailed cost-benefit analysis based on a consultation with stakeholders on demand for access to existing physical infrastructure , and the analysis should be updated regularly. The consultation process and its outcome should be made public , and the specific physical infrastructure to be exempted from this obligation should be notified to the Commission. 
+ (31) T o ensure consistency, the competent bodies performing the functions of the single information point, the national regulatory authorities fulfil ling their tasks under Directive ( EU ) 2018/1972 or other competent authorities, such as national, regional or local authorities in charge of cadastre or the implementation of Directive 2007/2/EC (INSPIRE), as appropriate, should consult and cooperate with each other . The purpose of such cooperation should be to minimise the efforts in complying with transparency obligations on network operators and public sector bodies, including the undertakings designated with significant market power ( ‘ SMP ’ operators), to make information available about their physical infrastructure; W here a different data set on physical infrastructure of the SMP operator is required such cooperation should result in establish ing useful interlinks and synergies between the SMP-related database and the single information point and proportionate common practices of data collection and data provision to deliver results that are easily comparable . Cooperation should also aim at facilitating access to information on physical infrastructure , in light of national circumstances . If regulatory obligations are modified or withdrawn, the parties affected should be able to agree on the best solutions to adapt the collection and provision of physical infrastructure data to the newly applicable regulatory requirements. 
+ (32) The transparency obligation for the coordination of civil works need not apply to civil works for reasons of national security or in an emergency . This could be the case, for civil works performed if there is a risk of public danger as a result of degradation processes to civil engineering works and their associated installations , which are caused by destructive natural or human factors and are needed to ensure their safety or their demolition . For reasons of transparency, Member States should notify the type s of civil works falling under those circumstances to the Commission and publish them via a single information point. 
+ (33) T o ensure significant savings and minimise inconveniences to the area affected by the deployment of new electronic communications networks, regulatory constraints preventing as a general rule the negotiation among network operators of agreements to coordinat e civil works to deploy very high capacity networks should be prohibited. If civil works are not financed by public means, this Regulation should be without prejudice to the possibility for network operators to conclude civil works coordination agreements according to their own investment and business plans and their preferred timing. 
+ (34) Member States should maximise the results of c ivil works fully or partially financed by public means, by exploiting the positive externalities of those works across sectors and ensuring equal opportunities to share the available and planned physical infrastructure to deploy very high capacity networks. T he main purpose of civil works financed by public means should not be adversely affected . However, timely and reasonable requests to coordinate the deployment of elements of very high capacity networks should be met by the network operator carrying out the civil works concerned directly or indirectly ( for example , through a sub-contractor ) under proportionate, non-discriminatory and transparent terms. For example, the requesting operator should cover any additional costs, including those caused by delays and keep changes to the original plans to a minimum Such provisions should not affect the right of Member States to reserve capacity for electronic communications networks even in the absence of specific requests . This will enable Member States to meet future demand for physical infrastructures to maximise the value of civil works or to adopt measures giving similar rights to operators of other types of networks, such as transport, gas or electricity , to coordinate civil works. 
+ (35) In some cases, in particular for deployments in rural , remote or scarcely populated areas, the obligation to coordinate civil works might put at risk the financial viability of such deployments and eventually disincentivize investments carried out under market terms. Therefore, a request to a n undertaking providing or authorised to provide public electronic communication s network s to coordinate civil works might be considered unreasonable under specific circumstances. This should be the case , in particular, if the requesting undertaking providing or authorised to provide electronic communications networks did not state its intention to deploy very high capacity networks in that area (either as a new deployment, an upgrade or an extension of a network ) and there had been a forecast or invitation to declare an intention to deploy very high capacity networks in designated areas ( pursuant to Article 22 of Directive (EU) 2018/1972 ) or a public consultation under Union S tate aid rules. If more than one of th o se forecasts, invitations and/or public consultations have occurred, only the lack of an expression of interest at the most recent occasion covering the period during which the request for coordination of civil works is made should be considered. T o ensure the possibility to access the deployed infrastructure in the future, the undertaking providing or authorised to provide public electronic communications network s performing the civil works should guarantee that it will deploy physical infrastructure with sufficient capacity, taking into account the guidance provided by the Commission. This is without prejudice to the rules and conditions attached to the assignment of public funds and the application of State aid rules. 
+ (36) To ensure consistency of approaches, the Commission, in close cooperation with the Body of European Regulators (BEREC), could provide guidance on applying the provisions on civil work coordination, including but not only on apportioning of costs . The views of stakeholders and national dispute settlement bodies should be duly taken into account in the preparation of the guid ance . 
+ (37) Effective coordination can help reduc e costs and delays as well as deployment disruption , which can be caused by problems on site. One example where coordination of civil works can provide clear benefits are cross-sector projects to deploy 5G corridors along transport paths, such as road, rail and in-land waterways . These projects can often also require design coordination or co-design based on early cooperation between the project participants. As part of the co-design , the parties concerned may agree in advance on physical infrastructure deployment paths and the technology and equipment to be used, before the coordination of civil works. Therefore, the request for coordination of civil works should be filed as soon as possible. 
+ (38) A number of different permits for deploy ing elements of electronic communications networks or associated facilities may be necessary in order to protect national and Union general interests. These can include digging, building, town planning, environmental and other permits as well as rights of way . The number of permits and rights of way required for deploy ing different types of electronic communications networks or associated facilities and the local character of the deployment could involve appl ying different procedures and conditions , which can cause difficulties in the network deployment. Therefore, to facilitate deployment, all rules on the conditions and procedures applicable to granting permits and rights of way should be streamlined and consistent at national level. While preserving the right of each competent authority to be involved and maintain its decision - making prerogatives in accordance with the subsidiarity principle, all information on the procedures and general conditions applicable to granting permits for civil works and rights of way should be available via single information point s . This could reduce complexity and increase efficiency and transparency for all operators and particularly new entrants and smaller operators not active in that area. Moreover, operators should have the right to submit their requests for permits and rights of way in electronic format via a single information point. Those undertakings should also be able to retrieve information in electronic format about the status of their requests and whether they have been granted or refused. 
+ (39) P ermit - granting procedures should not be barriers to investment or harm the internal market . Member States should therefore ensure that a decision on whether or not to grant permits on the deployment of elements of very high capacity networks or associated facilities is made available within 4 months from the receipt of a complete permit request . This is without prejudice to other specific deadlines or obligations laid down for the proper conduct of the procedure , which are applicable to the permit - granting procedure in accordance with national or Union law. Competent authorities should not restrict, hinder or make the deployment of very high capacity networks or associated facilities economically less attractive . Specifically, they should not prevent procedures for granting permits and rights of way from proceed ing in parallel, where possible, or requir e operators to obtain one type of authori s ation before they can apply for other types of authori s ations. Competent authorities should justify any refusal to grant permits or rights of way under their competence, based on objective, transparent, non-discriminatory and proportionate conditions. 
+ (40) T o avoid undue delays, competent authorities must determine the completeness of the permit request within 15 days from its receipt. T he permit request should be deemed complete u nless the competent authority invite s the applicant to provide any missing information within that period. For reasons of equal treatment and transparency, the competent authorities should not consider permit requests for civil works to be admissible if the minimum information required under this Regulation has not been made available via a single information point within 3 months before the first permit request is submitted to the competent authorities. Where, in addition to permits, rights of way are required for deploy ing elements of very high capacity networks, competent authorities should, by way of derogation from Article 43 of Directive (EU) 2018/1972, grant such rights of way within 4 months from the receipt of the request. Other rights of way not needed in conjunction with permits for civil works should continue to be granted within 6 months in accordance with Article 43 of Directive (EU) 2018/1972. Operators that suffer damage due to the delay of a competent authority to grant permits or rights of way within the applicable deadlines should have the right to compensation. 
+ (41) In order to ensure uniform conditions for the implementation of Article 7 of this Regulation , implementing powers should be conferred on the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182 /2011 of the European Parliament and of the Council 
+ 39 
+ . The exemptions f rom the requirement for permits set out at Union level by way of an implementing act , could be applied to different categories of infrastructure ( such as masts, antennae, poles and underground cables ) under certain specified conditions, for which building permits, digging permits or other types of permits may be initially required. They could also be applied to technical upgrades of existing maintenance works or installations , small-scale civil works , such as trenching , and renewals of permits. 
+ (42) In order to ensure that the procedures for granting such permits and rights of way are completed within reasonable deadlines, as appears from certain modernising and good administrative practice s at national level , it is necessary to draw up principles for administrative simplification . This should include inter alia limit ing the obligation of prior authorisation to cases in which it is essential and introduc ing tacit approval by the competent authorities after a certain period of time has elapsed. Moreover, the categories of deployments exempted from permits under Union law should no longer be subject to permits under national law. 
+ (43) T o facilitate the deployment of elements of very high capacity networks, a ny fee related to a permit , other than right s of way , should be limited to the administrative costs related to processing the permit request according to the principles established in Article 16 of Directive (EU) 2018/1972 . In the case of rights of way, the provisions established in Articles 42 and 43 of Directive (EU) 2018/1972 apply. 
+ (44) A chiev ing the targets set out in Decision (EU) 2022/2481 requires that , by 2030 , all end users at fixed location s are covered by a g igabit network up to a network termination point and all populated areas are covered by next - generation wireless high-speed networks with at least 5G - equivalent performance, in accordance with the principle of technological neutrality. Providing g igabit networks up to the end user should be facilitated, in particular through fibre-ready in-building physical infrastructure. P roviding for mini-ducts during the construction of a building has only a limited incremental cost , while equipping buildings with g igabit infrastructure may represent a significant part of the cost of deploying a g igabit network . Therefore, all new buildings or buildings subject to a major renovation should be equipped with physical infrastructure and in-building fibre wiring, enabling the connection of end users to g igabit speeds. N ew multi-dwelling buildings and multi-dwelling buildings subject to major renovation should also be equipped with an access point, accessible to one or more undertakings providing or authorised to provide public electronic communications networks. Moreover, building developers should provide for empty ducts from every dwelling to the access point, located in or outside the multi-dwelling building. Major renovations of existing buildings at the end user’s location to enhance energy performance ( pursuant to Directive 2010/31/EU of the European Parliament and of the Council 
+ 40 
+ ) provide a n opportunity to also equip those buildings with fibre-ready in-building physical infrastructure, in-building fibre wiring and, for multi-dwelling buildings, an access point. 
+ (45) T he prospect of equipping a building with fibre-ready in-building physical infrastructure, an access point or in-building fibre wiring may be considered disproportionate in terms of costs, namely for new single dwellings or buildings undergoing major renovation works . This may be based on objective grounds, such as tailor-made cost estimates, economic reasons linked to the location, or urban heritage conservation or environmental reasons (for example , for specific categories of monuments ) . 
+ (46) P rospective buyers and tenants should be able to identify buildings that are equipped with fibre-ready in-building physical infrastructure, an access point and in-building fibre wiring and that therefore have considerable cost-saving potential . T he fibre readiness of buildings should also be promoted. Member States should therefore develop a compulsory ‘fibre-ready’ label for buildings equipped with such infrastructure, an access point and in-building fibre wiring in accordance with this Regulation. 
+ (47) Undertakings providing or authorised to provide p ublic electronic communications network s deploying g igabit networks in a specific area could achieve significant economies of scale if they could terminate their network to the building ’s access point by using existing physical infrastructure and restoring the affected area . This should be possible irrespective of whether a subscriber has expressed explicit interest for the service at that moment in time and provided that the impact on private property is minimised, Once the network is terminated at the access point, the connection of an additional customer is possible at a significantly lower cost, in particular by means of access to a fibre-ready vertical segment inside the building, where it already exists. That objective is also fulfilled when the building itself is already equipped with a g igabit network to which access is provided to any public communications network provider , which has an active subscriber in the building , under transparent, proportionate and non-discriminatory terms and conditions. That could in particular be the case in Member States that have taken measures under Article 44 of Directive (EU) 2018/1972. 
+ (48) In order to contribute to ensuring availability of g igabit networks to end users, new buildings and majorly renovated buildings should be equipped with fibre-ready in-building physical infrastructure, in-building fibre wiring and, in the case of multi-dwelling buildings, an access point. Member States should have a degree of flexibility to achieve this. T his Regulation , therefore, does not seek to harmonise rules on related costs, including the recovery of costs of equipping buildings with fibre-ready in-building physical infrastructure, in-building fibre wiring and an access point. 
+ (49) In line with the subsidiarity principle and to tak e national circumstances into account, Member States should adopt the standards or technical specifications necessary for the purpose of equipping newly constructed or majorly renovated buildings with fibre-ready in-building physical infrastructure and in-building fibre wiring ; and new or majorly renovated multi-dwelling buildings with an access point. Th o se standards or technical specifications should set out at least : the building access point specifications ; fibre interface specifications; cable specifications; socket specifications; specifications for pipes or micro-ducts; technical specifications needed to prevent interference with electrical cabling , and the minimum bend radius. Member States should make the issuance of building permits conditional on compliance of the relevant new building or major renovation works project requiring a building permit with the standards or technical specifications based on a certified test re port . Member States should also set up certification schemes for the purpose of demonstrating compliance with the standards or technical specifications as well as for qualifying for the ‘fibre-ready’ label. Moreover, to avoid an increase in red tape related to the certification scheme set up under this Regulation, Member States should take into account the procedural requirements applied to certification schemes pursuant to Directive 2010/31/EU and also consider the possibility to enable the combined launch of both request procedures. 
+ (50) In view of the social benefits stemming from digital inclusion and taking into account the economics of deploy ing very high capacity networks, where there is neither existing passive or active fibre-ready infrastructure serving end users’ premises nor alternatives to providing very high capacity networks to a subscriber, any public communications network provider should have the right to terminate its network to a private premise at its own cost, provided that the impact on private property is minimised, for example, if possible, by reusing the existing physical infrastructure available in the building or ensuring full restoration of the affected areas. 
+ (51) R equests for access to the in-building physical infrastructure should fall under the scope of this Regulation, whereas a request for access to fibre wiring is to fall under the scope of Directive (EU) 2018/1972. Moreover, access to in-building physical infrastructure could be refused if access to in-building fibre wiring is made available under fair, reasonable and non-discriminatory terms and conditions, including price. 
+ (52) T o ensure consistency of approaches, the Commission , in close cooperat ion with BEREC , could provide guidance on the applications of provisions on access to in-building physical infrastructure , including but not only on the terms and conditions thereof . The views of stakeholders and national dispute settlement bodies should be duly taken into account in the preparation of the guidance . 
+ (53) T o foster the modernisation and agility of administrative procedures and reduce the cost of and time spent on the procedures for deploy ing very high capacity networks, the services of single information point s should be performed fully online. To th at end, single information point s should provide easy access to the necessary digital tools, such as web portals, digital platforms, and digital applications . The tools should give access in an efficient manner to the minimum information on existing physical infrastructure and planned civil works and the possibility to request information. Such digital tools should also give access to the electronic administrative procedures for granting permits and rights of way and related information on the applicable conditions and procedures. Where more than one single information point is set up in a Member State, all single information points should be easily and seamlessly accessible, by electronic means, via a single national digital entry point . This entry point should have a common user interface ensuring access to the online single information points. The single national digital entry point should facilitate interaction between operators and competent authorities performing the functions of the single information points. 
+ (54) Member States should be allowed to rely on, and where necessary improve , digital tools, such as web portals, digital platforms, and digital applications that might already be available at local, regional or national level to provide the functions of the single information point provided they comply with the obligations set out in this Regulation . This includ es access through a single national digital entry point and the availability of all the functionalities set out in this Regulation. T o comply with the ‘ once-only ’ data minimisation and accuracy principles, Member States should be allowed to integrate more digital platforms or applications supporting the single information points, as appropriate. For example, the digital platforms or applications supporting the single information points on existing physical infrastructure could be interconnected or fully or partially integrated with the ones for planned civil works and granting permits . 
+ (55) T o ensure the effectiveness of the single information points provided for under this Regulation, Member States should ensure adequate resources as well as readily available relevant information on a specific geographical area . The information should be presented with the right level of detail to maximise efficienc y in view of the tasks assigned, including at the local cadastre. In that regard, Member States could consider the possible synergies and economies of scale with the p oints of s ingle c ontact within the meaning of Article 6 of Directive 2006/123/EC of the European Parliament and of the Council 
+ 41 
+ and other planned or existing e-government solutions with a view to building on existing structures and maximising the benefits for users. Similarly , the Single Digital Gateway provided for in Regulation (EU) 2018/1724 of the European Parliament and of the Council 
+ 42 
+ should link to the single information points. 
+ (56) The costs for setting-up the single national digital entry point, the single information points and the digital tools needed to comply with the provisions of this Regulation could be fully or partly eligible for financial support under Union funds, such as the European Regional Development Fund - specific objective: a more competitive and smarter Europe by promoting innovative and smart economic transformation and regional ICT 
+ 43 
+ ; the Digital Europe Programme 
+ 44 
+ - specific objective: d eployment and b est u se of d igital c apacities and i nteroperability and the Recovery and Resilience Facility 
+ 45 
+ - pillars on digital transformation and on smart, sustainable and inclusive growth, including economic cohesion, jobs, productivity, competitiveness, research, development and innovation, and a well-functioning internal market with strong SMEs, provided they comply with the objectives and eligibility criteria therein. 
+ (57) In the event of a disagreement on technical and commercial terms and condition s during commercial negotiation s on access to physical infrastructure or coordination of civil works, each party should be able to call on a national dispute settlement body to impose a solution on the parties to avoid unjustified refusals to meet the request or the imposition of unreasonable conditions. When determining prices for granting access to or cost-sharing for coordinated civil works, the dispute settlement body should ensure that the access provider and network operators planning civil works have a fair opportunity to recover their costs incurred in providing access to their physical infrastructure or coordinating their planned civil works . This should tak e into account the appropriate Commission guidance , any specific national conditions , any tariff structures put in place and any previous imposition of remedies by a national regulatory authority. T he dispute settlement body should also take into account the impact of the requested access or coordination of planned civil works on the business plan of the access provider or network operators planning civil works, including the ir investments made or planned, in particular investments in the physical infrastructure to which the request refers. 
+ (58) T o avoid delays in network deployments, the national dispute settlement body should settle the dispute in a timely manner and, in any event, at the latest within 4 months from receipt of the request to settle the dispute in the case of disputes on access to existing physical infrastructure and 1 month when it concerns transparency on physical infrastructure , coordination of planned civil works and transparency on planned civil works . Exceptional circumstances justifying a delay in the settlement of a dispute could be beyond the control of the dispute settlement bodies, such as in sufficient information or documentation that is necessary to take a decision, including the views of other competent authorities that need to be consulted or the high complexity of the file. 
+ (59) Where disputes arise on access to the physical infrastructure , planned civil works or information thereof to deploy very high capacity networks, the dispute settlement body should have the power to resolve such disputes by means of a binding decision. In any case, decisions of such a body should be without prejudice to the possibility of any party to refer the case to a court or to conduct a prior or parallel conciliation mechanism to the formal dispute settlement, which could take the form of mediation or an additional round of exchanges. 
+ (60) In accordance with the principle of subsidiarity, this Regulation should be without prejudice to the possibility of Member States to allocate regulatory tasks to the authorities best suited to fulfil them in accordance with the national constitutional system of attribution of competences and powers and the requirements set out in this Regulation. T o reduce the administrative burden, Member States should be allowed to appoint an existing body or maintain the competent bodies already appointed pursuant to Directive (EU) 2014/61/EU. Information on the tasks allocated to the competent body or bodies should be published via a single information point and notified to the Commission, unless already done pursuant to Directive (EU) 2014/61/EU. The discretion that Member States retain to allocate the functions of the single information point to more than one competent body should not affect their ability to effectively fulfil th o se functions. 
+ (61) The designated national dispute settlement body and the competent body performing the functions of the single information point should ensure impartiality, independence and structural separation towards the parties involved, exercise their powers impartially, transparently and in a timely manner ; and have the appropriate competenc i es and resources. 
+ (62) Member States should provide for a ppropriate, effective, proportionate and dissuasive penalties in the event of non- compliance with this Regulation or with a binding decision adopted by the competent bodies, including cases where a network operator or public sector body knowingly or grossly and negligently provides misleading, erroneous or incomplete information via a single information point. 
+ (63) Since the objectives of this Regulation aim ing at facilitating the deployment of physical infrastructure s suitable for very high capacity networks across the Union cannot be sufficiently achieved by the Member States because of persistent divergent approaches as well as the slow and ineffective transposition of Directive 2014/61/EU but can rather, by reason of the scale of the network deployments and investment required , be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 TEU . In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve those objectives. 
+ (64) This Regulation respects fundamental rights and observes the principles recognised in the Charter of Fundamental Rights of the European Union , in particular this Regulation seeks to ensure full respect for the right to priva te life and the protection of business secrets, the freedom to conduct business, the right to property and the right to an effective remedy. This Regulation has to be applied in accordance with those rights and principles. 
+ (65) This Regulation includes provisions covering all the substance areas covered by Directive 2014/61/EU, which should therefore be repealed. 
+ (66) A period of six months between the entry into force and the application aims to give sufficient time to Member States to ensure their national legislation does not contain any obstacles to the uniform and effective application of this Regulation . The period of 6 months is without prejudice to the specific rules in this Regulation on the delayed application of specific provisions as specified therein. Member States are to withdraw national provisions overlapping with this Regulation or contradicting it by the time it starts to apply. As regards adopting new legislation during this period, it follows from Article 4(3) TEU that Member States have a duty of sincere cooperation not to take action that would conflict with prospective Union legal rules , 
+ HAVE ADOPTED THIS REGULATION: 
+ Article 1 
+ Subject matter and scope 
+ 1. This Regulation aims to facilitate and stimulate the roll-out of very high capacity networks by promoting the joint use of existing physical infrastructure and by enabling a more efficient deployment of new physical infrastructure so that such networks can be rolled out faster and at a lower cost. 
+ 2. If any provision of this Regulation conflicts with a provision of Directive (EU) 2018/1972 or Directive 2002/77/EC, the relevant provision of those Directives shall prevail. 
+ 3. Member States may maintain or introduce measures in conformity with Union law which contain more detailed provisions than those set out in this Regulation where they serve to promote the joint use of existing physical infrastructure or enable a more efficient deployment of new physical infrastructure. 
+ 4. By way of exception to paragraph 3, Member States shall not maintain or introduce in their national law provisions diverging from those laid down in Article 3(3) and (6), Article 4(4), Article 5(2) and (4), Article 6(2) and Article 8(7) and (8). 
+ Article 2 
+ Definitions 
+ For the purposes of this Regulation, the definitions in Directive (EU) 2018/1972 apply. 
+ The following definitions also apply: 
+ (1) ‘network operator’ means: 
+ (a) an operator as defined in Article 2, point (29), of Directive (EU) 2018/1972 ; 
+ (b) an undertaking providing a physical infrastructure intended to provide: 
+ (i) a service of production, transport or distribution of: 
+ - 
+ gas; 
+ - 
+ electricity, including public lighting; 
+ - 
+ heating; 
+ - 
+ water, including disposal or treatment of wastewater and sewage, and drainage systems; 
+ (ii) transport services, including railways, roads, ports and airports; 
+ (2) ‘physical infrastructure’ means : 
+ (a) any element of a network that is intended to host other elements of a network without becoming an active element of the network itself , such as pipes, masts, ducts, inspection chambers, manholes, cabinets, antenna installations, towers and poles, as well as buildings or entries to buildings, and any other asset including street furniture, such as light poles, street signs, traffic lights, billboards, bus and tramway stops and metro stations ; 
+ (b) where they are not part of a network and are owned or controlled by public sector bodies : buildings or entries to buildings, and any other asset including street furniture, such as light poles, street signs, traffic lights, billboards, bus and tramway stops and metro stations. 
+ Cables, including dark fibre, as well as elements of networks used for the provision of water intended for human consumption as defined in Article 2 , point 1 , of Council (EU) 2020/2184 of the European Parliament and of the Council 
+ 46 
+ are not physical infrastructure within the meaning of this Regulation; 
+ (3) ‘civil works’ means every outcome of building or civil engineering works taken as a whole that is sufficient in itself to fulfil an economic or technical function and entails one or more elements of a physical infrastructure; 
+ (4) ‘public sector body’ means a State, regional or local authority, a body governed by public law or an association formed by one or several such authorities or one or several such bodies governed by public law; 
+ (5) ‘bodies governed by public law’ means bodies that have all of the following characteristics: 
+ (a) they are established for the specific purpose of meeting needs in the general interest, not having an industrial or commercial character; 
+ (b) they have legal personality; 
+ (c) they are financed, in full or for the most part, by s tate, regional or local authorities or by other bodies governed by public law; or are subject to management supervision by those authorities or bodies; or have an administrative, managerial or supervisory board, more than half of whose members are appointed by s tate, regional or local authorities or by other bodies governed by public law; 
+ (6) ‘in-building physical infrastructure’ means physical infrastructure or installations at the end user’s location, including elements under joint ownership, intended to host wired and/or wireless access networks, where such access networks are capable of delivering electronic communications services and connecting the building access point with the network termination point; 
+ (7) ‘in-building fibre wiring’ means optical fibre cables at the end user’s location, including elements under joint ownership, intended to deliver electronic communications services and connecting the building access point with the network termination point; 
+ (8) ‘fibre-ready in-building physical infrastructure’ means in-building physical infrastructure intended to host optical fibre elements; 
+ (9) ‘major renovation works’ means building or civil engineering works at the end user’s location encompassing structural modifications of the entire in-building physical infrastructure or a significant part thereof and that require a building permit; 
+ (10) 
+ ‘permit’ means an explicit or implicit decision or set of decisions taken simultaneously or successively by one or several competent authorities that are needed for an undertaking to carry out building or civil engineering works necessary for the deployment of elements of very high capacity networks; 
+ (11) 
+ ‘access point’ means a physical point, located inside or outside the building, accessible to one or more undertakings providing or authorised to provide public electronic communications networks, where connection to the fibre-ready in-building physical infrastructure is made available. 
+ Article 3 
+ Access to existing physical infrastructure 
+ 1. Upon written request of an operator, public sector bodies owning or controlling physical infrastructure or network operators shall meet all reasonable requests for access to that physical infrastructure under fair and reasonable terms and conditions, including price, with a view to deploying elements of very high capacity networks or associated facilities. Public sector bodies owning or controlling physical infrastructure shall meet all reasonable requests for access also under non-discriminatory terms and conditions. Such written requests shall specify the elements of the physical infrastructure for which the access is requested, including a specific time frame. 
+ 2. When determining prices as part of fair and reasonable terms and conditions for granting access, network operators and public sector bodies owning or controlling physical infrastructure shall take into account the following: 
+ (a) t he need to ensure that the access provider has a fair opportunity to recover the costs it incurs in order to provide access to its physical infrastructure, taking into account specific national conditions and any tariff structures put in place to provide a fair opportunity for cost recovery; in the case of electronic communication s networks , any remedies imposed by a national regulatory authority shall also be taken into account . 
+ (b) t he impact of the requested access on the access provider ’s business plan, including investments in the physical infrastructure to which the access has been requested ; 
+ (c) i n the specific case of access to physical infrastructure of operators , the economic viability of those investments based on their risk profile, any time schedule for the return on investment, any impact of access on downstream competition and consequently on prices and return on investment, any depreciation of the network assets at the time of the access request, any business case underpinning the investment at the time it was made, in particular in the physical infrastructures used for the provision of connectivity, and any possibility previously offered to the access seeker to co-invest in the deployment of the physical infrastructure, notably pursuant to Article 76 of Directive (EU) 2018/1972 , or to co-deploy alongside it. 
+ 3. Network operators and public sector bodies owning or controlling physical infrastructure may refuse access to specific physical infrastructure based on one or more of the following conditions: 
+ (a) the re is a lack of technical suitability of the physical infrastructure to which access has been requested to host any of the elements of very high capacity networks referred to in paragraph 2; 
+ (b) the re is a lack of availability of space to host the elements of very high capacity networks or associated facilities referred to in paragraph 2, including after having taken into account the future need for space of the access provider that is sufficiently demonstrated ; 
+ (c) the existence of safety and public health concerns; 
+ (d) concerns for the integrity and security of any network, in particular critical national infrastructure; 
+ (e) the risk of serious interferences of the planned electronic communications services with the provision of other services over the same physical infrastructure; or 
+ (f) the availability of viable alternative means of wholesale physical access to electronic communications networks provided by the same network operator and suitable for the provision of very high capacity networks, provided that such access is offered under fair and reasonable terms and conditions. 
+ In the event of a refusal to provide access, the network operator or the public sector body owning or controlling physical infrastructure shall communicate to the access seeker, in writing, the specific and detailed reasons for such refusal within 1 month from the date of the receipt of the complete request for access. 
+ 4. Member States may establish a body to coordinate access requests to physical infrastructure owned or controlled by public sector bodies, provide legal and technical advice through the negotiation of access terms and conditions, and facilitate the provision of information via a single information point referred to in Article 10. 
+ 5. Physical infrastructure which is already subject to access obligations imposed by national regulatory authorities pursuant to Directive (EU) 2018/1972 or resulting from the application of Union State aid rules shall not be subject to the obligations set out in paragraphs 2, 3 and 4, for as long as such access obligations are in place. 
+ 6. Public sector bodies owning or controlling buildings or certain categories of buildings may not apply paragraphs 1, 2 and 3 to those buildings or categories of buildings for reasons of architectural, historical, religious, or natural value, or for reasons of public security, safety and health. Member States shall identify such buildings or categories of buildings in their territories based on duly justified and proportionate reasons. Information on such buildings or categories of buildings shall be published via a single information point and notified to the Commission. 
+ 7. Operators shall have the right to offer access to their physical infrastructure for the purpose of deploying networks other than electronic communications networks or associated facilities. 
+ 8. This Article shall be without prejudice to the right to property of the owner of the physical infrastructure where the network operator or the public sector body is not the owner and to the right to property of any other third party, such as landowners and private property owners. 
+ 9. After having consulted stakeholders, the national dispute settlement bodies and other competent Union bodies or agencies in the relevant sectors as appropriate, the Commission may, in close cooperation with BEREC, provide guidance on the application of this Article. 
+ Article 4 
+ Transparency on physical infrastructure 
+ 1. In order to request access to physical infrastructure in accordance with Article 3, any operator shall have the right to access, upon request, the following minimum information on existing physical infrastructure in electronic format via a single information point: 
+ (a) georeferenced location and route; 
+ (b) type and current use of the infrastructure; 
+ (c) a contact point. 
+ Such minimum information shall be accessible promptly, under proportionate, non-discriminatory and transparent terms and, in any event no later than 15 days after the request for information is submitted. 
+ Any operator requesting access to information pursuant to this Article shall specify the area in which it envisages deploying elements of very high capacity networks or associated facilities. 
+ Access to the minimum information may be limited only where necessary to ensure the security of certain buildings owned or controlled by public sector bodies, the security of the networks and their integrity, national security, public health or safety, or for reasons of confidentiality or operating and business secrets. 
+ 2. Network operators and public sector bodies shall make available the minimum information referred to in paragraph 1, via the single information point and in electronic format, by [DATE OF ENTRY INTO FORCE + 12 MONTHS]. Under the same conditions, network operators and public sector bodies shall make available promptly any update to that information and any new minimum information referred to in paragraph 1. 
+ 3. Network operators and public sector bodies shall meet reasonable requests for on-site surveys of specific elements of their physical infrastructure upon specific request of an operator. Such requests shall specify the elements of the physical infrastructure concerned with a view to deploying elements of very high capacity networks or associated facilities. On-site surveys of the specified elements of the physical infrastructure shall be granted under proportionate, non-discriminatory and transparent terms within 1 month from the date of receipt of the request, subject to the limitations set out in paragraph 1, fourth subparagraph. 
+ 4. Paragraphs 1, 2 and 3 need not apply to critical national infrastructure as defined under national law. 
+ Paragraphs 1, 2 and 3 shall not apply: 
+ (a) in the case of physical infrastructure that is not technically suitable for the deployment of very high capacity networks or associated facilities’; or 
+ (b) i n specific cases where the obligation to provide information about certain existing physical infrastructure pursuant to paragraph 1, first subparagraph, would be disproportionate , on the basis of a detailed cost-benefit analysis conducted by Member States and based on a consultation with stakeholders. 
+ Any such exceptions shall be published via a single information point and notified to the Commission. 
+ 5. Operators that obtain access to information pursuant to this Article shall take appropriate measures to ensure respect for confidentiality and operating and business secrets. 
+ Article 5 
+ Coordination of civil works 
+ 1. Any network operator shall have the right to negotiate agreements on the coordination of civil works, including on the apportioning of costs, with operators with a view to deploying elements of very high capacity networks or associated facilities. 
+ 2. Any network operator when performing or planning to perform directly or indirectly civil works, which are fully or partially financed by public means, shall meet any reasonable written request to coordinate those civil works under transparent and non-discriminatory terms made by operators with a view to deploying elements of very high capacity networks or associated facilities. 
+ Such requests shall be met provided that the following cumulative conditions are met: 
+ (a) this will not entail any unrecoverable additional costs, including those caused by additional delays, for the network operator that initially envisaged the civil works in question, without prejudice to the possibility of agreeing on apportioning the costs between the parties concerned; 
+ (b) the network operator initially envisaging the civil works remains in control over the coordination of the works; 
+ (c) the request to coordinate is filed as soon as possible and , when a permit is necessary, at least 2 months before the submission of the final project to the competent authorities for granting permit s . 
+ 3. A request to coordinate civil works made by an undertaking providing or authorised to provide public electronic communications networks to an undertaking providing or authorised to provide public electronic communications networks may be deemed unreasonable where both following conditions are met: 
+ (a) the request concerns an area which has been subject to either of the following: 
+ (i) a forecast of the reach of broadband networks, including very high capacity networks pursuant to Article 22(1) of Directive (EU) 2018/1972; 
+ (ii) an invitation to declare the intention to deploy very high capacity networks pursuant to Article 22(3) of Directive (EU) 2018/1972; 
+ (iii) a public consultation in applying Union S tate aid rules; 
+ (b) the requesting undertaking failed to express its intention to deploy very high capacity networks in the area referred to in point (a) in any of the most recent procedures among those listed in that point covering the period during which the request for coordination is made. 
+ If a request to coordinate is considered unreasonable on the basis of the first paragraph, the undertaking providing or authorised to provide public electronic communications networks refusing the coordination of civil works shall deploy physical infrastructure with sufficient capacity to accommodate possible future reasonable needs for third-party access. 
+ 4. Paragraphs 2 and 3 need not apply to civil works that are limited in scope, such as in terms of value, size or duration, or for critical national infrastructure. Member States shall identify the type of civil works considered to be limited in scope or related to critical national infrastructure based on duly justified and proportionate reasons. Information on such types of civil works shall be published via a single information point and notified to the Commission. 
+ 5. After having consulted stakeholders, the national dispute settlement bodies and other competent Union bodies or agencies in the relevant sectors as appropriate, the Commission may, in close cooperation with BEREC, provide guidance on the application of this Article. 
+ Article 6 
+ Transparency on planned civil works 
+ 1. In order to negotiate agreements on coordination of civil works referred to in Article 5, any network operator shall make available in electronic format via a single information point the following minimum information: 
+ (a) the georeferenced location and the type of works; 
+ (b) the network elements involved; 
+ (c) the estimated date for starting the works and their duration; 
+ (d) the estimated date for submi tting the final project to the competent authorities for granting permits , where applicable; 
+ (e) a contact point. 
+ The network operator shall make available the information referred to in the first subparagraph for planned civil works related to its physical infrastructure. This must be done as soon as the information is available to the network operator and, in any event and where a permit is envisaged, not later than 3 months prior to the first submission of the request for a permit to the competent authorities. 
+ Operators shall have the right to access the minimum information referred to in the first subparagraph in electronic format, upon request, via the single information point. The request for access to information shall specify the area in which the requesting operator envisages deploying elements of very high capacity networks or associated facilities. Within 1 week from the date of the receipt of the request for information, the requested information shall be made available under proportionate, non-discriminatory and transparent terms. Access to the minimum information may be limited only to the extent necessary to ensure the security of the networks and their integrity, national security, public health or safety, confidentiality or operating and business secrets. 
+ 2. Paragraph 1 need not apply to information on civil works limited in scope, such as in terms of value, size or duration, in the case of critical national infrastructure, or for reasons of national security or emergency. Member States shall identify, based on duly justified and proportionate reasons, the civil works that would be considered limited in scope or concern critical national infrastructure, as well as the emergencies or the reasons of national security that would justify not being subject to the obligation to provide information. Information on such civil works excluded from transparency obligations shall be published via a single information point and notified to the Commission. 
+ Article 7 
+ Procedure for granting permits, including rights of way 
+ 1. Competent authorities shall not unduly restrict, hinder or make economically less attractive the deployment of any element of very high capacity networks or associated facilities. Member States shall ensure that any rules governing the conditions and procedures applicable for granting permits, including rights of way, required for the deployment of elements of very high capacity networks or associated facilities are consistent across the national territory. 
+ 2. Competent authorities shall make available all information on the conditions and procedures applicable for granting permits, including rights of way, including any information on exemptions on some or all permits or rights of way required under national or Union law, via a single information point in electronic format. 
+ 3. Any operator shall have the right to submit, via a single information point in electronic format, applications for permits or rights of way and to retrieve information about the status of its application. 
+ 4. The competent authorities shall, within 15 working days from its receipt, reject applications for permits, including for rights of way, for which the minimum information has not been made available via a single information point, pursuant to Article 6(1) first subparagraph, by the same operator which applies for that permit. 
+ 5. The competent authorities shall grant or refuse permits, other than rights of way, within 4 months from the date of the receipt of a complete permit application. 
+ The completeness of the application for permits or rights of way shall be determined by the competent authorities within 15 days from the receipt of the application. Unless the competent authorities invited the applicant to provide any missing information within that period, the application shall be deemed complete. 
+ The first and second subparagraph shall be without prejudice to other specific deadlines or obligations laid down for the proper conduct of the procedure that are applicable to the permit-granting procedure, including appeal proceedings, in accordance with Union law or national law in compliance with Union law. 
+ By way of exception and based on a justified reason set out by a Member State, the 4 month deadline referred to in the first subparagraph and in paragraph 6 may be extended by the competent authority on its own motion. Any extension shall be the shortest possible. Member States shall set out the reasons justifying such an extension, publish them in advance via single information points and notify them to the Commission. 
+ Any refusal of a permit or right of way shall be duly justified on the basis of objective, transparent, non-discriminatory and proportionate criteria. 
+ 6. By way of derogation from Article 43(1), point (a) of Directive (EU) 2018/1972, where rights of way over or under public or private property are required for the deployment of elements of very high capacity networks or associated facilities in addition to permits, competent authorities shall grant such rights of way within the 4 month period from the date of receipt of the application. 
+ 7. In the absence of a response from the competent authority within the 4-month deadline referred to in paragraphs 5 first subparagraph, and unless such deadline is extended pursuant to paragraph 5 fourth subparagraph, the permit shall be deemed to have been granted. This shall also apply in the case of rights of way referred to in paragraph 6. 
+ 8. The Commission shall, by means of an implementing act, specify categories of deployment of elements of very high capacity networks or associated facilities that shall not be subject to any permit-granting procedure within the meaning of this Article. This implementing act shall be adopted in accordance with the examination procedure referred to in Article 13. 
+ 9. Competent authorities shall not subject the deployment of elements referred to in paragraph 8 to any individual town planning permit or other individual prior permits. By way of derogation, competent authorities may require permits for the deployment of elements of very high capacity networks or associated facilities on buildings or sites of architectural, historical, religious or natural value protected in accordance with national law or where necessary for public safety reasons. 
+ 10. Permits, other than rights of way, required for the deployment of elements of very high capacity networks or associated facilities shall not be subject to any fees or charges going beyond administrative costs as provided for, mutatis mutandis , in Article 16 of Directive (EU) 2018/1972. 
+ 11. Any operator that has suffered damage as a result of non-compliance with the deadlines applicable under paragraphs 5 and 6 shall receive compensation for the damage suffered, in accordance with national law. 
+ Article 8 
+ In-building physical infrastructure and fibre wiring 
+ 1. All buildings at the end user’s location, including elements under joint ownership, newly constructed or undergoing major renovation works, for which applications for building permits have been submitted after [ENTRY INTO FORCE + 12 MONTHS], shall be equipped with a fibre-ready in-building physical infrastructure up to the network termination points as well as with in-building fibre wiring. 
+ 2. All multi-dwelling buildings newly constructed or undergoing major renovation works, for which applications for building permits have been submitted after [ENTRY INTO FORCE + 12 MONTHS], shall be equipped with an access point. 
+ 3. By [ENTRY INTO FORCE + 12 MONTHS], all buildings at the end-users’ location, including elements thereof under joint ownership, undergoing major renovations as defined in point 10 of Article 2 of Directive 2010/31/EU shall be equipped with a fibre-ready in-building physical infrastructure, up to the network termination points, as well as with in-building fibre wiring. All multi-dwelling buildings undergoing major renovations as defined in point 10 of Article 2 of Directive 2010/31/EU shall also be equipped with an access point. 
+ 4. Member States shall adopt the relevant standards or technical specifications that are necessary for the implementation of paragraphs 1, 2 and 3 before [ENTRY INTO FORCE + 9 months]. Those standards or technical specifications shall set at least: 
+ (a) the building access point specifications and fibre interface specifications; 
+ (b) cable specifications; 
+ (c) socket specifications; 
+ (d) specifications of pipes or micro-ducts; 
+ (e) technical specifications needed to prevent interference with electrical cabling ; 
+ (f) the minimum bend radius. 
+ 5. Buildings equipped in accordance with this Article shall be eligible to receive a ‘fibre-ready’ label. 
+ 6. Member States shall set up certification schemes for the purpose of demonstrating compliance with the standards or technical specifications referred to in paragraph 4 as well as for qualifying for the ‘fibre-ready’ label provided for in paragraph 5 before [ENTRY INTO FORCE + 12 months]. Member States shall make the issuance of the building permits referred to in paragraphs 1 and 2 conditional upon compliance with the standards or technical specifications referred to in this paragraph on the basis of a certified test report. 
+ 7. Paragraphs 1, 2 and 3 shall not apply to certain categories of buildings, in particular single-dwelling buildings, where compliance with those paragraphs is disproportionate, in particular in terms of costs for individual or joint owners based on objective elements. 
+ 8. Paragraphs 1, 2 and 3 need not apply to certain types of buildings, such as specific categories of monuments, historic buildings, military buildings and buildings used for national security purposes, as defined by national law. Member States shall identify such categories of buildings based on duly justified and proportionate reasons. Information on such categories of buildings shall be published via a single information point and notified to the Commission. 
+ Article 9 
+ Access to in-building physical infrastructure 
+ 1. Subject to paragraph 3, first subparagraph, any public electronic communications network provider shall have the right to roll out its network at its own costs up to the access point. 
+ 2. Subject to paragraph 3, any public electronic communications network provider shall have the right to access any existing in-building physical infrastructure with a view to deploying elements of very high capacity networks if duplication is technically impossible or economically inefficient. 
+ 3. Any holder of a right to use the access point and the in-building physical infrastructure shall meet all reasonable requests for access to the access point and the in-building physical infrastructure from public electronic communications network providers under fair and non-discriminatory terms and conditions, including price, where appropriate. 
+ Any holder of a right to use the access point or the in-building physical infrastructure may refuse access where access to in-building fibre wiring is provided pursuant to obligations imposed under Directive (EU) 2018/1972, under Title II, Chapters II to IV, or made available under fair, reasonable and non-discriminatory terms and conditions, including price. 
+ 4. In the absence of available fibre-ready in-building physical infrastructure, every public electronic communications network provider shall have the right to terminate its network at the premises of the subscriber, subject to the agreement of the subscriber, provided that it minimises the impact on the private property of third parties. 
+ 5. This Article shall be without prejudice to the right to property of the owner of the access point or the in-building physical infrastructure where the holder of a right to use that infrastructure or access point is not the owner thereof, and to the right to property of other third parties, such as landowners and building owners. 
+ 6. After having consulted stakeholders, the national dispute settlement bodies and other competent Union bodies or agencies in the relevant sectors as appropriate, the Commission may, in close cooperation with BEREC, provide guidance on the application of this Article. 
+ Article 10 
+ Digitalisation of single information points 
+ 1. Single information points shall make appropriate digital tools available, such as in the form of web portals, digital platforms or digital applications, to enable the online exercise of all the rights and the compliance with all the obligations set out in this Regulation. 
+ 2. Member States may interconnect or fully or partially integrate several digital tools supporting the single information points referred to paragraph 1, as appropriate. 
+ 3. Member States shall set out a single national digital entry point, consisting of a common user interface ensuring seamless access to the digitalised single information points. 
+ Article 11 
+ Dispute settlement 
+ 1. Without prejudice to the possibility to refer the case to a court, any party shall be entitled to refer to the competent national dispute settlement body established pursuant to Article 12 a dispute that may arise: 
+ (a) where access to existing infrastructure is refused or agreement on specific terms and conditions, including price, has not been reached within 1 month from the date of receipt of the request for access under Article 3; 
+ (b) in connection to the rights and obligations set out in Articles 4 and 6, including where the information requested is not provided within 15 days after the request under Article 4 is submitted, and within 1 week after the request under Article 6 is submitted; 
+ (c) where an agreement on the coordination of civil works pursuant to Article 5 ( 2 ) has not been reached within 1 month from the date of receipt of the formal request to coordinate civil works ; or 
+ (d) where an agreement on access to in-building physical infrastructure referred to in Article 9 ( 2 ) or ( 3 ) has not been reached within 1 month from the date of receipt of the formal request for access ; 
+ 2. Taking full account of the principle of proportionality and the principles established in Commission guidance, the national dispute settlement body referred to in paragraph 1 shall issue a binding decision to resolve the dispute at the latest: 
+ (a) within four months from the date of the receipt of the dispute settlement request , with respect to disputes referred to in paragraph 1, point (a); 
+ (b) within one month from the date of the receipt of the dispute settlement request, with respect to disputes referred to in paragraph 1, points (b), (c) and (d). 
+ Those deadlines may only be extended in exceptional circumstances. 
+ 3. As regards disputes referred to in paragraph 1, points (a), (c) and (d) the decision of national dispute settlement body may consist in setting fair and reasonable terms and conditions, including price, where appropriate. 
+ Where the dispute relates to access to the infrastructure of an operator and the national dispute settlement body is the national regulatory authority, the objectives set out in Article 3 of Directive (EU) 2018/1972 shall be taken into account, where appropriate. 
+ 4. The rules laid down in the present A rticle are in addition to and without prejudice to the judicial remedies and procedures in compliance with Art icle 47 of the Charter of F undamental R ights of the European Union 
+ 47 
+ . 
+ Article 12 
+ Competent bodies 
+ 1. Each of the tasks assigned to the national dispute settlement body shall be undertaken by one or more competent bodies, which can be an existing body. 
+ 2. The national dispute settlement body shall be legally distinct and functionally independent of any network operator and any public sector body owning or controlling physical infrastructure involved in the dispute. Member States that retain ownership or control of network operators shall ensure effective structural separation of the functions related to the national dispute settlement procedures and those of the single information point from activities associated with ownership or control. 
+ 3. The national dispute settlement body may charge fees to cover the costs of carrying out the tasks assigned to it. 
+ 4. All parties concerned by a dispute shall cooperate fully with the national dispute settlement body. 
+ 5. The functions of a single information point referred to in Articles 3 to 8 and 10 shall be performed by one or more competent bodies appointed by the Member States at national, regional or local level, as appropriate. In order to cover the costs of carrying out those functions, fees may be charged for the use of the single information points. 
+ 6. Paragraph 2 shall apply mutatis mutandis to the competent bodies performing the functions of a single information point. 
+ 7. The competent bodies shall exercise their powers impartially, transparently and in a timely manner. Member States shall ensure that they shall have adequate technical, financial and human resources to carry out the tasks assigned to them. 
+ 8. Member States shall publish the respective tasks to be undertaken by each competent body via a single information point, in particular where those tasks are assigned to more than one competent body or where the assigned tasks have changed. Where appropriate, the competent bodies shall consult and cooperate with each other on matters of common interest. 
+ 9. Member States shall notify to the Commission the identity of each competent body in accordance with this Article for carrying out a function under this Regulation, and their respective responsibilities, by [DATE OF ENTRY INTO FORCE] and any modification thereof, before such designation or modification enters into force. 
+ 10. Any decision taken by a competent body shall be subject to an appeal, in accordance with national law, before a fully independent appeal body, including a body of judicial character. Article 31 of Directive (EU) 2018/1972 shall apply mutatis mutandis to any appeal pursuant to this paragraph. 
+ The right to appeal in accordance with the first subparagraph shall be without prejudice to the right of the parties to bring the dispute before the national competent court. 
+ Article 13 
+ Committee procedure 
+ 1. The Commission shall be assisted by the Communications Committee established by Article 118(1) of Directive (EU) 2018/1972. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011. 
+ 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. 
+ Article 14 
+ Penalties and compensation 
+ Member States shall lay down rules on penalties, including, where necessary, fines and non-criminal predetermined or periodic penalties, applicable to infringements of this Regulation and of any binding decision adopted pursuant to this Regulation by the competent bodies referred to in Article 12 and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be appropriate, effective, proportionate and dissuasive. 
+ Member States shall lay down rules on adequate financial compensation for persons suffering damage as a result of the exercise of the rights provided for in this Regulation. 
+ Article 15 
+ Report and monitoring 
+ 1. By [DATE OF ENTRY INTO FORCE + 5 YEARS], the Commission shall present a report to the European Parliament and the Council on the implementation of this Regulation. The report shall include a summary of the impact of the measures set out in this Regulation and an assessment of the progress towards achieving its objectives, including whether and how the Regulation could further contribute to achieving the connectivity targets set out in the Decision establishing the Digital Decade Policy Programme 2030. 
+ 2. To that end, the Commission may request information from Member States that shall be submitted without undue delay. In particular, by [DATE OF ENTRY INTO FORCE + 12 MONTHS], Member States shall, in close cooperation with the Commission, through the Communications Committee set up under Article 118 of Directive (EU) 2018/1972, set out indicators to adequately monitor the application of this Regulation and the mechanism to ensure a periodic data gathering and reporting to the Commission thereof. 
+ Article 16 
+ Transitional measures 
+ National measures that specify the categories of deployment of elements of very high capacity networks or associated facilities not being subject to any permit-granting procedure within the meaning of Article 7, and that were adopted by the Member States pursuant to Directive 2014/61/EU or before its entry into force but in line with it shall continue to apply until the implementing act provided for in Article 7(8) of this Regulation enters into application. 
+ Article 17 
+ Repeal 
+ 1. Directive 2014/61/EU is repealed. 
+ 2. References to the repealed Directive shall be construed as references to this Regulation and read in accordance with the correlation table in the Annex. 
+ Article 18 
+ Entry into force and application 
+ 1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . 
+ 2. It shall apply from [6 months after its entry into force]. 
+ This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+ Done at Brussels, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The Presiden t 
+ (1) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions: Shaping Europe’s digital future ( 
+ COM/2020/67 final 
+ ) . 
+ (2) 
+ Directive 2014/61/EU of the European Parliament and of the Council of 15 May 2014 on measures to reduce the cost of deploying high-speed electronic communications networks ( OJ L 155, 23.5.2014, p. 1 ) . 
+ (3) 
+ Networks capable of delivering broadband access services of at least 30 Mbps. 
+ (4) 
+ Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December 2018 establishing the European Electronic Communications Code ( OJ L 321 , 17.12.2018, p. 36) . 
+ (5) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2030 Digital Compass: the European way for the Digital Decade ( COM/2021/118 ) . 
+ (6) 
+ Decision (EU) 2022/2481 of the European Parliament and of the Council of 14 December 2022 establishing the Digital Decade Policy Programme 2030 ( OJ L 323, 19.12.2022, p. 4 ) . 
+ (7) 
+ https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12463-High-speed-broadband-in-the-EU-review-of-rules_en 
+ (8) 
+ The market offer has responded to increasing demand for quality and fast internet by bringing optical fibre closer and closer to the user, and current and even future ‘very high capacity networks’ require performance parameters that are equivalent to those that a network based on optical fibre elements at least up to the distribution point at the serving location can deliver. 
+ (9) 
+ In addition to the Code, the following complement the framework: the Commission Recommendation (EU) 2020/2245 of 18 December 2020 on relevant product and service markets within the electronic communications sector susceptible to ex ante regulation in accordance with Directive (EU) 2018/1972 of the European Parliament and of the Council establishing the European Electronic Communications Code (OJ L 439, 29.12.2020, p. 23), the Commission Recommendation of 20 September 2010 on regulated access to Next Generation Access Networks (NGA) (2010/572/EU) (OJ L 251, 25.9.2010, p. 35) and the Commission Recommendation of 11 September 2013 on consistent non-discrimination obligations and costing methodologies to promote competition and enhance the broadband investment environment (2013/466/EU) (OJ L 251, 21.9.2013 p. 13) complement the regulatory framework . T he last two are being currently reviewed. 
+ (10) 
+ The 
+ Common Union Toolbox for Connectivity 
+ under Commission Recommendation (EU) 2020/1307 on a common Union toolbox for reducing the cost of deploying very high capacity networks and ensuring timely and investment-friendly access to 5G radio spectrum to foster connectivity in support of economic recovery from the COVID-19 crisis in the Union ( OJ L 305, 21.9.2020, p. 33 ) . 
+ (11) 
+ Proposal 
+ for a Regulation of the European Parliament and of the Council establishing the Union Secure Connectivity Programme for the period 2023-2027 ( COM(2022) 57 final) ; 2022/0039 COD, for which a political agreement was reached on 17 November 2022. 
+ (12) 
+ https://hadea.ec.europa.eu/programmes/connecting-europe-facility_en 
+ (13) 
+ https://ec.europa.eu/info/business-economy-euro/recovery-coronavirus/recovery-and-resilience-facility_en#example-of-component-of-reforms-and-investments 
+ (14) 
+ Report on i mplementation of b roadband State a id , 
+ https://op.europa.eu/en/publication-detail/-/publication/d6b8368d-f3dd-11ea-991b-01aa75ed71a1/language-en 
+ . 
+ (15) 
+ Communication from the Commission, Union Guidelines for the application of State aid rules in relation to the rapid deployment of broadband networks of 12 December 2022 ( C(2022) 9343 ) . 
+ (16) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions – The European Green Deal ( 
+ COM(2019) 640 final 
+ ). 
+ (17) 
+ Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 (‘European Climate Law’) (OJ L 243, 9.7.2021, p. 1). 
+ (18) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - A Renovation Wave for Europe - greening our buildings, creating jobs, improving lives ( 
+ COM/2020/662 final 
+ ). 
+ (19) 
+ Article 4(2)(a) of the Digital Decade Policy Programme : ‘all end users at a fixed location are covered by a gigabit network up to the network termination point, and all populated areas are covered by next-generation wireless high-speed networks with performance at least equivalent to that of 5G, in accordance with the principle of technological neutrality’. 
+ (20) 
+ The importance of physical infrastructure (often referred to as civil engineering) for network deployment also emerges in the European Electronic Communications Code, where Article 73 provides that imposi ng obligations of access to civil engineering under Article 72 (access to civil engineering) alone might be considered by the national regulatory authority as a proportionate means to promote competition and the end user’ s interest. 
+ (21) 
+ For example, the evaluation report (Evaluation SWD) shows the biggest progress relates to access to existing physical infrastructure and the related transparency measures . Some Member States also went beyond the provisions of the directive and extended the minimum information on existing physical infrastructure. 
+ (22) 
+ BEREC (Body of European Regulators for Electronic Communications) is composed of the Heads or nominated high-level representatives of the National Regulatory Authorities of the EU Member States. BEREC was established by Regulation (EU) 2018/1971 of the European Parliament and of the Council. 
+ (23) 
+ Study in support for the evaluation of current measures at European and national level to reduce the cost of deployment of electronic communications networks and for the preparation of an impact assessment to accompany an EU initiative to review Directive 2014/61/EU . 
+ (24) 
+ Common Union Toolbox for Connectivity 
+ (25) 
+ Such as the 
+ Study on implementation and monitoring of measures under the BCRD (SMART 2015/0066) 
+ ; 
+ White paper on EU broadband Plan challenges and opportunities, Analysis Mason 2019 
+ . 
+ (26) 
+ Such as the 
+ 2020 Summary Report of Best Practices - Outcome of phase 1 of the work of the Special Group for developing a common Union Toolbox for connectivity 
+ ; 
+ 2018 European Commission report on the implementation of the Broadband Cost Reduction Directive 
+ ; 
+ BEREC report on the Implementation of the Broadband Cost Reduction Directive 
+ ; 
+ BEREC report on pricing for access to infrastructure and civil works according to the BCRD 
+ . 
+ (27) 
+ The impact assessment and the Regulatory Scrutiny Board opinion are published in the 
+ EUR-Lex website 
+ . 
+ (28) 
+ Annex 1 of the support study prepared by ICF SA, Wavestone SA and CEPS with support from WIK Consult GMBH and EcoAct (see footnote 2 2 ), in particular sections 1.3, 2.3 and 4.3 
+ (29) 
+ OJ C,, p. 
+ (30) 
+ OJ C,, p. 
+ (31) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, 19 .05.2010, COM (2010)245. 
+ (32) 
+ Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December 2018 establishing the European Electronic Communications Code (OJ L 321, 17.12.2018, p. 36). 
+ (33) 
+ Decision (EU) 2022/2481 of the European Parliament and of the Council o f 14 December 2022 establishing the Digit al Decade Policy Programme 2030 ( OJ L 323, 19.12.2022, p. 4 ). 
+ (34) 
+ Directive 2014/61/EU of the European Parliament and of the Council of 15 May 2014 on measures to reduce the cost of deploying high-speed electronic communications networks (OJ L 155, 23.5.2014, p. 1). 
+ (35) 
+ Commission Recommendation (EU) 2020/1307 of 18 September 2020 on a common Union toolbox for reducing the cost of deploying very high capacity networks and ensuring timely and investment-friendly access to 5G radio spectrum, to foster connectivity in support of economic recovery from the COVID-19 crisis in the Union ( OJ L 305, 21.9.2020, p. 33 ). 
+ (36) 
+ Commission Directive 2002/77/EC of 16 September 2002 on competition in the markets for electronic communications networks and services ( 
+ OJ L 249, 17.9.2002, p. 21 
+ ). 
+ (37) 
+ Commission Recommendation (EU) 2020/2245 of 18 December 2020 on relevant product and service markets within the electronic communications sector susceptible to ex ante regulation in accordance with Directive (EU) 2018/1972 of the European Parliament and of the Council establishing the European Electronic Communications Code , 18.12.2020, C(2020) 8750 , OJ L 439, 29.12.2020, p. 23 . 
+ (38) 
+ Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) ( OJ L 108, 25.4.2007, p. 1 ). 
+ (39) 
+ Regulation (EU) No 182 /2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011 , p. 13). 
+ (40) 
+ Directive 2010/31/EU of the European Parliament and of the Council of 19 May 2010 on the energy performance of buildings (OJ L 153, 18.6.2010, p. 13). 
+ (41) 
+ Directive 2006/123/EC of the European Parliament and of the Council of 12 December 2006 on services in the internal market ( 
+ OJ L 376, 27.12.2006, p. 36 
+ ). 
+ (42) 
+ Regulation (EU) 2018/1724 of the European Parliament and of the Council of 2 October 2018 establishing a single digital gateway to provide access to information, to procedures and to assistance and problem-solving services and amending Regulation (EU) No 1024/2012 ( 
+ OJ L 295, 21.11.2018, p. 1 
+ ). 
+ (43) 
+ Article 3(1)(a) of Regulation (EU) 2021/1058 of the European Parliament and of the Council of 24 June 2021 on the European Regional Development Fund and on the Cohesion Fund ( OJ L 231, 30.6.2021, p. 60 ) 
+ (44) 
+ Article 8 of Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme and repealing Decision (EU) 2015/2240 (OJ L 166, 11.5.2021, p. 1) 
+ (45) 
+ Article 3 of Regulation (EU) 2021/241 of the European Parliament and of the Council of 12 February 2021 establishing the Recovery and Resilience Facility (OJ L 57, 18.2.2021, p. 17) 
+ (46) 
+ Directive (EU) 2020/2184 of the European Parliament and of the Council of 16 December 2020 on the quality of water intended for human consumption ( OJ L 435, 23.12.2020, p. 1 ). 
+ (47) 
+ Charter of Fundamental Rights of the European Union ( OJ C 326, 26.10.2012, p. 391–407 )
+
+EUROPEAN COMMISSION
+ Brussels, 23.2.2023
+ COM(2023) 94 final
+ ANNEX
+ to the Proposal for a
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ on measures to reduce the cost of deploying gigabit electronic communications networks and repealing Directive 2014/61/EU (Gigabit Infrastructure Act)
+ {SEC(2023) 96 final} - {SWD(2023) 46 final} - {SWD(2023) 47 final}
+ ANNEX 
+ Correlation table 
+ Directive 2014/61/EU 
+ This Regulation 
+ Article 1(1) 
+ Article 1(1) 
+ Article 1(2) 
+ — 
+ Article 1(3) 
+ Article 1(3) 
+ Article 1(4) 
+ Article 1(2) 
+ Article 2 
+ Article 2 
+ Article 3(1) 
+ Article 3(7) 
+ Article 3(2) 
+ Article 3(1) 
+ — 
+ Article 3(2) 
+ Article 3(3) 
+ Article 3(3) 
+ — 
+ Article 3(4) 
+ — 
+ Article 3(5) 
+ — 
+ Article 3(6) 
+ Article 3(4) 
+ Article 11(1)(a) 
+ Article 3(5) 
+ Article 11(2) 
+ Article 11(3) 
+ Article 3(6) 
+ Article 3(8) 
+ — 
+ Article 3(9) 
+ — 
+ Article 11(4) 
+ Article 4(1) 
+ Article 4(1) 
+ Article 4(2) 
+ — 
+ Article 4(3) 
+ Article 4(1) 
+ Article 4(2) 
+ Article 4(4) 
+ — 
+ Article 4(5) 
+ Article 4(3) 
+ Article 4(6) 
+ Article 11(1)(b) 
+ Article 11(2)(b) 
+ Article 4(7) 
+ Article 4(4) 
+ Article 4(8) 
+ Article 4(5) 
+ Article 5(1) 
+ Article 5(1) 
+ Article 5(2) 
+ Article 5(2) 
+ — 
+ Article 5(3) 
+ Article 5(3) 
+ Article 11(1)(c) 
+ Article 5(4) 
+ Article 11(2)(b) 
+ Article 11(3) 
+ Article 5(5) 
+ Article 5(4) 
+ — 
+ Article 5(5) 
+ Article 6(1) 
+ Article 6(1) 
+ Article 6(2) 
+ — 
+ Article 6(3) 
+ Article 6(1) 
+ Article 6(4) 
+ Article 11(1)(b), Article 11(2)(b) 
+ Article 6(5) 
+ Article 6(2) 
+ — 
+ Article 7(1) 
+ Article 7(1) 
+ Article 7(2) 
+ Article 7(2) 
+ Article 7(3) 
+ — 
+ Article 7(4) 
+ Article 7(3) 
+ Article 7(5) 
+ - 
+ Article 7(6) 
+ Article 7(7) 
+ Article 7(8) 
+ Article 7(9) 
+ Article 7(4) 
+ Article 7(11) 
+ Article 8(1) 
+ Article 8(1) 
+ Article 8(2) 
+ Article 8(2) 
+ Article 8(3) 
+ Article 8(5) 
+ Article 8(4) 
+ Article 8(7) 
+ Article 8(8) 
+ Article 9(1) 
+ Article 9(1) 
+ Article 9(2) 
+ Article 9(2) 
+ Article 9(3) 
+ Article 9(3) 
+ Article 11(1)(d) 
+ Article 11(2) 
+ Article 9(4) 
+ Article 9(3) 
+ Article 9(5) 
+ Article 9(4) 
+ Article 9(6) 
+ Article 9(5) 
+ — 
+ Article 9(6) 
+ Article 10(1) 
+ Article 12(1) 
+ Article 10(2) 
+ Article 12(2) and Article 12(3) 
+ Article 10(3) 
+ Article 12(4) 
+ Article 10(4) 
+ Article 12(5) 
+ — 
+ Article 12(6) 
+ — 
+ Article 12(7) 
+ Article 10(5) 
+ Article 12(8) 
+ Article 10(6) 
+ Article 12(9) 
+ — 
+ Article 13 
+ Article 11 
+ Article 14 
+ Article 12 
+ Article 15 
+ - 
+ Article 16 
+ - 
+ Article 17 
+ Article 13 
+ — 
+ Article 14 
+ Article 18 
+ Article 15 
+ Article 18

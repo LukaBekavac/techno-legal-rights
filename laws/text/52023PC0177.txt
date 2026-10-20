@@ -1,0 +1,1479 @@
+### Company Law Directive | CELEX 52023PC0177 | text version 52023PC0177 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 29.3.2023
+ COM(2023) 177 final
+ 2023/0089(COD)
+ Proposal for a
+ DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ amending Directives 2009/102/EC and (EU) 2017/1132 as regards further expanding and upgrading the use of digital tools and processes in company law
+ (Text with EEA relevance)
+ {SEC(2023) 377 final} - {SWD(2023) 177 final} - {SWD(2023) 178 final} - {SWD(2023) 179 final}
+ EXPLANATORY MEMORANDUM 
+ CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ Companies are at the heart of the single market. Thanks to their business activities and investments, including on a cross-border basis, they play a leading role in contributing to the EU’s economic prosperity, competitiveness and in carrying through the EU’s twin transition to a sustainable and digital economy. To this end, companies need a predictable legal framework that is conducive to growth and adapted to face the new economic and social challenges in an increasingly digital world. While companies are established under national law, EU company law lays down a legal framework that enhances legal certainty across the single market and predictability for them. This company law framework, which encompasses the roles and responsibilities of the business registers, needs to keep abreast with new developments and challenges. It is with this objective that the Commission is putting forward this proposal. 
+ In line with the EU digitalisation objectives set out , in particular, in the Commission Communication 2030 Digital Compass : the European way for the Digital Decade 
+ 1 
+ , t his proposal aims to address the developments in digitalisation and technology that have substantially changed how business registers operate, and how business registers, companies and public authorities interact with one another on company law-related issues . The COVID-19 pandemic clearly demonstrated the key role of digital tools in ensuring the continuity of companies’ interactions with business registers and authorities . This proposal also aims to introduce company law measures to address obstacles to cross-border expansion that small and medium-sized enterprises (SMEs) currently face in the single market, in line with the Commission Communications Updating the 2020 New Industrial Strategy 
+ 2 
+ and SME Strategy for a sustainable and digital Europe 
+ 3 
+ . 
+ This proposal will contribute to the creation of a more integrated and digitalised single market and result in an administrative burden reduction for companies estimated at around EUR 437 million per year . It will also limit new burdens to the extent possible by building on national business registers and their interconnection through the Business Registers Interconnection System ( BRIS ) 
+ 4 
+ , while taking into account different national systems and legal traditions. 
+ In particular, the proposal endeavours to enhance transparency on companies in the single market through the use of digital tools such as BRIS, improve the reliability of company data and create trust between Member States’ registers and authorities, including by creating more connected public authorities. It also aims to abolish and reduce formalities in relation to the use of company information in cross-border situations and make the setting up of subsidiaries and branches in other Member States less time-consuming and more cost-effective, including by using the ‘once-only principle’ (whereby companies would not be asked to submit the same information to the business registers more than once). In this way, it strives to reduce the overall administrative burden for companies and other stakeholders in cross-border situations and make it easier for SMEs to expand across the EU. 
+ To strengthen the smoother operation of the internal market, it is essential to ensure that access to and use of company data cross-border can be done easily and without administrative burden, thus underpinning economic activity and creating a safer and more favourable economic environment for companies, consumers and other stakeholders (investors, creditors, employees). Such conditions in turn are essential to ease the operations of companies, in particular SMEs, and help them find ways to explore and expand to other EU markets, and therefore contribute to economic growth. 
+ Although in an increasingly digitalised world there are stronger calls for transparency from investors, creditors, consumers and companies themselves, access to company information from business registers in cross-border situations is still hindered by barriers. Company information needed by stakeholders is not yet sufficiently available in national business registers and/or cross-border through BRIS, and stakeholders encounter difficulties when looking for it. EU company law already provides for harmonised disclosure requirements about limited liability companies, but some important data (e.g. about companies’ central administration and the principal place of business or company groups) is still not available at EU level and only rarely, in Member States’ registers. There is also no information at EU level about other entities, such as partnerships, which play an important role in the economies of many Member States. 
+ The calls for transparency also mean that company information should be reliable. Stakeholders, authorities and the public need to be able to trust that the information about companies is accurate, up to date and reliable so they can use it for business purposes, in administrative procedures or court proceedings. EU company law includes only partial minimum standards for ex-ante checks. While all Member States carry out to a certain extent ex-ante scrutiny of company documents and information, national procedures differ. This often leads to insufficient trust in the registered company information from other Member States. 
+ The direct use of company information is also often hindered or not possible in cross-border situations due to frequent administrative barriers. These create burdens for companies and may even have a deterrent effect, in particular for SMEs. For instance, when setting up a subsidiary or a branch in another Member State, companies cannot yet rely on the once-only principle, and need to resubmit their own data, which exists in their national business registers, to the registers of other Member States. They often need to get these documents legalised (apostille). Companies also often face similar difficulties when they want to use their information from the national business register, for example when dealing with competent authorities or in court proceedings in another Member State. In addition, the company extracts, which are frequently used by companies and legal professionals to confirm information and identify companies for many different purposes, vary and cannot be used in cross-border situations without burdensome and costly formalities. 
+ The overall objectives of this proposal are to enhance transparency and trust in the business environment, achieve more digitalised and connected cross-border public services for companies, and easier cross-border expansion for SMEs leading, in turn, to a more integrated and digitalised single market. 
+ To achieve this, the proposal will: 
+ · increase the amount of company data available in business registers and/or BRIS and improve its reliability ; 
+ · enable direct use of company data available in business registers when setting up cross-border branches and subsidiaries, and in other cross-border activities and situations. 
+ This proposal is included in the 2023 Commission work programme as one of the key actions under the Commission’s headline ambition of ‘Europe fit for the digital age’ 
+ 5 
+ . 
+ • Consistency with existing policy provisions in the policy area 
+ This proposal aims to complement the existing rules on EU company law that are codified in Directive (EU) 2017/1132 (Codified Company Law Directive). It aims to increase the amount of publicly available company data in business registers and/or through BRIS, improve the reliability of company data in business registers and facilitate its use when setting up cross-border branches and subsidiaries and in other cross-border activities and situations. In this context, the proposal will build on and extend the existing provisions in the Codified Company Law Directive. 
+ Directive ( EU) 2019/1151 (Digitalisation Directive) focused on making company law procedures fully on-line and provid ed rules for the fully online formation of limited liability companies, registration of branches and fully online submission of documents in business registers 
+ 6 
+ . This proposal complements this Directive but focuses on other issues where digitalisation is needed in EU company law , in particular by addressing the availability and reliability of company information in business registers and BRIS, and its use in cross-border situations . 
+ The proposal builds on and extends the use of BRIS without altering its functioning or infrastructure. BRIS is based on legal obligations set out by Directive 2012/17/EU and Commission Implementing Regulation (EU) 2021/1042. The proposal will make more company information available through BRIS and will introduce more exchanges between business registers (to apply the once-only principle) through BRIS. It will also link BRIS with the other EU-level systems of interconnection of registers. 
+ • Consistency with other Union policies 
+ The proposed measures will directly contribute to the digitalisation objectives set out in the Communication 2030 Digital Compass 
+ 7 
+ , in particular to moving closer to achieving the target of 100% of key public services being available online for European citizens and businesses by 2030 and creating connected public administrations, including through the use of the once-only principle. The proposal will also be in line with the approach set out in t he Communication Digitalisation of justice in the European Union 
+ 8 
+ , which underlined the importance of digital tools for businesses to access information, interact with authorities and enjoy access to justice. 
+ The proposed measures aim to facilitate cross-border expansion by SMEs in particular by abolish ing or reducing formalities required to use company information in cross-border situations and when setting up subsidiaries and branches in other Member States. They also respond directly to the Communications Updating the 2020 New Industrial Strategy 
+ 9 
+ and SME Strategy for a sustainable and digital Europe 
+ 10 
+ . The SME strategy in particular mentioned that ‘ the Commission will consult and assess the need for additional company law measures to facilitate cross-border expansion and scale-up by SMEs . ’ 
+ Overall, t he proposal will be relevant in responding to the call from the European Council , in its conclusions of 24-25 March 2022, for ‘completing the Single Market, in particular for digital and services’ and ‘closely monitoring and preventing bottlenecks as well as removing remaining unjustified barriers and administrative burdens and avoiding new ones.’ 
+ 11 
+ The proposal, in particular through its measures to enhance ex-ante controls of company data and increase transparency, will also contribute to the fight against abuse of company law structures and to the effective imposition of EU sanctions against such companies. 
+ The proposal is complementary to and coherent with other ongoing initiatives relevant for digitalisation . F or instance, there is a close link with the eIDAS Regulation 
+ 12 
+ and the 2021 proposal to amend that Regulation as regards establishing a framework for a European Digital Identity 
+ 13 
+ . The 2019 Digitalisation Directive already included the use of electronic identification and trust services through the eIDAS Regulat ion for electronic identification in company law procedures . The current proposal further relies on the use of trust services (e.g. to ensure that the proposed EU C ompany C ertificate and the digital EU power of attorney are sufficiently certified to rely on them in cross-border situations ) and will be aligned with the new digital means, e.g. the European Digital Identity Wallet introduced as part of the ongoing revision of the eIDAS framework. 
+ The proposal is also complementary to other EU rules and initiatives that aim to increase transparency on companies. This includes the Anti-Money Laundering Directive 
+ 14 
+ , which focuses on information about beneficial ownership, or the Regulation on insolvency proceedings 
+ 15 
+ , which covers information about insolvent entities available in insolvency registers. In particular, the proposal aims to link BRIS with the beneficial ownership registers interconnection system (BORIS) 
+ 16 
+ and t he insolvency registers interconnection (IRI) system 
+ 17 
+ , while not alter ing or circumvent ing the rules and limits to the access of the information available in those interconnections . This proposal is relevant for the recent taxation initiatives , e.g. the proposal to prevent the misuse of shell entities for tax purposes 
+ 18 
+ , as more transparency and more reliable company data will help tax authorities’ work as part of these other initiatives . 
+ The proposal is also complementary to other EU initiatives that aim to facilitate cross-border information or procedures, such as the Single Digital Gateway Regulation (SDG Regulation ) 
+ 19 
+ or the proposal for a European single access point 
+ 20 
+ . While this proposal sets out company law procedure and specific rules related to company information available in business registers and /or through BRIS and enabl ing its direct use on a cross-border basis, t he SDG Regulation provides for general rules for online provision of information, procedures and assistance services relevant for the functioning of the internal market . It explicitly excludes from its scope procedures related to the initial registration of a business activity with the business register and procedures concerning the constitution of or any subsequent filing by companies or firms w ithin the meaning of Article 54 (2) of the Treaty on the Functioning of the European Union (TFEU) since such procedures necessitate a comprehensive approach aimed at facilitating digital solutions throughout a company’s lifecycle. 
+ 21 
+ However, to ensure synergies with the SDG , Member States will make the information about online procedures set out in this proposal available on the websites accessible by means of the SDG 
+ 22 
+ . T he European single access point , which focuses mainly on entity- and product-related financial market information for investors and aims to serve market needs, will target different intended users, accessing and using different information in a different way than BRIS that this proposal relies on. 
+ This proposal focuses on the needs of direct users such as companies, other stakeholders and public authori ti es to access and use in the cross-border context reliable and up-to-date official company data based on legal obligations from business registers . Therefore, it does not cover the reuse of company information from business registers for commercial and non-commercial purposes, which is regulated by the Open Data Directive 
+ 23 
+ . Similarly, the proposal does not cover the obligation of business registers as statistical business registers, which is regulated by the Regulation on European business statistics 
+ 24 
+ . 
+ Furthermore, the provisions to abolish legalisation or similar formalities such as apostille for certified company information obtained from business registers is complementary to the Public Document Regulation 
+ 25 
+ . This covers public documents for citizens (for example, a birth certificate, a marriage notarial act, a judgment) and provides that their certified copies issued by the authorities of an EU Member State must be accepted as authentic by the authorities of another EU Member State without the need for an authenticity stamp (i.e. the apostille). 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ The proposal is based on Article 50(1) and (2) TFEU, which empowers the European Parliament and the Council to adopt provisions in order to attain freedom of establishment. This legal basis has already been used by the EU legislator to act in the area of company law. In particular, Article 50(2)(b) aims to ensure ‘ close cooperation between the competent authorities in the Member States in order to ascertain the particular situation within the Union of the various activities concerned.’ Article 50(2)(c) allows for the abolition of administrative procedures and practices that form an obstacle to freedom of establishment. Article 50(2)(f) allows for ‘the progressive abolition of restrictions on freedom of establishment’ , both as regards setting up branches or subsidiaries. Article 50(2)(g) allows for coordination measures concerning the protection of interests of companies’ members and other stakeholders. By improving cooperation between Member States’ authorities through the system of interconnection of registers, abolishing administrative barriers to the freedom of establishment, including when setting up cross-border subsidiaries and branches, and by providing new harmonised disclosure requirements, this proposal will contribute to attaining the freedom of establishment as enshrined in Article 50 TFEU. 
+ Article 50 TFEU is combined with Article 114(1) TFEU, which allows for the adoption of measures for the approximation of the provisions laid down by law, regulation or administrative action in Member States which have as their object the establishment and functioning of the internal market. This proposal also aims to address the fragmentation of national regulatory approaches to the cross-border use and acceptance of company information in business registers as well as of notarial or administrative acts in the context of procedures under the Codified Company Law Directive. By introducing uniform checks of company information before it is entered into business registers in order to improve its reliability, by abolishing administrative barriers to the use of such information in cross-border situations including administrative or court procedures and by introducing a harmonised EU Company Certificate, this proposal will contribute to the functioning of the internal market as enshrined in Article 114 TFEU. 
+ • Subsidiarity (for non-exclusive competence) 
+ The overall objective of this legislative proposal is to ensure the smooth functioning of the EU single market by facilitating the cross-border access to and use of company information in cross-border situations. There is a strong value added by acting at EU level because the problems that this proposal tackles are not limited to the territory of one Member State but are of a cross-border nature, in particular due to discrepancies in national legislations. Member States are unable to bring about sufficient improvement to those problems on their own. 
+ To increase the scope of available company data at EU level through BRIS, coordinated action is required to ensure that all Member States have the data in their business registers and that the data is accessible in a comparable and multilingual format centrally at EU level through the system of interconnection of registers. This system already exists and is operational at EU level. Similarly, coordinated action is required to ensure that there are common checks of company data before it is entered into national business registers to improve its reliability and facilitate its use in cross-border situations. Furthermore, to enable the cross-border use of company data, including the application of the once-only principle, barriers in cross-border situations need to be removed. Similarly, the value added from linking the EU-level systems of interconnection of registers can also be only achieved through EU action. 
+ Member States acting individually would continue to apply their own rules in this respect, with little prospect that such rules would address the cross-border situations in a compatible manner. It therefore appears that without any action at EU level, different measures taken at national level would likely result in divergent national solutions. SMEs would also continue to face barriers, making effective exercise of the freedom of establishment more difficult and the resulting costs would affect companies in particular. In this context, the targeted EU intervention in the form of this proposal complies with the principle of subsidiarity. 
+ • Proportionality 
+ The measures introduced by this proposal are proportionate to its objective s of increas ing the amount and reliability of company data available in business registers and /or through BRIS , and enabl ing its direct use in cross-border situations . The proposed provisions are well targeted as they focus on the needs of direct users (e.g. companies, other stakeholders and public authorities ) to use reliable and up-to-date official company data from business registers in the cross-border context (see Section 1.3 of the impact assessment). The proposal focuses on cross-border aspects and introduces solutions that Member States could not achieve on their own. The harmonisation elements are limited to what is necessary and proportionate to achieve the required objectives while respecting national legal traditions, including those with notarial involvement in company law procedures and, w here possible, providing flexibility to Member States to achieve the requirements in line with their national laws and systems . In addition, the proposal does not introduce any new systems, but builds on the use of the existing and operational system of interconnection of registers as well as on the eIDAS Regulation 
+ 26 
+ and the 2021 proposal to amend that Regulation as regards establishing a framework for a European Digital Identity 
+ 27 
+ . 
+ The package of preferred measures can best address the objectives because it will make most information available cross-border and link BRIS with two other EU systems of interconnection of registers. This will greatly increase transparency on EU companies in the single market. It will also bring significant benefits in terms of increased legal certainty as it will provide for ex-ante checks and also introduce the additional common procedural requirements to keep company information up to date. In addition, it will have the strongest positive impact on enabling the direct use of company data in cross-border situations as it will not only apply the once-only principle to setting up cross-border subsidiaries and branches, but also introduce the EU Company Certificate and abolish formalities such as the apostille (see Section 7.2 of the impact assessment). 
+ The package does not go beyond what is necessary to achieve the chosen measures. The multi-criteria analysis carried out for all policy options, which took into account their effectiveness, efficiency, coherence and proportionality, showed that all options had a net positive benefit and that the preferred measures ranked the highest in the analysis (see Section 6.5 of the impact assessment and Annex 4 on methodology). 
+ In line with the principle of proportionality, the planned initiative will not go beyond what is necessary to achieve its objectives by targeting specific cross-border issues (i.e. the needs of direct users to access and use cross-border official company data from business registers). This could not be achieved by Member States on their own. 
+ • Choice of the instrument 
+ This proposal takes the form of a directive which amends Directive (EU) 2017/1132 and Directive 2009/102/EC. Directive (EU) 2017/1132 governs company law at EU level and Directive 2009/102/EC complements it with specific provisions for single-member companies. 
+ 3. RESULTS OF EX POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Ex-post evaluations/fitness checks of existing legislation 
+ The proposal aims to introduce new provisions, and to the extent necessary complement existing ones, in order to increase the amount of company data available in business registers and/or through BRIS and improve its reliability. It also aims to enable the direct use of company data available in business registers when setting up cross-border branches and subsidiaries and in other cross-border activities and situations. Therefore, no evaluation of the existing rules took place. 
+ • Stakeholder consultations 
+ The Commission carried out broad consultation activities as part of this initiative to gather the views of relevant stakeholder groups. This included business registers, national authorities such as tax and labour law authorities, companies, including SMEs and business associations, legal professionals involved in company law procedures, trade unions, as well as investors, creditors, citizens and academic experts. The consultation activities included an inception impact assessment, a public consultation, a specific consultation of SMEs, targeted interviews with key stakeholders, interviews with legal professionals specialised in company law, as well as discussions with company law experts from Member State ministries and business registers in the Company Law Expert Group. The information gathered fed into the proposal. 
+ The Commission gathered feedback on the inception impact assessment in summer 2021, with various stakeholder s (including public authorities (business registers), business associations, companies, citizens and legal professionals) providing feedback. The public consultation on Upgrading digital company law ran from 21 December 2021 to 8 April 2022 
+ 28 
+ . The Commission received 83 responses from business associations, EU citizens, public authorities, companies, legal professionals and notaries, academic/research institutions, non-governmental organisations as well as trade unions. The specific consultation of SMEs, through an ‘SME panel’ 
+ 29 
+ , took place between 2 May and 10 June 2022. 158 stakeholders replied, with the majority of responses submitted by SMEs in the form of limited liability companies. In addition, targeted e-surveys (with business registers, public authorities, legal practitioners, business and financial organisations and individual companies) and two virtual workshops, with companies and with business registers, were organised as part of an external contractor study 
+ 30 
+ carried out for the Commission in the context of this initiative. 
+ Across these consultation activities, a large majority of stakeholders, including SMEs, confirmed that they encountered difficulties when looking for information about companies. This included the fact that information about companies in different Member States was not comparable, that it was not possible to find relevant company information at EU level but only in the national business registers, and language difficulties. All stakeholder groups consulted (companies, authorities, business organisations, business registers, trade unions, legal professionals, citizens) expressed their support for making more harmonised company information available at EU level, while business associations stressed that no additional costs should be imposed on companies. A majority of stakeholders (in particular authorities, business registers and legal professionals) also considered that it would be useful to link BRIS with the EU interconnections of beneficial ownership registers and insolvency registers. 
+ In the consultation activities, many stakeholders highlighted the importance of reliable company data. The importance of adequate checks to ensure the reliability of company data in business registers was in particular underlined by legal professionals, including notaries. Consultation activities also confirmed that companies, including SMEs, face difficulties when using the information that is already in their national business register, when dealing with competent authorities or in court proceedings or when setting up subsidiaries or branches in another Member State, in particular due to the need to provide a certified translation of company documents and get company documents legalised (apostille). Stakeholders in general expressed support for the planned measures to facilitate the cross-border use of company data. For example, many respondents, in particular SMEs, considered that not needing to resubmit information when setting up subsidiaries/branches in another Member State or having a common company extract would reduce administrative costs. Consultations with practising lawyers specialised in company law also confirmed that the application of the once-only principle and abolishment of formalities would reduce costs and the time needed for procedures. Legal professionals, including notaries, supported the idea of a common company extract. 
+ The Commission also organised a number of bilateral meetings with key stakeholders in the area of company law representing businesses, legal professionals and employees to discuss issues of most relevance to them. It also organised a number of interviews with legal professionals working in the field of company law, which yielded concrete examples of administrative burden, costs and time needed for procedures, together with practical needs for improvement. 
+ In 2021-2022 , three meetings of the Company Law Expert Group (CLEG) 
+ 31 
+ , bringing together Member State representatives from ministries responsible for company law, took place to discuss the main policy issues part of the Upgrading digital company law initiative 
+ 32 
+ . In general, Member States’ experts were open and expressed support for the measures planned under this proposal. Member States in general considered improving the transparency of company data important and supported the extension of company data available in BRIS. The linking of different systems of interconnection of registers with BRIS was considered useful. In discussions, Member States raised questions about the potential impact on national business registers and saw some challenges here; they also asked about the relationship between the proposed measures and existing EU and national rules. In general, Member States also acknowledged the importance of reliable company data and expressed their views on how the ex - ante checks of company information should look given the national checks already in place. There was support from many Member States for the measures to facilitate the cross-border use of company information ( e.g. introduction of the once-only principle for setting up cross-border subsidiaries and branches, the common company extract and abolishing legalisation formalities). Member States also provided comments on these issues, e.g. on the information to be included in the common company extract or the importance of company documents being certified by registers. 
+ • Collection and use of expertise 
+ The Commission also used the results of an external contractor study 
+ 33 
+ , carried out to help gather evidence for this initiative. It included a legal mapping of the national company law systems of all Member States, targeted e-surveys, including two virtual workshops , and the qualitative and quantitative assessment of the impacts of potential measures. 
+ The Informal Company Law Expert Group consisting of 17 company law academics and practitioners from 12 Member States and European Free Trade Association countries drew up two reports on issues relevant to this initiative, on transparency of company law data and on the cross-border use of company data 
+ 34 
+ . 
+ • 
+ Impact assessment 
+ The impact assessment for this proposal was examined by the Regulatory Scrutiny Board on 12 October 2022 . A positive opinion with reservations was received on 14 October 
+ 35 
+ , and the recommendation s from the Board were duly addressed in the final version of the impact assessment . 
+ The impact assessment analysed policy options under four main areas relevant to this initiative. Three policy options were assessed to make more company data available in business registers and/or BRIS , consisting of different clusters of company data and varying in terms of whether data is already available in business registers or not as well as in terms of scope, i.e. the number of companies covered. The preferred option was to make available information about partnerships, third country company branches, cross-border group structures and ownership, place of management and of the main economic activity in national registers/BRIS. Two options were assessed to interconnect BRIS with other EU-level systems of interconnection of registers and enable better searches. The preferred option was to connect BRIS with the BORIS and IRI systems, use the European unique company identifier, and introduce new search functionalities in BRIS. Two options were assessed to ensure an adequate verification of company data before it is entered into the business register . The preferred option was to introduce an obligation to check a harmonised list of elements and some common basic procedural requirements for ensuring reliable and up-to-date company data. Furthermore, three options were assessed to enable direct cross-border use of company data from business registers in cross-border situations . The preferred option was to introduce the use of the once-only principle for setting up subsidiaries or branches in another Member State, provide a harmonised company extract in the EU, ensure mutual recognition of certain company data, and abolish formalities (apostille). The overall preferred policy option consisted of a package of the chosen measures under each of the four main issues. These were seen as mutually reinforcing and are therefore all necessary to best address the objectives of this proposal. For instance, the package would not only make more company data available and more easily accessible across the EU, but would also ensure that such data is more reliable. This in turn would be the prerequisite for enabling the direct use of such data across the single market. 
+ The package of preferred measures, by making more company data publicly available in business registers and at EU level through BRIS and improving its reliability, is expected to reduce the administrative burden on companies overall and in turn make it easier to access finance and set up businesses. In addition, facilitation of the cross-border use of such data when setting up new subsidiaries or branches in another Member State or in other cross-border situations, including administrative or court procedures, is expected to result in significant recurrent cost savings. As a result, it should make it much easier to conduct cross-border business activities and facilitate access to other Member States’ markets. 
+ The recurrent cost savings (administrative burden reduction) for companies setting up new cross-border subsidiaries or branches and for all companies engaging in cross-border business activities is estimated at around EUR 437 million per year. At the same time, the package will result in one-off costs for certain companies, i.e. for those that currently do not file specific information with a register, estimated at around EUR 311 million. These will be limited by the fact that Member States for example should not apply the filing fees separately for each new item of company data filed. The expected recurrent benefits for companies would therefore far outweigh the one-off costs, and the initiative will significantly reduce the administrative burden for companies in the single market. 
+ This package is a continuation of developments related to digitalisation that have been taking place in company law up to now. The increased accessibility and reliability of company data, and better connections between business registers thanks to the once-only principle and also connecting other EU-level inter-connection systems with BRIS, should facilitate the work of registers due to an easier search for company data from other Member States and less need to request documents from companies. Due to the need for business registers to adapt IT systems, the one-off costs of the package are estimated at around EUR 5.4 million for all business registers together. Recurrent costs, e.g. to carry out the ex-ante verification of company data, are estimated at around EUR 4 million per year for all registers. However, Member States would be able to build on IT investments already done for BRIS in recent years, and adjustment costs for verification should be limited given the ex-ante checks already in place in many Member States. It is also likely that there will be some loss of revenue for registers, which charge fees for company extracts for cross-border use, estimated at around EUR 7.9 million for all registers. 
+ As to the other authorities , easier access to more sets of reliable company data would facilitate also their work as they could consult company data directly in business registers and BRIS and require fewer documents from companies, resulting in some savings. Although authorities in charge of issuing apostilles will lose revenue, estimated at EUR 9.5 million per year, abolishing the apostille is expected to reduce the overall administrative burden given the current legal uncertainty and the related human resources and time needed to issue it. 
+ The package is also expected to be highly beneficial for society in general , including consumers, due to its expected positive impact on providing more accessible and reliable company data across the EU. It will therefore allow consumers to make more informed choices when buying from or entering contracts with companies from other Member States. More available, accessible and reliable cross-border company data will also facilitate the fight against abuse and fraud. This initiative will therefore help create a fairer single market. 
+ • Regulatory fitness and simplification 
+ The proposal is expected to deliver considerable simplification benefits to companies, and in particular SMEs . Easier access to company data and the removal of administrative and financial barriers for its cross-border use will benefit SMEs in particular as they do not have the financial and administrative resources of large companies. SMEs will also benefit considerably from greater legal certainty as they are more affected by unclear and complex rules than bigger companies. The initiative will also benefit start-ups, as it responds to the calls to facilitate the expansion of start-ups in the EU Start-up Nations Standard 
+ 36 
+ . 
+ By increasing transparency and trust in the market as well as making it easier to set up companies in another Member State and having a positive impact on cross-border activities, the proposal should stimulate cross-border trade, services and investment flows and therefore contribute to competitiveness and growth in the single market. These measures will apply to around 16 million limited liability companies and 2 million partnerships in the EU. 
+ The proposal is expected to bring a strong positive recurrent administrative costs saving for companies, of around EUR 437 million per year. At the same time, it may result in some new one-off costs on companies for filing information to the register, estimated to amount to around EUR 311 million. Overall, the recurrent savings for companies are expected to much outweigh the one-off costs related to filing of additional company data. 
+ This proposal upgrades EU digital company law further through the use of digital tools and processes . For instance, it aims to increase the availability of company information, in particular at cross-border level, by making more company data available online through BRIS on the e-Justice portal. To further increase transparency, it will link BRIS with other EU-level systems of interconnection of registers, which are all available via the e-Justice portal. This will in turn strongly contribute to create more connected public administrations at EU level. To remove the administrative burden when companies and public authorities use company information across the EU, it introduces the digital EU Company Certificate and digital EU power of attorney and applies the once-only principle for setting up cross-border subsidiaries and branches, the latter thanks to secure electronic exchanges of information between registers via BRIS. The proposal focuses on electronic copies and extracts of company documents or information and stresses the importance of their certification in line with the eIDAS Regulation. It is therefore digital ready as it relies heavily on the use of digital technologies and data. It also provides ‘digital by default’ solutions to increase transparency on EU companies and ‘digital by default’ company law procedures to facilitate the use of company data across the single market. 
+ While the proposal focuses primarily on online procedures and electronic copies and extracts of company documents or information, its provisions take into account both the physical and digital environment and also address physical procedures, e.g. any other forms of formation of companies than fully online, and paper copies and extracts. 
+ Thanks to the increased possibility to use digital procedures and tools between business registers and companies, and also between business registers, and an increased application of the once-only principle , this proposal is likely to have some small positive environmental impacts . Therefore, it is seen as consistent with the ‘do no significant harm’ principle, with the climate-neutrality objective set out in Article 2(1) of European Climate Law 
+ 37 
+ and the 2030 and 2040 targets. This proposal will also contribute indirectly to the Sustainable Development Goal 8 on decent work and economic growth as it will enhance the business environment in the s ingle m arket. 
+ • Fundamental rights 
+ The proposal will facilitate the implementation of the right of establishment in a ll Member State s , as prescribed by Article 15(2) of the EU Charter of Fundamental Rights. There should be a positive impact on companies benefiting from the opportunities offered by the single market, in particular concerning the freedom to conduct business set out in Article 16 of the Charter. The proposal will require certain processing, including disclosure of personal data that will interfere with the right to protection of personal life as laid down in Article 7 and right to personal data protection as laid down in Article 8 of the EU Charter of Fundamental Rights. Most notably, t he proposal will require the disclosure of and cross-border access to certain information in relation to legal entities (e.g. partnerships), including certain personal data such as information about partners and single-member shareholders. This data is usually already publicly disclosed in Member States , and this proposal makes such data available cross-borde r through BRIS . Member States may also process some personal data to verify the company data, which is already the case in Member States. Linking BRIS with other EU interconnection systems will not impact the protection of personal data as each system will keep its rules and requirements related to access. The proposed solutions are necessary and proportionate to improve transparency, create trust between Member States and ensure legal certainty and protection of third parties when using company information cross- border and contribute to the fight against fraud and abuse and thus contribute to well-functioning of s ingle m arket . The Member States will also ensure the protection of personal data in line with Article 8 of the Charter, the EU law on data protection including the relevant case- law 
+ 38 
+ . 
+ This proposal will increase the availability of company information in business registers, in particular at cross-border level. In this context, specific attention must be paid to its accessibility for persons with disabilities, given the extra barriers they face. The Union’s policies regarding persons with disabilities are grounded in EU primary law, including Article 26 of the Charter of Fundamental Rights of the European Union (on the right of persons with disabilities to benefit from measures designed to ensure their independence, social and occupational integration and participation in the life of the community) and the UN Convention on the Rights of Persons with Disabilities (UN CRPD). Among others, the UN CRPD, to which both the Union and its Member States are parties, requires State Parties to take appropriate measures to ensure that persons with disabilities have access, on an equal basis with others, to information and communications, including information and communications technologies and systems, and to other facilities and services open or provided to the public. In line with this, the Strategy for the Rights of Persons with Disabilities 2021-2030 underlines that accessibility to the built and virtual environments, to information and communication technologies (ICT), goods and services, including transport and infrastructure, is an enabler of rights and a prerequisite for the full participation of persons with disabilities on an equal basis with others. Consequently, the access to company information in business registers should be granted in accordance with accessibility requirements for persons with disabilities provided in applicable Union and national law. In addition, to ensure access to company information provided by the business registers in all the Member States on an equal basis with other users, the review should include an assessment of whether additional measures should be taken to fully address the needs of persons with disabilities. 
+ 4. BUDGETARY IMPLICATIONS 
+ The proposal is expected to have some budgetary impact for Member States, which was estimated in the impact assessment for this proposal and is described in the section above about the impact assessment. 
+ As regards the impact on the EU budget, this proposal enlarges the scope of the BRIS system. This will require the further development of existing technical specifications and standards, further software development work on the system and coordination of the activities undertaken by national authorities to put the required IT developments into place at national level. To carry out these tasks, it will not be necessary to increase the current resources in the Commission working on BRIS business management (1 full-time equivalent/FTE) and project management (1.25 FTEs). Furthermore, the funds provided for regular maintenance of the BRIS system (currently around 2 million EUR per year, provided by the Digital Europe programme) will also be sufficient to carry out the tasks required under this proposal. 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ The Commission will help Member States transpose the provisions under this proposal through close cooperation with national company law experts in the CLEG and by providing guidance as necessary (e.g. by organising transposition workshops, providing bilateral advice ) 
+ 39 
+ . The Commission will also monitor implementation of the proposed measures and ensure that it is in line with the Interoperable Europe Act proposal 
+ 40 
+ and the European Interoperability Framework 
+ 41 
+ , thus fostering cross-border and cross-sector interoperability in Europe . Monitoring w ill consist of analysing the impact of the proposal on the accessibility and reliability of company data in business registers and through BRIS via targeted contacts with relevant stakeholders, discussions with business registers within the CLEG and on the basis of information that could be gathered through BRIS or other EU systems of interconnection of registers such as BORIS or IRI. Monitoring would also include a nalysing to what extent the direct use of company data cross-border has been facilitated and to what extent the measures introduced by this proposal are being used by stakeholders, e.g. by analysing the trends in setting up cross-border subsidiaries and branches across the EU or checking the numbers of EU Company C ertificates issued . Some of the relevant information could be obtained from BRIS and the Commission could gather other information through targeted contacts with relevant stakeholders, surveys and if necessary targeted studies. An evaluation report should be drawn up to assess the impact of this proposal once sufficient experience has been gained on the application of the proposed provisions. It would also analyse the potential of cross-sector interoperability with other EU level systems providing mechanisms for cooperation between competent authorities, e.g. in the areas of taxation or social security or the Once-only Technical System under the SDG Regulation , to build on the “first hand” information about companies in business registers, their interconnection at EU level and the use of EUID to link the information available about a particular company across different EU systems , and to avoid duplication and contribute to creating more connected public administrations cross-border in the s ingle m arket . The provision of information for monitoring and evaluation should not impose any unnecessary administrative burden on the stakeholders concerned. 
+ • Explanatory documents (for D irectives) 
+ The proposal is an amendment to Directive 2009/102/EC on single-member private limited liability and to Directive (EU) 2017/1132 relating to certain aspects of company law. To ensure the proper implementation of this complex Directive, the explanatory document, e.g. in the form of correlation tables, would be necessary. 
+ • Detailed explanation of the specific provisions of the proposal 
+ Amendment to Directive 2009/102/EC 
+ Article 3 of Directive 2009/102/EC is replaced. The new provision aims to ensure that the identity of the single member is always disclosed in national business registers and made accessible through the system of interconnection of registers. 
+ Amendments to Directive (EU) 2017/1132 
+ Article 1 extends the subject matter falling under Directive (EU) 2017/1132 to those new areas to which this proposal adds measures. 
+ Article 7 is extended to cover partnerships in line with Article 10. 
+ Article 10 is replaced by a new provision introducing the requirement to have a preventive administrative or judicial control and a procedure for the legality check of the instrument of constitution of both limited liability companies and partnerships in a fully online, hybrid or offline mode of formation. If a partnership does not have an instrument of constitution, the legality check applies to any document that provides the same information as the instrument of constitution. 
+ Amended Article 13 includes, where specified in the relevant provisions, partnerships under the scope of Sections 1 and 1A of Directive (EU) 2017/1132. 
+ Article 13a includes definitions related to the new Article 14b on groups of companies and to the new Article 16d on exemption of legalisation. 
+ Article 13b is amended to align it with the revision of the eIDAS Regulation in respect to the European Digital Identity Wallet. 
+ Article 13c is amended to ensure that the national rules on the authenticity, accuracy, reliability, trustworthiness and appropriate legal form of documents or information will not prevent the application of the new provisions on the EU Company Certificate, digital EU power of attorney, documents exempted from legalisation/apostille and the translation of these documents. 
+ Amended Article 13f on information requirements includes information about rules related to partnerships and information about the rules and procedures related to filing deadlines and other rules on keeping the register information up to date. 
+ Article 13g is amended to include the once-only principle whereby a company does not need to resubmit information that is in its own registers when forming a company in another Member State. Instead, the registers exchange this information, whereby the register where the company is to be formed retrieves this information from the register of the company. 
+ Article 13h is amended to be in line with the amended Article 10. 
+ Article 13j is aligned with amended Articles 10 and 15. 
+ Article 14 is amended to include in the list of documents and information to be disclosed in the business register the place of central administration and the principal place of business in case these are not in the same Member State as the place of the registered office. 
+ New Article 14a introduces a list of documents and information to be mandatorily disclosed to the business register by partnerships. 
+ New Article 14b introduces a disclosure requirement for group-related information. This requirement should be fulfilled by both the ultimate parent company and the subsidiary. If the ultimate parent is established outside the EU, then the EU intermediate parent company should carry out the relevant disclosure requirement. In case no intermediate parent company is governed by the law of a Member State, the subsidiary company governed by the law of a Member State should disclose the required information. The EU ultimate parent or the EU intermediate parent company or the subsidiary needs to disclose information related to the EU and non-EU subsidiaries of the group. This information should also be shared with the registers of the subsidiaries. A visualisation of the group is made available through the system of interconnection of registers. 
+ Article 15 is replaced. The new provision introduces a time limit for the filing of changes to documents and information in the register and those to be made publicly available by the register. It also requires Member States to have in place procedures to keep the information in the business register up-to-date, including the status of companies. 
+ Article 16 is amended to include partnerships and disclosed information related to partnerships in its scope, and the group information in line with Article 14b to be recorded in the business register. 
+ Article 16a is amended to include information about partnerships and groups in the scope and to ensure compatibility with the proposal xxx European Digital Identity Wallet. 
+ New Article 16b introduces the harmonised EU Company Certificate. 
+ New Article 16c provides a standard model for the Digital EU power of attorney that can be used in cross-border procedures in the context of Directive 2017/1132. While the power of attorney should be drawn up and revoked in accordance with national law, the provision introduces some mandatory verifications for when it is being drawn up. The power of attorney should be filed in the business register of the company, and third persons with a legitimate interest should have access to it. 
+ New Article 16d requires Member States to ensure that copies and extracts of documents of information provided, and certified true copies by business registers as well as notarial acts and administrative documents and their certified copies, as well as certified translations are exempted from any form of legalisation or similar formality as long as they meet certain minimum requirements related to the origin of the document. 
+ New Article 16e provides for safeguards in case the authorities to which the copies and extracts of documents of information provided, and certified true copies by business registers are presented have doubts about the origin and authenticity of the documents. In case of doubt, a procedure to verify the origin of the documents through registers is introduced. 
+ New Article 16f requires Member States to exempt from translation copies of documents and information provided by business registers and that are used in cross-border situations where the information is accessible through the system of interconnection of registers via explanatory labels referred to in Article 18 or where the specific information is included in the EU Company Certificate referred to in Article 16b. The provision also limits the certified translations of the instrument of constitution and the statutes or other documents provided by the business registers to strictly necessary. 
+ Article 17 is extended to apply to the information to be disclosed about partnerships. 
+ Article 18 is extended to apply to information about partnerships and groups. In addition, amended Article 18 specifies which personal data should be made available through the system of interconnection of registers. It also clarifies that Member States should not store personal data transmitted through the system of interconnection of registers for specific purposes unless otherwise provided by Union or national law. 
+ New Article 19a introduces rules on fees to be charged for information on partnerships available through the system of interconnection of registers similarly with the existing rules for information on limited liability companies (i.e. the current Article 19). 
+ Amended Article 21 also applies to information to be disclosed about partnerships and groups. 
+ Article 22 is amended to provide for the access links between the system of interconnection of registers, the beneficial ownership registers interconnection 
+ 42 
+ and the insolvency registers interconnection 
+ 43 
+ . 
+ Amended Article 24 includes the relevant new implementing acts required to implement the specific provisions. 
+ Article 26 is amended to apply to partnerships. 
+ Amended Article 28 specifies that penalties should be effective, proportionate and dissuasive and lists the mandatory cases where penalties should be applied. 
+ Article 28a is amended to specify details for the application of the once-only principle for filing for branches (to align it with the rules in Article 13g (as amended) for setting up cross-border subsidiaries) when a company registers a branch in another Member States. 
+ Article 28b is amended in line with the amended Article 15. 
+ Article 30 is amended by deleting point b of paragraph 2 as this is now covered by the Article 16b on the EU Company Certificate. 
+ Amended Article 36 provides that information about third country branches should be made publicly available through the system of interconnection of registers and specifies which information should be accessed free of charge. 
+ Article 40 is amended to require that penalties should be effective, proportionate and dissuasive . 
+ Annex IIB introduces the list of partnerships in the Member States covered by the Directive. 
+ 2023/0089 (COD) 
+ Proposal for a 
+ DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ amending Directives 2009/102/EC and (EU) 2017/1132 as regards further expanding and upgrading the use of digital tools and processes in company law 
+ (Text with EEA relevance) 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 50(1), Article 50(2) and Article 114 thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Economic and Social Committee 
+ 44 
+ , 
+ Having regard to the opinion of the Committee of the Regions 
+ 45 
+ , 
+ Acting in accordance with the ordinary legislative procedure, 
+ Whereas: 
+ (1) Directive (EU) 2017/1132 of the European Parliament and of the Council 
+ 46 
+ lays down inter alia rules on disclosure of company information in business registers of Member States and a system of interconnection of registers . That system has been operational since June 2017 and currently connects all Member States’ registers. In response to digital developments, Directive (EU) 2017/1132 was amended by Directive (EU) 2019/1151 of the European Parliament and of the Council 
+ 47 
+ to provide rules for the fully online formation of limited liability companies, registration of cross-border branches and submission of documents to business registers. 
+ (2) In a n increasingly digitalised world, digital tools are essential to ensure the continuity of business operations and companies’ interactions with business registers and authorities. In order to increase trust and transparency in the business environment and facilitate companies ’ operations and activities in the single market, in particular in relation to micro, small and medium-sized enterprises (‘SMEs’), as specified in Commission Recommendation 2003/361/EC 
+ 48 
+ , it is crucial that companies, authorities and other stakeholders have access to reliable information about companies that can be used without burdensome formalities in a cross-border context. 
+ (3) This Directive respond s to the digitalisation objectives set out by the Communications “2030 Digital Compass” 
+ 49 
+ and “Digitalisation of justice in the European Union” 
+ 50 
+ , and to the need to facilitate the cross-border expansion of SMEs underlined in the Communications “Updating the 2020 New Industrial Strategy” 
+ 51 
+ and “SME Strategy for a sustainable and digital Europe” 
+ 52 
+ . 
+ (4) A ccess to , and use of , reliable company information from the registers are still hindered by barriers in cross-border situations . Firstly, c ompany information that users , including companies and authorities, are looking for is not yet sufficiently available in national registers and/or cross-border through the system of interconnection of registers . Secondly, the use of such company information in cross-border situations, including administrative procedures before national authorities or EU institutions and bodies , court proceedings or the setting - up of cross-border subsidiaries or branches, is still hindered by time - consuming and costly procedures and requirements, including the need for apostille or translation of company documents. 
+ (5) All stakeholders, including companies themselves, authorities and the public at large need to be able to rely on information about companies for their business purposes or in administrative procedures or court proceedings. Therefore, it is necessary that company data, which is entered into business registers and accessible through the system of interconnection of registers, is accurate, up-to-date and reliable. 
+ (6) The introduction, by Directive (EU) 2019/1151, of standards for controls on the identity and legal capacity of persons that form a company, register a branch or file documents or information online was an important first step. It is now essential to take further steps to improve the reliability and trustworthiness of company information in registers in order to facilitate its use in cross-border administrative procedures and court proceedings. 
+ (7) While all Member States carry out, to a certain extent, an ex - ante scrutiny of company documents and information before they are entered in the business register, there are different approaches in Member States as regards the intensity of checks, applicable procedures or also the person or body in charge of verifying the information. This results in insufficient trust in company documents or information on a cross-border basis and in situation s where company documents or information from a business register in one Member State are sometimes not accepted as evidence in another Member State. 
+ (8) Therefore, while respecting Member State traditions, it is important to ensure that certain checks are carried out in all Member States according to the same standards that guarantee a high level of accuracy and reliability of the information . For this purpose, it is necessary to extend the current standards by making them mandatory in general, not only for fully online formation of companies , but also for any other forms of formation of companies . Similarly, where Member States still allow other filing methods in addition to online filing, the same standards should apply in order to subject all information entered into the register to the same standard. 
+ (9) A preventive administrative or judicial control , respecting Member States traditions in cluding the possible involvement of notaries , should be ensured in all Member States in order to ensure reliability of cross-border company data . A legality check of the company ’s instrument of constitution, the company statutes if contained in a separate instrument , and of any amendment of such instruments and statutes , should be carried out , given that these are the most important documents concerning the company. 
+ (10) In order to further cut costs and reduce administrative burden s relating to the formation of companies, including the length of procedures, and to facilitate the expansion of companies in the single market, in particular SMEs, the use of the ‘once-only’ principle should be further extended in the area of company law. This principle is already well recognised in the Union , including under the 2030 Digital Compass Communication as a means to allow public administrations to exchange data and evidence across borders , and used in different areas, such as for instance the once-only technical system for cross-border automated exchange of evidence under the Single Digital Gateway 
+ 53 
+ . 
+ (11) Applying the ‘once-only’ principle entails that companies are not asked to submit the same information to public authorities more than once. For example, companies should not have to resubmit the company documents or information already submitted to the register where the company is registered when creating a subsidiary in another Member State. Instead, information about the company should be exchanged electronically, between the register where the company is registered and the register where a subsidiary is to be registered, using the system of interconnection of registers. Such information should be made available by the business register to any authority, body or person mandated under national law to deal with any aspect of the formation of a company. 
+ (12) In order to increase transparency and trust with respect to companies in the single market , and to facilitate companies ’ cross-border operations and activities , it is essential to make more company information available across the Union and to ensure that it is comparable and more easily accessible. This should be done by building on the company information that already exists in national registers and making it available at Union level through the system of interconnection of registers, as well as by providing access to more information both in the national registers and through the system of interconnection of registers. 
+ (13) I nformation about the place of central administration and the principal place of business is important to increase transparency, and thus reinforce legal certainty with respect to the business relationships of Union companies, including when investing in those companies. This information is also relevant in different contexts such as in cases of insolvency or restructuring , competition law, tax or social security purposes , or for authorities when tackling fraud or abuse , as it can contribute to the identification of fraudulent or abusive letterbox companies. These elements may provide useful information on how companies are conducting business and to what extent companies are connected to the Union. 
+ (14) Article 54 of the Treaty on the Functioning of the European Union refers to the central administration and the principal place of business together with the registered office as decisive links with the Union , and it is common that they are located in the same Member State. However, freedom of establishment, as clarified by the Court of Justice of the European Union, entails the right of a company to have its central administration or principal place of business in a different Member State than the Member State where the registered office is located. In this case, stakeholders should have access to this information in order to take informed decisions and protect their interests. Therefore, in order to provide easier access to this information and reduce administrative burden s for companies and authorities, information about the Member State or third country where the central administration or the principal place of business is situated, when it is not in the Member State of the registered office, should be disclosed in national business registers and made publicly available through the system of interconnection of registers. 
+ (15) In order to protect the interests of third parties and enhance trust in business transactions with different types of companies in the single market, it is important to enhance transparency and provide easier access on a cross-border basis to information about so-called ‘commercial partnerships’. These play an important role in the economy of Member States and are registered in all national business registers, yet there are differences between the types of partnerships and types of information made available about them across the Union , which result s in difficulties in the cross-border access to this information. To address this , the same basic information about ‘commercial partnerships’ should be disclosed in all Member States. The disclosure requirements for partnerships should mirror the existing disclosure requirements for limited liability companies but be adapted to the specific characteristics of partnerships. For instance, the disclosure requirements should also cover information about partners, including those that are authorised to represent the partnership. As in the case of limited liability companies, Member States should be allowed to require that partnerships disclose documents or information beyond what is required by this Directive. Where such additional documents or information contain personal data, Member States should process such personal data in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council 
+ 54 
+ . 
+ (16) I nformation about ‘commercial partnerships’ should also be accessible at Union level through the system of interconnection of registers in the same way as for limited liability companies, with certain information to be made available free of charge, and they should be unequivocally identified through the European unique identifier (“EUID”). 
+ (17) Shareholders, potential investors, creditors, authorities, employees and civil society associations have a legitimate interest in having access to information related to the structure of the group to which a company belongs. Information about company groups is important to promote transparency and enhance trust in the business environment as well as to contribute to the effective detection of fraudulent or abusive schemes that could affect public revenues and the credibility of the single market. Therefore, information about group structure s should be disclosed in business registers and through the system of interconnection of registers for both domestic and cross-border groups. 
+ (18) U ltimate parent companies governed by the law of a Member State should disclose to their national registers basic information about all their subsidiary companies as they are in the best position to provide such information. Where the ultimate parent company is governed by the law of a third country, this disclosure obligation should be met by the subsidiary company closest to the ultimate parent company in the chain of control but established in the Union and governed by the law of a Member State . Where such a subsidiary company i s an intermediate parent company , this intermediate parent company should provide information about the entire group, i.e. the ultimate parent company and all its subsidiary companies . Where the group includes several intermediate parent companies established in the Union , the group should select which intermediate parent company sh ould fulfil the disclosure requirement. Where no intermediate parent company is governed by the law of a Member State, the group should select a subsidiary company governed by the law of a Member State to fulfil this disclosure requirement. 
+ (19) In order to provide enhanced transparency about the subsidiaries belonging to a group, the group information and in particular the information about the ultimate parent company and any intermediate parent company governed by the law of a Member State should also be available in the registers of the subsidiaries and , to that end, should be shared with the registers of the subsidiary companies through the system of the interconnection of registers. In addition, Member States where business registers are based on a decentralised structure may also decide to transfer the necessary information between national registers through the system of interconnection of registers. 
+ (20) In order to avoid unnecessary burden, the obligation to update the group information, at least once per year, should be on the ultimate parent or , where applicable , on the intermediate parent or on the subsidiary company governed by the law of a Member State . If no change has occurred within a year, such parent company or subsidiary company should confirm this to its register, which should record and make this information publicly available. In addition, e ach subsidiary company should be responsible for keep ing the information related to its affiliation to the group in its register up to date. In this regard, the ultimate parent or , where applicable , the intermediate parent or the subsidiary company governed by the law of a Member State should provide any changes in the group information to the (other) subsidiaries without delay in order for the subsidiaries to fulfil in time the obligation to keep the group - related information in their register up to date . 
+ (21) Groups of companies may have complex structures. Therefore, a visualisation of the group structure based on the chain of control should be made available through the system of interconnection of registers to provide a comprehensive overview of the group and facilitate a better understanding of the group’s method of operation. This would be drawn up bas ed o n information about the position of each subsidiary in the group structure submitted by the ultimate or , where applicable , the intermediate parent or the subsidiary company governed by the law of a Member State . 
+ (22) In addition to common standards for checking company information before it is entered into the register, it is necessary to ensure that the information in the register is kept up to date. The Financial Action Task Force recommendation 24 ‘ Transparency and beneficial ownership of legal persons ’ , as revised in March 2022, includes requirements that company information in business registers be kept accurate and up to date. It is also in compan ies ’ interest to make sure that their information is updated in the register because this information , including the EU Company Certificate , can be relied on by third parties. Therefore, companies should be required to disclose changes to company information without unnecessary delay and the registers should record and make available such changes in a timely manner. While the deadline for the publication of accounting documents is regulated by Directive 2013/34/EU of the European Parliament and of the Council 
+ 55 
+ , the registers should also make them publicly available without unnecessary delay. In addition, in order to further enhance the reliability of company data, companies should confirm once per calendar year that their information in the business register is up to date, including when no change occurred. Companies may do this together with the filing of other changes or when filing accounting documents. 
+ (23) In order to keep company information in registers updated, it is also important to identify companies which no longer fulfil the requirements to continue to be registered in the business register . Member States should have transparent procedures in place to verify, where doubts exists, the status of such companies. While companies may temporarily suspend their activity for valid reasons, it is important that their status in the business register is updated accordingly. For example, indicators could be the fact that a company does not have a functioning board of directors as required by national law , has not filed accounting documents , or lack of any economic activity for some years . Similarly, the fact that a large number of companies are registered at the same address could indicate that some of these companies may have been set up for abusive purposes. Such procedures should include the possibility for companies to explain their situation and provide the necessary data , within reasonable deadlines , and should ensure that the status of the company, for example whether it is closed, wound up, dissolved, economically active or inactive, is updated accordingly. The procedures should also include a possibility, as a last resort, to strike off a company from the register in accordance with the procedures set by national law. Information about these procedures should be publicly available in accordance with this Directive. 
+ (24) In the single market, companies should be able to prove that their company is legally incorporated in a Member State through simple and reliable means, which are recognised cross-border by other Member Stat es. Therefore, a harmonised EU Company C ertificate should be established. Companies could apply for such an EU Company C ertificate to use it for different purposes, including for administrative procedures before national authorities and court proceedings i n other Member States or before EU institutions and bodies . Such EU Company C ertificate should be issued and certified by the national business registers, should include essential company information used by companies in cross-border situations, including the company name, its registered office and legal representatives, and should be available in all official l anguages of the Union. The electronic EU Company C ertificate should be authenticated by using trust services as referred to in Regulation (EU) No 910/2014 
+ 56 
+ . This EU Company C ertificate would also be accessible to third parties , including authorities, which need reliable essential information about companies. While Member States should be allowed to ch arge a fee for obtaining an EU Company C ertificate, registers should be required to provide, upon request, each company registered in that register with its own EU Company C ertificate free of charge at least once a year. Registers and authorities in other Member States should accept an EU Company C ertificate in accordance with this Directive . 
+ (25) In order to further facilitate cross-border procedures for companies and simplify and reduce formalities, such as apostille or translation , a digital EU power of attorney should be established. The digital EU power of attorney w ill be a multilingual standard model based on a common European template which companies may choose to use in cross-border situations . It should have a minimum mandatory content , while it would be drawn up in accordance with national legal and formal requirements . The standard digital EU power of attorney would only exist in digital form and it should be authenticated by using trust services as referred to in Regulation (EU) No 910/2014. In addition, in order to contribute to higher security of transactions, the digital EU power of attorney should be filed in the register of the company where third parties that can demonstrate legitimate interest can consult it. In particular, third parties, such as lawyers, notaries, credit and financial institutions or competent authorities to whom the digital EU power of attorney is presented , could thus verify the existence of these powers in the register of the company. Member States may also require that the digital EU power of attorney is filed, in addition, in another register in accordance with national law. In order to overcome language barriers and facilitate the ir use, the template for an EU Company Certificate and a standard model of the digital EU power of attorney should be available on the E-justice portal in all Union languages. 
+ (26) Companies often face difficulties and administrative barriers to use company information, which is already available in their national business register, in cross-border situations, including when dealing with competent authorities or in court proceedings in another Member State. The company data available in the business register of one Member State is often not accepted in another Member State without burdensome formalities that generat e costs and delays. Therefore, in order to facilitate cross-border activities in the single market, Member States should ensure that no legalisation or similar formality, such as apostille, be required in respect of certified copies of documents and information related to companies obtained from registers. The same approach should also be applied for documents and information exchanged through the system of interconnection of registers ( for example , pre-operation certificates) as well as for notarial acts or administrative documents in the context of the procedures under this Directive which are used in cross-border context. Such procedures include the formation of companies and the registration of branches in another Member State, cross-border conversions, mergers and divisions. 
+ (27) At the same time, in order to prevent fraud or forgery, it should be possible for the authorities of the Member State in which the company document or information is presented , where they have a reasonable doubt as to its authenticity, to verify the document or information via the issuing register or the register in its own Member State, which could exchange information about the authenticity of the document through the system of interconnection of registers. Such exchange of information should contribute to the mutual trust and cooperation between Member States within the single market. 
+ (28) The companies’ instruments of constitution are sometimes drawn up in two or more languages, one of them often being an official Union language broadly understood by the largest possible number of cross-border users . C ompanies also often voluntarily publish a translation of their instrument of constitution into such a language on their websites. In addition, an increasing amount of company information contained in the instrument of constitution is separately available and easily identifiable with the assistance of multilingual labels through the system of interconnection of registers. Company information will also need to be stored in business registers in a machine-readable and searchable format or as structured data, in line with Directive (EU) 2019/1151, which will facilitate machine translation of such data. These developments make it easier to consult and use such company information in cross-border situations without the need for official translation. Therefore, legal requirements for certified translations of the instrument of constitution and , similarly, of other documents provided by the business register should be limited to what is strictly necessary and their imposition should be allowed only in specific cases such as where the re is a requirement for certified translations of the documents to be disclosed or whe re certified translation is required by other areas of law, such as in the conte x t of judicial proceedings. 
+ (29) In order to increase transparency, facilitate access to company information and create more connected public administrations on a cross-border basis in the single market, it is important to connect the already functioning Union level systems of interconnection that hold important information about companies. Therefore, the system of interconnection of registers (BRIS) should be connected with the EU Beneficial Ownership Registers Interconnection System (BORIS), established by Directive (EU) 2015/849 
+ 57 
+ as amended by Directive (EU) 2018/843 
+ 58 
+ , which links national central registers containing information on the beneficial owners of companies and other legal entities, trusts and other types of legal arrangements, and with the EU Insolvency Registers Interconnection system (IRI) established in accordance with Regulation (EU) 2015/848 
+ 59 
+ . The EUID should be used to link the information about a particular company across the se systems. However, such connection between the systems should not affect the rules and requirements regarding the access to information set out under the relevant frameworks establishing those registers and interconnections . For example, this means that a user of BRIS should only be able to access BORIS if that user is entitled to access BORIS under its respective rules and requirements. 
+ (30) In order to help companies, and in particular SMEs, to expand their business activities cross-border more easily, the ‘once-only’ principle should be further developed in cases where companies register branches in another Member State. The information about the company registering the cross-border branch should be retrieved electronically from the register of the company by the register of the branch through the system of interconnection of registers. This exchange of information, as any other exchange of information between registers through the system of interconnection of registers, will be carried out via secure transmission between national registers , which ensures that the information can be trusted and should not be required to be certified or subject to any legalisation or similar formality. 
+ (31) While information about cross-border branches of EU limited liability companies is already available through the system of interconnection of registers, information about branches of non-EU companies is not, even if it is already disclosed in national registers in line with Directive (EU) 2017/1132. In order to facilitate access to this information at Union level for stakeholders, information about such third country company branches should be made available through the system of interconnection of registers and some of this information should be free of charge , as is already the case for cross-border branches of EU limited liability companies. 
+ (32) The documents and information about the company, including information about legal representatives, partners in partnerships and other persons that can lawfully represent a company, should be made publicly available in business registers in order to ensure legal certainty in dealings between companies and third parties. In particular, third parties, such as creditors, investors and business partners, but also authorities and courts, should have full legal certainty about the person that is appointed to act on behalf of the company and has the power to enter into contracts or conduct business on behalf of the company. In a partnership, partners are often authorised to represent the partnership in dealings with third parties and in legal proceedings. Similarly, with a view to protecting third parties, it is necessary that, where all the shares of a private limited liability company are held by a single shareholder, the identity of that single shareholder, which may be a natural or legal person, is made accessible to the public in the business register. Given that a single shareholder may for example exercise the powers of the general meeting of the company or conclude contracts between him or herself and the company as represented by him or her, third parties should be able to identify the sole member in order to know the identity of the person exercising control of the company or representing the company . . Therefore, such persons should be unequivocally identified. 
+ (33) In order to enhance the functioning of the s ingle m arket, third parties do not only need to have access to information about companies in their own Member State, but also about companies in another Member State. Similarly to a domestic situation, third parties need to have legal certainty about the legal representatives, partners in partnerships and other persons that can lawfully represent a company , and about the single shareholders of companies in other Member State. Therefore, such information should be made available at Union level through the system of interconnection of registers which provides access to such information in a multilingual and comparable way, thereby ensuring the same level of protection of third parties in cross-border situations. In order to ensure legal certainty as to the identity of the legal representatives, partners in partnerships, and other persons that can lawfully represent a company, as well as single shareholders, it is necessary that such persons can be unequivocally identif ied. The need for ensuring certainty about the exact identity of such persons is particularly high in cross-border situations where the system of interconnection of registers provides access to such information on all limited liability companies and “commercial partnerships”. Given that national systems have divergent approaches to the identification of such persons, it is necessary to harmonise the personal data categories that can be accessed at Union level. While the name and surname of such persons constitute personal data that serve to identify them , the name and surname do not guarantee unique identification in all cases and thus need to be complemented by additional information. Nor would adding only the year of birth be sufficient in this regard given the prevalence of certain names, both first name and surname and their combination, in Member States and the fact that popular names often follow yearly cycles, with the effect that many persons with identical names are born in the same year. It is therefore necessary and proportionate to require registers to make available the full date of birth of legal representatives, partners in partnerships, and other persons that can lawfully represent a company, as well as single shareholders. 
+ (34) Member States should process any personal data about legal representatives, partners in partnerships and other persons that can lawfully represent a company, and about single shareholders, including the personal data which is to be made publicly available in the registers, in accordance with Regulation (EU) 2016/679. The Commission should process personal data in the context of this Directive in accordance with Regulation (EU) 2018/1725 of the European Parliament and of the Council 
+ 60 
+ . In particular, Member States and the Commission should implement appropriate data protection safeguards in order to ensure that the processing of personal data for the purposes of this Directive is limited to what is necessary to achieve its objectives. 
+ (35) To ensure that all Union citizens can enjoy the benefits of making more company information available in business registers, it is essential that such information is provided to persons with disabilities in accessible formats. According to Article 9 of the UN Convention on the Rights of Persons with Disabilities, State parties are to take appropriate measures to ensure that persons with disabilities can access, on an equal basis with others, inter alia information and communications, including information and communications technologies and systems, and to other facilities and services open or provided to the public. In this regard, the Directive (EU) 2016/2102 of the European Parliament and of the Council 
+ 61 
+ sets out general accessibility requirements for websites and mobile applications of public sector bodies with a view to make them more accessible to users, in particular persons with disabilities, and to foster interoperability. Directive (EU) 2 0 16/2102 encourages Member States to extend its application to private entities offering facilities and services that are open or provided to the public. Furthermore, Directive (EU) 2019/882 of the European Parliament and of the Council 
+ 62 
+ contains accessibility requirements for certain products and services including their websites and related information. Given the diversity of bodies responsible for the management of business registers, ranging from courts and administrative authorities to private entities, and the diverse activities performed by business registers, it should be assessed whether specific measures are needed to ensure that persons with disabilities are able to access company information provided by the business registers in all the Member States on an equal basis with other users. 
+ (36) The objective s of this Directive, namely to increase the amount and improve the reliability of company data available in business registers or through the system of interconnection of registers, and to enable direct use of company data available in business registers when setting up cross-border branches and subsidiaries and in other cross-border activities and situations, cannot be sufficiently achieved by Member States, but can rather, by reason of their scale and effects, be better achieved at Union level. Therefore, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary to achieve those objectives. 
+ (37) In accordance with the Joint Political Declaration of 28 September 2011 of Member States and the Commission on explanatory documents 
+ 63 
+ , Member States have undertaken to accompany, in justified cases, the notification of their transposition measures with one or more documents explaining the relationship between the components of a directive and the corresponding parts of national transposition instruments. With regard to this Directive, the legislator considers the transmission of such documents to be justified. 
+ (38) The Commission should carry out an evaluation of this Directive. Pursuant to paragraph 22 of the Interinstitutional Agreement of 13 April 2016 on Better Law-Making, that evaluation should be based on the five criteria of efficiency, effectiveness, relevance, coherence and value added and should provide the basis for impact assessments of possible further measures. The evaluation should cover the practical experience with the EU Company Certificate, d igital EU power of attorney and the reduc ed formalities in cross-border situations for companies . In addition, the Commission should assess the potential for cross-sector interoperability between the system of interconnection of registers ( BRIS ) and other systems providing mechanisms for cooperation between competent authorities, such as in the areas of taxation or social security or the Once-only Technical System established under Regulation (EU) 2018/1724 of the European Parliament and of the Council 
+ 64 
+ , with the aim of creating more connected public administrations cross-border in the single market 
+ 65 
+ . Finally, the Commission should also assess the need to introduce additional measures to fully address the needs of persons with disabilities when they access company information provided by the business registers . 
+ (39) The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 and delivered an opinion on [XX XX 2022/2023] 
+ 66 
+ . 
+ (40) Directive s 2009/102/EC and (EU) 2017/1132 should therefore be amended accordingly. 
+ HAVE ADOPTED THIS DIRECTIVE: 
+ ‘Article 1 
+ Amendments to Directive 2009/102/EC 
+ Article 3 of Directive 2009/102/EC is replaced by the following: 
+ Article 3 
+ Where a company becomes a single-member company because all its shares come to be held by a single person, that fact, together with the identity of the sole member, must be recorded in the file or entered in the register as referred to in Article 3(1) and (2) of Directive 68/151/EEC, and made publicly available through the system of interconnection of registers referred to in Article 16(1) of Directive (EU) 2017/1132. 
+ Article 18 and Article 19(1) of Directive (EU) 2017/1132 shall apply mutatis mutandis .’; 
+ Article 2 
+ Amendments to Directive (EU) 2017/1132 
+ Directive (EU) 2017/1132 is amended as follows: 
+ (1) The title of Title I is replaced by the following: 
+ ‘ GENERAL PROVISIONS AND THE ESTABLISHMENT AND FUNCTIONING OF COMPANIES’ ; 
+ (2) Article 1 is amended as follows: 
+ (a) the following indent is inserted after the second indent : 
+ ‘- common set of rules on preventive control of company information,’; 
+ (b) the following indent is inserted after the third indent : 
+ ‘- disclosure requirements in respect of partnerships,’; 
+ (3) in Title I, Chapter II, Section 2, t he title is replaced by the following: 
+ ‘ Nullity of the company and validity of its obligations ’; 
+ (4) i n Article 7 , paragraph 1 is replaced by the following: 
+ ‘1. The coordination measures prescribed by this Section shall apply to the laws, regulations and administrative provisions of the Member States relating to the types of companies listed in Annex II and, where specified, to the types of companies listed in Annex IIB. ’; 
+ (5) Article 10 is replaced by the following: 
+ ‘Article 10 
+ Preventive control 
+ 1. Member States shall provide for preventive administrative or judicial control , at the time of the formation of a company , of the instrument of constitution, the company statutes and any amendments to those documents. Member States may provide that those documents shall be drawn up and certified in due legal form. 
+ 2. Member States shall ensure that their laws for the formation of companies listed in A nnexes II and IIB lay down a procedure for the legality check of a company ’s instrument of constitution , and for its statutes if they are contained in a separate instrument. Member States shall ensure that such check is also carried out in case of any amendment of those documents. 
+ Through the legality check, it shall be ascertained at least that: 
+ (a) the formal requirements for the instrument of constitution , and for the statutes if they are contained in a separate instrument, are fulfilled and that the correct use of templates referred to in Article 13h is verified; 
+ (b) the mandatory minimum content is included; 
+ (c) there are no evident substantive legal irregularities; and 
+ (d) the contribution, whether payment in cash or contribution in kind, has been paid, in accordance with national law. 
+ Where, for the formation of companies listed in Annex IIB, national law does not require the drawing up of instruments of constitution and statutes, the procedure for the legality check shall include the formal and substantive control of the documents required under national law for the formation of such companies. 
+ 3. 
+ Member States may waive the obligation to perform the legality check under paragraph 2, poin ts ( b ) and ( c ) , of this Article where templates referred to in Article 13h are used by applicants. 
+ 4. 
+ The rules laid down in Article 13( 4 ), points ( b ) and ( c ) , Article 13( 5 ) and ( 7 ) , and Article 13g ( 3 ), points ( a ) , ( d ) , ( e ) , ( f ) , shall apply mutatis mutandis to other forms of formation of the compa nies listed in A nnex es II and IIB tha t are not fully online. 
+ Member States shall ensure that rules are laid down to verify the identity of applicants in case of such other forms of formation of companies. 
+ 5. 
+ Paragraphs 1 , 2 and 3 shall apply to fully online a s well as other procedures. ’ 
+ (6) in T itle I, Chapter III , the t itle is replaced by the following: 
+ ‘Online and other procedures (formation, registration and filing), disclosure and registers’; 
+ (7) Article 13 is replaced by the following: 
+ ‘Article 13 
+ Scope 
+ The coordination measures prescribed by this Section and by Section 1A shall apply to the laws, regulations and administrative provisions of the Member States relating to the types of companies listed in Annex II and, where specified, to the types of companies listed in Annexes I , IIA and IIB.’; 
+ (8) i n Article 13a , t he following point s are added: 
+ ‘(7) ‘group’ means a parent company and all its subsidiary companies; 
+ (8) ‘subsidiary company’ means a company controlled by a parent company; 
+ (9 ) ‘ultimate parent company’ means a parent company which controls, either directly or indirectly in accordance with the criteria set out in Article 22 (1) to (5) of Directive 2013/34/ EU of the European Parliament and of the Council * , one or more subsidiary companies and is not controlled by another company; 
+ (10 ) ‘intermediate parent company’ means a parent company governed by the law of a Member State which is not controlled by another company governed by the law of a Member State; 
+ (11 ) ‘legalisation’ means the formality for certifying the authenticity of a public office holder ’ s signature, the capacity in which the person signing the document has acted and, where appropriate, the identity of the seal or stamp which it bears; 
+ (12 ) ‘similar formality’ means the addition of the certificate provided for by th e Apostille Convention. 
+ ________________________ 
+ * 
+ Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC ( OJ L 182, 29.6.2013, p. 19). ’ ; 
+ (9) Article 13b is amended as follows : 
+ (a) i n paragraph 1, point (b) is replaced by the following : 
+ ‘(b) an electronic identification means issued in another Member State in accordance with Regulation (EU) No 910/2014.’; 
+ (b) paragraph 2 is replaced by the following: 
+ ‘ 2. 
+ Member States may refuse to recognise electronic identification means where the assurance levels of those electronic identification means do not comply with the conditions set out in Regulation (EU) No 910/2014. ’ ; 
+ (10) Article 13c is amended as follows: 
+ (a) i n paragraph 2 , the following subparagraph is added : 
+ ‘This is without prejudice to the rules on preventive controls as referred to in Article 10.’; 
+ (b) i n paragraph 3, the following subparagraph is added : 
+ ‘This paragraph shall be applied without prejudice to Articles 16b, 16c, 16d and 16f.’; 
+ (11) i n Article 13f, the following paragraph s are added: 
+ ‘Member States shall ensure that information referred to in the first paragraph, points (a), (c) and (d), includes information also in relation to companies listed in Annex IIB. 
+ Member States shall ensure that the requirements specified in the first paragraph of this Article also cover the rules referred to in Article 15 on filing deadlines and on keeping the information in registers up to date.’; 
+ (12) Article 1 3g is amended as follows: 
+ (a) the following paragraph 2a is inserted: 
+ ‘ 2a. 
+ Member States shall ensure that , where a company listed in Annex II or IIB forms a company in another Member State, the register of the Member State where the company is being formed is to retrieve, through the system of interconnection of registers referred to in Article 22 , the documents and information about the founder company relevant for the procedure of formation available in the register of the Member State where that company is registered, and the company shall not be requested to provide that information or those documents . The reg ister may also retrieve the EU Company C ertificate under Article 16b. 
+ Where any authority or person or body is mandated under national law to deal with any aspect of the formation of a company, and the documents and information referred to in the first subparagraph are needed for the performance of such tasks, the register of the Member State where the company is being formed shall provide the documents and the information retrieved to that authority, person or body. 
+ Member States shall apply this paragraph to any other forms of formation of companies than fully online.’; 
+ (b) paragraph 3 is amended as follows: 
+ (i) point (d) is replaced by the following: 
+ ‘(d) the procedures to verify the legality of the object of the company;’; 
+ (ii) point (e) is replaced by the following 
+ ‘(e) the procedures to verify the legality of the name of the company;’; 
+ (c) in paragraph 4 , point ( a ) is deleted ; 
+ (13) i n Article 1 3h ( 2 ) , first subparagraph, the second sentence is deleted ; 
+ (14) Article 13j is amended as follows: 
+ (a) in paragraph 1 , the first sentence is replaced by the following: 
+ ‘Member States shall ensure that documents and information, including any modification thereof, can be filed online with the register where the company is registered.’; 
+ (b) paragraph 4 is replaced by the following: 
+ ‘ 4. 
+ Articles 10(1) and (2) and 13g(2), (3), (4) and (5) shall apply mutatis mutandis to the online filing of documents and information. ’ ; 
+ (c) the following paragraph is added: 
+ ‘ 6. 
+ Article 10(1) and (2) and Article 13g(2), (3), (4) and (5) shall apply mutatis mutandis to any other form of filing of documents and information than fully online by companies listed in Annex es II and IIB. ’ ; 
+ (15) Article 14 is amended as follows: 
+ (a) the Title of Article 14 is replaced by the following: 
+ ‘Article 14 
+ Documents and information to be disclosed by limited liability companies’; 
+ (b) the follo wing points are added: 
+ ‘(l) the place of central administration in case it is not in the Member State of the registered office; 
+ (m) the principal place of business in case it is not in the Member State of the registered office.’; 
+ (16) t he following Article s are inserted: 
+ ‘ Article 14a 
+ Documents and information to be disclosed by partnerships 
+ Member States shall ensure compulsory disclosure by the types of companies listed in Annex IIB of at least the following documents and information: 
+ (a) the name of the partnership; 
+ (b) the legal form of the partnership; 
+ (c) the registered office of the partnership and the Member State where it is registered; 
+ (d) any change of the registered office of the partnership; 
+ (e) the registration number of the partnership; 
+ (f) the total amount of the contributions of the partners; 
+ (g) the instrument of constitution , and the statutes if they are contained in a separate instrument, if the se documents are required by national law; 
+ (h) any amendments to the instruments referred to in point (g), including any extension of the duration of the partnership; 
+ (i) after every amendment of the instrument of constitution or of the statutes, the complete text of the instrument or statutes as amended to date; 
+ (j) the particulars of the partners who are authorised to represent the partnership in dealings with third parties and in legal proceedings, and information as to whether the partners authorised to represent the partnership may do so alone or are required to act jointly; 
+ (k) where different from point (j) , the particulars of the general partners and, in case of limited partnerships, particulars of the limited partners; 
+ (l) the accounting documents for each financial year which are required to be published in accordance with Council Directives 86/635/EEC * and 91/674/EEC ** and Directive 2013/34/EU; 
+ (m) the winding-up of the partnership; 
+ (n) any declaration of nullity of the partnership by the courts; 
+ (o) the particulars of the liquidators and their respective powers, unless such powers are expressly and exclusively derived from law or from the statutes of the partnership; 
+ (p) any termination of a liquidation and, in Member States where striking off the register entails legal consequences, the fact of any such striking off; 
+ (q) the place of central administration of the partnership in case it is not in the Member State of the registered office; 
+ (r) the principal place of business of the partnership in case it is not in the Member State of the registered office. 
+ Article 14b 
+ Information on groups of companies 
+ 1. 
+ Member States shall ensure that the ultimate parent company governed by the law of a Member State discloses in the register where it is registered at least the following information about its group: 
+ (a) the name and legal form of each subsidiary company; 
+ (b) the Member State or third country where each subsidiary company is registered and its registration number; 
+ (c) the EUID of each subsidiary company governed by the law of a Member State; 
+ (d) the name of the group, if different from the name of the ultimate parent company . 
+ (e) the position of each subsidiary company in the group structure determined on the basis of control . 
+ 2. Where the ultimate parent company is governed by the law of a third country, the intermediate parent company shall disclose the information referred to in paragraph 1. If there is more than one intermediate parent company, only one of them shall disclose that information. The intermediate parent company shall also disclose the name of the ultimate parent company and the third country where the ultimate parent company is registered. 
+ Where no intermediate parent company is governed by the law of a Member State, the subsidiary company governed by the law of a Member State shall disclose the information referred to in paragraph 1. If there is more than one subsidiary company, only one of them shall disclose the information referred to in paragraph 1. The subsidiary company shall also disclose the name of the ultimate parent company and the third country where the ultimate parent company is registered. 
+ 3. Member States may provide that the ultimate parent company governed by the law of a Member State or, where applicable, the intermediate parent company or the subsidiary company referred to in paragraph 2, discloses to the register where it is registered the proportion of the capital held between the ultimate parent and all the subsidiary companies of the group. 
+ 4. The register of the ultimate parent company governed by the law of a Member State or, where applicable, of the intermediate parent company or of the subsidiary company referred to in paragraph 2, shall make publicly available the information provided in accordance with paragraphs 1 to 3, including the date when this information was disclosed, or when it was updated or confirmed in accordance with paragraph 6. 
+ 5. Member States shall ensure that where the ultimate parent company governed by the law of a Member State or, where applicable, the intermediate parent company referred to in paragraph 2, is registered in a different Member State than any of the subsidiary companies, the register of the ultimate parent company or, where applicable, of the intermediate parent company, shares the following information with the register of each subsidiary company registered in a different Member State through the system of interconnection of registers: 
+ (a) 
+ the name of the ultimate parent company , its EUID and, if different from the name of the ultimate parent company , the name of the group ; or 
+ (b) 
+ whe re the ultimate parent company is governed by the law of a third country, the name of th e intermediate parent company referred to in paragraph 2 , its EUID, the name of the ultimate parent company and the third country where it is registered and, if different from the name of the ultimate parent company , the name of the group . 
+ Where there is no intermediate parent company and the subsidiary company referred to in paragraph 2 is registered in a different Member State than other subsidiary companies, the register of that subsidiary company shall share the name of the subsidiary company, its EUID, the name of the ultimate parent company and the third country where it is registered and, if different from the name of the ultimate parent company, the name of the group with the register of each other subsidiary company registered in another Member State through the system of interconnection of registers. 
+ Member States may apply this paragraph also in situations where the ultimate or, where applicable, the intermediate parent company and the subsidiary companies are registered in the same Member State. 
+ The register of each subsidiary company shall make that information publicly available. 
+ 6. The ultimate parent company or, where applicable, the intermediate parent company or the subsidiary company referred to in paragraph 2 shall at least once per year, and in any case no later than the date of the disclosure of the accounting documents and, if no such disclosure is required, by the end of the financial year, update the information required in paragraphs 1 to 3, where applicable, or confirm that no changes to the group structure have occurred. 
+ 7. Member States shall ensure that the ultimate parent company governed by the law of a Member State or, where applicable, the intermediate parent company or the subsidiary company referred to in paragraph 2, shares the information referred to in paragraph 5 with all subsidiary companies governed by the law of a Member State before the disclosure referred to in paragraph 1 or 2. 
+ 8. In the case of changes to the information referred to in paragraph 5, each subsidiary company of the group governed by the law of a Member State, including any intermediate parent company, shall disclose such changes in the register where it is registered within a deadline of two weeks as from the date the changes were made. 
+ 9. 
+ Member States shall ensure that the information referred to in paragraphs 1 to 3, 5, 6 and 8 , where applicable, shall be publicly available free of charge through the system of interconnection of registers. 
+ 10. The system of interconnection of registers shall provide on the portal a visualisation of the structure of the group based on the information referred to in paragraphs 1 or 2, and in paragraphs 3, 6 and 8 and transmitted through the system in accordance with this Article by the registers . 
+ 11. This Article does not apply when the group includes only two companies of which the subsidiary company is within the scope of Directive 2009/102/EC. 
+ * Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutions (OJ L 372, 31.12.1986, p. 1). 
+ ** Council Directive 91/674/EEC of 19 December 1991 on the annual accounts and consolidated accounts of insurance undertakings (OJ L 374, 31.12.1991, p. 7) ’; 
+ _____ 
+ (17) Article 15 is replaced by the following: 
+ ‘Article 15 
+ Up to date registers 
+ 1. Member States shall have in place procedures to ensure that the information about companies listed in Annexes II and IIB stored in the registers referred to in Article 16 is kept up to date. 
+ 2. These procedures shall provide at least the following: 
+ (a) that companies listed in Annex II and IIB file any changes to the documents and information to the register, within a time period not exceeding 15 working days as from the date the changes were made. This time period shall not apply to changes to the information to be disclosed under Article 14b and accounting documents referred to in Article 14 , point (f), and Article , 14a point (l) ; 
+ (b) that any changes in the documents and information regarding companies listed in Annex es II and IIB are entered in the register and are disclosed, in accordance with Article 16(3), within 5 working days from the date of the completion of all formalities required for the filing, including the receipt of all documents and information , which comply with national law ; 
+ (c) that companies listed in Annex es II and IIB confirm once every calendar year that the information about the company in the register is up to date and that the registers make publicly available the date when the company provided that confirmation or updated the information ; 
+ (d) that in order to verify specific company information, registers may consult other relevant authorities or registers within the procedural framework laid down in national law . 
+ 3. Member States shall have in place procedures to verify, where doubts exist, whether companies registered in the registers as referred to in Article 16 fulfil the requirements to continue to be registered. The rules governing these procedures shall include the possibility for the company to correct the relevant information within a reasonable time period, shall ensure that the status of the companies is updated in the register accordingly and where justified include a possibility that companies are struck off from the register in line with national law.’; 
+ (18) i n Article 16, paragraph 1 is replaced by the following: 
+ ‘1. In each Member State, a file shall be opened in a central, commercial or companies register (‘the register’), for each of the companies listed in Annexes II and IIB registered therein. 
+ Member States shall ensure that companies listed in Annexes II and IIB have an EUID, referred to in point (9) of the Annex to Commission Implementing Regulation (EU) 2021/1042*, allowing them to be unequivocally identified in communications between registers through the system of interconnection of registers established in accordance with Article 22 (‘the system of interconnection of registers’). That unique identifier shall comprise, at least, elements making it possible to identify the Member State of the register, the domestic register of origin and the company number in that register and, where appropriate, features to avoid identification errors.’; 
+ ____________ 
+ * Commission Implementing Regulation (EU) 2021/1042 of 18 June 2021 laying down rules for the application of Directive (EU) 2017/1132 of the European Parliament and of the Council as regards technical specifications and procedures for the system of interconnection of registers and repealing Commission Implementing Regulation (EU) 2020/2244 (OJ L 225, 25.6.2021, p 7. 
+ (19) i n Article 16, the following paragraph is added : 
+ ‘7. Paragraphs 2, 3, 4, 5 and 6 of this Article shall apply to all documents and information referred to in Article 14a. Paragraph 2 of this Article shall apply to information referred to in Article 14b.’; 
+ (20) In Article 16a, the following paragraph s are added: 
+ ‘5. Member States shall ensure that electronic copies and extracts of the documents and information provided by the register are compatible with the European Digital Identity Wallet, referred to in [PO: Reference to Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) No 910/2014 as regards establishing a framework for a European Digital Identity]. 
+ 6. This Article shall apply mutatis mutandis to copies of all or any part of the documents and information referred to in Articles 14a and 14b.’; 
+ (21) t he following Articles are inserted: 
+ ‘Article 16b 
+ EU Company Certificate 
+ 1. Member States shall ensure that the registers referred to in Article 16 issue the EU Company Certificate about companies listed in Annexes II and IIB. The EU Company Certificate shall be accepted in all Member States as conclusive evidence of the incorporation of the company and of the information listed in paragraphs 2 and 3 of this Article, respectively, which is held by the register where the company is registered at the time of the issuance. 
+ 2. The EU Company Certificate for the limited liability companies listed in Annex II shall include the following information, including the date when the information in the EU Company Certificate was last updated in accordance with Article 15(2): 
+ (a) the name of the company; 
+ (b) the legal form of the company; 
+ (c) the registration number of the company and the Member State where the company is registered; 
+ (d) the EUID of the company; 
+ (e) the registered office of the company; 
+ (f) the postal or contact address of the company; 
+ (g) the electronic address of the company; 
+ (h) the date of registration of the company ; 
+ (i) the amount of the capital subscribed; 
+ (j) the status of the company; 
+ (k) the particulars of any persons who either as a body or as members of any such body are authorised by the company to represent it with respect to third parties and in legal proceedings and whether those persons may do so alone or are required to act jointly; 
+ (l) the object of the company; 
+ (m) the duration of the company ; 
+ (n) details of the company website where such details are recorded in the national register. 
+ 3. The EU Company Certificate for partnerships listed in Annex IIB shall include the information referred to in paragraph 2, points (a), (b), (c), (d), (e), (f), (g), (h), (j) (k), (l), (m) and (n), of this Article, including the date when the information in the EU Company Certificate was last updated in accordance with Article 15(2). 
+ The following information shall also be included: 
+ (a) the total amount of the contributions of the partners; 
+ (b) the particulars of the general partners and, in case of limited partnerships, particulars about limited partners; 
+ (c) the particulars of the partners who are authorised to represent the partnership with third parties and in legal proceedings. 
+ 4. Member States shall ensure that the EU Company Certificate may be obtained from the register referred to in Article 16 upon application submitted to the register by paper or electronic means. 
+ Member States shall ensure that the electronic version of the EU Company Certificate may also be obtained through the system of interconnection of registers. 
+ 5. The price for obtaining the EU Company Certificate, whether by paper or electronic means, shall not exceed the administrative costs thereof, including the costs of development and maintenance of registers. 
+ Member States shall ensure that each company listed in Annexes II and IIB may obtain its EU Company Certificate in electronic format free of charge at least once per calendar year. 
+ 6. Member States shall ensure that the EU Company Certificate provided by the register in electronic format be authenticated by means of trust services referred to in Regulation (EU) No 910/2014, in order to guarantee that it has been provided by the register and that its content is a true copy of the information held by the register or that it is consistent with the information contained therein. It shall also be compatible with the European Digital Identity Wallet, referred to in [PO: Reference to Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) No 910/2014 as regards establishing a framework for a European Digital Identity]. 
+ 7. Member States shall ensure that the EU Company Certificate provided by the register in paper format is to include the date of issuance, as well as the seal or stamp of the register in order to certify that its content is a true copy of the information held by the register or that it is consistent with the information contained therein. The EU Company Certificate shall also bear a technical feature that allows the electronic verification of the origin and authenticity of the document such as a unique protocol or identification number. 
+ 8. The Commission shall publish the template for the EU Company Certificate on the portal in all official languages of the Union. 
+ Article 16c 
+ Digital EU power of attorney 
+ 1. Member States shall ensure that, in order to carry out procedures in another Member State in the context of this Directive, companies listed in Annexes II and IIB may use a standard model of the digital EU power of attorney in accordance with this Article to authorise a person to represent the company. 
+ The digital EU power of attorney shall be drawn up and revoked in accordance with national legal and formal requirements. The national requirements for drawing up the digital EU power of attorney shall at least include the verification of the identity, legal capacity and authority to represent the company of the person granting the power of attorney. 
+ Member States shall ensure that the digital EU power of attorney is authenticated by means of trust services referred to in Regulation (EU) No 910/2014, and compatible with the European Digital Identity Wallet referred to in [PO: Reference to Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) No 910/2014 as regards establishing a framework for a European Digital Identity]. 
+ 2. The digital EU power of attorney shall be accepted as evidence of the authorised person’s entitlement to represent the company as specified in the document. 
+ 3. Member States shall ensure that the companies referred to in paragraph 1 file the digital EU power of attorney, any amendment to it, and any revocation, with the register where the company is registered. 
+ 4. Competent authorities, registers referred to in Article 16, or any other third party who can demonstrate legitimate interest, shall have access to the digital EU power of attorney in the register of the company. 
+ 5. The Commission shall publish the standard model of the digital EU power of attorney on the portal in all official languages of the Union. 
+ Article 16d 
+ Exemption from legalisation and similar formality 
+ 1. Where copies and extracts of documents and information provided and certified as true copies by a register referred to in Article 16, including certified translations, are to be presented in another Member State, Member States shall ensure that they are exempted from all forms of legalisation and similar formality. 
+ This paragraph applies to electronic copies and extracts of documents and information, including certified translations, where they have been authenticated in accordance with Article 16a(4), and to paper-based ones where they include their date of issuance as well as the seal or stamp of the register and bear a technical feature that allows the electronic verification of the origin and authenticity of the document such as a unique protocol or identification number. 
+ 2. Member States shall ensure that the EU Company Certificate issued in accordance with Article 16b, the digital EU power of attorney referred to in Article 16c and the pre-operation certificates transmitted in accordance with Articles 86n, 127a and 160n are exempted from legalisation or any similar formality. 
+ 3. Where notarial acts, administrative documents, their certified copies and translations issued in a Member State in the context of the procedures of this Directive are to be presented in another Member State, Member States shall ensure that they are exempted from all forms of legalisation and similar formality. 
+ This paragraph applies to electronic notarial acts, administrative documents, their certified copies and translations where they have been authenticated by means of trust services referred to in Regulation (EU) No 910/2014, and to paper-based ones where they bear a technical feature allowing for electronic verification of the origin and authenticity of the document such as a unique protocol or identification number. 
+ Article 16e 
+ Safeguards in case of reasonable doubt 
+ 1. 
+ Where the authorities in another Member State to which the copies and extracts of documents and information provided and certified as true copies by a register in accordance with Article 16d (1) , or the EU Company C ertificate issued in accordance with Article 16b , are presented have a reasonable doubt as to the origin and authenticity, including the identity of the seal or stamp , or have reason to consider that the document ha s been forged or tampered with, they may submit a request for information to the contact point: 
+ (a) in the register that provided these copies and extracts of documents and information, or 
+ (b) in the register of the Member State of the authority in which the copies and extracts of documents and information were presented. That register shall verify through the system of interconnection of registers the authenticity of these copies and extracts of documents and information with the register that provided them. 
+ Member States shall notify to the Commission the relevant contact point in their register referred to in Article 16. 
+ 2. 
+ Requests for information referred to in paragraph 1 shall present the reasons for which the authority doubts the authenticity of the document, including at least the failure to be able to authenticate the extract through electronic verification methods. Every request shall be accompanied by the copy or extract of the document and information concerned transmitted electronically. 
+ A register shall reject, without examination, requests which do not comply with the requirements set out in this paragraph and shall inform the authority that submitted the request of the rejection. 
+ 3. 
+ The contact points shall reply to requests for information made under paragraph 1 within a period not exceeding 5 working days. 
+ 4. 
+ If the authenticity of the copies and extracts of documents and information is not confirmed, the requesting authority may decide not to accept them . 
+ Article 16f 
+ Exemption of translation 
+ 1. Member States shall ensure that for copies or extracts of documents and information provided by the registers referred to in Article 16 and that are used in cross-border situations, including in the situations referred to in Article 13g(2a) and Article 28a(5), a translation is not to be required: 
+ (a) where the document or information is in the official language of the Member State where the document or information is presented , or in one of the official languages if that Member State has several official languages, or in any other language which that Member State expressly accepts; 
+ (b) where the information is accessible through the system of interconnection of registers and identifiable through explanatory labels referred to in Article 18; 
+ (c) where the specific information is included in the EU Company C ertificate referred to in Article 16b. 
+ 2. Without prejudice to paragraph 1, Member States shall ensure, that where the instruments of constitution and the statutes if they are contained in a separate instrument, and other documents provided by the registers referred to in Article 16, are to be presented in another Member State, a certified translation is only to be required when this is justified by the purpose for which the document shall be used, such as to meet a mandatory public disclosure requirement or to be presented in judicial proceedings, and is strictly necessary.’; 
+ (22) i n Article 17, the following paragraph is added : 
+ ‘4. This Article shall also apply to the information on partnerships referred to in Article 14a.’; 
+ (23) Article 18 is replaced by the following: 
+ ‘Article 18 
+ Availability of electronic copies of documents and information 
+ 1. 
+ Electronic copies of the documents and information referred to in Articles 14, 14a, and 14b shall also be made publicly available through the system of interconnection of registers. Member States may also make available documents and information referred to in Articles 14, 14a and 14b for types of companies other than those listed in Annex es II and IIB. 
+ Article 16a(3), (4) and (5) shall apply mutatis mutandis also to electronic copies of the documents and information made publicly available through the system of interconnection of registers. 
+ 2. 
+ Member States shall ensure that the documents and information referred to in Articles 14, 14a, 14b, Articles 19(2) and 19a(2) are available through the system of interconnection of registers in a standard message format and accessible by electronic means. Member States shall also ensure that minimum standards for the security of data transmission are respected. 
+ 3. 
+ The Commission shall provide a search service in all the official languages of the Union in respect of companies registered in Member States, in order to make available through the portal: 
+ (a) the documents and information referred to in Articles 14, 14a, 14b, Articles 19(2) and 19a(2), including for types of companies other than those listed in Annexes II and IIB, where such documents are made available by Member States; 
+ (aa) the documents and information referred to in Articles 86g, 86n, 86p, 123, 127a, 130, 160g, 160n and 160p; 
+ (b) the explanatory labels, available in all the official languages of the Union, listing that information and the types of those documents. 
+ 4. 
+ Member States shall ensure that, th r ough t he system of interconnection of business registers , the first name, surname and date of birth of the persons referred to in Article 14 , point (d), Article 14a , points (j) and (k), Articles 19(2) , point (g) , 19a (2) , point (g), 30(1) , point (e) and 36(3) , point (f) , are to be mad e publicly available . 
+ 5. 
+ Member States shall ensure that, th r ough t he system of interconnection of business registers , the first name, surname and the date of birth of the persons referred to in Article 3 of Directive 2009/102/EC are to be mad e publicly available . 
+ 6. 
+ Member States shall ensure that the registers, authorities or persons or bodies mandated under national law to deal with any aspect of procedures covered by this Directive do not store personal data transmitted through the system of interconnection of registers for the purposes of Articles 13g, 28a and 30a, unless otherwise pro vided by Union or national law.’ ; 
+ (24) t he following Article is inserted: 
+ ‘Article 19a 
+ Fees chargeable for documents and information as regards partnerships 
+ 1. The fees charged for obtaining the documents and information referred to in Article 14a through the system of interconnection of registers shall not exceed the administrative costs thereof, including the costs of development and maintenance of registers. 
+ 2. Member States shall ensure that the following information and documents are available free of charge through the system of interconnection of registers about companies listed in Annex IIB: 
+ (a) the name and legal form of the partnership; 
+ (b) the registered office of the partnership and the Member State where it is registered; 
+ (c) the registration number of the partnership and its EUID; 
+ (d) details of the partnership website where such details are recorded in the national register; 
+ (e) the status of the partnership, such as when it is closed, struck off the register, wound up, dissolved, economically active or inactive as defined in national law; 
+ (f) the object of the partnership; 
+ (g) the particulars of partners who represent the partnership in dealings with third parties and in legal proceedings, and information as to whether the partners authorised to represent the partnership may do so alone or are required to act jointly; 
+ (h) information on any branches opened by the partnership in another Member State, including the name, registration number, EUID and the Member State where the branch is registered.’; 
+ (25) i n Article 21, the following paragraph is added : 
+ ‘5. This Article shall apply to Articles 14a and 14b. ’; 
+ (26) i n Article 22, the following paragraph is added: 
+ ‘7. Connections shall be established between the system of interconnection of registers, the beneficial ownership registers interconnection pursuant to Articles 30(10) and 31(9) of Directive (EU) 2015/849 of the European Parliament and of the Council * and the insolvency registers interconnection pursuant to Article 25(1) of Regulation (EU) 2015/848 of the European Parliament and of the Council **. 
+ The establishment of connections in accordance with the first subparagraph shall not alter or circumvent the rules and requirements related to the access of the information set out under the relevant frameworks establishing those registers and interconnections.’; 
+ ___ 
+ Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, OJ L 141, 5.6.2015, p. 73–117. 
+ * * 
+ Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 on insolvency proceedings (recast), OJ L 141, 5.6.2015, p. 19–72. 
+ (27) i n Article 24, the following paragraph is added: 
+ ‘2. By means of implementing acts, the Commission shall also adopt the following: 
+ (a) the detailed list of data and the technical specifications defining the methods of retrieval of information between the register of the founding company and the register of the company being formed as referred to in Article 13g(2a), and between the register of the company and the register of the branch as referred to in Article 28a(5); 
+ (b) the detailed list of data, the use of explanatory labels and the technical specifications defining the information referred to in Articles 14a, 14b and Article 19a(2) to be made available through the system of interconnection of registers; 
+ (c) the detailed list of data and the technical specifications for the purpose of exchanging information between registers as referred to in Article 14b(5); 
+ (d) the technical details and detailed list of data for the visualisation of the structure of the group referred to in Article 14b(10); 
+ (e) the technical standards and taxonomy for the documents and information to be filed in accordance with Article 16(6), taking into account the technical standards already in use in Member States’ registers; 
+ (f) the technical specifications, taxonomy and the multilingual templates for the EU Company Certificate referred to in Article 16b; 
+ (g) the technical specifications, taxonomy and the multilingual standard model of the digital EU power of attorney referred to in Article 16c; 
+ (h) the technical specifications and detailed list of data defining the mutual accessibility between interconnections referred to in Article 22(7), which shall include the use of the unique identifier for companies attributed in accordance with Article 16; 
+ (i) the technical specifications and detailed list of data defining the verification referred to in Article 16e(1), point (b). 
+ Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 164(2).’; 
+ (28) i n Article 26, the following subparagraph is added: 
+ ‘This Article shall also apply to companies listed in Annex IIB.’; 
+ (29) Article 28 is replaced by the following: 
+ ‘Article 28 
+ Penalties 
+ Member States shall provide for effective, proportionate and dissuasive penalties at least in the case of: 
+ (a) failure to disclose the documents and information as required by Articles 14, 14a and 14b; 
+ (b) failure to file changes within the time period laid down in Article 15(2); 
+ (c) omission from commercial documents or from any company website of the compulsory information provided for in Article 26. 
+ Member States shall take all the measures necessary to ensure that those penalties are enforced.’; 
+ (30) i n Article 28a ( 4 ) , point ( c) is replaced by the following: 
+ ‘(c) verify the legality of the documents and information submitted for the registration of the branch, save the documents and information retrieved from the register of the company in accordance with paragraph 5;’; 
+ (31) i n Article 28a ( 5 ) , the first subparagraph is deleted ; 
+ (32) i n Article 28a, the following paragraph is inserted: 
+ ‘5a 
+ Member States shall ensure that where a company listed in Annex es II or IIB registers a branch in another Member State, the register where the branch is being registered shall retrieve through the system of interconnection of registers the documents and information about the company relevant for the procedure of registration available in the register of the Member State where that company is registered, and the company shall not be requested to provide those. The reg ister may also retrieve the EU Company C ertificate under Article 16b. Member States shall also apply this paragraph to any other forms of registration of branches than fully online. 
+ Where any authority or person or body is mandated under national law to deal with any aspect of the registration of a branch, and the documents and information referred to in the first subparagraph are needed for the performance of such tasks, the register of the Member State where the branch is being registered shall provide the documents and information retrieved to that authority, person or body. ’; 
+ (33) i n Article 28b ( 1 ) , the first sentence is replaced by the following: 
+ ‘ 1. 
+ Member States shall ensure that documents and information referred to in Article 30 or any modification thereof may be filed online in accordance with Article 15 (2), points (a) and (b) .’ ; 
+ (34) i n Article 30(2) , point ( c ) is deleted ; 
+ (35) i n Article 36, the following paragraphs are added: 
+ ‘ 3. 
+ The documents and information referred to in Article 37 shall be made publicly available through the system of interconnection of registers. Article 18 and Article 19(1) shall apply mutatis mutandis . 
+ 4. 
+ Member States shall ensure that at least the following information and documents are available free of charge through the system of interconnection of registers: 
+ (a) the name of the company and the name of the branch if that is different from the name of the company; 
+ (b) the legal form of the company ; 
+ (c) the law of the State by which the company is governed; 
+ (d) where that law so provides, the register in which the company is entered and the registration number of the company in that register; 
+ (e) the address of the branch; 
+ (f) the particulars of the persons who are authorised to represent the company in dealings with third parties and in legal proceedings: 
+ — as a company organ constituted pursuant to law or as members of any such organ 
+ — as permanent representatives of the company for the activities of the branch. 
+ The extent of the powers of the persons authorised to represent the company shall be stated, as well as whether those persons may represent the company alone or are required to act jointly; 
+ (g) the unique identifier of the branch in accordance with paragraph 5 . 
+ 5. 
+ Member State s shall apply Article 29(4) mutatis mutandis to the branches of companies from third countries . ’ ; 
+ (36) Article 40 is replace d by the following: 
+ ‘Article 40 
+ Penalties 
+ Member States shall provide for effective, proportionate and dissuasive penalties in the event of failure to disclose the matters set out in Articles 29, 30, 31, 36, 37 and 38 and of omission from letters and order forms of the compulsory information provided for in Articles 35 and 39. 
+ Member States shall take all the measures necessary to ensure that those penalties are enforced.’ 
+ (37) 
+ Annex II B , as set out in the Annex to this Directive, is inserted. 
+ Article 3 
+ Transposition 
+ 1. Member States shall adopt and publish, by [ PO: the last day of the 24 th month after the date of entry into force of this amending Directive ] at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those provisions. 
+ They shall apply those provisions from [PO: the last day of the 30 th month after the date of entry into force of this amending Directive ]. 
+ When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 
+ 2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive. 
+ Article 4 
+ Reporting and review 
+ 1. The Commission shall, by [ PO: t he date five years after the end of the transposition period of this Directive ] , carry out an evaluation of this Directive and present a r eport on the findings to the European Parliament, to the Council and to the European Economic and Social C ommittee. 
+ Member States shall provide the Commission with the information necessary for the preparation of the report, in particular by providing data related to paragraph 2. 
+ 2. The report of the Commission shall evaluate , amongst others, the following: 
+ (a) the practical experience with the us e of the EU C ompany C ertificate ; 
+ (b) the practical experience with the use of Digital EU power of attorney ; 
+ (c) t he practical experience with the reduction of formalities in cross-border situations for companies . 
+ 3. The Commission shall also assess 
+ (a) the potential for cross-sector interoperability between the system of interconnection of business registers and other systems providing mechanisms for cooperation between competent authorities ; 
+ (b) whether additional measures are needed to fully address the needs of persons with disabilities when they access company information provided by the business registers . 
+ 4. Th e report shall be accompanied, if appropriate, by a proposal for further amend ment of Directive (EU) 2017/1132 . 
+ Article 5 
+ Entry into force 
+ This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . 
+ Article 6 
+ Addressees 
+ This Directive is addressed to the Member States. 
+ Done at Brussels, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The President 
+ LEGISLATIVE FINANCIAL STATEMENT 
+ Contents 
+ 1. FRAMEWORK OF THE PROPOSAL/INITIATIVE 
+ 1.1. Title of the proposal/initiative 
+ 1.2. Policy area(s) concerned 
+ 1.3. The proposal/initiative relates to: 
+ 1.4. Objective(s) 
+ 1.4.1. General objective(s) 
+ 1.4.2. Specific objective(s) 
+ 1.4.3. Expected result(s) and impact 
+ 1.4.4. Indicators of performance 
+ 1.5. Grounds for the proposal/initiative 
+ 1.5.1. Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative 
+ 1.5.2. Added value of Union involvement 
+ 1.5.3. Lessons learned from similar experiences in the past 
+ 1.5.4. Compatibility with the Multiannual Financial Framework and possible synergies with other appropriate instruments 
+ 1.5.5. Assessment of the different available financing options, including scope for redeployment 
+ 1.6. Duration and financial impact of the proposal/initiative 
+ 1.7. Method(s) of budget implementation planned 
+ 2. MANAGEMENT MEASURES 
+ 2.1. Monitoring and reporting rules 
+ 2.2. Management and control system(s) 
+ 2.2.1. Justification of the management mode(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed 
+ 2.2.2. Information concerning the risks identified and the internal control system(s) set up to mitigate them 
+ 2.2.3. Estimation and justification of the cost-effectiveness of the controls (ratio of "control costs ÷ value of the related funds managed"), and assessment of the expected levels of risk of error (at payment & at closure) 
+ 2.3. Measures to prevent fraud and irregularities 
+ 3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE 
+ 3.1. Heading(s) of the multiannual financial framework and expenditure budget line(s) affected 
+ 3.2. Estimated financial impact of the proposal on appropriations 
+ 3.2.1. Summary of estimated impact on operational appropriations 
+ 3.2.2. Estimated output funded with operational appropriations 
+ 3.2.3. Summary of estimated impact on administrative appropriations 
+ 3.2.4. Compatibility with the current multiannual financial framework 
+ 3.2.5. Third-party contributions 
+ 3.3. Estimated impact on revenue 
+ LEGISLATIVE FINANCIAL STATEMENT 
+ 1. FRAMEWORK OF THE PROPOSAL/INITIATIVE 
+ 1.1. Title of the proposal/initiative 
+ Proposal for a Directive of the European Parliament and of the Council amending Directives 2009/102/EC and (EU) 2017/1132 as regards further expanding and upgrading the use of digital tools and processes in company law 
+ 1.2. Policy area(s) concerned 
+ Company Law/single market 
+ 1.3. The proposal/initiative relates to: 
+ ☒ a new action 
+  a new action following a pilot project/preparatory action 
+ 67 
+  the extension of an existing action 
+  a merger or redirection of one or more actions towards another/a new action 
+ 1.4. Objective(s) 
+ 1.4.1. General objective(s) 
+ The general objectives of this proposal are: 
+ – Enhanced transparency and trust in the business env i ronment 
+ – More digitalised and connected cross-border public services for companies 
+ – Easier cross-border expans i on for SMEs 
+ – More effective EU action against abuse and fraud. 
+ 1.4.2. Specific objective(s) 
+ Specific objective No 1: 
+ Increasing the amount and improving the reliability of company data available in business registers and/or Business Registers Interconnection System (BRIS). 
+ Specific objective No 2: 
+ Enabling direct use of company data available in business registers when setting up cross-border branches or subsidiaries and in other cross-border activities and situations. 
+ 1.4.3. Expected result(s) and impact 
+ The expected results and impact of this proposal are: 
+ - Businesses: More important company data publicly available in business registers and at EU level through BRIS and improving its reliability will reduce overall administrative burden on companies and in turn facilitate access to finance and the creation of businesses. The facilitation of the cross-border use of such data, when creating new subsidiaries or branches cross-border or in other cross-border situations will result in important recurrent cost savings and thus will substantially ease conducting cross-border business activities and facilitate access to other Member States’ markets. 
+ - Business registers: The increased accessibility and reliability of company data, and better connections between registers, thanks to the once-only principle and also connecting other EU level systems/registers to BRIS, should facilitate registers’ work. One-off costs for business registers to adapt the IT systems, and recurrent costs e.g. to carry out ex-ante verification of company data. 
+ - Other public authorities: Easier access to more sets of information will facilitate the work of authorities, for example in fight fraud and abuse. The application of once-only principle and more connected public administration through digitalisation will result in burden reduction also for public authorities. Authorities in charge of issuing apostille will lose some revenue from apostille but will have less administrative burden given the current legal uncertainty and the related human resources and time needed to issue the apostille. 
+ - Citizens and consumers will benefit from easier access to reliable company data. Society at large will benefit from the initiative as it will facilitate the fight against fraud and abuse and will promote digital tools. 
+ - Positive environmental impact, mainly stemming from an increased possibility to use digital procedures and tools between business registers and companies, and also between business registers in different Member States through BRIS, and an increased application of the once-only principle (meaning e.g. the reduced use of paper, need to travel). 
+ 1.4.4. Indicators of performance 
+ Indicator No 1 (Specific Objective No 1) 
+ The indicators will be as follows: 
+ - number of requests for company data through the “Find a company” page of BRIS on the European e-Justice Portal, 
+ - number of requests for company data from the Beneficial Ownership Registers Interconnection (BORIS) and the Insolvency Register Interconnection (IRI), 
+ - number of legal entities with an EUID number (the company identifier automatically attributed to companies whose information are available through BRIS), 
+ - views of stakeholders (companies, registers, public authorities) on the extent to which it is possible to search for and access company data on a cross-border basis. 
+ The indicators will be measured against the baseline (e.g. numbers of requests before the implementation starts, mainly on the basis of statistical data from BRIS). The target is a considerable increase in the numbers. More precise target is not possible as the figures depend also on several other factors not related to the proposal (e.g. economic situation in the single market). 
+ The indicators will be monitored on annual basis, starting not earlier than one year from the time when the measures are fully transposed and operational in Member States, and for a duration of 5 years (to feed into the evaluation report of the Directive). 
+ Indicator No 2 (Specific Objective No 2) 
+ The indicators will be as follows: 
+ - costs for companies of setting up subsidiaries or branches in other Member States, 
+ - number of issued common company extracts, 
+ - views of stakeholders (companies, registers, public authorities) on the extent to which it is possible to use company data directly on a cross-border basis, 
+ The indicators will be measured against the baseline (e.g. costs before the implementation starts, mainly on the basis of statistical data from BRIS, business registers and Member States authorities, where data is available). The target is a considerable reduction in costs or increase in numbers of issued common company extracts, more precise target is not possible as the figures depend also on several other factors not related to the proposal (e.g. economic situation in the single market). 
+ The indicators will be monitored on annual basis, starting not earlier than one year from the time when the measures are fully transposed and operational in Member States, and for a duration of 5 years (to feed into the evaluation report of the Directive). 
+ 1.5. Grounds for the proposal/initiative 
+ 1.5.1. Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative 
+ The implementation of this proposal will follow a phased approach. Upon entry into force of this Directive, work will commence towards the adoption of an implementing act. In parallel, the technical developments in BRIS and in Member States will be carried out. 
+ A provisional implementation timeline can be illustrated as follows: 
+ - 2024 Adoption of the Directive 
+ - 2025 Entry into force of the Directive 
+ - 2026 Adoption of the implementing act 
+ - 2026-2027 Technical implementation in BRIS and in Member States. 
+ - 2027 Transposition by Member States. 
+ - 2028- Implementation and application of the Directive by Member States. 
+ 1.5.2. Added value of Union involvement 
+ Reasons for action at European level (ex-ante) 
+ This initiative focuses on cross-border issues in the field of company law. It will improve the availability and reliability of comparable and multilingual company data at EU level and will facilitate the use of this company data on a cross-border basis. A coordinated action is required to ensure that all Member States have the data in their business registers and that this data is made accessible in a comparable and multilingual format centrally at EU level through BRIS. A co-ordinated action is required also to ensure that there are common checks of company data before it is entered into a national business registers to improve its reliability and facilitate its use in a cross-border situations. Similarly, the value added from linking the EU-level systems of interconnection of registers can also be only achieved through EU action. 
+ A coherent legal framework for cross-border availability of company data and for its cross-border use can be achieved exclusively at EU level. Member States would not be able to bring about sufficient improvement to those problems on their own. 
+ 1.5.3. Lessons learned from similar experiences in the past 
+ The proposal takes into account the lessons learned from the establishment and operation of the BRIS system and from the negotiations, transposition and implementation of the Company Law Digitalisation Directive (Directive (EU) 2019/1151). 
+ 1.5.4. Compatibility with the Multiannual Financial Framework and possible synergies with other appropriate instruments 
+ The proposal contributes to the objective of the Communication 2030 Digital Compass: the European way for the Digital Decade to provide online key public services online for European businesses. It also addresses obstacles to cross-border expansion faced by small and medium-sized enterprises (SMEs) in line with the Communications Updating the 2020 New Industrial Strategy and SME Strategy for a sustainable and digital Europe . It also contributes to removing remaining unjustified barriers and administrative burdens in the single market as called for in the European Council conclusions of 24-25 March 2022. 
+ It establishes synergies in particular with: 
+ - Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, 
+ - Regulation (EU) 910/2014 95 (the ‘e-IDAS’ regulation) and its ongoing revision, as builds on the technical framework provided by that Regulation for e-identification and trust services. 
+ 1.5.5. Assessment of the different available financing options, including scope for redeployment 
+ The initiative re-uses the eDelivery building block. 
+ 1.6. Duration and financial impact of the proposal/initiative 
+  limited duration 
+ –  
+ in effect from [DD/MM]YYYY to [DD/MM]YYYY 
+ –  
+ Financial impact from YYYY to YYYY for commitment appropriations and from YYYY to YYYY for payment appropriations. 
+ ☒ unlimited duration 
+ – Implementation with a start-up period from 2025 to 2028, 
+ – followed by full-scale operation. 
+ 1.7. Method(s) of budget implementation planned 
+ 68 
+ ☒ Direct management by the Commission 
+ – ☒ by its departments, including by its staff in the Union delegations; 
+ –  
+ by the executive agencies 
+  Shared management with the Member States 
+  Indirect management by entrusting budget implementation tasks to: 
+ –  third countries or the bodies they have designated; 
+ –  international organisations and their agencies (to be specified); 
+ –  the EIB and the European Investment Fund; 
+ –  bodies referred to in Articles 70 and 71 of the Financial Regulation; 
+ –  public law bodies; 
+ –  bodies governed by private law with a public service mission to the extent that they are provided with adequate financial guarantees; 
+ –  bodies governed by the private law of a Member State that are entrusted with the implementation of a public-private partnership and that are provided with adequate financial guarantees; 
+ –  bodies or persons entrusted with the implementation of specific actions in the CFSP pursuant to Title V of the TEU, and identified in the relevant basic act. 
+ – If more than one management mode is indicated, please provide details in the ‘Comments’ section. 
+ Comments 
+ The new proposal, among other things, uses and expands the scope of the existing Business Registers Interconnection System (BRIS), which financing by the EU budget is mandatory under EU law, and that is already being funded by the Digital Europe Programme and managed by the Commission. The IT development required by this new proposal does not require additional funds compared to those already being provided by the Digital Europe Programme for the evolutive maintenance (new development) and conservative maintenance (bug fixing) of BRIS (i.e. 2 million EUR per year), nor additional staff resources. 
+ 2. MANAGEMENT MEASURES 
+ 2.1. Monitoring and reporting rules 
+ Specify frequency and conditions. 
+ The implementation of the Directive will be reviewed five years after its full application. The Commission will report on the findings to the European Parliament and to the Council. 
+ 2.2. Management and control system(s) 
+ 2.2.1. Justification of the management mode(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed 
+ This initiative builds on the already existing Business Registers Interconnection System (BRIS) developed by the Commission (DG DIGIT). This proposal for a new Directive does not alter the management mode, funding implementation mechanism, payment modalities or control strategy already in place for the system and employed by the Commission. 
+ The proposed Directive enlarges the scope of the already established BRIS system, which provides digital channels for electronic communication between business registers and between them and the European e-Justice Portal, and provides new ways to obtain this data (e.g. through BORIS and IRI). 
+ This requires the further development of already existing technical specifications and standards, further development work on the already existing software and coordination of the activities of national authorities. 
+ In order to achieve these tasks, this proposed Directive does not need to increase the current staffing of Commission’s services working on the business management (1 FTE) and project management (1.25 FTEs) of BRIS, and does not need to increase the funds already being provided by the Digital Europe Programme for the mandatory development of the BRIS system (around 2 million EUR per year). 
+ 2.2.2. Information concerning the risks identified and the internal control system(s) set up to mitigate them 
+ The main identified risks relate to: 
+ (a) Time and cost overruns due to unforeseen IT implementation issues with regard to the further IT development needed by the Commission to enlarge the scope of the existing BRIS IT system. This risk is mitigated by the fact that BRIS system already exists and is mature, and is based on building blocks that are also already existing and mature – namely, the eDelivery building block. 
+ This risk is already addressed by existing standard internal control systems used in BRIS, in particular project management controls that are applicable to all systems developed by the Commission, (i.e. governance oversight, project and risk management) which include PM 2 , the project management methodology developed by the Commission. 
+ (b) Implementation and rollout delays on the side of Member States’ respective authorities. This risk is already mitigated by established communication and reporting tools, cooperation agreements, regular follow-up meetings and by providing technical support to the national authorities in charge of implementation. 
+ 2.2.3. Estimation and justification of the cost-effectiveness of the controls (ratio of "control costs ÷ value of the related funds managed"), and assessment of the expected levels of risk of error (at payment & at closure) 
+ This initiative does not affect the cost-effectiveness of the existing Commission controls. 
+ 2.3. Measures to prevent fraud and irregularities 
+ Specify existing or envisaged prevention and protection measures, e.g. from the Anti-Fraud Strategy. 
+ BRIS is directly managed by the Commission. The European Central Platform (ECP) component of the system is developed internally by DG DIGIT, while the European Access Point (EAP) component is developed for DG JUST by a contractor selected through a tendering procedure. 
+ 3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE 
+ 3.1. Heading(s) of the multiannual financial framework and expenditure budget line(s) affected 
+ · Existing budget lines 
+ In order of multiannual financial framework headings and budget lines. 
+ Heading of multiannual financial framework 
+ Budget line 
+ Type of 
+ expenditure 
+ Contribution 
+ Number 
+ Diff./Non-diff. 
+ 69 
+ from EFTA countries 
+ 70 
+ from candidate countries and potential candidates 
+ 71 
+ From other third countries 
+ other assigned revenue 
+ 02.040501 
+ Diff. 
+ YES 
+ NO 
+ NO 
+ NO 
+ · New budget lines requested 
+ In order of multiannual financial framework headings and budget lines. 
+ Heading of multiannual financial framework 
+ Budget line 
+ Type of 
+ expenditure 
+ Contribution 
+ Number 
+ Diff./Non-diff. 
+ from EFTA countries 
+ from candidate countries and potential candidates 
+ from other third countries 
+ other assigned revenue 
+ N/A 
+ 3.2. Estimated financial impact of the proposal on appropriations 
+ 3.2.1. Summary of estimated impact on operational appropriations 
+ –  
+ The proposal/initiative does not require the use of operational appropriations 
+ – ☑ The proposal/initiative requires the use of operational appropriations, as explained below: 
+ EUR million (to three decimal places) 
+ Heading of multiannual financial 
+ framework 
+ Number 
+ Heading 1 : Single Market, Innovation & Digital 
+ 02.040501 
+ 2025 
+ 2026 
+ 2027 
+ 72 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ TOTAL 
+ □ Operational appropriations 
+ 02.040501 
+ Commitments 
+ (1a) 
+ 2.000 
+ 2.000 
+ 2.000 
+ 6.000 
+ Payments 
+ (2a) 
+ 2.000 
+ 2.000 
+ 2.000 
+ 6.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ Payments 
+ (2b) 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 73 
+ Budget line 
+ (3) 
+ TOTAL appropriations 
+ for 02.040501 
+ Commitments 
+ =1a+1b +3 
+ Payments 
+ =2a+2b 
+ +3 
+ □ TOTAL operational appropriations 
+ Commitments 
+ (4) 
+ 2.000 
+ 2.000 
+ 2.000 
+ 6.000 
+ Payments 
+ (5) 
+ 2.000 
+ 2.000 
+ 2.000 
+ 6.000 
+ □ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes 
+ (6) 
+ TOTAL appropriations 
+ under HEADING 1 : Single Market, Innovation & Digital 
+of the multiannual financial framework 
+ Commitments 
+ =4+ 6 
+ 2.000 
+ 2.000 
+ 2.000 
+ 6.000 
+ Payments 
+ =5+ 6 
+ 2.000 
+ 2.000 
+ 2.000 
+ 6.000 
+ If more than one operational heading is affected by the proposal / initiative, repeat the section above: 
+ □ TOTAL operational appropriations (all operational headings) 
+ Commitments 
+ (4) 
+ 2.000 
+ 2.000 
+ 2.000 
+ 6.000 
+ Payments 
+ (5) 
+ 2.000 
+ 2.000 
+ 2.000 
+ 6.000 
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes (all operational headings) 
+ (6) 
+ TOTAL appropriations 
+ under HEADINGS 1 to 6 
+of the multiannual financial framework 
+ (Reference amount) 
+ Commitments 
+ =4+ 6 
+ 2.000 
+ 2.000 
+ 2.000 
+ 6.000 
+ Payments 
+ =5+ 6 
+ 2.000 
+ 2.000 
+ 2.000 
+ 6.000 
+ Heading of multiannual financial 
+ framework 
+ 7 
+ ‘Administrative expenditure’ 
+ This section should be filled in using the 'budget data of an administrative nature' to be firstly introduced in the 
+ Annex to the Legislative Financial Statement 
+ (Annex 5 to the Commission decision on the internal rules for the implementation of the Commission section of the general budget of the European Union), which is uploaded to DECIDE for interservice consultation purposes. 
+ EUR million (to three decimal places) 
+ 2025 
+ 2026 
+ 2027 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ TOTAL 
+ DG JUST 
+  Human resources 
+ 0.385 
+ 0.385 
+ 0.385 
+ 1.155 
+ □ Other administrative expenditure 
+ TOTAL DG JUST 
+ Appropriations 
+ 0.385 
+ 0.385 
+ 0.385 
+ 1.155 
+ TOTAL appropriations 
+ under HEADING 7 
+of the multiannual financial framework 
+ (Total commitments = Total payments) 
+ 0.385 
+ 0.385 
+ 0.385 
+ 1.155 
+ EUR million (to three decimal places) 
+ 2025 
+ 2026 
+ 2027 
+ 74 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ TOTAL 
+ TOTAL appropriations 
+ under HEADINGS 1 to 7 
+of the multiannual financial framework 
+ Commitments 
+ 2.385 
+ 2.385 
+ 2.385 
+ 7.155 
+ Payments 
+ 2.385 
+ 2.385 
+ 2.385 
+ 7.155 
+ 3.2.2. Estimated output funded with operational appropriations 
+ Commitment appropriations in EUR million (to three decimal places) 
+ Indicate objectives and outputs 
+  
+ 2025 
+ 2026 
+ 2027 
+ 75 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ TOTAL 
+ OUTPUTS 
+ Type 
+ 76 
+ Average cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ Total No 
+ Total cost 
+ SPECIFIC OBJECTIVE No 1 
+ 77 
+ Expanding the scope of the existing Business Registers Interconnection System (BRIS) 
+ - Output 
+ IT system 
+ 2.000 
+ 1 
+ 2.000 
+ 1 
+ 2.000 
+ 1 
+ 2.000 
+ - Output 
+ - Output 
+ Subtotal for specific objective No 1 
+ 1 
+ 2.000 
+ 1 
+ 2.000 
+ 1 
+ 2.000 
+ SPECIFIC OBJECTIVE No 2 ... 
+ - Output 
+ Subtotal for specific objective No 2 
+ TOTALS 
+ 1 
+ 2.000 
+ 1 
+ 2.000 
+ 1 
+ 2.000 
+ 3.2.3. Summary of estimated impact on administrative appropriations 
+ – X 
+ The proposal/initiative does not require the use of appropriations of an administrative nature 
+ –  
+ The proposal/initiative requires the use of appropriations of an administrative nature, as explained below: 
+ EUR million (to three decimal places) 
+ 2025 
+ 2026 
+ 2027 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ TOTAL 
+ HEADING 7 
+ of the multiannual financial framework 
+ Human resources 
+ Other administrative expenditure 
+ Subtotal HEADING 7 
+ of the multiannual financial framework 
+ Outside HEADING 7 
+ 78 
+ of the multiannual financial framework 
+ Human resources 
+ Other expenditure 
+ of an administrative nature 
+ Subtotal 
+ outside HEADING 7 
+ of the multiannual financial framework 
+ TOTAL 
+ The appropriations required for human resources and other expenditure of an administrative nature will be met by appropriations from the DG that are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints. 
+ 3.2.3.1. Estimated requirements of human resources 
+ –  
+ The proposal/initiative does not require the use of human resources. 
+ – X 
+ The proposal/initiative requires the use of human resources, as explained below: 
+ Estimate to be expressed in full time equivalent units 
+ 2025 
+ 2026 
+ 2027 
+ 79 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ □ Establishment plan posts (officials and temporary staff) 
+ 20 01 02 01 (Headquarters and Commission’s Representation Offices) 
+ 2.25 
+ 2.25 
+ 2.25 
+ 20 01 02 03 (Delegations) 
+ 01 01 01 01 (Indirect research) 
+ 01 01 01 11 (Direct research) 
+ Other budget lines (specify) 
+ □ External staff (in Full Time Equivalent unit: FTE) 
+ 80 
+ 20 02 01 (AC, END, INT from the ‘global envelope’) 
+ 20 02 03 (AC, AL, END, INT and JPD in the delegations) 
+ XX 01 xx yy zz 
+ 81 
+ - at Headquarters 
+ - in Delegations 
+ 01 01 01 02 (AC, END, INT - Indirect research) 
+ 01 01 01 12 (AC, END, INT - Direct research) 
+ Other budget lines (specify) 
+ TOTAL 
+ 2.25 
+ 2.25 
+ 2.25 
+ XX is the policy area or budget title concerned. 
+ The human resources required will be met by staff from the DG who are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints. 
+ Description of tasks to be carried out: 
+ Officials and temporary staff 
+ This proposal does not increase the current staffing of Commission’s services already working on the business management (1 FTE) and project management (1.25 FTEs) of the BRIS system. 
+ External staff 
+ 3.2.4. Compatibility with the current multiannual financial framework 
+ The proposal/initiative: 
+ – X 
+ can be fully financed through redeployment within the relevant heading of the Multiannual Financial Framework (MFF). 
+ Explain what reprogramming is required, specifying the budget lines concerned and the corresponding amounts. Please provide an excel table in the case of major reprogramming. 
+ BRIS development is already covered by the Digital Europe Programme. This new proposal does not require additional budget compared to the budget already being provided for the IT development by the Digital Europe Programme for the evolutive maintenance (new development) and conservative maintenance (bug fixing) of BRIS (i.e. 2 million EUR per year). 
+ –  
+ requires use of the unallocated margin under the relevant heading of the MFF and/or use of the special instruments as defined in the MFF Regulation. 
+ Explain what is required, specifying the headings and budget lines concerned, the corresponding amounts, and the instruments proposed to be used. 
+ –  
+ requires a revision of the MFF. 
+ Explain what is required, specifying the headings and budget lines concerned and the corresponding amounts. 
+ 3.2.5. Third-party contributions 
+ The proposal/initiative: 
+ – X 
+ does not provide for co-financing by third parties 
+ –  
+ provides for the co-financing by third parties estimated below: 
+ Appropriations in EUR million (to three decimal places) 
+ 2025 
+ 2026 
+ 2027 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ Total 
+ Specify the co-financing body 
+ TOTAL appropriations co-financed 
+ 3.3. Estimated impact on revenue 
+ – ☒ 
+ The proposal/initiative has no financial impact on revenue. 
+ –  
+ The proposal/initiative has the following financial impact: 
+ –  
+ on own resources 
+ –  
+ on other revenue 
+ – please indicate, if the revenue is assigned to expenditure lines  
+ EUR million (to three decimal places) 
+ Budget revenue line: 
+ Appropriations available for the current financial year 
+ Impact of the proposal/initiative 
+ 82 
+ 2025 
+ 2026 
+ 2027 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ Article …………. 
+ For assigned revenue, specify the budget expenditure line(s) affected. 
+ Other remarks (e.g. method/formula used for calculating the impact on revenue or any other information). 
+ (1) 
+ COM(2021) 118 final . 
+ (2) 
+ COM(2021) 350 final. 
+ (3) 
+ COM (2020) 103 final. 
+ (4) 
+ Business registers – search for a company in the EU 
+ (5) 
+ COM(2022) 548 final. 
+ (6) 
+ Directive (EU) 2019/1151 amending Directive (EU) 2017/1132. 
+ (7) 
+ COM(2021) 118 final . 
+ (8) 
+ COM(2020) 710 final . 
+ (9) 
+ COM(2021) 350 final. 
+ (10) 
+ COM (2020) 103 final. 
+ (11) 
+ European Council conclusions, 24-25 March 2022 – Consilium (europa.eu) 
+ (12) 
+ Regulation (EU) 910/2014 . 
+ (13) 
+ COM(2021) 281 final . 
+ (14) 
+ Directive (EU) 2015/849 as amended by Directive (EU) 2018/843. 
+ (15) 
+ Regulation (EU) 2015/848. 
+ (16) 
+ European e-Justice Portal – Beneficial ownership registers interconnection system (BORIS) (europa.eu) 
+ (17) 
+ European e-Justice Portal - Bankruptcy & insolvency registers - search for insolvent debtors in the EU (europa.eu) 
+ (18) 
+ Proposal for a Council Directive laying down rules to prevent the misuse of shell entities for tax purposes and amending Directive 2011/16/EU ( COM/2021/565 final). 
+ (19) 
+ Regulation (EU) 2018/1724 . 
+ (20) 
+ Proposal for a Regulation of the European Parliament and of the Council establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (COM/2021/723 final) . 
+ (21) 
+ See recital 23 and Annex II of Regulation (EU) 2018/1724 . 
+ (22) 
+ Following the approach introduced in Directive (EU) 2019/1151, recital 9 and Article 13f. Recital 9 also clarifies the distinction between that Directive and the SDG Regulation. 
+ (23) 
+ Directive (EU) 2019/1024 . 
+ (24) 
+ Regulation (EU) 2019/2152 . 
+ (25) 
+ Regulation (EU) 2016/1191. 
+ (26) 
+ Regulation (EU) 910/2014 . 
+ (27) 
+ COM(2021) 281 final . 
+ (28) 
+ Upgrading digital company law (europa.eu) 
+ (29) 
+ The SME panel is a tool that allows the Commission to reach SMEs in a targeted way and is organised in cooperation with the partners in the Enterprise Europe Network. 
+ (30) 
+ Company law and corporate governance (europa.eu) 
+ (31) 
+ Register of Commission expert groups and other similar entities (europa.eu) 
+ (32) 
+ The subgroup of CLEG dealing with BRIS, the CLEG-BRIS, which bring s together Member State representatives from business registers, also took part in two of these meeting s. 
+ (33) 
+ Company law and corporate governance (europa.eu) 
+ (34) 
+ Register of Commission expert groups and other similar entities (europa.eu) 
+ (35) 
+ SWD(2023) 179 
+ (36) 
+ Startup Nations Standard 
+ - 
+ to make it possible to submit legal documents from other EU jurisdictions as proof for the incorporation of a start-up (or creation of a subsidiary of an existing start-up expanding in the single market) 
+ (37) 
+ Regulation (EU) 2021/1119 of 30 June 2021 establishing the framework for achieving climate neutrality. 
+ (38) 
+ R egulation (EU) 2016/679, Regulation (EU) 2018/1725, e.g. Case C-398/15 Manni. 
+ (39) 
+ Additional assistance could be available through EU instruments, and among others, t he Technical Support Instrument , which supports Member States with tailor-made technical expertise to design, develop and implement reforms including on the ease-of-doing business, digitalisation agenda and the use of digital tools. 
+ (40) 
+ COM(2022) 720 final. 
+ (41) 
+ COM(2017) 134 final. 
+ (42) 
+ Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, OJ L 141, 5.6.2015, p. 73–117. 
+ (43) 
+ Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 on insolvency proceedings (recast), OJ L 141, 5.6.2015, p. 19–72. 
+ (44) 
+ OJ C , , p. . 
+ (45) 
+ OJ C , , p. . 
+ (46) 
+ Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (OJ L 169, 30.6.2017, p. 46) . 
+ (47) 
+ Directive (EU) 2019/1151 of the European Parliament and of the Council of 20 June 2019 amending Directive (EU) 2017/1132 as regards the use of digital tools and processes in company law (OJ L 186, 11.7.2019, p. 80) . 
+ (48) 
+ Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36 ). 
+ (49) 
+ COM(2021) 118 final . 
+ (50) 
+ COM(2020) 710 final . 
+ (51) 
+ COM(2021) 350 final. 
+ (52) 
+ COM(2020) 103 final . 
+ (53) 
+ Regulation (EU) 2018/1724 of the European Parliament and of the Council of 2 October 2018 establishing a single digital gateway to provide access to information, to procedures and to assistance and problem-solving services and amending Regulation (EU) No 1024/2012 (OJ L 295, 21.11.2018, p. 1). 
+ (54) 
+ Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1). 
+ (55) 
+ Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC ( OJ L 182, 29.6.2013, p. 19 ) . 
+ (56) 
+ Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73). 
+ (57) 
+ Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73). 
+ (58) 
+ Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU (OJ L 156, 19.6.2018, p. 43) . 
+ (59) 
+ Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 on insolvency proceedings (recast) (OJ L 141, 5.6.2015, p. 19). 
+ (60) 
+ Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39). 
+ (61) 
+ Directive (EU) 2016/2102 of the European Parliament and of the Council of 26 October 2016 on the accessibility of the websites and mobile applications of public sector bodies (OJ L 327, 2.12.2016, p. 1 ). 
+ (62) 
+ Directive (EU) 2019/882 of the European Parliament and of the Council of 17 April 2019 on the accessibility requirements for products and services ( OJ L 151, 7.6.2019, p. 70 ). 
+ (63) 
+ OJ C 369, 17.12.2011, p. 14. 
+ (64) 
+ Regulation (EU) 2018/1724 of the European Parliament and of the Council of 2 October 2018 establishing a single digital gateway to provide access to information, to procedures and to assistance and problem-solving services and amending Regulation (EU) No 1024/2012 (OJ L 295, 21.11.2018, p. 1). 
+ (65) 
+ See also Proposal for a R egulation of the European Parliament and of the Council laying down measures for a high level of public sector interoperability across the Union (Interoperable Europe Act) (COM(2022) 720 final), Communication on a strengthened public sector interoperability policy - Linking public services, supporting public policies and delivering public benefits - Towards an ‘Interoperable Europe’ (COM(2022)710 final) 
+ (66) 
+ OJ… 
+ (67) 
+ As referred to in Article 58(2)(a) or (b) of the Financial Regulation. 
+ (68) 
+ Details of budget implementation methods and references to the Financial Regulation may be found on the BUDGpedia site: 
+ https://myintracomm.ec.europa.eu/corp/budget/financial-rules/budget-implementation/Pages/implementation-methods.aspx 
+ (69) 
+ Diff. = Differentiated appropriations / Non-diff. = Non-differentiated appropriations. 
+ (70) 
+ EFTA: European Free Trade Association. 
+ (71) 
+ Candidate countries and, where applicable, potential candidates from the Western Balkans. 
+ (72) 
+ IT development will be also required in the period starting from 2028, to complete the evolutive maintenance, followed by conservative maintenance 
+ (73) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (74) 
+ IT development will be also required in the period starting from 2028, to complete the evolutive maintenance, followed by conservative maintenance 
+ (75) 
+ IT development will be also required in the period starting from 2028, to complete the evolutive maintenance, followed by conservative maintenance 
+ (76) 
+ Outputs are products and services to be supplied (e.g.: number of student exchanges financed, number of km of roads built, etc.). 
+ (77) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (78) 
+ Human resources will be also required in the period starting from 2028, to provide business and project management for the system. 
+ (79) 
+ AC= Contract Staff; AL = Local Staff; END= Seconded National Expert; INT = agency staff; JPD= Junior Professionals in Delegations. 
+ (80) 
+ Sub-ceiling for external staff covered by operational appropriations (former ‘BA’ lines). 
+ (81) 
+ As regards traditional own resources (customs duties, sugar levies), the amounts indicated must be net amounts, i.e. gross amounts after deduction of 20 % for collection costs.
+
+EUROPEAN COMMISSION
+ Brussels, 29.3.2023
+ COM(2023) 177 final
+ ANNEX
+ to the Proposal for a
+ DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ amending Directives 2009/102/EC and (EU) 2017/1132 as regards further expanding and upgrading the use of digital tools and processes in company law
+ {SEC(2023) 377 final} - {SWD(2023) 177 final} - {SWD(2023) 178 final} - {SWD(2023) 179 final}
+ ANNEX 
+ ANNEX IIB 
+ TYPES OF COMPANIES REFERRED TO IN ARTICLES 7, 10, 13, 13f, 13g, 13j, 14a, 15, 16, 16b, 16c, 18, 19a, 26 and 28a 
+ — 
+ Belgium: 
+ société en nom collectif/ vennootschap onder firma , 
+ société en commandite/ commanditaire vennootschap; 
+ — 
+ Bulgaria: 
+ cъбирателно дружество, kомандитно дружество; 
+ — 
+ Czechia: 
+ veřejná obchodní společnost, komanditní společnost; 
+ — 
+ Denmark: 
+ interessentskab, kommanditselskab; 
+ — 
+ Germany: 
+ offene Handelsgesellschaft, kommanditgesellschaft; 
+ — 
+ Estonia: 
+ täisühing, usaldusühing; 
+ — 
+ Ireland: 
+ comhpháirtíochtaí teoranta; 
+ — 
+ Greece: 
+ oμόρρυθμη εταιρεία, ετερόρρυθμη εταιρεία; 
+ — 
+ Spain: 
+ sociedad colectiva, sociedad comanditaria simple; 
+ — 
+ France: 
+ société en nom collectif, société en commandite simple; 
+ — 
+ Croatia: 
+ javno trgovačko društvo, komanditno društvo; 
+ — 
+ Italy: 
+ società in nome collettivo, società in accomandita semplice; 
+ — 
+ Cyprus: 
+ oμόρρυθμος ευνεταιρισμός, ετερόρρυθμος ευνεταιρισμός; 
+ — 
+ Latvia: 
+ pilnsabiedrība, komanditsabiedrība; 
+ — 
+ Lithuania: 
+ tikroji ūkinė bendrija, komanditinė ūkinė bendrija; 
+ — 
+ Luxembourg: 
+ société en nom collectif, société en commandite simple; 
+ — 
+ Hungary: 
+ közkereseti társaság, betéti társaság; 
+ — 
+ Malta: 
+ soċjetà f’isem kollettiv/partnership en nom collectif, 
+ soċjetà in akkomandita/partnership en commandite; 
+ — 
+ Netherlands: 
+ vennootschap onder firma, commanditaire vennootschap ; 
+ — 
+ Austria: 
+ offene gesellschaft, kommanditgesellschaft; 
+ — 
+ Poland: 
+ spółka jawna, spółka komandytowa; 
+ — 
+ Portugal: 
+ sociedade em nome coletivo, sociedade em comandita simples; 
+ — 
+ Romania: 
+ societatea in nume colectiv, societatea in comandita simpla; 
+ — 
+ Slovenia: 
+ družba z neomejeno odgovornostjo, komanditna družba; 
+ — 
+ Slovakia: 
+ verejná obchodná spoločnosť, komanditná spoločnosť; 
+ — 
+ Finland: 
+ avoinyhtiö, kommandiittiyhtiö; 
+ — 
+ Sweden: 
+ handelsbolag, enkelt bolag.

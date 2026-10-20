@@ -1,0 +1,262 @@
+### e-invoicing Directive | CELEX 32014L0055 | text version 32014L0055 | role in_force
+6.5.2014 
+ EN
+ Official Journal of the European Union
+ L 133/1
+ DIRECTIVE 2014/55/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 16 April 2014
+ on electronic invoicing in public procurement
+ (Text with EEA relevance)
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof,
+ Having regard to the proposal from the European Commission,
+ After transmission of the draft legislative act to the national parliaments,
+ Having regard to the opinion of the European Economic and Social Committee ( 1 ) ,
+ Having regard to the opinion of the Committee of the Regions ( 2 ) ,
+ Acting in accordance with the ordinary legislative procedure ( 3 ) ,
+ Whereas:
+ (1)
+ Several global, national, regional and proprietary standards on electronic invoices exist and are currently used in Member States. None of those standards prevails, and most of them are not interoperable with one another.
+ (2)
+ In the absence of a common standard, Member States decide, when promoting the use of electronic invoices in public procurement or making their use mandatory, to develop their own technical solutions based on separate national standards. Hence, the number of different standards coexisting across Member States is increasing and is likely to continue increasing in the future.
+ (3)
+ The multiplicity of non-interoperable standards results in excessive complexity, legal uncertainty and additional operating costs for economic operators using electronic invoices across Member States. Economic operators wishing to carry out cross-border procurement activities are often required to comply with a new electronic invoicing standard each time they access a new market. Since they discourage economic operators from undertaking cross-border procurement activities, the divergent legal and technical requirements concerning electronic invoices constitute market access barriers in cross-border public procurement, and obstacles to trade. They obstruct the fundamental freedoms and thus have a direct effect on the functioning of the internal market.
+ (4)
+ Those obstacles to intra-Union trade are likely to increase in the future as more non-interoperable national and proprietary standards are developed and as the use of electronic invoices in public procurement becomes more widespread or is made mandatory in Member States.
+ (5)
+ The obstacles to cross-border trade deriving from the co-existence of several legal requirements and technical standards on electronic invoicing and from the lack of interoperability should be removed or reduced. In order to achieve that objective, a common European standard for the semantic data model of the core elements of an electronic invoice (the ‘European standard on electronic invoicing’) should be developed. The standard should set out and describe the core elements which an electronic invoice must always contain, thus facilitating the sending and receipt of electronic invoices between systems based on different technical standards. Provided that they do not conflict with this European standard, existing national technical standards should neither be replaced, nor should their use be restricted, by this standard, and it should remain possible to continue to apply them in parallel with the European standard.
+ (6)
+ By ensuring semantic interoperability and improving legal certainty, this Directive will promote the uptake of electronic invoicing in public procurement, thereby allowing Member States, contracting authorities, contracting entities, and economic operators to generate significant benefits in terms of savings, environmental impact, and reduction of administrative burdens.
+ (7)
+ The benefits of electronic invoicing are maximised when the generation, sending, transmission, reception and processing of an invoice can be fully automated. For this reason, only machine-readable invoices which can be processed automatically and digitally by the recipient should be considered to be compliant with the European standard on electronic invoicing. A mere image file should not be considered to be an electronic invoice for the purpose of this Directive.
+ (8)
+ The goal of interoperability is to allow for the presentation and processing of information in a consistent manner between business systems, regardless of their technology, application or platform. Full interoperability includes the ability to interoperate on three distinct levels: in terms of the content of the invoice (semantics), the format or language used (syntax), and the method of transmission. Semantic interoperability implies that the electronic invoice contains a certain amount of required information, and that the precise meaning of the exchanged information is preserved and understood in an unambiguous manner, independently of the way in which it is physically represented or transmitted. Syntactic interoperability implies that the data elements of an electronic invoice are presented in a format which can be exchanged directly between the sender and recipient and processed automatically. Syntactic interoperability can be ensured in one of two ways, namely through the use of a common syntax or by means of mapping between different syntaxes.
+ (9)
+ There are a large number of syntaxes in use. More and more, syntactic interoperability is ensured by means of mapping. This method is effective if the invoice contains all the required data elements at the semantic level and if their meaning is unambiguous. Since that is frequently not the case, action is required to ensure interoperability at semantic level. In order to further simplify the use of electronic invoicing and to reduce costs, one of the long-term objectives should be to limit the number of syntaxes used, preferably by concentrating on those most commonly used.
+ (10)
+ The standardisation of electronic invoicing also complements efforts to promote the uptake of electronic procurement as reflected in the relevant provisions of Directive 2014/24/EU of the European Parliament and of the Council ( 4 ) and Directive 2014/25/EU of the European Parliament and of the Council ( 5 ) .
+ (11)
+ The European Council, in its conclusions of 28 and 29 June 2012 and 24 October 2013, stated that priority should be given to measures aimed at further developing cross-border online trade and the modernisation of public administrations, including by facilitating the transition to, and through the swift implementation of, electronic invoicing.
+ (12)
+ The European Parliament, in its resolution of 20 April 2012, pointed at market fragmentation resulting from national rules on electronic invoicing, underlined the substantial benefits offered by electronic invoicing and stressed the importance of legal certainty, a clear technical environment and open and interoperable electronic invoicing solutions based on common legal requirements, business processes and technical standards. For these reasons, the European Parliament called for making electronic invoicing in public procurement mandatory by 2016.
+ (13)
+ The European Multi-Stakeholder Forum on Electronic Invoicing (e-invoicing), set up by Commission Decision of 2 November 2010 ( 6 ) , unanimously adopted a Recommendation on the use of a semantic data model to support interoperability for electronic invoicing in October 2013.
+ (14)
+ This Directive should apply to electronic invoices received by contracting authorities and contracting entities and issued as a result of the performance of contracts to which Directive 2009/81/EC of the European Parliament and of the Council ( 7 ) , Directive 2014/23/EU of the European Parliament and of the Council ( 8 ) , Directive 2014/24/EU or Directive 2014/25/EU applies. Only electronic invoices issued by the economic operator to whom the public contract or concession contract has been awarded (the main contractor) should be covered by this Directive. However, when Member States provide for direct payment to subcontractors pursuant to Article 71 of Directive 2014/24/EU and Article 88 of Directive 2014/25/EU, the arrangements to be determined in the procurement documents should include provisions concerning whether or not electronic invoicing is to be used in respect of payments to subcontractors. It should be clarified that, when a contract is awarded to a group of economic operators, this Directive applies to electronic invoices issued both by the group and by the individual economic operators.
+ (15)
+ This Directive should also apply to concession contracts involving payment which require invoices to be issued by the economic operator to whom the concession contract has been awarded. The term ‘concessions’ is defined in point 1 of Article 5 of Directive 2014/23/EU. The object of concessions contracts is the procurement of works or services by means of a concession, the consideration of which consists in the right to exploit the works or services or in that right together with payment.
+ (16)
+ This Directive is subject to Article 346 of the Treaty on the Functioning of the European Union. This Directive does not apply to electronic invoices issued as a result of the performance of contracts (declared secret or accompanied by special security measures) which are excluded from the scope of Directive 2014/23/EU, Directive 2014/24/EU and Directive 2014/25/EU pursuant to Articles 10(6), 15(3) and 24(3) thereof respectively. Under the same conditions, a specific exclusion should be provided in this Directive for electronic invoices issued as a result of the performance of such contracts (declared secret or accompanied by special security measures), which fall within the scope of Directive 2009/81/EC.
+ (17)
+ The definitions used in this Directive should be in line with other Union legislation on public procurement.
+ (18)
+ The Commission should apply the relevant provisions of Regulation (EU) No 1025/2012 of the European Parliament and of the Council ( 9 ) to request that the relevant European standardisation organisation draft a European standard on electronic invoicing. Pursuant to the relevant provisions of Regulation (EU) No 1025/2012, the Commission's decision laying down such a request is subject to the examination procedure referred to in Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 10 ) .
+ (19)
+ The European standard on electronic invoicing should be based on existing technical specifications developed within the framework of European standardisation organisations such as CEN (CWA 16356-MUG and CWA 16562-CEN BII), and should take into account other relevant technical specifications developed within the framework of international standardisation organisations, such as UN/CEFACT (CII v. 2.0) and ISO (Financial Invoice based on the ISO 20022 methodology). In carrying out the standardisation request, the relevant European standardisation organisation should also take into account the results of Large-Scale Pilot Projects implemented within the framework of the Policy Support Programme of the Competitiveness and Innovation Framework Programme (CIP) and other relevant bodies' and organisations' technical specifications on electronic invoicing that are widely used by the business community. The European standard on electronic invoicing should also be compatible with the existing standards for payments in order to allow for the automatic processing of payments.
+ (20)
+ In its request to the relevant European standardisation organisation, the Commission should require that the European standard on electronic invoicing be technologically neutral in order to avoid any distortion of competition, that it be compatible with relevant international standards on electronic invoicing in order to prevent suppliers from third countries encountering technical market access barriers and to make it easier for European suppliers to send electronic invoices to buyers in third countries, and that it comply with Council Directive 2006/112/EC ( 11 ) . Since electronic invoices may contain personal data, the Commission should also require that the European standard on electronic invoicing takes account of the protection of personal data, in accordance with Directive 95/46/EC of the European Parliament and of the Council ( 12 ) and the principles of data protection by design, proportionality and data minimisation. In addition to those minimum requirements, the Commission should determine, in its request to the relevant European standardisation organisation, further requirements as to the content of the European standard on electronic invoicing and a deadline for its adoption.
+ (21)
+ In order to ensure that small and medium-sized enterprises can also benefit from electronic invoicing in public procurement, the European standard on electronic invoicing should make it possible to set up user-friendly electronic invoicing systems, namely ones which are easy to understand and easy to use. In this respect, the fact that small and medium-sized enterprises, in particular, as well as smaller contracting authorities and contracting entities have limited staff and financial resources should also be taken into account.
+ (22)
+ The European standard on electronic invoicing should also be suitable for use in commercial transactions between enterprises. Therefore, in order to allow private economic operators to use the new standard in their business dealings with one another, the Commission should ensure that the standard is not developed in a way which makes it suitable for use solely in the area of public procurement.
+ (23)
+ Invoices issued in different business sectors may require the inclusion of information specific to those sectors. Nevertheless, a limited number of common standard elements should be included in all invoices. The presence of those elements is indispensable for verifying whether the invoice properly reflects the underlying business transaction and ensuring that the invoice is legally valid. A list of such elements required for VAT purposes is provided by Directive 2006/112/EC. The European standard on electronic invoicing should be consistent with this set of elements.
+ (24)
+ The European standard on electronic invoicing should define semantic data elements referring, in particular, to complementary seller and buyer data, process identifiers, invoice attributes, invoice item details, delivery information, and payment details and terms. The core elements of an electronic invoice should be included in every electronic invoice. This should ensure the clear and uniform application of electronic invoicing.
+ (25)
+ While the sender of an electronic invoice should continue to have the possibility to guarantee the authenticity of the origin and the integrity of the content of the invoice by several methods, including by means of an electronic signature, in order to ensure compliance with Directive 2006/112/EC, the European standard on electronic invoicing should not contain as one of its elements a requirement for an electronic signature.
+ (26)
+ In order to avoid excessive costs and burdens for contracting authorities and contracting entities, the relevant European standardisation organisation should be requested to identify a list with a limited number of syntaxes which comply with the European standard on electronic invoicing. That list should not form part of the European standard on electronic invoicing. The identified syntaxes must already be widely and successfully used by economic operators and contracting authorities. In order to facilitate and accelerate implementation by Member States, the relevant European standardisation organisation should be requested to provide appropriate syntax bindings from the European standard on electronic invoicing to all syntaxes identified in the list. Syntax bindings are guidelines on how the standard could be represented in the various syntaxes. This standardisation deliverable should complement the European standard on electronic invoicing and the list of syntaxes.
+ (27)
+ In order to facilitate the use of the European standard on electronic invoicing, the European standardisation organisation should also be requested to draft guidelines on transmission interoperability. Those guidelines should not form part of the European standard on electronic invoicing or be binding on contracting authorities and contracting entities.
+ (28)
+ Prior to the introduction of the European standard on electronic invoicing in the Member States, the practical application of the standard should be sufficiently tested. This assessment should be done during the drawing up of the standard. That assessment should involve end users, and should address, in particular, aspects of practicality and user-friendliness, and should demonstrate that the standard can be implemented in a cost efficient and proportionate manner.
+ (29)
+ Where the European standard on electronic invoicing and the list of syntaxes complying with the standard drawn up by the relevant European standardisation organisation satisfy the requirements contained in the Commission's request to the European standardisation organisation, and where the standard has been tested, the references of the European standard on electronic invoicing and the list of syntaxes should be published in the Official Journal of the European Union .
+ (30)
+ The provisions on the development of the standard and the other standardisation deliverables laid down in this Directive are in line with the relevant provisions of Regulation (EU) No 1025/2012. However, taking into account the specificities of this Directive, it is appropriate to provide that the decisions to publish, not to publish or to publish with restriction the references to the standard and the list of syntaxes be adopted in accordance with the examination procedure. This should however be without prejudice to the application of the relevant provisions of Regulation (EU) No 1025/2012 concerning formal objections to harmonised standards.
+ (31)
+ European standardisation organisations regularly review and update standards in order to respond to technological developments. In light of the rapid nature of such developments in the ICT sector, the Commission should also be able to request that the relevant European standardisation organisation revise and update the European standard on electronic invoicing in order to take those developments into account and to ensure continuing interoperability.
+ (32)
+ In order to respond to technological developments or market requirements, the Commission should be able to adopt an implementing act to review and update the list of syntaxes. In the case of more complex adjustments, the Commission should also be able to request that the relevant European standardisation organisation revise and update the list of syntaxes.
+ (33)
+ Where it considers it necessary to ensure full and ongoing interoperability, to take into account technological developments or to limit the number of syntaxes to be used, the Commission should be able to review a list of syntaxes already published. In so doing, the Commission should take into account the list of syntaxes identified, reviewed and updated by the relevant European standardisation organisation.
+ (34)
+ Upon the expiry of the transposition deadlines laid down in this Directive, contracting authorities and contracting entities should be obliged to receive and process electronic invoices which comply with the European standard on electronic invoicing and with any of the syntaxes on the list published by the Commission in the Official Journal of the European Union . Contracting authorities and contracting entities should therefore not refuse electronic invoices which meet the above conditions solely on the grounds of non-compliance with requirements (for example national or sector-specific requirements, or additional technical requirements of any kind) other than those specifically provided for in this Directive. However, other compelling grounds for refusal, such as those relating to contractual conditions, should not be affected by this obligation. Before paying the invoice, contracting authorities and contracting entities should in any case remain free to verify whether the content of the electronic invoice correctly reflects the underlying business transaction (for example whether the invoice amount is correct) and whether the invoice has been addressed to the correct recipient. The obligation to not refuse electronic invoices in accordance with this Directive is without prejudice to Directive 2011/7/EU of the European Parliament and of the Council ( 13 ) .
+ (35)
+ This Directive should only require recipients of an invoice, i.e. contracting authorities, central purchasing bodies and contracting entities, to accept and process electronic invoices. This Directive should be without prejudice to the right of the sender of the invoice to choose between submitting the invoice in accordance with the European standard on electronic invoicing, in accordance with national or other technical standards, or in paper format. However, this Directive should not prevent Member States from mandating that only electronic invoices be submitted in the framework of public procurement. Where the sender chooses to submit the invoice using the European standard on electronic invoicing, the recipient's obligation to receive and process should only apply if the invoice is in one of the syntaxes included on the list of syntaxes published by the Commission in the Official Journal of the European Union . This should be without prejudice to the sender using the services of a third party to translate between its own syntax and one of those on the list.
+ (36)
+ The European Data Protection Supervisor has been consulted in accordance with Article 28(2) of Regulation (EC) No 45/2001 of the European Parliament and of the Council ( 14 ) and issued an opinion on 11 November 2013 ( 15 ) . In his opinion he published recommendations for ensuring adequate data protection in the application of this Directive. Those recommendations should be borne in mind when drawing up the European standard on electronic invoicing and in the processing of personal data by contracting authorities and contracting entities. In particular, it should be made clear that existing data protection laws also apply in the area of electronic invoicing and that the publication of personal data for transparency and accountability purposes must be in keeping with the protection of privacy.
+ (37)
+ Since Directive 2006/112/EC contains rules on invoicing, including on electronic invoicing, its relationship with this Directive should be clarified. This Directive pursues a different objective, has a scope of application different from that of Directive 2006/112/EC and hence, it does not affect the provisions on the use of electronic invoices for VAT purposes contained therein. In particular, Article 232 of Directive 2006/112/EC governs the relations between trading parties and aims to ensure that the use of electronic invoices by the sender cannot be imposed on the recipient. However, this should be without prejudice to the right of Member States to impose on contracting authorities and contracting entities an obligation to receive electronic invoices under certain conditions.
+ (38)
+ In order to allow contracting authorities and contracting entities to properly prepare and take the technical measures that, following the establishment of the European standard on electronic invoicing and the approval of the list of syntaxes, are necessary to comply with this Directive, and in view of the necessity for swift implementation of electronic invoicing, a transposition deadline of 18 months following the publication of the reference of the European standard on electronic invoicing and the list of syntaxes in the Official Journal of the European Union should be considered justified. By derogation from this general transposition deadline and in order to facilitate the take up of electronic invoicing for certain contracting authorities, such as local and regional contracting authorities and public undertakings, Member States should be allowed to postpone the application of this Directive for sub-central contracting authorities and contracting entities until 30 months following the publication of the reference of the European standard on electronic invoicing and the list of syntaxes in the Official Journal of the European Union . This possibility to postpone the application of the requirements of this Directive should not apply to central purchasing bodies.
+ (39)
+ In order to facilitate the implementation of the requirements of this Directive for contracting authorities and contracting entities, the Commission should ensure that Member States are kept fully and regularly informed of the progress of work in terms of the development of the standard and the related standardisation deliverables to be undertaken by the relevant European standardisation organisation. This should allow the Member States to undertake the necessary preparatory work with a view to completing implementation within the agreed deadlines.
+ (40)
+ Since contracting authorities and contracting entities will be able to accept electronic invoices which comply with standards other than the European standard on electronic invoicing as well as paper invoices unless otherwise provided in national legislation, this Directive does not place any additional costs or burden on enterprises, including micro, small and medium-sized enterprises within the meaning of Commission Recommendation 2003/361/EC ( 16 ) . Furthermore, the Commission and the Member States should make every effort to minimise the cost of the European standard on electronic invoicing for its users, in particular for micro, small and medium-sized enterprises, so as to facilitate its uptake across the European Union.
+ (41)
+ When implementing this Directive, Member States should take into account the needs of small and medium-sized enterprises and smaller contracting authorities and contracting entities, and offer to all contracting authorities, contracting entities and suppliers the necessary support so that the European standard on electronic invoicing can be used. Moreover, training measures should be provided, in particular for small and medium-sized enterprises.
+ (42)
+ In order to facilitate the technical and procedural adaptations which need to be undertaken by all parties involved in public procurement to ensure the successful implementation of this Directive Member States should, where possible, make Structural Fund assistance available to all eligible contracting authorities, contracting entities, and small and medium-sized enterprises.
+ (43)
+ In order to ensure uniform conditions for the implementation of this Directive, and for the drawing up, the restriction and the review of the list of syntaxes, implementing powers should be conferred on the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/2011. The examination procedure should be used for the adoption of the implementing acts concerning the list of syntaxes given that they serve to facilitate the application of the European standard on electronic invoicing and ensure interoperability and rapid response to technological developments. The examination procedure should also be used for the adoption of implementing acts with respect to the objections to the European standard on electronic invoicing, given that those acts could have consequences for the obligation to receive and process electronic invoices.
+ (44)
+ Since the objectives of this Directive, namely the removal of market barriers and obstacles to trade deriving from the existence of differing national rules and standards and ensuring interoperability, cannot be sufficiently achieved by the Member States but can therefore be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives,
+ HAVE ADOPTED THIS DIRECTIVE:
+ Article 1
+ Scope
+ This Directive shall apply to electronic invoices issued as a result of the performance of contracts to which Directive 2009/81/EC, Directive 2014/23/EU, Directive 2014/24/EU or Directive 2014/25/EU applies.
+ This Directive shall not apply to electronic invoices issued as a result of the performance of contracts falling within the scope of Directive 2009/81/EC, where the procurement and performance of the contract are declared to be secret or must be accompanied by special security measures in accordance with the laws, regulations or administrative provisions in force in a Member State, and provided that the Member State has determined that the essential interests concerned cannot be guaranteed by less intrusive measures.
+ Article 2
+ Definitions
+ For the purposes of this Directive, the following definitions shall apply:
+ (1)
+ ‘electronic invoice’ means an invoice that has been issued, transmitted and received in a structured electronic format which allows for its automatic and electronic processing;
+ (2)
+ ‘core elements of an electronic invoice’ means a set of essential information components which an electronic invoice must contain in order to enable cross-border interoperability, including the necessary information to ensure legal compliance;
+ (3)
+ ‘semantic data model’ means a structured and logically interrelated set of terms and their meanings that specify the core elements of an electronic invoice;
+ (4)
+ ‘syntax’ means the machine readable language or dialect used to represent the data elements contained in an electronic invoice;
+ (5)
+ ‘syntax bindings’ means guidelines on how a semantic data model for an electronic invoice could be represented in the various syntaxes;
+ (6)
+ ‘contracting authorities’ means contracting authorities as defined in point 17 of Article 1 of Directive 2009/81/EC, Article 6(1) of Directive 2014/23/EU and point (1) of Article 2(1) of Directive 2014/24/EU;
+ (7)
+ ‘sub-central contracting authorities’ means sub-central contracting authorities as defined in point (3) of Article 2(1) of Directive 2014/24/EU;
+ (8)
+ ‘central purchasing body’ means central purchasing body as defined in point (16) of Article 2(1) of Directive 2014/24/EU;
+ (9)
+ ‘contracting entities’ means contracting entities as defined in point 17 of Article 1 of Directive 2009/81/EC, Article 7(1) and (2) of Directive 2014/23/EU and Article 4(1) of Directive 2014/25/EU;
+ (10)
+ ‘international standard’ means an international standard as defined in point (a) of Article 2(1) of Regulation (EU) No 1025/2012;
+ (11)
+ ‘European standard’ means a European standard as defined in point (b) of Article 2(1) of Regulation (EU) No 1025/2012.
+ Article 3
+ Establishment of a European standard
+ 1. The Commission shall request that the relevant European standardisation organisation draft a European standard for the semantic data model of the core elements of an electronic invoice (the ‘European standard on electronic invoicing’).
+ The Commission shall require that the European standard on electronic invoicing complies at least with the following criteria:
+ —
+ it is technologically neutral,
+ —
+ it is compatible with relevant international standards on electronic invoicing,
+ —
+ it has regard to the need for personal data protection in accordance with Directive 95/46/EC, to a ‘data protection by design’ approach and to the principles of proportionality, data minimisation and purpose limitation,
+ —
+ it is consistent with the relevant provisions of Directive 2006/112/EC,
+ —
+ it allows for the establishment of practical, user-friendly, flexible and cost-efficient electronic invoicing systems,
+ —
+ it takes into account the special needs of small and medium-sized enterprises as well as of sub-central contracting authorities and contracting entities,
+ —
+ it is suitable for use in commercial transactions between enterprises.
+ The Commission shall request that the relevant European standardisation organisation provide a list with a limited number of syntaxes which comply with the European standard on electronic invoicing, the appropriate syntax bindings and guidelines on transmission interoperability, in order to facilitate the use of such standard.
+ The requests shall be adopted in accordance with the procedure laid down in Article 10(1) to (5) of Regulation (EU) No 1025/2012.
+ As part of the work to develop the standard by the relevant European standardisation organisation, and within the timeline identified in paragraph 2, the standard shall be tested as to its practical application for an end user. The Commission shall retain overall responsibility for the testing and shall ensure that, during the performance of the test, special account be taken of the respect for the criteria of practicality, user-friendliness and possible implementation costs in accordance with the second subparagraph of paragraph 1. The Commission shall submit a report on the outcome of the test to the European Parliament and the Council.
+ 2. Where the European standard on electronic invoicing, drawn up in accordance with the request referred to in paragraph 1, satisfies the requirements contained therein and where a test phase in accordance with the fifth subparagraph of paragraph 1 has been completed, the Commission shall publish the reference to the standard in the Official Journal of the European Union , together with the list of a limited number of syntaxes drawn up in accordance with the request referred to in paragraph 1. That publication shall be completed by 27 May 2017.
+ Article 4
+ Formal objections to the European standard
+ 1. Where a Member State or the European Parliament considers that the European standard on electronic invoicing and the list of syntaxes do not entirely satisfy the requirements set out in Article 3(1), it shall inform the Commission thereof with a detailed explanation, and the Commission shall decide:
+ (a)
+ to publish, not to publish, or to publish with restriction the references to the European standard on electronic invoicing and the list of syntaxes concerned in the Official Journal of the European Union ;
+ (b)
+ to maintain, to maintain with restriction or to withdraw the references to the European standard on electronic invoicing and to the list of syntaxes concerned in, or from, the Official Journal of the European Union .
+ 2. The Commission shall publish on its website information on the European standard on electronic invoicing and the list of syntaxes that have been subject to the decision referred to in paragraph 1.
+ 3. The Commission shall inform the European standardisation organisation concerned of the decision referred to in paragraph 1 and, if necessary, shall request the revision of the European standard on electronic invoicing or list of syntaxes concerned.
+ 4. The decisions referred to in point (a) and point (b) of paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 10(2).
+ Article 5
+ Maintenance and further development of the European standard and the list of syntaxes
+ 1. In order to take into account technological developments and to ensure full and ongoing interoperability in electronic invoicing in public procurement, the Commission may:
+ (a)
+ update or revise the European standard on electronic invoicing;
+ (b)
+ update or revise the list of syntaxes published by the Commission in the Official Journal of the European Union .
+ 2. Where the Commission decides to undertake the action referred to in point (a) of paragraph 1, it shall make a request to the relevant European standardisation organisation. That request shall be made in accordance with the procedure referred to in Article 3(1) without applying the deadlines provided for therein.
+ 3. Article 4 shall apply to any update or revision undertaken in accordance with point (a) of paragraph 1.
+ 4. Where the Commission decides to undertake the action referred to in point (b) of paragraph 1, it shall do so either in accordance with the examination procedure referred to in Article 10(2) or by making a request to the relevant European standardisation organisation. Such request shall be made in accordance with the procedure referred to in Article 3(1) without applying the deadlines provided for therein.
+ Article 6
+ Core elements of an electronic invoice
+ The core elements of an electronic invoice are, inter alia:
+ (a)
+ process and invoice identifiers;
+ (b)
+ the invoice period;
+ (c)
+ seller information;
+ (d)
+ buyer information;
+ (e)
+ payee information;
+ (f)
+ seller's tax representative information;
+ (g)
+ contract reference;
+ (h)
+ delivery details;
+ (i)
+ payment instructions;
+ (j)
+ allowance or charge information;
+ (k)
+ invoice line item information;
+ (l)
+ invoice totals;
+ (m)
+ VAT breakdown.
+ Article 7
+ Receipt and processing of electronic invoices
+ Member States shall ensure that contracting authorities and contracting entities receive and process electronic invoices which comply with the European standard on electronic invoicing whose reference has been published pursuant to Article 3(2) and with any of the syntaxes on the list published pursuant to Article 3(2).
+ Article 8
+ Data protection
+ 1. This Directive is without prejudice to applicable Union and national law on data protection.
+ 2. Subject to any provisions to the contrary in Union or national law and without prejudice to the exemptions and restrictions set out in Article 13 of Directive 95/46/EC, personal data obtained for the purpose of electronic invoicing may be used only for that purpose or for purposes compatible with it.
+ 3. Without prejudice to the exemptions and restrictions set out in Article 13 of Directive 95/46/EC, Member States shall ensure that arrangements for the publication, for transparency and accounting purposes, of personal data gathered in connection with electronic invoicing are consistent with the purpose of such publication and with the principle of the protection of privacy.
+ Article 9
+ Use of electronic invoices for VAT purposes
+ This Directive is without prejudice to the provisions of Directive 2006/112/EC.
+ Article 10
+ Committee procedure
+ 1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+ 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+ Article 11
+ Transposition
+ 1. Member States shall adopt, publish and apply the laws, regulations and administrative provisions necessary to comply with this Directive at the latest by 27 November 2018. They shall forthwith communicate the text of those measures to the Commission.
+ 2. By way of derogation from paragraph 1, Member States shall, not later than 18 months after the publication of the reference of the European standard on electronic invoicing in the Official Journal of the European Union , adopt, publish and apply the provisions necessary to comply with the obligation contained in Article 7 to receive and process electronic invoices.
+ Member States may postpone the application referred to in the first subparagraph with regard to their sub-central contracting authorities and contracting entities until 30 months after publication of the reference of the European standard on electronic invoicing in the Official Journal of the European Union at the latest.
+ Upon publication of the reference to the European standard on electronic invoicing, the Commission shall publish in the Official Journal of the European Union the final date for the bringing into force of the measures referred to in the first subparagraph.
+ 3. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+ Article 12
+ Review
+ The Commission shall review the effects of this Directive on the internal market and on the uptake of electronic invoicing in public procurement and shall submit a report thereon to the European Parliament and to the Council within three years of the time limit for the maximum postponement set for sub-central authorities in the second subparagraph of Article 11(2). Where appropriate, the report shall be accompanied by an impact assessment relating to the need for further action.
+ Article 13
+ Entry into force
+ This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union .
+ Article 14
+ Addressees
+ This Directive is addressed to the Member States.
+ Done at Strasbourg, 16 April 2014.
+ For the European Parliament 
+ The President 
+ M. SCHULZ
+ For the Council 
+ The President 
+ D. KOURKOULAS
+ ( 1 ) 
+ OJ C 79, 6.3.2014, p. 67 .
+ ( 2 ) Opinion of 28 November 2013 (not yet published in the Official Journal).
+ ( 3 ) Position of the European Parliament of 11 March 2014 (not yet published in the Official Journal) and decision of the Council of 14 April 2014.
+ ( 4 ) Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC ( OJ L 94, 28.3.2014, p. 65 ).
+ ( 5 ) Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC ( OJ L 94, 28.3.2014, p. 243 ).
+ ( 6 ) Commission Decision of 2 November 2010 setting up the European Multi-Stakeholder Forum on Electronic Invoicing (e-invoicing) ( OJ C 326, 3.12.2010, p. 13 ).
+ ( 7 ) Directive 2009/81/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of procedures for the award of certain works contracts, supply contracts and service contracts by contracting authorities or entities in the fields of defence and security, and amending Directives 2004/17/EC and 2004/18/EC ( OJ L 216, 20.8.2009, p. 76 ).
+ ( 8 ) Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts ( OJ L 94, 28.3.2014, p. 1 ).
+ ( 9 ) Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council ( OJ L 316, 14.11.2012, p. 12 ).
+ ( 10 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers ( OJ L 55, 28.2.2011, p. 13 ).
+ ( 11 ) Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ L 347, 11.12.2006, p. 1 ).
+ ( 12 ) Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data ( OJ L 281, 23.11.1995, p. 31 ).
+ ( 13 ) Directive 2011/7/EU of the European Parliament and of the Council of 16 February 2011 on combating late payment in commercial transactions ( OJ L 48, 23.2.2011, p. 1 ).
+ ( 14 ) Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data ( OJ L 8, 12.1.2001, p. 1 ).
+ ( 15 ) 
+ OJ C 38, 8.2.2014, p. 2 .
+ ( 16 ) Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises ( OJ L 124, 20.5.2003, p. 36 ).

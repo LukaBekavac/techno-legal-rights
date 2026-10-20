@@ -1,0 +1,2371 @@
+[
+ {
+  "no": 1,
+  "short": "DigitalEurope",
+  "role": "in_force",
+  "celex": "32021R0694",
+  "version_downloaded": "02021R0694-20251223",
+  "consolidated_versions_available": [
+   "02021R0694-20210511",
+   "02021R0694-20230921",
+   "02021R0694-20250204",
+   "02021R0694-20251223"
+  ],
+  "files": [
+   "1_applicable/001_DigitalEurope/DigitalEurope_in_force_02021R0694-20251223.html",
+   "1_applicable/001_DigitalEurope/DigitalEurope_in_force_02021R0694-20251223.pdf"
+  ],
+  "text_file": "_text/32021R0694.txt",
+  "errors": []
+ },
+ {
+  "no": 2,
+  "short": "HorizonEurope",
+  "role": "in_force",
+  "celex": "32021R0695",
+  "version_downloaded": "02021R0695-20251224",
+  "consolidated_versions_available": [
+   "02021R0695-20210512",
+   "02021R0695-20240301",
+   "02021R0695-20251224"
+  ],
+  "files": [
+   "1_applicable/002_HorizonEurope/HorizonEurope_in_force_02021R0695-20251224.html",
+   "1_applicable/002_HorizonEurope/HorizonEurope_in_force_02021R0695-20251224.pdf"
+  ],
+  "text_file": "_text/32021R0695.txt",
+  "errors": []
+ },
+ {
+  "no": 2,
+  "short": "HorizonEurope",
+  "role": "in_force",
+  "celex": "32021D0764",
+  "version_downloaded": "32021D0764",
+  "consolidated_versions_available": [
+   "02021D0764-20210512"
+  ],
+  "files": [
+   "1_applicable/002_HorizonEurope/HorizonEurope_in_force_32021D0764.html",
+   "1_applicable/002_HorizonEurope/HorizonEurope_in_force_32021D0764.pdf"
+  ],
+  "text_file": "_text/32021D0764.txt",
+  "errors": []
+ },
+ {
+  "no": 3,
+  "short": "DLT-Pilot",
+  "role": "in_force",
+  "celex": "32022R0858",
+  "version_downloaded": "32022R0858",
+  "consolidated_versions_available": [
+   "02022R0858-20220602"
+  ],
+  "files": [
+   "1_applicable/003_DLT-Pilot/DLT-Pilot_in_force_32022R0858.html",
+   "1_applicable/003_DLT-Pilot/DLT-Pilot_in_force_32022R0858.pdf"
+  ],
+  "text_file": "_text/32022R0858.txt",
+  "errors": []
+ },
+ {
+  "no": 4,
+  "short": "RRF",
+  "role": "in_force",
+  "celex": "32021R0241",
+  "version_downloaded": "02021R0241-20240301",
+  "consolidated_versions_available": [
+   "02021R0241-20210218",
+   "02021R0241-20230301",
+   "02021R0241-20240301"
+  ],
+  "files": [
+   "1_applicable/004_RRF/RRF_in_force_02021R0241-20240301.html",
+   "1_applicable/004_RRF/RRF_in_force_02021R0241-20240301.pdf"
+  ],
+  "text_file": "_text/32021R0241.txt",
+  "errors": []
+ },
+ {
+  "no": 5,
+  "short": "InvestEU",
+  "role": "in_force",
+  "celex": "32021R0523",
+  "version_downloaded": "02021R0523-20251224",
+  "consolidated_versions_available": [
+   "02021R0523-20210326",
+   "02021R0523-20240301",
+   "02021R0523-20251110",
+   "02021R0523-20251224"
+  ],
+  "files": [
+   "1_applicable/005_InvestEU/InvestEU_in_force_02021R0523-20251224.html",
+   "1_applicable/005_InvestEU/InvestEU_in_force_02021R0523-20251224.pdf"
+  ],
+  "text_file": "_text/32021R0523.txt",
+  "errors": []
+ },
+ {
+  "no": 6,
+  "short": "CEF",
+  "role": "in_force",
+  "celex": "32021R1153",
+  "version_downloaded": "02021R1153-20251224",
+  "consolidated_versions_available": [
+   "02021R1153-20210714",
+   "02021R1153-20240718",
+   "02021R1153-20251224"
+  ],
+  "files": [
+   "1_applicable/006_CEF/CEF_in_force_02021R1153-20251224.html",
+   "1_applicable/006_CEF/CEF_in_force_02021R1153-20251224.pdf"
+  ],
+  "text_file": "_text/32021R1153.txt",
+  "errors": []
+ },
+ {
+  "no": 7,
+  "short": "EuroHPC-JU",
+  "role": "in_force",
+  "celex": "32021R1173",
+  "version_downloaded": "02021R1173-20260120",
+  "consolidated_versions_available": [
+   "02021R1173-20210719",
+   "02021R1173-20240709",
+   "02021R1173-20260120"
+  ],
+  "files": [
+   "1_applicable/007_EuroHPC-JU/EuroHPC-JU_in_force_02021R1173-20260120.html",
+   "1_applicable/007_EuroHPC-JU/EuroHPC-JU_in_force_02021R1173-20260120.pdf"
+  ],
+  "text_file": "_text/32021R1173.txt",
+  "errors": []
+ },
+ {
+  "no": 8,
+  "short": "HorizonEurope-JUs",
+  "role": "in_force",
+  "celex": "32021R2085",
+  "version_downloaded": "02021R2085-20230921",
+  "consolidated_versions_available": [
+   "02021R2085-20230921"
+  ],
+  "files": [
+   "1_applicable/008_HorizonEurope-JUs/HorizonEurope-JUs_in_force_02021R2085-20230921.html",
+   "1_applicable/008_HorizonEurope-JUs/HorizonEurope-JUs_in_force_02021R2085-20230921.pdf"
+  ],
+  "text_file": "_text/32021R2085.txt",
+  "errors": []
+ },
+ {
+  "no": 8,
+  "short": "HorizonEurope-JUs",
+  "role": "proposal",
+  "celex": "52022PC0047",
+  "version_downloaded": "52022PC0047",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/008_HorizonEurope-JUs/HorizonEurope-JUs_proposal_52022PC0047.html",
+   "1_applicable/008_HorizonEurope-JUs/HorizonEurope-JUs_proposal_52022PC0047.pdf"
+  ],
+  "text_file": "_text/52022PC0047.txt",
+  "errors": []
+ },
+ {
+  "no": 8,
+  "short": "HorizonEurope-JUs",
+  "role": "adopted",
+  "celex": "32023R1782",
+  "version_downloaded": "32023R1782",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/008_HorizonEurope-JUs/HorizonEurope-JUs_adopted_32023R1782.html",
+   "1_applicable/008_HorizonEurope-JUs/HorizonEurope-JUs_adopted_32023R1782.pdf"
+  ],
+  "text_file": "_text/32023R1782.txt",
+  "errors": []
+ },
+ {
+  "no": 9,
+  "short": "DigitalDecade",
+  "role": "in_force",
+  "celex": "32022D2481",
+  "version_downloaded": "32022D2481",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/009_DigitalDecade/DigitalDecade_in_force_32022D2481.html",
+   "1_applicable/009_DigitalDecade/DigitalDecade_in_force_32022D2481.pdf"
+  ],
+  "text_file": "_text/32022D2481.txt",
+  "errors": []
+ },
+ {
+  "no": 10,
+  "short": "ChipsAct",
+  "role": "proposal",
+  "celex": "52022PC0046",
+  "version_downloaded": "52022PC0046",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/010_ChipsAct/ChipsAct_proposal_52022PC0046_part1.html",
+   "2_in_negotiation/010_ChipsAct/ChipsAct_proposal_52022PC0046_part2.html",
+   "2_in_negotiation/010_ChipsAct/ChipsAct_proposal_52022PC0046_part1.pdf",
+   "2_in_negotiation/010_ChipsAct/ChipsAct_proposal_52022PC0046_part2.pdf"
+  ],
+  "text_file": "_text/52022PC0046.txt",
+  "errors": []
+ },
+ {
+  "no": 10,
+  "short": "ChipsAct",
+  "role": "adopted",
+  "celex": "32023R1781",
+  "version_downloaded": "32023R1781",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/010_ChipsAct/ChipsAct_adopted_32023R1781.html",
+   "2_in_negotiation/010_ChipsAct/ChipsAct_adopted_32023R1781.pdf"
+  ],
+  "text_file": "_text/32023R1781.txt",
+  "errors": []
+ },
+ {
+  "no": 11,
+  "short": "CRMA",
+  "role": "proposal",
+  "celex": "52023PC0160",
+  "version_downloaded": "52023PC0160",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/011_CRMA/CRMA_proposal_52023PC0160_part1.html",
+   "2_in_negotiation/011_CRMA/CRMA_proposal_52023PC0160_part2.html",
+   "2_in_negotiation/011_CRMA/CRMA_proposal_52023PC0160_part1.pdf",
+   "2_in_negotiation/011_CRMA/CRMA_proposal_52023PC0160_part2.pdf"
+  ],
+  "text_file": "_text/52023PC0160.txt",
+  "errors": []
+ },
+ {
+  "no": 11,
+  "short": "CRMA",
+  "role": "adopted",
+  "celex": "32024R1252",
+  "version_downloaded": "02024R1252-20240503",
+  "consolidated_versions_available": [
+   "02024R1252-20240503"
+  ],
+  "files": [
+   "2_in_negotiation/011_CRMA/CRMA_adopted_02024R1252-20240503.html",
+   "2_in_negotiation/011_CRMA/CRMA_adopted_02024R1252-20240503.pdf"
+  ],
+  "text_file": "_text/32024R1252.txt",
+  "errors": []
+ },
+ {
+  "no": 12,
+  "short": "STEP",
+  "role": "proposal",
+  "celex": "52023PC0335",
+  "version_downloaded": "52023PC0335",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/012_STEP/STEP_proposal_52023PC0335.html",
+   "2_in_negotiation/012_STEP/STEP_proposal_52023PC0335.pdf"
+  ],
+  "text_file": "_text/52023PC0335.txt",
+  "errors": []
+ },
+ {
+  "no": 12,
+  "short": "STEP",
+  "role": "adopted",
+  "celex": "32024R0795",
+  "version_downloaded": "02024R0795-20251223",
+  "consolidated_versions_available": [
+   "02024R0795-20251223"
+  ],
+  "files": [
+   "2_in_negotiation/012_STEP/STEP_adopted_02024R0795-20251223.html",
+   "2_in_negotiation/012_STEP/STEP_adopted_02024R0795-20251223.pdf"
+  ],
+  "text_file": "_text/32024R0795.txt",
+  "errors": []
+ },
+ {
+  "no": 13,
+  "short": "FrequencyBands",
+  "role": "in_force",
+  "celex": "31987L0372",
+  "version_downloaded": "01987L0372-20091109",
+  "consolidated_versions_available": [
+   "01987L0372-19870630",
+   "01987L0372-20091109"
+  ],
+  "files": [
+   "1_applicable/013_FrequencyBands/FrequencyBands_in_force_01987L0372-20091109.html",
+   "1_applicable/013_FrequencyBands/FrequencyBands_in_force_01987L0372-20091109.pdf"
+  ],
+  "text_file": "_text/31987L0372.txt",
+  "errors": []
+ },
+ {
+  "no": 14,
+  "short": "RadioSpectrumDecision",
+  "role": "in_force",
+  "celex": "32002D0676",
+  "version_downloaded": "32002D0676",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/014_RadioSpectrumDecision/RadioSpectrumDecision_in_force_32002D0676.html",
+   "1_applicable/014_RadioSpectrumDecision/RadioSpectrumDecision_in_force_32002D0676.pdf"
+  ],
+  "text_file": "_text/32002D0676.txt",
+  "errors": []
+ },
+ {
+  "no": 15,
+  "short": "BCRD-GigabitInfrastructureAct",
+  "role": "in_force",
+  "celex": "32014L0061",
+  "version_downloaded": "32014L0061",
+  "consolidated_versions_available": [
+   "02014L0061-20140612"
+  ],
+  "files": [
+   "1_applicable/015_BCRD-GigabitInfrastructureAct/BCRD-GigabitInfrastructureAct_in_force_32014L0061.html",
+   "1_applicable/015_BCRD-GigabitInfrastructureAct/BCRD-GigabitInfrastructureAct_in_force_32014L0061.pdf"
+  ],
+  "text_file": "_text/32014L0061.txt",
+  "errors": []
+ },
+ {
+  "no": 15,
+  "short": "BCRD-GigabitInfrastructureAct",
+  "role": "proposal",
+  "celex": "52023PC0094",
+  "version_downloaded": "52023PC0094",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/015_BCRD-GigabitInfrastructureAct/BCRD-GigabitInfrastructureAct_proposal_52023PC0094_part1.html",
+   "1_applicable/015_BCRD-GigabitInfrastructureAct/BCRD-GigabitInfrastructureAct_proposal_52023PC0094_part2.html",
+   "1_applicable/015_BCRD-GigabitInfrastructureAct/BCRD-GigabitInfrastructureAct_proposal_52023PC0094_part1.pdf",
+   "1_applicable/015_BCRD-GigabitInfrastructureAct/BCRD-GigabitInfrastructureAct_proposal_52023PC0094_part2.pdf"
+  ],
+  "text_file": "_text/52023PC0094.txt",
+  "errors": []
+ },
+ {
+  "no": 15,
+  "short": "BCRD-GigabitInfrastructureAct",
+  "role": "adopted",
+  "celex": "32024R1309",
+  "version_downloaded": "02024R1309-20240508",
+  "consolidated_versions_available": [
+   "02024R1309-20240508"
+  ],
+  "files": [
+   "1_applicable/015_BCRD-GigabitInfrastructureAct/BCRD-GigabitInfrastructureAct_adopted_02024R1309-20240508.html",
+   "1_applicable/015_BCRD-GigabitInfrastructureAct/BCRD-GigabitInfrastructureAct_adopted_02024R1309-20240508.pdf"
+  ],
+  "text_file": "_text/32024R1309.txt",
+  "errors": []
+ },
+ {
+  "no": 16,
+  "short": "OpenInternet",
+  "role": "in_force",
+  "celex": "32015R2120",
+  "version_downloaded": "02015R2120-20240515",
+  "consolidated_versions_available": [
+   "02015R2120-20151126",
+   "02015R2120-20201221",
+   "02015R2120-20240515"
+  ],
+  "files": [
+   "1_applicable/016_OpenInternet/OpenInternet_in_force_02015R2120-20240515.html",
+   "1_applicable/016_OpenInternet/OpenInternet_in_force_02015R2120-20240515.pdf"
+  ],
+  "text_file": "_text/32015R2120.txt",
+  "errors": []
+ },
+ {
+  "no": 17,
+  "short": "EECC",
+  "role": "in_force",
+  "celex": "32018L1972",
+  "version_downloaded": "02018L1972-20241018",
+  "consolidated_versions_available": [
+   "02018L1972-20181217",
+   "02018L1972-20241018"
+  ],
+  "files": [
+   "1_applicable/017_EECC/EECC_in_force_02018L1972-20241018.html",
+   "1_applicable/017_EECC/EECC_in_force_02018L1972-20241018.pdf"
+  ],
+  "text_file": "_text/32018L1972.txt",
+  "errors": []
+ },
+ {
+  "no": 18,
+  "short": "Roaming",
+  "role": "in_force",
+  "celex": "32022R0612",
+  "version_downloaded": "32022R0612",
+  "consolidated_versions_available": [
+   "02022R0612-20220413"
+  ],
+  "files": [
+   "1_applicable/018_Roaming/Roaming_in_force_32022R0612.html",
+   "1_applicable/018_Roaming/Roaming_in_force_32022R0612.pdf"
+  ],
+  "text_file": "_text/32022R0612.txt",
+  "errors": []
+ },
+ {
+  "no": 19,
+  "short": "IRIS2",
+  "role": "in_force",
+  "celex": "32023R0588",
+  "version_downloaded": "32023R0588",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/019_IRIS2/IRIS2_in_force_32023R0588.html",
+   "1_applicable/019_IRIS2/IRIS2_in_force_32023R0588.pdf"
+  ],
+  "text_file": "_text/32023R0588.txt",
+  "errors": []
+ },
+ {
+  "no": 20,
+  "short": "dotEU",
+  "role": "in_force",
+  "celex": "32019R0517",
+  "version_downloaded": "32019R0517",
+  "consolidated_versions_available": [
+   "02019R0517-20190329"
+  ],
+  "files": [
+   "1_applicable/020_dotEU/dotEU_in_force_32019R0517.html",
+   "1_applicable/020_dotEU/dotEU_in_force_32019R0517.pdf"
+  ],
+  "text_file": "_text/32019R0517.txt",
+  "errors": []
+ },
+ {
+  "no": 22,
+  "short": "TelecomsAct-DNA",
+  "role": "proposal",
+  "celex": "52026PC0016",
+  "version_downloaded": "52026PC0016",
+  "consolidated_versions_available": [],
+  "files": [
+   "3_planned/022_TelecomsAct-DNA/TelecomsAct-DNA_proposal_52026PC0016_part1.html",
+   "3_planned/022_TelecomsAct-DNA/TelecomsAct-DNA_proposal_52026PC0016_part2.html",
+   "3_planned/022_TelecomsAct-DNA/TelecomsAct-DNA_proposal_52026PC0016_part1.pdf",
+   "3_planned/022_TelecomsAct-DNA/TelecomsAct-DNA_proposal_52026PC0016_part2.pdf"
+  ],
+  "text_file": "_text/52026PC0016.txt",
+  "errors": []
+ },
+ {
+  "no": 23,
+  "short": "GDPR",
+  "role": "in_force",
+  "celex": "32016R0679",
+  "version_downloaded": "02016R0679-20160504",
+  "consolidated_versions_available": [
+   "02016R0679-20160504"
+  ],
+  "files": [
+   "1_applicable/023_GDPR/GDPR_in_force_02016R0679-20160504.html",
+   "1_applicable/023_GDPR/GDPR_in_force_02016R0679-20160504.pdf"
+  ],
+  "text_file": "_text/32016R0679.txt",
+  "errors": []
+ },
+ {
+  "no": 24,
+  "short": "EUDPR",
+  "role": "in_force",
+  "celex": "32018R1725",
+  "version_downloaded": "32018R1725",
+  "consolidated_versions_available": [
+   "02018R1725-20181121"
+  ],
+  "files": [
+   "1_applicable/024_EUDPR/EUDPR_in_force_32018R1725.html",
+   "1_applicable/024_EUDPR/EUDPR_in_force_32018R1725.pdf"
+  ],
+  "text_file": "_text/32018R1725.txt",
+  "errors": []
+ },
+ {
+  "no": 25,
+  "short": "FreeFlowNonPersonalData",
+  "role": "in_force",
+  "celex": "32018R1807",
+  "version_downloaded": "32018R1807",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/025_FreeFlowNonPersonalData/FreeFlowNonPersonalData_in_force_32018R1807.html",
+   "1_applicable/025_FreeFlowNonPersonalData/FreeFlowNonPersonalData_in_force_32018R1807.pdf"
+  ],
+  "text_file": "_text/32018R1807.txt",
+  "errors": []
+ },
+ {
+  "no": 26,
+  "short": "OpenDataDirective",
+  "role": "in_force",
+  "celex": "32019L1024",
+  "version_downloaded": "32019L1024",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/026_OpenDataDirective/OpenDataDirective_in_force_32019L1024.html",
+   "1_applicable/026_OpenDataDirective/OpenDataDirective_in_force_32019L1024.pdf"
+  ],
+  "text_file": "_text/32019L1024.txt",
+  "errors": []
+ },
+ {
+  "no": 27,
+  "short": "DGA",
+  "role": "in_force",
+  "celex": "32022R0868",
+  "version_downloaded": "32022R0868",
+  "consolidated_versions_available": [
+   "02022R0868-20220603"
+  ],
+  "files": [
+   "1_applicable/027_DGA/DGA_in_force_32022R0868.html",
+   "1_applicable/027_DGA/DGA_in_force_32022R0868.pdf"
+  ],
+  "text_file": "_text/32022R0868.txt",
+  "errors": []
+ },
+ {
+  "no": 28,
+  "short": "ePrivacyRegulation",
+  "role": "proposal",
+  "celex": "52017PC0010",
+  "version_downloaded": "52017PC0010",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/028_ePrivacyRegulation/ePrivacyRegulation_proposal_52017PC0010.html",
+   "2_in_negotiation/028_ePrivacyRegulation/ePrivacyRegulation_proposal_52017PC0010.pdf"
+  ],
+  "text_file": "_text/52017PC0010.txt",
+  "errors": []
+ },
+ {
+  "no": 28,
+  "short": "ePrivacyRegulation",
+  "role": "related",
+  "celex": "32002L0058",
+  "version_downloaded": "02002L0058-20091219",
+  "consolidated_versions_available": [
+   "02002L0058-20060503",
+   "02002L0058-20091219"
+  ],
+  "files": [
+   "2_in_negotiation/028_ePrivacyRegulation/ePrivacyRegulation_related_02002L0058-20091219.html",
+   "2_in_negotiation/028_ePrivacyRegulation/ePrivacyRegulation_related_02002L0058-20091219.pdf"
+  ],
+  "text_file": "_text/32002L0058.txt",
+  "errors": []
+ },
+ {
+  "no": 29,
+  "short": "DataAct",
+  "role": "proposal",
+  "celex": "52022PC0068",
+  "version_downloaded": "52022PC0068",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/029_DataAct/DataAct_proposal_52022PC0068.html",
+   "2_in_negotiation/029_DataAct/DataAct_proposal_52022PC0068.pdf"
+  ],
+  "text_file": "_text/52022PC0068.txt",
+  "errors": []
+ },
+ {
+  "no": 29,
+  "short": "DataAct",
+  "role": "adopted",
+  "celex": "32023R2854",
+  "version_downloaded": "32023R2854",
+  "consolidated_versions_available": [
+   "02023R2854-20231222"
+  ],
+  "files": [
+   "2_in_negotiation/029_DataAct/DataAct_adopted_32023R2854.html",
+   "2_in_negotiation/029_DataAct/DataAct_adopted_32023R2854.pdf"
+  ],
+  "text_file": "_text/32023R2854.txt",
+  "errors": []
+ },
+ {
+  "no": 30,
+  "short": "EHDS",
+  "role": "proposal",
+  "celex": "52022PC0197",
+  "version_downloaded": "52022PC0197",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/030_EHDS/EHDS_proposal_52022PC0197_part1.html",
+   "2_in_negotiation/030_EHDS/EHDS_proposal_52022PC0197_part2.html",
+   "2_in_negotiation/030_EHDS/EHDS_proposal_52022PC0197_part1.pdf",
+   "2_in_negotiation/030_EHDS/EHDS_proposal_52022PC0197_part2.pdf"
+  ],
+  "text_file": "_text/52022PC0197.txt",
+  "errors": []
+ },
+ {
+  "no": 30,
+  "short": "EHDS",
+  "role": "adopted",
+  "celex": "32025R0327",
+  "version_downloaded": "32025R0327",
+  "consolidated_versions_available": [
+   "02025R0327-20250305"
+  ],
+  "files": [
+   "2_in_negotiation/030_EHDS/EHDS_adopted_32025R0327.html",
+   "2_in_negotiation/030_EHDS/EHDS_adopted_32025R0327.pdf"
+  ],
+  "text_file": "_text/32025R0327.txt",
+  "errors": []
+ },
+ {
+  "no": 31,
+  "short": "ShortTermRental",
+  "role": "proposal",
+  "celex": "52022PC0571",
+  "version_downloaded": "52022PC0571",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/031_ShortTermRental/ShortTermRental_proposal_52022PC0571.html",
+   "2_in_negotiation/031_ShortTermRental/ShortTermRental_proposal_52022PC0571.pdf"
+  ],
+  "text_file": "_text/52022PC0571.txt",
+  "errors": []
+ },
+ {
+  "no": 31,
+  "short": "ShortTermRental",
+  "role": "adopted",
+  "celex": "32024R1028",
+  "version_downloaded": "32024R1028",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/031_ShortTermRental/ShortTermRental_adopted_32024R1028.html",
+   "2_in_negotiation/031_ShortTermRental/ShortTermRental_adopted_32024R1028.pdf"
+  ],
+  "text_file": "_text/32024R1028.txt",
+  "errors": []
+ },
+ {
+  "no": 32,
+  "short": "GDPR-Enforcement",
+  "role": "proposal",
+  "celex": "52023PC0348",
+  "version_downloaded": "52023PC0348",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/032_GDPR-Enforcement/GDPR-Enforcement_proposal_52023PC0348_part1.html",
+   "2_in_negotiation/032_GDPR-Enforcement/GDPR-Enforcement_proposal_52023PC0348_part2.html",
+   "2_in_negotiation/032_GDPR-Enforcement/GDPR-Enforcement_proposal_52023PC0348_part1.pdf",
+   "2_in_negotiation/032_GDPR-Enforcement/GDPR-Enforcement_proposal_52023PC0348_part2.pdf"
+  ],
+  "text_file": "_text/52023PC0348.txt",
+  "errors": []
+ },
+ {
+  "no": 32,
+  "short": "GDPR-Enforcement",
+  "role": "adopted",
+  "celex": "32025R2518",
+  "version_downloaded": "32025R2518",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/032_GDPR-Enforcement/GDPR-Enforcement_adopted_32025R2518.html",
+   "2_in_negotiation/032_GDPR-Enforcement/GDPR-Enforcement_adopted_32025R2518.pdf"
+  ],
+  "text_file": "_text/32025R2518.txt",
+  "errors": []
+ },
+ {
+  "no": 33,
+  "short": "InteroperableEurope",
+  "role": "proposal",
+  "celex": "52022PC0720",
+  "version_downloaded": "52022PC0720",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/033_InteroperableEurope/InteroperableEurope_proposal_52022PC0720.html",
+   "2_in_negotiation/033_InteroperableEurope/InteroperableEurope_proposal_52022PC0720.pdf"
+  ],
+  "text_file": "_text/52022PC0720.txt",
+  "errors": []
+ },
+ {
+  "no": 33,
+  "short": "InteroperableEurope",
+  "role": "adopted",
+  "celex": "32024R0903",
+  "version_downloaded": "32024R0903",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/033_InteroperableEurope/InteroperableEurope_adopted_32024R0903.html",
+   "2_in_negotiation/033_InteroperableEurope/InteroperableEurope_adopted_32024R0903.pdf"
+  ],
+  "text_file": "_text/32024R0903.txt",
+  "errors": []
+ },
+ {
+  "no": 35,
+  "short": "GreenData4all",
+  "role": "proposal",
+  "celex": "52025PC0985",
+  "version_downloaded": "52025PC0985",
+  "consolidated_versions_available": [],
+  "files": [
+   "3_planned/035_GreenData4all/GreenData4all_proposal_52025PC0985.html",
+   "3_planned/035_GreenData4all/GreenData4all_proposal_52025PC0985.pdf"
+  ],
+  "text_file": "_text/52025PC0985.txt",
+  "errors": []
+ },
+ {
+  "no": 36,
+  "short": "DatabaseDirective",
+  "role": "in_force",
+  "celex": "31996L0009",
+  "version_downloaded": "01996L0009-20190606",
+  "consolidated_versions_available": [
+   "01996L0009-20190606"
+  ],
+  "files": [
+   "1_applicable/036_DatabaseDirective/DatabaseDirective_in_force_01996L0009-20190606.html",
+   "1_applicable/036_DatabaseDirective/DatabaseDirective_in_force_01996L0009-20190606.pdf"
+  ],
+  "text_file": "_text/31996L0009.txt",
+  "errors": []
+ },
+ {
+  "no": 37,
+  "short": "CommunityDesign",
+  "role": "in_force",
+  "celex": "32002R0006",
+  "version_downloaded": "02002R0006-20260701",
+  "consolidated_versions_available": [
+   "02002R0006-20020306",
+   "02002R0006-20040501",
+   "02002R0006-20070101",
+   "02002R0006-20130701",
+   "02002R0006-20250501",
+   "02002R0006-20260701"
+  ],
+  "files": [
+   "1_applicable/037_CommunityDesign/CommunityDesign_in_force_02002R0006-20260701.html",
+   "1_applicable/037_CommunityDesign/CommunityDesign_in_force_02002R0006-20260701.pdf"
+  ],
+  "text_file": "_text/32002R0006.txt",
+  "errors": []
+ },
+ {
+  "no": 37,
+  "short": "CommunityDesign",
+  "role": "proposal",
+  "celex": "52022PC0666",
+  "version_downloaded": "52022PC0666",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/037_CommunityDesign/CommunityDesign_proposal_52022PC0666_part1.html",
+   "1_applicable/037_CommunityDesign/CommunityDesign_proposal_52022PC0666_part2.html",
+   "1_applicable/037_CommunityDesign/CommunityDesign_proposal_52022PC0666_part1.pdf",
+   "1_applicable/037_CommunityDesign/CommunityDesign_proposal_52022PC0666_part2.pdf"
+  ],
+  "text_file": "_text/52022PC0666.txt",
+  "errors": []
+ },
+ {
+  "no": 37,
+  "short": "CommunityDesign",
+  "role": "adopted",
+  "celex": "32024R2822",
+  "version_downloaded": "32024R2822",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/037_CommunityDesign/CommunityDesign_adopted_32024R2822.html",
+   "1_applicable/037_CommunityDesign/CommunityDesign_adopted_32024R2822.pdf"
+  ],
+  "text_file": "_text/32024R2822.txt",
+  "errors": []
+ },
+ {
+  "no": 38,
+  "short": "IPRED",
+  "role": "in_force",
+  "celex": "32004L0048",
+  "version_downloaded": "02004L0048-20040430",
+  "consolidated_versions_available": [
+   "02004L0048-20040430"
+  ],
+  "files": [
+   "1_applicable/038_IPRED/IPRED_in_force_02004L0048-20040430.html",
+   "1_applicable/038_IPRED/IPRED_in_force_02004L0048-20040430.pdf"
+  ],
+  "text_file": "_text/32004L0048.txt",
+  "errors": []
+ },
+ {
+  "no": 39,
+  "short": "TradeSecrets",
+  "role": "in_force",
+  "celex": "32016L0943",
+  "version_downloaded": "32016L0943",
+  "consolidated_versions_available": [
+   "02016L0943-20160615"
+  ],
+  "files": [
+   "1_applicable/039_TradeSecrets/TradeSecrets_in_force_32016L0943.html",
+   "1_applicable/039_TradeSecrets/TradeSecrets_in_force_32016L0943.pdf"
+  ],
+  "text_file": "_text/32016L0943.txt",
+  "errors": []
+ },
+ {
+  "no": 40,
+  "short": "SEP",
+  "role": "proposal",
+  "celex": "52023PC0232",
+  "version_downloaded": "52023PC0232",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/040_SEP/SEP_proposal_52023PC0232.html",
+   "2_in_negotiation/040_SEP/SEP_proposal_52023PC0232.pdf"
+  ],
+  "text_file": "_text/52023PC0232.txt",
+  "errors": []
+ },
+ {
+  "no": 41,
+  "short": "DesignDirective",
+  "role": "proposal",
+  "celex": "52022PC0667",
+  "version_downloaded": "52022PC0667",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/041_DesignDirective/DesignDirective_proposal_52022PC0667_part1.html",
+   "2_in_negotiation/041_DesignDirective/DesignDirective_proposal_52022PC0667_part2.html",
+   "2_in_negotiation/041_DesignDirective/DesignDirective_proposal_52022PC0667_part1.pdf",
+   "2_in_negotiation/041_DesignDirective/DesignDirective_proposal_52022PC0667_part2.pdf"
+  ],
+  "text_file": "_text/52022PC0667.txt",
+  "errors": []
+ },
+ {
+  "no": 41,
+  "short": "DesignDirective",
+  "role": "adopted",
+  "celex": "32024L2823",
+  "version_downloaded": "32024L2823",
+  "consolidated_versions_available": [
+   "02024L2823-20241118"
+  ],
+  "files": [
+   "2_in_negotiation/041_DesignDirective/DesignDirective_adopted_32024L2823.html",
+   "2_in_negotiation/041_DesignDirective/DesignDirective_adopted_32024L2823.pdf"
+  ],
+  "text_file": "_text/32024L2823.txt",
+  "errors": []
+ },
+ {
+  "no": 42,
+  "short": "CompulsoryLicensing",
+  "role": "proposal",
+  "celex": "52023PC0224",
+  "version_downloaded": "52023PC0224",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/042_CompulsoryLicensing/CompulsoryLicensing_proposal_52023PC0224_part1.html",
+   "2_in_negotiation/042_CompulsoryLicensing/CompulsoryLicensing_proposal_52023PC0224_part2.html",
+   "2_in_negotiation/042_CompulsoryLicensing/CompulsoryLicensing_proposal_52023PC0224_part1.pdf",
+   "2_in_negotiation/042_CompulsoryLicensing/CompulsoryLicensing_proposal_52023PC0224_part2.pdf"
+  ],
+  "text_file": "_text/52023PC0224.txt",
+  "errors": []
+ },
+ {
+  "no": 42,
+  "short": "CompulsoryLicensing",
+  "role": "adopted",
+  "celex": "32025R2645",
+  "version_downloaded": "32025R2645",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/042_CompulsoryLicensing/CompulsoryLicensing_adopted_32025R2645.html",
+   "2_in_negotiation/042_CompulsoryLicensing/CompulsoryLicensing_adopted_32025R2645.pdf"
+  ],
+  "text_file": "_text/32025R2645.txt",
+  "errors": []
+ },
+ {
+  "no": 43,
+  "short": "CybersecurityAct",
+  "role": "in_force",
+  "celex": "32019R0881",
+  "version_downloaded": "02019R0881-20250204",
+  "consolidated_versions_available": [
+   "02019R0881-20190607",
+   "02019R0881-20250204"
+  ],
+  "files": [
+   "1_applicable/043_CybersecurityAct/CybersecurityAct_in_force_02019R0881-20250204.html",
+   "1_applicable/043_CybersecurityAct/CybersecurityAct_in_force_02019R0881-20250204.pdf"
+  ],
+  "text_file": "_text/32019R0881.txt",
+  "errors": []
+ },
+ {
+  "no": 44,
+  "short": "ECCC",
+  "role": "in_force",
+  "celex": "32021R0887",
+  "version_downloaded": "32021R0887",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/044_ECCC/ECCC_in_force_32021R0887.html",
+   "1_applicable/044_ECCC/ECCC_in_force_32021R0887.pdf"
+  ],
+  "text_file": "_text/32021R0887.txt",
+  "errors": []
+ },
+ {
+  "no": 45,
+  "short": "NIS2",
+  "role": "in_force",
+  "celex": "32022L2555",
+  "version_downloaded": "02022L2555-20221227",
+  "consolidated_versions_available": [
+   "02022L2555-20221227"
+  ],
+  "files": [
+   "1_applicable/045_NIS2/NIS2_in_force_02022L2555-20221227.html",
+   "1_applicable/045_NIS2/NIS2_in_force_02022L2555-20221227.pdf"
+  ],
+  "text_file": "_text/32022L2555.txt",
+  "errors": []
+ },
+ {
+  "no": 46,
+  "short": "InfoSecRegulation",
+  "role": "proposal",
+  "celex": "52022PC0119",
+  "version_downloaded": "52022PC0119",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part1.html",
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part2.html",
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part3.html",
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part4.html",
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part5.html",
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part6.html",
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part7.html",
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part1.pdf",
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part2.pdf",
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part3.pdf",
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part4.pdf",
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part5.pdf",
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part6.pdf",
+   "2_in_negotiation/046_InfoSecRegulation/InfoSecRegulation_proposal_52022PC0119_part7.pdf"
+  ],
+  "text_file": "_text/52022PC0119.txt",
+  "errors": []
+ },
+ {
+  "no": 47,
+  "short": "EUIBA-Cybersecurity",
+  "role": "proposal",
+  "celex": "52022PC0122",
+  "version_downloaded": "52022PC0122",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/047_EUIBA-Cybersecurity/EUIBA-Cybersecurity_proposal_52022PC0122_part1.html",
+   "2_in_negotiation/047_EUIBA-Cybersecurity/EUIBA-Cybersecurity_proposal_52022PC0122_part2.html",
+   "2_in_negotiation/047_EUIBA-Cybersecurity/EUIBA-Cybersecurity_proposal_52022PC0122_part1.pdf",
+   "2_in_negotiation/047_EUIBA-Cybersecurity/EUIBA-Cybersecurity_proposal_52022PC0122_part2.pdf"
+  ],
+  "text_file": "_text/52022PC0122.txt",
+  "errors": []
+ },
+ {
+  "no": 47,
+  "short": "EUIBA-Cybersecurity",
+  "role": "adopted",
+  "celex": "32023R2841",
+  "version_downloaded": "32023R2841",
+  "consolidated_versions_available": [
+   "02023R2841-20231218"
+  ],
+  "files": [
+   "2_in_negotiation/047_EUIBA-Cybersecurity/EUIBA-Cybersecurity_adopted_32023R2841.html",
+   "2_in_negotiation/047_EUIBA-Cybersecurity/EUIBA-Cybersecurity_adopted_32023R2841.pdf"
+  ],
+  "text_file": "_text/32023R2841.txt",
+  "errors": []
+ },
+ {
+  "no": 48,
+  "short": "CRA",
+  "role": "proposal",
+  "celex": "52022PC0454",
+  "version_downloaded": "52022PC0454",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/048_CRA/CRA_proposal_52022PC0454_part1.html",
+   "2_in_negotiation/048_CRA/CRA_proposal_52022PC0454_part2.html",
+   "2_in_negotiation/048_CRA/CRA_proposal_52022PC0454_part1.pdf",
+   "2_in_negotiation/048_CRA/CRA_proposal_52022PC0454_part2.pdf"
+  ],
+  "text_file": "_text/52022PC0454.txt",
+  "errors": []
+ },
+ {
+  "no": 48,
+  "short": "CRA",
+  "role": "adopted",
+  "celex": "32024R2847",
+  "version_downloaded": "02024R2847-20241120",
+  "consolidated_versions_available": [
+   "02024R2847-20241120"
+  ],
+  "files": [
+   "2_in_negotiation/048_CRA/CRA_adopted_02024R2847-20241120.html",
+   "2_in_negotiation/048_CRA/CRA_adopted_02024R2847-20241120.pdf"
+  ],
+  "text_file": "_text/32024R2847.txt",
+  "errors": []
+ },
+ {
+  "no": 49,
+  "short": "CyberSolidarity",
+  "role": "proposal",
+  "celex": "52023PC0209",
+  "version_downloaded": "52023PC0209",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/049_CyberSolidarity/CyberSolidarity_proposal_52023PC0209_part1.html",
+   "2_in_negotiation/049_CyberSolidarity/CyberSolidarity_proposal_52023PC0209_part2.html",
+   "2_in_negotiation/049_CyberSolidarity/CyberSolidarity_proposal_52023PC0209_part1.pdf",
+   "2_in_negotiation/049_CyberSolidarity/CyberSolidarity_proposal_52023PC0209_part2.pdf"
+  ],
+  "text_file": "_text/52023PC0209.txt",
+  "errors": []
+ },
+ {
+  "no": 49,
+  "short": "CyberSolidarity",
+  "role": "adopted",
+  "celex": "32025R0038",
+  "version_downloaded": "02025R0038-20250115",
+  "consolidated_versions_available": [
+   "02025R0038-20250115"
+  ],
+  "files": [
+   "2_in_negotiation/049_CyberSolidarity/CyberSolidarity_adopted_02025R0038-20250115.html",
+   "2_in_negotiation/049_CyberSolidarity/CyberSolidarity_adopted_02025R0038-20250115.pdf"
+  ],
+  "text_file": "_text/32025R0038.txt",
+  "errors": []
+ },
+ {
+  "no": 50,
+  "short": "LED",
+  "role": "in_force",
+  "celex": "32016L0680",
+  "version_downloaded": "02016L0680-20160504",
+  "consolidated_versions_available": [
+   "02016L0680-20160504"
+  ],
+  "files": [
+   "1_applicable/050_LED/LED_in_force_02016L0680-20160504.html",
+   "1_applicable/050_LED/LED_in_force_02016L0680-20160504.pdf"
+  ],
+  "text_file": "_text/32016L0680.txt",
+  "errors": []
+ },
+ {
+  "no": 51,
+  "short": "NonCashPaymentFraud",
+  "role": "in_force",
+  "celex": "32019L0713",
+  "version_downloaded": "32019L0713",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/051_NonCashPaymentFraud/NonCashPaymentFraud_in_force_32019L0713.html",
+   "1_applicable/051_NonCashPaymentFraud/NonCashPaymentFraud_in_force_32019L0713.pdf"
+  ],
+  "text_file": "_text/32019L0713.txt",
+  "errors": []
+ },
+ {
+  "no": 52,
+  "short": "TCO",
+  "role": "in_force",
+  "celex": "32021R0784",
+  "version_downloaded": "32021R0784",
+  "consolidated_versions_available": [
+   "02021R0784-20210517"
+  ],
+  "files": [
+   "1_applicable/052_TCO/TCO_in_force_32021R0784.html",
+   "1_applicable/052_TCO/TCO_in_force_32021R0784.pdf"
+  ],
+  "text_file": "_text/32021R0784.txt",
+  "errors": []
+ },
+ {
+  "no": 53,
+  "short": "CSAM",
+  "role": "in_force",
+  "celex": "32021R1232",
+  "version_downloaded": "02021R1232-20240515",
+  "consolidated_versions_available": [
+   "02021R1232-20240515"
+  ],
+  "files": [
+   "1_applicable/053_CSAM/CSAM_in_force_02021R1232-20240515.html",
+   "1_applicable/053_CSAM/CSAM_in_force_02021R1232-20240515.pdf"
+  ],
+  "text_file": "_text/32021R1232.txt",
+  "errors": []
+ },
+ {
+  "no": 53,
+  "short": "CSAM",
+  "role": "proposal",
+  "celex": "52022PC0209",
+  "version_downloaded": "52022PC0209",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/053_CSAM/CSAM_proposal_52022PC0209_part1.html",
+   "1_applicable/053_CSAM/CSAM_proposal_52022PC0209_part2.html",
+   "1_applicable/053_CSAM/CSAM_proposal_52022PC0209_part1.pdf",
+   "1_applicable/053_CSAM/CSAM_proposal_52022PC0209_part2.pdf"
+  ],
+  "text_file": "_text/52022PC0209.txt",
+  "errors": []
+ },
+ {
+  "no": 54,
+  "short": "E-evidence",
+  "role": "proposal",
+  "celex": "52018PC0225",
+  "version_downloaded": "52018PC0225",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/054_E-evidence/E-evidence_proposal_52018PC0225_part1.html",
+   "2_in_negotiation/054_E-evidence/E-evidence_proposal_52018PC0225_part2.html",
+   "2_in_negotiation/054_E-evidence/E-evidence_proposal_52018PC0225_part1.pdf",
+   "2_in_negotiation/054_E-evidence/E-evidence_proposal_52018PC0225_part2.pdf"
+  ],
+  "text_file": "_text/52018PC0225.txt",
+  "errors": []
+ },
+ {
+  "no": 54,
+  "short": "E-evidence",
+  "role": "adopted",
+  "celex": "32023R1543",
+  "version_downloaded": "02023R1543-20230728",
+  "consolidated_versions_available": [
+   "02023R1543-20230728"
+  ],
+  "files": [
+   "2_in_negotiation/054_E-evidence/E-evidence_adopted_02023R1543-20230728.html"
+  ],
+  "text_file": "_text/32023R1543.txt",
+  "errors": [
+   "no PDF manifestation found"
+  ]
+ },
+ {
+  "no": 54,
+  "short": "E-evidence",
+  "role": "related",
+  "celex": "32023L1544",
+  "version_downloaded": "32023L1544",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/054_E-evidence/E-evidence_related_32023L1544.html",
+   "2_in_negotiation/054_E-evidence/E-evidence_related_32023L1544.pdf"
+  ],
+  "text_file": "_text/32023L1544.txt",
+  "errors": []
+ },
+ {
+  "no": 55,
+  "short": "DigitalTravelDocs",
+  "role": "proposal",
+  "celex": "52024PC0670",
+  "version_downloaded": "52024PC0670",
+  "consolidated_versions_available": [],
+  "files": [
+   "3_planned/055_DigitalTravelDocs/DigitalTravelDocs_proposal_52024PC0670_part1.html",
+   "3_planned/055_DigitalTravelDocs/DigitalTravelDocs_proposal_52024PC0670_part2.html",
+   "3_planned/055_DigitalTravelDocs/DigitalTravelDocs_proposal_52024PC0670_part1.pdf",
+   "3_planned/055_DigitalTravelDocs/DigitalTravelDocs_proposal_52024PC0670_part2.pdf"
+  ],
+  "text_file": "_text/52024PC0670.txt",
+  "errors": []
+ },
+ {
+  "no": 55,
+  "short": "DigitalTravelDocs",
+  "role": "proposal",
+  "celex": "52024PC0671",
+  "version_downloaded": "52024PC0671",
+  "consolidated_versions_available": [],
+  "files": [
+   "3_planned/055_DigitalTravelDocs/DigitalTravelDocs_proposal_52024PC0671.html",
+   "3_planned/055_DigitalTravelDocs/DigitalTravelDocs_proposal_52024PC0671.pdf"
+  ],
+  "text_file": "_text/52024PC0671.txt",
+  "errors": []
+ },
+ {
+  "no": 56,
+  "short": "PLD",
+  "role": "in_force",
+  "celex": "31985L0374",
+  "version_downloaded": "31985L0374",
+  "consolidated_versions_available": [
+   "01985L0374-19850730",
+   "01985L0374-19990604"
+  ],
+  "files": [
+   "1_applicable/056_PLD/PLD_in_force_31985L0374.html"
+  ],
+  "text_file": "_text/31985L0374.txt",
+  "errors": [
+   "no PDF manifestation found"
+  ]
+ },
+ {
+  "no": 56,
+  "short": "PLD",
+  "role": "proposal",
+  "celex": "52022PC0495",
+  "version_downloaded": "52022PC0495",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/056_PLD/PLD_proposal_52022PC0495_part1.html",
+   "1_applicable/056_PLD/PLD_proposal_52022PC0495_part2.html",
+   "1_applicable/056_PLD/PLD_proposal_52022PC0495_part1.pdf",
+   "1_applicable/056_PLD/PLD_proposal_52022PC0495_part2.pdf"
+  ],
+  "text_file": "_text/52022PC0495.txt",
+  "errors": []
+ },
+ {
+  "no": 56,
+  "short": "PLD",
+  "role": "adopted",
+  "celex": "32024L2853",
+  "version_downloaded": "02024L2853-20241118",
+  "consolidated_versions_available": [
+   "02024L2853-20241118"
+  ],
+  "files": [
+   "1_applicable/056_PLD/PLD_adopted_02024L2853-20241118.html",
+   "1_applicable/056_PLD/PLD_adopted_02024L2853-20241118.pdf"
+  ],
+  "text_file": "_text/32024L2853.txt",
+  "errors": []
+ },
+ {
+  "no": 57,
+  "short": "Standardisation",
+  "role": "in_force",
+  "celex": "32012R1025",
+  "version_downloaded": "02012R1025-20241213",
+  "consolidated_versions_available": [
+   "02012R1025-20151007",
+   "02012R1025-20230709",
+   "02012R1025-20241213"
+  ],
+  "files": [
+   "1_applicable/057_Standardisation/Standardisation_in_force_02012R1025-20241213.html",
+   "1_applicable/057_Standardisation/Standardisation_in_force_02012R1025-20241213.pdf"
+  ],
+  "text_file": "_text/32012R1025.txt",
+  "errors": []
+ },
+ {
+  "no": 58,
+  "short": "RED",
+  "role": "in_force",
+  "celex": "32014L0053",
+  "version_downloaded": "02014L0053-20260530",
+  "consolidated_versions_available": [
+   "02014L0053-20140611",
+   "02014L0053-20180911",
+   "02014L0053-20221227",
+   "02014L0053-20231001",
+   "02014L0053-20241228",
+   "02014L0053-20260530"
+  ],
+  "files": [
+   "1_applicable/058_RED/RED_in_force_02014L0053-20260530.html",
+   "1_applicable/058_RED/RED_in_force_02014L0053-20260530.pdf"
+  ],
+  "text_file": "_text/32014L0053.txt",
+  "errors": []
+ },
+ {
+  "no": 59,
+  "short": "eIDAS",
+  "role": "in_force",
+  "celex": "32014R0910",
+  "version_downloaded": "02014R0910-20241018",
+  "consolidated_versions_available": [
+   "02014R0910-20140917",
+   "02014R0910-20240520",
+   "02014R0910-20241018"
+  ],
+  "files": [
+   "1_applicable/059_eIDAS/eIDAS_in_force_02014R0910-20241018.html",
+   "1_applicable/059_eIDAS/eIDAS_in_force_02014R0910-20241018.pdf"
+  ],
+  "text_file": "_text/32014R0910.txt",
+  "errors": []
+ },
+ {
+  "no": 59,
+  "short": "eIDAS",
+  "role": "proposal",
+  "celex": "52021PC0281",
+  "version_downloaded": "52021PC0281",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/059_eIDAS/eIDAS_proposal_52021PC0281_part1.html",
+   "1_applicable/059_eIDAS/eIDAS_proposal_52021PC0281_part2.html",
+   "1_applicable/059_eIDAS/eIDAS_proposal_52021PC0281_part1.pdf",
+   "1_applicable/059_eIDAS/eIDAS_proposal_52021PC0281_part2.pdf"
+  ],
+  "text_file": "_text/52021PC0281.txt",
+  "errors": []
+ },
+ {
+  "no": 59,
+  "short": "eIDAS",
+  "role": "adopted",
+  "celex": "32024R1183",
+  "version_downloaded": "32024R1183",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/059_eIDAS/eIDAS_adopted_32024R1183.html",
+   "1_applicable/059_eIDAS/eIDAS_adopted_32024R1183.pdf"
+  ],
+  "text_file": "_text/32024R1183.txt",
+  "errors": []
+ },
+ {
+  "no": 60,
+  "short": "SDG",
+  "role": "in_force",
+  "celex": "32018R1724",
+  "version_downloaded": "02018R1724-20260520",
+  "consolidated_versions_available": [
+   "02018R1724-20181121",
+   "02018R1724-20230924",
+   "02018R1724-20240523",
+   "02018R1724-20240629",
+   "02018R1724-20250119",
+   "02018R1724-20260520"
+  ],
+  "files": [
+   "1_applicable/060_SDG/SDG_in_force_02018R1724-20260520.html",
+   "1_applicable/060_SDG/SDG_in_force_02018R1724-20260520.pdf"
+  ],
+  "text_file": "_text/32018R1724.txt",
+  "errors": []
+ },
+ {
+  "no": 61,
+  "short": "GPSR",
+  "role": "in_force",
+  "celex": "32023R0988",
+  "version_downloaded": "02023R0988-20260529",
+  "consolidated_versions_available": [
+   "02023R0988-20230523",
+   "02023R0988-20260529"
+  ],
+  "files": [
+   "1_applicable/061_GPSR/GPSR_in_force_02023R0988-20260529.html",
+   "1_applicable/061_GPSR/GPSR_in_force_02023R0988-20260529.pdf"
+  ],
+  "text_file": "_text/32023R0988.txt",
+  "errors": []
+ },
+ {
+  "no": 62,
+  "short": "Machinery",
+  "role": "in_force",
+  "celex": "32023R1230",
+  "version_downloaded": "02023R1230-20260727",
+  "consolidated_versions_available": [
+   "02023R1230-20230629",
+   "02023R1230-20260529",
+   "02023R1230-20260727"
+  ],
+  "files": [
+   "1_applicable/062_Machinery/Machinery_in_force_02023R1230-20260727.html",
+   "1_applicable/062_Machinery/Machinery_in_force_02023R1230-20260727.pdf"
+  ],
+  "text_file": "_text/32023R1230.txt",
+  "errors": []
+ },
+ {
+  "no": 63,
+  "short": "AIAct",
+  "role": "proposal",
+  "celex": "52021PC0206",
+  "version_downloaded": "52021PC0206",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/063_AIAct/AIAct_proposal_52021PC0206_part1.html",
+   "2_in_negotiation/063_AIAct/AIAct_proposal_52021PC0206_part2.html",
+   "2_in_negotiation/063_AIAct/AIAct_proposal_52021PC0206_part1.pdf",
+   "2_in_negotiation/063_AIAct/AIAct_proposal_52021PC0206_part2.pdf"
+  ],
+  "text_file": "_text/52021PC0206.txt",
+  "errors": []
+ },
+ {
+  "no": 63,
+  "short": "AIAct",
+  "role": "adopted",
+  "celex": "32024R1689",
+  "version_downloaded": "02024R1689-20260727",
+  "consolidated_versions_available": [
+   "02024R1689-20240712",
+   "02024R1689-20260727"
+  ],
+  "files": [
+   "2_in_negotiation/063_AIAct/AIAct_adopted_02024R1689-20260727.html",
+   "2_in_negotiation/063_AIAct/AIAct_adopted_02024R1689-20260727.pdf"
+  ],
+  "text_file": "_text/32024R1689.txt",
+  "errors": []
+ },
+ {
+  "no": 64,
+  "short": "Ecodesign",
+  "role": "proposal",
+  "celex": "52022PC0142",
+  "version_downloaded": "52022PC0142",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/064_Ecodesign/Ecodesign_proposal_52022PC0142_part1.html",
+   "2_in_negotiation/064_Ecodesign/Ecodesign_proposal_52022PC0142_part2.html",
+   "2_in_negotiation/064_Ecodesign/Ecodesign_proposal_52022PC0142_part1.pdf",
+   "2_in_negotiation/064_Ecodesign/Ecodesign_proposal_52022PC0142_part2.pdf"
+  ],
+  "text_file": "_text/52022PC0142.txt",
+  "errors": []
+ },
+ {
+  "no": 64,
+  "short": "Ecodesign",
+  "role": "adopted",
+  "celex": "32024R1781",
+  "version_downloaded": "02024R1781-20240628",
+  "consolidated_versions_available": [
+   "02024R1781-20240628"
+  ],
+  "files": [
+   "2_in_negotiation/064_Ecodesign/Ecodesign_adopted_02024R1781-20240628.html",
+   "2_in_negotiation/064_Ecodesign/Ecodesign_adopted_02024R1781-20240628.pdf"
+  ],
+  "text_file": "_text/32024R1781.txt",
+  "errors": []
+ },
+ {
+  "no": 65,
+  "short": "AILD",
+  "role": "proposal",
+  "celex": "52022PC0496",
+  "version_downloaded": "52022PC0496",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/065_AILD/AILD_proposal_52022PC0496.html",
+   "2_in_negotiation/065_AILD/AILD_proposal_52022PC0496.pdf"
+  ],
+  "text_file": "_text/52022PC0496.txt",
+  "errors": []
+ },
+ {
+  "no": 66,
+  "short": "UCTD",
+  "role": "in_force",
+  "celex": "31993L0013",
+  "version_downloaded": "01993L0013-20220528",
+  "consolidated_versions_available": [
+   "01993L0013-20111212",
+   "01993L0013-20220528"
+  ],
+  "files": [
+   "1_applicable/066_UCTD/UCTD_in_force_01993L0013-20220528.html",
+   "1_applicable/066_UCTD/UCTD_in_force_01993L0013-20220528.pdf"
+  ],
+  "text_file": "_text/31993L0013.txt",
+  "errors": []
+ },
+ {
+  "no": 67,
+  "short": "ECD",
+  "role": "in_force",
+  "celex": "32000L0031",
+  "version_downloaded": "02000L0031-20240217",
+  "consolidated_versions_available": [
+   "02000L0031-20000717",
+   "02000L0031-20240217"
+  ],
+  "files": [
+   "1_applicable/067_ECD/ECD_in_force_02000L0031-20240217.html",
+   "1_applicable/067_ECD/ECD_in_force_02000L0031-20240217.pdf"
+  ],
+  "text_file": "_text/32000L0031.txt",
+  "errors": []
+ },
+ {
+  "no": 68,
+  "short": "UCPD",
+  "role": "in_force",
+  "celex": "32005L0029",
+  "version_downloaded": "02005L0029-20260927",
+  "consolidated_versions_available": [
+   "02005L0029-20220528",
+   "02005L0029-20260927"
+  ],
+  "files": [
+   "1_applicable/068_UCPD/UCPD_in_force_02005L0029-20260927.html",
+   "1_applicable/068_UCPD/UCPD_in_force_02005L0029-20260927.pdf"
+  ],
+  "text_file": "_text/32005L0029.txt",
+  "errors": []
+ },
+ {
+  "no": 69,
+  "short": "CRD",
+  "role": "in_force",
+  "celex": "32011L0083",
+  "version_downloaded": "02011L0083-20260927",
+  "consolidated_versions_available": [
+   "02011L0083-20111122",
+   "02011L0083-20180701",
+   "02011L0083-20220528",
+   "02011L0083-20260927"
+  ],
+  "files": [
+   "1_applicable/069_CRD/CRD_in_force_02011L0083-20260927.html",
+   "1_applicable/069_CRD/CRD_in_force_02011L0083-20260927.pdf"
+  ],
+  "text_file": "_text/32011L0083.txt",
+  "errors": []
+ },
+ {
+  "no": 70,
+  "short": "eInvoicing",
+  "role": "in_force",
+  "celex": "32014L0055",
+  "version_downloaded": "32014L0055",
+  "consolidated_versions_available": [
+   "02014L0055-20140526"
+  ],
+  "files": [
+   "1_applicable/070_eInvoicing/eInvoicing_in_force_32014L0055.html",
+   "1_applicable/070_eInvoicing/eInvoicing_in_force_32014L0055.pdf"
+  ],
+  "text_file": "_text/32014L0055.txt",
+  "errors": []
+ },
+ {
+  "no": 71,
+  "short": "GeoBlocking",
+  "role": "in_force",
+  "celex": "32018R0302",
+  "version_downloaded": "32018R0302",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/071_GeoBlocking/GeoBlocking_in_force_32018R0302.html",
+   "1_applicable/071_GeoBlocking/GeoBlocking_in_force_32018R0302.pdf"
+  ],
+  "text_file": "_text/32018R0302.txt",
+  "errors": []
+ },
+ {
+  "no": 72,
+  "short": "DigitalContent",
+  "role": "in_force",
+  "celex": "32019L0770",
+  "version_downloaded": "32019L0770",
+  "consolidated_versions_available": [
+   "02019L0770-20190522"
+  ],
+  "files": [
+   "1_applicable/072_DigitalContent/DigitalContent_in_force_32019L0770.html",
+   "1_applicable/072_DigitalContent/DigitalContent_in_force_32019L0770.pdf"
+  ],
+  "text_file": "_text/32019L0770.txt",
+  "errors": []
+ },
+ {
+  "no": 73,
+  "short": "SaleOfGoods",
+  "role": "in_force",
+  "celex": "32019L0771",
+  "version_downloaded": "02019L0771-20260731",
+  "consolidated_versions_available": [
+   "02019L0771-20190522",
+   "02019L0771-20260731"
+  ],
+  "files": [
+   "1_applicable/073_SaleOfGoods/SaleOfGoods_in_force_02019L0771-20260731.html",
+   "1_applicable/073_SaleOfGoods/SaleOfGoods_in_force_02019L0771-20260731.pdf"
+  ],
+  "text_file": "_text/32019L0771.txt",
+  "errors": []
+ },
+ {
+  "no": 74,
+  "short": "DSA",
+  "role": "in_force",
+  "celex": "32022R2065",
+  "version_downloaded": "32022R2065",
+  "consolidated_versions_available": [
+   "02022R2065-20221027"
+  ],
+  "files": [
+   "1_applicable/074_DSA/DSA_in_force_32022R2065.html",
+   "1_applicable/074_DSA/DSA_in_force_32022R2065.pdf"
+  ],
+  "text_file": "_text/32022R2065.txt",
+  "errors": []
+ },
+ {
+  "no": 75,
+  "short": "RightToRepair",
+  "role": "proposal",
+  "celex": "52023PC0155",
+  "version_downloaded": "52023PC0155",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/075_RightToRepair/RightToRepair_proposal_52023PC0155_part1.html",
+   "2_in_negotiation/075_RightToRepair/RightToRepair_proposal_52023PC0155_part2.html",
+   "2_in_negotiation/075_RightToRepair/RightToRepair_proposal_52023PC0155_part1.pdf",
+   "2_in_negotiation/075_RightToRepair/RightToRepair_proposal_52023PC0155_part2.pdf"
+  ],
+  "text_file": "_text/52023PC0155.txt",
+  "errors": []
+ },
+ {
+  "no": 75,
+  "short": "RightToRepair",
+  "role": "adopted",
+  "celex": "32024L1799",
+  "version_downloaded": "02024L1799-20260731",
+  "consolidated_versions_available": [
+   "02024L1799-20260731"
+  ],
+  "files": [
+   "2_in_negotiation/075_RightToRepair/RightToRepair_adopted_02024L1799-20260731.html",
+   "2_in_negotiation/075_RightToRepair/RightToRepair_adopted_02024L1799-20260731.pdf"
+  ],
+  "text_file": "_text/32024L1799.txt",
+  "errors": []
+ },
+ {
+  "no": 76,
+  "short": "PoliticalAds",
+  "role": "proposal",
+  "celex": "52021PC0731",
+  "version_downloaded": "52021PC0731",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/076_PoliticalAds/PoliticalAds_proposal_52021PC0731_part1.html",
+   "2_in_negotiation/076_PoliticalAds/PoliticalAds_proposal_52021PC0731_part2.html",
+   "2_in_negotiation/076_PoliticalAds/PoliticalAds_proposal_52021PC0731_part1.pdf",
+   "2_in_negotiation/076_PoliticalAds/PoliticalAds_proposal_52021PC0731_part2.pdf"
+  ],
+  "text_file": "_text/52021PC0731.txt",
+  "errors": []
+ },
+ {
+  "no": 76,
+  "short": "PoliticalAds",
+  "role": "adopted",
+  "celex": "32024R0900",
+  "version_downloaded": "32024R0900",
+  "consolidated_versions_available": [
+   "02024R0900-20240320"
+  ],
+  "files": [
+   "2_in_negotiation/076_PoliticalAds/PoliticalAds_adopted_32024R0900.html",
+   "2_in_negotiation/076_PoliticalAds/PoliticalAds_adopted_32024R0900.pdf"
+  ],
+  "text_file": "_text/32024R0900.txt",
+  "errors": []
+ },
+ {
+  "no": 77,
+  "short": "MDMS",
+  "role": "proposal",
+  "celex": "52026PC0231",
+  "version_downloaded": "52026PC0231",
+  "consolidated_versions_available": [],
+  "files": [
+   "3_planned/077_MDMS/MDMS_proposal_52026PC0231_part1.html",
+   "3_planned/077_MDMS/MDMS_proposal_52026PC0231_part2.html",
+   "3_planned/077_MDMS/MDMS_proposal_52026PC0231_part3.html",
+   "3_planned/077_MDMS/MDMS_proposal_52026PC0231_part1.pdf",
+   "3_planned/077_MDMS/MDMS_proposal_52026PC0231_part2.pdf",
+   "3_planned/077_MDMS/MDMS_proposal_52026PC0231_part3.pdf"
+  ],
+  "text_file": "_text/52026PC0231.txt",
+  "errors": []
+ },
+ {
+  "no": 79,
+  "short": "ADR-Digital",
+  "role": "proposal",
+  "celex": "52023PC0649",
+  "version_downloaded": "52023PC0649",
+  "consolidated_versions_available": [],
+  "files": [
+   "3_planned/079_ADR-Digital/ADR-Digital_proposal_52023PC0649.html",
+   "3_planned/079_ADR-Digital/ADR-Digital_proposal_52023PC0649.pdf"
+  ],
+  "text_file": "_text/52023PC0649.txt",
+  "errors": []
+ },
+ {
+  "no": 79,
+  "short": "ADR-Digital",
+  "role": "adopted",
+  "celex": "32025L2647",
+  "version_downloaded": "32025L2647",
+  "consolidated_versions_available": [],
+  "files": [
+   "3_planned/079_ADR-Digital/ADR-Digital_adopted_32025L2647.html",
+   "3_planned/079_ADR-Digital/ADR-Digital_adopted_32025L2647.pdf"
+  ],
+  "text_file": "_text/32025L2647.txt",
+  "errors": []
+ },
+ {
+  "no": 79,
+  "short": "ADR-Digital",
+  "role": "related",
+  "celex": "32013L0011",
+  "version_downloaded": "32013L0011",
+  "consolidated_versions_available": [
+   "02013L0011-20130618"
+  ],
+  "files": [
+   "3_planned/079_ADR-Digital/ADR-Digital_related_32013L0011.html",
+   "3_planned/079_ADR-Digital/ADR-Digital_related_32013L0011.pdf"
+  ],
+  "text_file": "_text/32013L0011.txt",
+  "errors": []
+ },
+ {
+  "no": 80,
+  "short": "TTBER",
+  "role": "in_force",
+  "celex": "32014R0316",
+  "version_downloaded": "32014R0316",
+  "consolidated_versions_available": [
+   "02014R0316-20140501"
+  ],
+  "files": [
+   "1_applicable/080_TTBER/TTBER_in_force_32014R0316.html",
+   "1_applicable/080_TTBER/TTBER_in_force_32014R0316.pdf"
+  ],
+  "text_file": "_text/32014R0316.txt",
+  "errors": []
+ },
+ {
+  "no": 81,
+  "short": "CompanyLaw",
+  "role": "in_force",
+  "celex": "32017L1132",
+  "version_downloaded": "02017L1132-20220812",
+  "consolidated_versions_available": [
+   "02017L1132-20170630",
+   "02017L1132-20190731",
+   "02017L1132-20200101",
+   "02017L1132-20220812"
+  ],
+  "files": [
+   "1_applicable/081_CompanyLaw/CompanyLaw_in_force_02017L1132-20220812.html",
+   "1_applicable/081_CompanyLaw/CompanyLaw_in_force_02017L1132-20220812.pdf"
+  ],
+  "text_file": "_text/32017L1132.txt",
+  "errors": []
+ },
+ {
+  "no": 81,
+  "short": "CompanyLaw",
+  "role": "proposal",
+  "celex": "52023PC0177",
+  "version_downloaded": "52023PC0177",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/081_CompanyLaw/CompanyLaw_proposal_52023PC0177_part1.html",
+   "1_applicable/081_CompanyLaw/CompanyLaw_proposal_52023PC0177_part2.html",
+   "1_applicable/081_CompanyLaw/CompanyLaw_proposal_52023PC0177_part1.pdf",
+   "1_applicable/081_CompanyLaw/CompanyLaw_proposal_52023PC0177_part2.pdf"
+  ],
+  "text_file": "_text/52023PC0177.txt",
+  "errors": []
+ },
+ {
+  "no": 81,
+  "short": "CompanyLaw",
+  "role": "adopted",
+  "celex": "32025L0025",
+  "version_downloaded": "32025L0025",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/081_CompanyLaw/CompanyLaw_adopted_32025L0025.html",
+   "1_applicable/081_CompanyLaw/CompanyLaw_adopted_32025L0025.pdf"
+  ],
+  "text_file": "_text/32025L0025.txt",
+  "errors": []
+ },
+ {
+  "no": 82,
+  "short": "MarketSurveillance",
+  "role": "in_force",
+  "celex": "32019R1020",
+  "version_downloaded": "02019R1020-20260812",
+  "consolidated_versions_available": [
+   "02019R1020-20190625",
+   "02019R1020-20240218",
+   "02019R1020-20240523",
+   "02019R1020-20260812"
+  ],
+  "files": [
+   "1_applicable/082_MarketSurveillance/MarketSurveillance_in_force_02019R1020-20260812.html",
+   "1_applicable/082_MarketSurveillance/MarketSurveillance_in_force_02019R1020-20260812.pdf"
+  ],
+  "text_file": "_text/32019R1020.txt",
+  "errors": []
+ },
+ {
+  "no": 83,
+  "short": "P2B",
+  "role": "in_force",
+  "celex": "32019R1150",
+  "version_downloaded": "32019R1150",
+  "consolidated_versions_available": [
+   "02019R1150-20190711"
+  ],
+  "files": [
+   "1_applicable/083_P2B/P2B_in_force_32019R1150.html",
+   "1_applicable/083_P2B/P2B_in_force_32019R1150.pdf"
+  ],
+  "text_file": "_text/32019R1150.txt",
+  "errors": []
+ },
+ {
+  "no": 84,
+  "short": "VBER",
+  "role": "in_force",
+  "celex": "32022R0720",
+  "version_downloaded": "02022R0720-20240211",
+  "consolidated_versions_available": [
+   "02022R0720-20220511",
+   "02022R0720-20240211"
+  ],
+  "files": [
+   "1_applicable/084_VBER/VBER_in_force_02022R0720-20240211.html",
+   "1_applicable/084_VBER/VBER_in_force_02022R0720-20240211.pdf"
+  ],
+  "text_file": "_text/32022R0720.txt",
+  "errors": []
+ },
+ {
+  "no": 85,
+  "short": "DMA",
+  "role": "in_force",
+  "celex": "32022R1925",
+  "version_downloaded": "02022R1925-20221012",
+  "consolidated_versions_available": [
+   "02022R1925-20221012"
+  ],
+  "files": [
+   "1_applicable/085_DMA/DMA_in_force_02022R1925-20221012.html",
+   "1_applicable/085_DMA/DMA_in_force_02022R1925-20221012.pdf"
+  ],
+  "text_file": "_text/32022R1925.txt",
+  "errors": []
+ },
+ {
+  "no": 86,
+  "short": "FSR",
+  "role": "in_force",
+  "celex": "32022R2560",
+  "version_downloaded": "02022R2560-20221223",
+  "consolidated_versions_available": [
+   "02022R2560-20221223"
+  ],
+  "files": [
+   "1_applicable/086_FSR/FSR_in_force_02022R2560-20221223.html",
+   "1_applicable/086_FSR/FSR_in_force_02022R2560-20221223.pdf"
+  ],
+  "text_file": "_text/32022R2560.txt",
+  "errors": []
+ },
+ {
+  "no": 87,
+  "short": "HBER",
+  "role": "in_force",
+  "celex": "32023R1066",
+  "version_downloaded": "32023R1066",
+  "consolidated_versions_available": [
+   "02023R1066-20230602"
+  ],
+  "files": [
+   "1_applicable/087_HBER/HBER_in_force_32023R1066.html",
+   "1_applicable/087_HBER/HBER_in_force_32023R1066.pdf"
+  ],
+  "text_file": "_text/32023R1066.txt",
+  "errors": []
+ },
+ {
+  "no": 87,
+  "short": "HBER",
+  "role": "in_force",
+  "celex": "32023R1067",
+  "version_downloaded": "32023R1067",
+  "consolidated_versions_available": [
+   "02023R1067-20230602"
+  ],
+  "files": [
+   "1_applicable/087_HBER/HBER_in_force_32023R1067.html",
+   "1_applicable/087_HBER/HBER_in_force_32023R1067.pdf"
+  ],
+  "text_file": "_text/32023R1067.txt",
+  "errors": []
+ },
+ {
+  "no": 88,
+  "short": "PlatformWork",
+  "role": "proposal",
+  "celex": "52021PC0762",
+  "version_downloaded": "52021PC0762",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/088_PlatformWork/PlatformWork_proposal_52021PC0762.html",
+   "2_in_negotiation/088_PlatformWork/PlatformWork_proposal_52021PC0762.pdf"
+  ],
+  "text_file": "_text/52021PC0762.txt",
+  "errors": []
+ },
+ {
+  "no": 88,
+  "short": "PlatformWork",
+  "role": "adopted",
+  "celex": "32024L2831",
+  "version_downloaded": "02024L2831-20241111",
+  "consolidated_versions_available": [
+   "02024L2831-20241111"
+  ],
+  "files": [
+   "2_in_negotiation/088_PlatformWork/PlatformWork_adopted_02024L2831-20241111.html",
+   "2_in_negotiation/088_PlatformWork/PlatformWork_adopted_02024L2831-20241111.pdf"
+  ],
+  "text_file": "_text/32024L2831.txt",
+  "errors": []
+ },
+ {
+  "no": 89,
+  "short": "SMEI-IMERA",
+  "role": "proposal",
+  "celex": "52022PC0459",
+  "version_downloaded": "52022PC0459",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/089_SMEI-IMERA/SMEI-IMERA_proposal_52022PC0459.html",
+   "2_in_negotiation/089_SMEI-IMERA/SMEI-IMERA_proposal_52022PC0459.pdf"
+  ],
+  "text_file": "_text/52022PC0459.txt",
+  "errors": []
+ },
+ {
+  "no": 89,
+  "short": "SMEI-IMERA",
+  "role": "adopted",
+  "celex": "32024R2747",
+  "version_downloaded": "32024R2747",
+  "consolidated_versions_available": [
+   "02024R2747-20241108"
+  ],
+  "files": [
+   "2_in_negotiation/089_SMEI-IMERA/SMEI-IMERA_adopted_32024R2747.html",
+   "2_in_negotiation/089_SMEI-IMERA/SMEI-IMERA_adopted_32024R2747.pdf"
+  ],
+  "text_file": "_text/32024R2747.txt",
+  "errors": []
+ },
+ {
+  "no": 90,
+  "short": "SatCab1",
+  "role": "in_force",
+  "celex": "31993L0083",
+  "version_downloaded": "01993L0083-20190606",
+  "consolidated_versions_available": [
+   "01993L0083-19931004",
+   "01993L0083-20190606"
+  ],
+  "files": [
+   "1_applicable/090_SatCab1/SatCab1_in_force_01993L0083-20190606.html",
+   "1_applicable/090_SatCab1/SatCab1_in_force_01993L0083-20190606.pdf"
+  ],
+  "text_file": "_text/31993L0083.txt",
+  "errors": []
+ },
+ {
+  "no": 91,
+  "short": "InfoSoc",
+  "role": "in_force",
+  "celex": "32001L0029",
+  "version_downloaded": "02001L0029-20190606",
+  "consolidated_versions_available": [
+   "02001L0029-20010622",
+   "02001L0029-20171010",
+   "02001L0029-20190606"
+  ],
+  "files": [
+   "1_applicable/091_InfoSoc/InfoSoc_in_force_02001L0029-20190606.html",
+   "1_applicable/091_InfoSoc/InfoSoc_in_force_02001L0029-20190606.pdf"
+  ],
+  "text_file": "_text/32001L0029.txt",
+  "errors": []
+ },
+ {
+  "no": 92,
+  "short": "AVMSD",
+  "role": "in_force",
+  "celex": "32010L0013",
+  "version_downloaded": "02010L0013-20250208",
+  "consolidated_versions_available": [
+   "02010L0013-20181218",
+   "02010L0013-20250208"
+  ],
+  "files": [
+   "1_applicable/092_AVMSD/AVMSD_in_force_02010L0013-20250208.html",
+   "1_applicable/092_AVMSD/AVMSD_in_force_02010L0013-20250208.pdf"
+  ],
+  "text_file": "_text/32010L0013.txt",
+  "errors": []
+ },
+ {
+  "no": 93,
+  "short": "Portability",
+  "role": "in_force",
+  "celex": "32017R1128",
+  "version_downloaded": "02017R1128-20170630",
+  "consolidated_versions_available": [
+   "02017R1128-20170630"
+  ],
+  "files": [
+   "1_applicable/093_Portability/Portability_in_force_02017R1128-20170630.html",
+   "1_applicable/093_Portability/Portability_in_force_02017R1128-20170630.pdf"
+  ],
+  "text_file": "_text/32017R1128.txt",
+  "errors": []
+ },
+ {
+  "no": 94,
+  "short": "SatCab2",
+  "role": "in_force",
+  "celex": "32019L0789",
+  "version_downloaded": "32019L0789",
+  "consolidated_versions_available": [
+   "02019L0789-20190517"
+  ],
+  "files": [
+   "1_applicable/094_SatCab2/SatCab2_in_force_32019L0789.html",
+   "1_applicable/094_SatCab2/SatCab2_in_force_32019L0789.pdf"
+  ],
+  "text_file": "_text/32019L0789.txt",
+  "errors": []
+ },
+ {
+  "no": 95,
+  "short": "CDSM",
+  "role": "in_force",
+  "celex": "32019L0790",
+  "version_downloaded": "32019L0790",
+  "consolidated_versions_available": [
+   "02019L0790-20190517"
+  ],
+  "files": [
+   "1_applicable/095_CDSM/CDSM_in_force_32019L0790.html",
+   "1_applicable/095_CDSM/CDSM_in_force_32019L0790.pdf"
+  ],
+  "text_file": "_text/32019L0790.txt",
+  "errors": []
+ },
+ {
+  "no": 96,
+  "short": "EMFA",
+  "role": "proposal",
+  "celex": "52022PC0457",
+  "version_downloaded": "52022PC0457",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/096_EMFA/EMFA_proposal_52022PC0457.html",
+   "2_in_negotiation/096_EMFA/EMFA_proposal_52022PC0457.pdf"
+  ],
+  "text_file": "_text/52022PC0457.txt",
+  "errors": []
+ },
+ {
+  "no": 96,
+  "short": "EMFA",
+  "role": "adopted",
+  "celex": "32024R1083",
+  "version_downloaded": "32024R1083",
+  "consolidated_versions_available": [
+   "02024R1083-20240417"
+  ],
+  "files": [
+   "2_in_negotiation/096_EMFA/EMFA_adopted_32024R1083.html",
+   "2_in_negotiation/096_EMFA/EMFA_adopted_32024R1083.pdf"
+  ],
+  "text_file": "_text/32024R1083.txt",
+  "errors": []
+ },
+ {
+  "no": 97,
+  "short": "VAT",
+  "role": "in_force",
+  "celex": "32006L0112",
+  "version_downloaded": "02006L0112-20250414",
+  "consolidated_versions_available": [
+   "02006L0112-20070101",
+   "02006L0112-20071229",
+   "02006L0112-20090101",
+   "02006L0112-20090121",
+   "02006L0112-20090601",
+   "02006L0112-20090724",
+   "02006L0112-20100101",
+   "02006L0112-20100115",
+   "02006L0112-20100409",
+   "02006L0112-20100811",
+   "02006L0112-20110101",
+   "02006L0112-20130101",
+   "02006L0112-20130701",
+   "02006L0112-20130815",
+   "02006L0112-20140101",
+   "02006L0112-20150101",
+   "02006L0112-20160601",
+   "02006L0112-20200101",
+   "02006L0112-20201126",
+   "02006L0112-20201212",
+   "02006L0112-20210701",
+   "02006L0112-20220406",
+   "02006L0112-20220701",
+   "02006L0112-20240101",
+   "02006L0112-20250101",
+   "02006L0112-20250320",
+   "02006L0112-20250414"
+  ],
+  "files": [
+   "1_applicable/097_VAT/VAT_in_force_02006L0112-20250414.html",
+   "1_applicable/097_VAT/VAT_in_force_02006L0112-20250414.pdf"
+  ],
+  "text_file": "_text/32006L0112.txt",
+  "errors": []
+ },
+ {
+  "no": 97,
+  "short": "VAT",
+  "role": "proposal",
+  "celex": "52022PC0701",
+  "version_downloaded": "52022PC0701",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/097_VAT/VAT_proposal_52022PC0701.html",
+   "1_applicable/097_VAT/VAT_proposal_52022PC0701.pdf"
+  ],
+  "text_file": "_text/52022PC0701.txt",
+  "errors": []
+ },
+ {
+  "no": 97,
+  "short": "VAT",
+  "role": "adopted",
+  "celex": "32025L0516",
+  "version_downloaded": "32025L0516",
+  "consolidated_versions_available": [
+   "02025L0516-20250325"
+  ],
+  "files": [
+   "1_applicable/097_VAT/VAT_adopted_32025L0516.html",
+   "1_applicable/097_VAT/VAT_adopted_32025L0516.pdf"
+  ],
+  "text_file": "_text/32025L0516.txt",
+  "errors": []
+ },
+ {
+  "no": 98,
+  "short": "PSD2-PSD3",
+  "role": "in_force",
+  "celex": "32015L2366",
+  "version_downloaded": "02015L2366-20250117",
+  "consolidated_versions_available": [
+   "02015L2366-20151223",
+   "02015L2366-20240408",
+   "02015L2366-20250117"
+  ],
+  "files": [
+   "1_applicable/098_PSD2-PSD3/PSD2-PSD3_in_force_02015L2366-20250117.html",
+   "1_applicable/098_PSD2-PSD3/PSD2-PSD3_in_force_02015L2366-20250117.pdf"
+  ],
+  "text_file": "_text/32015L2366.txt",
+  "errors": []
+ },
+ {
+  "no": 98,
+  "short": "PSD2-PSD3",
+  "role": "proposal",
+  "celex": "52023PC0366",
+  "version_downloaded": "52023PC0366",
+  "consolidated_versions_available": [],
+  "files": [
+   "1_applicable/098_PSD2-PSD3/PSD2-PSD3_proposal_52023PC0366_part1.html",
+   "1_applicable/098_PSD2-PSD3/PSD2-PSD3_proposal_52023PC0366_part2.html",
+   "1_applicable/098_PSD2-PSD3/PSD2-PSD3_proposal_52023PC0366_part1.pdf",
+   "1_applicable/098_PSD2-PSD3/PSD2-PSD3_proposal_52023PC0366_part2.pdf"
+  ],
+  "text_file": "_text/52023PC0366.txt",
+  "errors": []
+ },
+ {
+  "no": 99,
+  "short": "DORA",
+  "role": "in_force",
+  "celex": "32022R2554",
+  "version_downloaded": "32022R2554",
+  "consolidated_versions_available": [
+   "02022R2554-20221227"
+  ],
+  "files": [
+   "1_applicable/099_DORA/DORA_in_force_32022R2554.html",
+   "1_applicable/099_DORA/DORA_in_force_32022R2554.pdf"
+  ],
+  "text_file": "_text/32022R2554.txt",
+  "errors": []
+ },
+ {
+  "no": 100,
+  "short": "MiCA",
+  "role": "in_force",
+  "celex": "32023R1114",
+  "version_downloaded": "02023R1114-20240109",
+  "consolidated_versions_available": [
+   "02023R1114-20230609",
+   "02023R1114-20240109"
+  ],
+  "files": [
+   "1_applicable/100_MiCA/MiCA_in_force_02023R1114-20240109.html",
+   "1_applicable/100_MiCA/MiCA_in_force_02023R1114-20240109.pdf"
+  ],
+  "text_file": "_text/32023R1114.txt",
+  "errors": []
+ },
+ {
+  "no": 101,
+  "short": "DigitalEuro",
+  "role": "proposal",
+  "celex": "52023PC0369",
+  "version_downloaded": "52023PC0369",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/101_DigitalEuro/DigitalEuro_proposal_52023PC0369_part1.html",
+   "2_in_negotiation/101_DigitalEuro/DigitalEuro_proposal_52023PC0369_part2.html",
+   "2_in_negotiation/101_DigitalEuro/DigitalEuro_proposal_52023PC0369_part1.pdf",
+   "2_in_negotiation/101_DigitalEuro/DigitalEuro_proposal_52023PC0369_part2.pdf"
+  ],
+  "text_file": "_text/52023PC0369.txt",
+  "errors": []
+ },
+ {
+  "no": 102,
+  "short": "FIDA",
+  "role": "proposal",
+  "celex": "52023PC0360",
+  "version_downloaded": "52023PC0360",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/102_FIDA/FIDA_proposal_52023PC0360.html",
+   "2_in_negotiation/102_FIDA/FIDA_proposal_52023PC0360.pdf"
+  ],
+  "text_file": "_text/52023PC0360.txt",
+  "errors": []
+ },
+ {
+  "no": 103,
+  "short": "PSR",
+  "role": "proposal",
+  "celex": "52023PC0367",
+  "version_downloaded": "52023PC0367",
+  "consolidated_versions_available": [],
+  "files": [
+   "2_in_negotiation/103_PSR/PSR_proposal_52023PC0367_part1.html",
+   "2_in_negotiation/103_PSR/PSR_proposal_52023PC0367_part2.html",
+   "2_in_negotiation/103_PSR/PSR_proposal_52023PC0367_part1.pdf",
+   "2_in_negotiation/103_PSR/PSR_proposal_52023PC0367_part2.pdf"
+  ],
+  "text_file": "_text/52023PC0367.txt",
+  "errors": []
+ },
+ {
+  "no": 104,
+  "short": "LatePayments",
+  "role": "proposal",
+  "celex": "52023PC0533",
+  "version_downloaded": "52023PC0533",
+  "consolidated_versions_available": [],
+  "files": [
+   "3_planned/104_LatePayments/LatePayments_proposal_52023PC0533.html",
+   "3_planned/104_LatePayments/LatePayments_proposal_52023PC0533.pdf"
+  ],
+  "text_file": "_text/52023PC0533.txt",
+  "errors": []
+ },
+ {
+  "no": 104,
+  "short": "LatePayments",
+  "role": "related",
+  "celex": "32011L0007",
+  "version_downloaded": "32011L0007",
+  "consolidated_versions_available": [
+   "02011L0007-20110315"
+  ],
+  "files": [
+   "3_planned/104_LatePayments/LatePayments_related_32011L0007.html",
+   "3_planned/104_LatePayments/LatePayments_related_32011L0007.pdf"
+  ],
+  "text_file": "_text/32011L0007.txt",
+  "errors": []
+ }
+]

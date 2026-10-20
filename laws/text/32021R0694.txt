@@ -1,0 +1,837 @@
+### Digital Europe Programme Regulation | CELEX 32021R0694 | text version 02021R0694-20251223 | role in_force
+02021R0694 — EN — 23.12.2025 — 003.001
+ This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document
+ ►B 
+ REGULATION (EU) 2021/694 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 29 April 2021
+ establishing the Digital Europe Programme and repealing Decision (EU) 2015/2240
+ (Text with EEA relevance) 
+ (OJ L 166 11.5.2021, p. 1)
+ Amended by:
+ Official Journal
+ No
+ page
+ date
+ ►M1 
+ REGULATION (EU) 2023/1781 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 13 September 2023
+ L 229
+ 1
+ 18.9.2023
+ ►M2 
+ REGULATION (EU) 2025/38 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 19 December 2024
+ L 38
+ 1
+ 15.1.2025
+ ►M3 
+ REGULATION (EU) 2025/2653 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 19 December 2025
+ L 2653
+ 1
+ 22.12.2025
+ Corrected by:
+ ►C1 
+ Corrigendum, OJ L 90886, 6.11.2025, p. 1 (2025/38) 
+ ▼B 
+ REGULATION (EU) 2021/694 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 29 April 2021
+ establishing the Digital Europe Programme and repealing Decision (EU) 2015/2240
+ (Text with EEA relevance)
+ CHAPTER I
+ GENERAL PROVISIONS 
+ Article 1
+ Subject matter
+ This Regulation establishes the Digital Europe Programme (the ‘Programme’) for the duration of the MFF 2021-2027.
+ This Regulation lays down the objectives of the Programme, its budget for the period 2021 to 2027, the forms of Union funding and the rules for providing such funding.
+ Article 2
+ Definitions
+ For the purposes of this Regulation, the following definitions apply:
+ (1) 
+ ‘blending operation’ means an action supported by the Union budget, including within a blending facility or platform as defined in point (6) of Article 2 of the Financial Regulation, that combines non-repayable forms of support or financial instruments from the Union budget with repayable forms of support from development or other public finance institutions, as well as from commercial finance institutions and investors;
+ (2) 
+ ‘legal entity’ means a natural person, or a legal person created and recognised as such under Union, national, or international law, which has legal personality and the capacity to act in its own name, exercise rights and be subject to obligations, or an entity which does not have legal personality as referred to in point (c) of Article 197(2) of the Financial Regulation;
+ (3) 
+ ‘associated country’ means a third country which is party to an agreement with the Union allowing for its participation in the Programme pursuant to Article 10;
+ (4) 
+ ‘international organisation of European interest’ means an international organisation, the majority of whose members are Member States or whose headquarters are in a Member State;
+ (5) 
+ ‘European Digital Innovation Hub’ means a legal entity selected in accordance with Article 16 in order to fulfil the tasks under the Programme, in particular by directly providing, or ensuring access to, technological expertise and experimentation facilities, such as equipment and software tools to enable the digital transformation of industry, as well as by facilitating access to finance and it is open to businesses of all forms and sizes, in particular to SMEs, mid-caps and scale-up companies, and to public administrations across the Union;
+ (6) 
+ ‘advanced digital skills’ means the skills and professional competencies requiring the knowledge and experience necessary to understand, design, develop, manage, test, deploy, use and maintain the technologies, products and services supported by the Programme as referred to in Article 7;
+ (7) 
+ ‘European Partnership’ means a European Partnership as defined in point (3) of Article 2 of Regulation (EU) 2021/695;
+ (8) 
+ ‘small or medium-sized enterprise’ or ‘SME’ means a micro, small or medium-sized enterprise as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC ( 
+ 1 
+ );
+ (9) 
+ ‘cybersecurity’ means the activities necessary to protect network and information systems, the users of such systems, and other persons affected by cyber threats;
+ (10) 
+ ‘digital service infrastructures’ means infrastructures which enable networked services to be delivered electronically, typically over the internet;
+ (11) 
+ ‘Seal of Excellence’ means a quality label which shows that a proposal submitted to a call for proposals under the Programme has passed all of the evaluation thresholds set out in the work programme, but could not be funded due to a lack of budget available for that call for proposals in the work programme, and might receive support from other Union or national sources of funding;
+ (12) 
+ ‘exascale’ means, in the context of computing systems, being capable of executing 10 18 (ten to the power of 18) floating operations per second.
+ Article 3
+ Programme objectives
+ 1. 
+ The general objectives of the Programme shall be to support and accelerate the digital transformation of the European economy, industry and society, to bring its benefits to citizens, public administrations and businesses across the Union, and to improve the competitiveness of Europe in the global digital economy while contributing to bridging the digital divide across the Union and reinforcing the Union’s strategic autonomy, through holistic, cross-sectoral and cross-border support and a stronger Union contribution.
+ The Programme shall be implemented in close coordination with other Union programmes as applicable, and shall aim:
+ (a) 
+ to strengthen and promote Europe’s capacities in key digital technology areas through large-scale deployment;
+ (b) 
+ in the private sector and in areas of public interest, to widen the diffusion and uptake of Europe’s key digital technologies, promoting the digital transformation and access to digital technologies;
+ ▼M3 
+ (c) 
+ to support and accelerate dual-use projects, services, competences and applications, strengthening societal resilience.
+ ▼M1 
+ 2. 
+ The Programme shall have six interrelated specific objectives:
+ ▼B 
+ (a) 
+ Specific Objective 1 – High Performance Computing
+ (b) 
+ Specific Objective 2 – Artificial Intelligence
+ (c) 
+ Specific Objective 3 – Cybersecurity and Trust
+ (d) 
+ Specific Objective 4 – Advanced Digital Skills
+ (e) 
+ Specific Objective 5 Deployment and Best Use of Digital Capacity and Interoperability.
+ ▼M1 
+ (f) 
+ Specific Objective 6 – Semiconductors.
+ ▼B 
+ Article 4
+ Specific Objective 1- High Performance Computing
+ 1. 
+ The financial contribution from the Union under Specific Objective 1 – High Performance Computing shall pursue the following operational objectives:
+ (a) 
+ deploy, coordinate at Union level and operate an integrated demand-oriented and application-driven world-class exascale supercomputing and data infrastructure that shall be easily accessible to public and private users, in particular SMEs, irrespective of the Member State in which they are located, and easily accessible for research purposes, in accordance with Regulation (EU) 2018/1488;
+ (b) 
+ deploy ready to use operational technology resulting from research and innovation in order to build an integrated Union HPC ecosystem, covering various aspects in the scientific and industrial value chain segments, including hardware, software, applications, services, interconnections and digital skills, with a high level of security and data protection;
+ (c) 
+ deploy and operate post-exascale infrastructure, including integration with quantum computing technologies and research infrastructures for computing science and encourage the development within the Union of the hardware and software necessary for such deployment;
+ ▼M3 
+ (d) 
+ deploy and operate AI Factories and new-generation AI Gigafactories specialised in developing, training, and running the most complex, very large AI models and applications, including hardware and software necessary for such deployment.
+ ▼B 
+ 2. 
+ The actions under Specific Objective 1 shall be primarily implemented through the European High Performance Computing Joint Undertaking established by Regulation (EU) 2018/1488.
+ Article 5
+ Specific Objective 2 – Artificial Intelligence
+ 1. 
+ The financial contribution from the Union under Specific Objective 2 – Artificial Intelligence shall pursue the following operational objectives:
+ (a) 
+ build up and strengthen core AI capacities and knowledge in the Union, including building up and strengthening quality data resources and corresponding exchange mechanisms, and libraries of algorithms, while guaranteeing a human-centric and inclusive approach that respects Union values;
+ (b) 
+ make the capacities referred to in point (a) accessible to businesses, especially SMEs and start-ups, as well as civil society, not-for-profit organisations, research institutions, universities and public administrations, in order to maximise their benefit to the European society and economy;
+ (c) 
+ reinforce and network AI testing and experimentation facilities in Member States;
+ (d) 
+ develop and reinforce commercial application and production systems in order to facilitate the integration of technologies in value chains and the development of innovative business models and to shorten the time required to pass from innovation to commercial exploitation and foster the uptake of AI-based solutions in areas of public interest and in society.
+ AI-based solutions and data made available shall respect the principle of privacy and security by design and shall fully comply with data protection legislation.
+ 2. 
+ The Commission, in accordance with Union and international law, including the Charter, and taking into account, inter alia, the recommendations of the High-Level Expert Group on Artificial Intelligence, shall set out ethical requirements in the work programmes under Specific Objective 2. Calls for proposals, calls for tenders and grant agreements shall include the relevant requirements set out in those work programmes.
+ Where appropriate, the Commission shall carry out checks to ensure compliance with those ethical requirements. Funding for actions which do not comply with the ethical requirements may be suspended, terminated or reduced at any time in accordance with the Financial Regulation.
+ 3. 
+ The actions under Specific Objective 2 shall be implemented primarily through direct management.
+ The ethical and legal requirements referred to in this Article shall apply to all actions of Specific Objective 2, regardless of the method of implementation.
+ Article 6
+ Specific Objective 3 – Cybersecurity and Trust
+ 1. 
+ The financial contribution from the Union under Specific Objective 3 – Cybersecurity and Trust shall pursue the following operational objectives:
+ (a) 
+ support the building-up and procurement of advanced cybersecurity equipment, tools and data infrastructures, together with Member States, in order to achieve a high common level of cybersecurity at European level, in full compliance with data protection legislation and fundamental rights, while ensuring the strategic autonomy of the Union;
+ ▼M2 
+ (aa) 
+ support the development of the European Cybersecurity Alert System established by Article 3 of Regulation (EU) 2025/38 of the European Parliament and of the Council ( 
+ 2 
+ ) (the ‘European Cybersecurity Alert System’), including the development, deployment and operation of National Cyber Hubs and Cross-Border Cyber Hubs that contribute to situational awareness in the Union and to enhancing the cyber threat intelligence capacities of the Union;
+ ▼B 
+ (b) 
+ support the building-up and best use of European knowledge, capacity and skills related to cybersecurity and the sharing and mainstreaming of best practices;
+ (c) 
+ ensure a wide deployment of effective state-of-the-art cybersecurity solutions across the European economy, paying special attention to public authorities and SMEs;
+ (d) 
+ reinforce capabilities within Member States and private sector to help them comply with Directive (EU) 2016/1148 of the European Parliament and of the Council ( 
+ 3 
+ ) including through measures supporting the uptake of cybersecurity best practices;
+ ▼M3 
+ (e) 
+ improve resilience against cyber and hybrid threats against critical digital infrastructure and cyberattacks, contribute towards increasing risk-awareness and knowledge of cybersecurity processes, support public and private organisations in achieving basic levels of cybersecurity, for example by deploying end-to-end encryption of data and software updates;
+ (f) 
+ enhance cooperation between the civil and defence spheres with regard to dual-use projects, services, competences and applications in cybersecurity, including the development of cybersecurity technologies tailored to defence-related infrastructure, in accordance with Regulation (EU) 2021/887 of the European Parliament and of the Council ( 
+ 4 
+ );
+ ▼M2 
+ (g) 
+ establish and operate the Cybersecurity Emergency Mechanism established by Article 10 of Regulation (EU) 2025/38, including the EU Cybersecurity Reserve established by Article 14 of that Regulation (the ‘EU Cybersecurity Reserve’), to support Member States in preparing for and responding to significant cybersecurity incidents and large-scale cybersecurity incidents that is complementary to national resources and capabilities and other forms of support available at Union level, and to support other users in responding to significant cybersecurity incidents and large-scale-equivalent cybersecurity incidents.
+ ▼M3 
+ 2. 
+ The actions under Specific Objective 3 shall be implemented primarily through the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National Coordination Centres in accordance with Regulation (EU) 2021/887. However, the EU Cybersecurity Reserve shall be implemented by the Commission and, in accordance with Article 14(6) of Regulation (EU) 2025/38, by ENISA.
+ ▼B 
+ Article 7
+ Specific Objective 4 – Advanced Digital Skills
+ 1. 
+ The financial contribution from the Union under Specific Objective 4 – Advanced Digital Skills shall support the development of advanced digital skills in areas covered by the Programme in order to contribute to increasing Europe’s talent pool, bridge the digital divide and foster greater professionalism, especially with regard to high performance and cloud computing, big data analytics, cybersecurity, distributed ledger technologies (e.g. blockchain), quantum technologies, robotics, AI, while taking gender balance into account. In order to tackle skills mismatches and to encourage specialisation in digital technologies and applications, the financial contribution shall pursue the following operational objectives:
+ (a) 
+ support the design and delivery of high-quality, long-term training and courses, including blended learning, for students and for the workforce;
+ (b) 
+ support the design and delivery of high-quality, short-term training and courses for the workforce, in particular in SMEs and in the public sector;
+ (c) 
+ support high-quality on-the-job training and work placements for students, including traineeships, and the workforce, in particular in SMEs and in the public sector.
+ 2. 
+ The actions under Specific Objective 4 shall be implemented primarily through direct management.
+ Article 8
+ Specific Objective 5 – Deployment and Best Use of Digital Capacities and Interoperability
+ 1. 
+ The financial contribution from the Union under Specific Objective 5 – Deployment and Best Use of Digital Capacities and Interoperability shall pursue the following operational objectives while bridging the digital divide:
+ ▼M3 
+ (a) 
+ support the public sector and areas of public interest, such as health and care, education, judiciary, customs, civil protection, defence, transport, mobility, energy, environment, cultural and creative sectors, including relevant businesses established within the Union, to effectively deploy and access state-of-the-art digital technologies, such as HPC, quantum, AI and cybersecurity;
+ ▼B 
+ (b) 
+ deploy, operate and maintain trans-European interoperable state-of-the-art digital service infrastructures across the Union, including related services, in complementarity with national and regional actions;
+ (c) 
+ support the integration and use of trans-European digital service infrastructures and of agreed European digital standards in the public sector and in areas of public interest to facilitate cost-efficient implementation and interoperability;
+ (d) 
+ facilitate the development, update and use of solutions and frameworks by public administrations, businesses and citizens, including of open-source solutions and the re-use of interoperability solutions and frameworks;
+ (e) 
+ offer the public sector and the Union industry, in particular SMEs, easy access to testing and piloting of digital technologies and increase the use thereof, including their cross-border use;
+ (f) 
+ support the uptake by the public sector and the Union industry, in particular SMEs and start-ups, of advanced digital and related technologies, including in particular HPC, AI, cybersecurity, other leading edge and future technologies, such as distributed ledger technologies (e.g. blockchain);
+ (g) 
+ support the design, testing, implementation, and deployment and maintenance of interoperable digital solutions, including digital government solutions, for public services at Union level which are delivered through a data-driven reusable solutions platform aiming to foster innovation and establish common frameworks in order to unleash the full potential of the public administrations’ services for citizens and businesses;
+ (h) 
+ ensure the continuous capacity at Union level to lead digital development, in addition to observing, analysing and adapting to fast-evolving digital trends, and share and mainstream best practices;
+ (i) 
+ support cooperation towards achieving a European ecosystem for trusted data sharing and digital infrastructures using, inter alia, services and applications based on distributed ledger technologies (e.g. blockchain), including support for interoperability and standardisation and by fostering the deployment of Union cross-border applications based on security and privacy by design, while complying with consumer and data protection legislation;
+ (j) 
+ build up and strengthen the European Digital Innovation Hubs and their network.
+ 2. 
+ The actions under Specific Objective 5 shall be implemented primarily through direct management.
+ ▼M1 
+ Article 8a
+ Specific Objective 6 – Semiconductors
+ The financial contribution from the Union under Specific Objective 6 – Semiconductors shall pursue the objectives laid down in Article 4(2), points (a) to (d), of Regulation (EU) 2023/1781 of the European Parliament and of the Council ( 
+ 5 
+ ).
+ ▼B 
+ Article 9
+ Budget
+ ▼M1 
+ 1. 
+ The financial envelope for the implementation of the Programme for the period from 1 January 2021 to 31 December 2027 shall be EUR 8 168 000 000 in current prices.
+ 2. 
+ The indicative distribution of the amount referred to in paragraph 1 shall be:
+ (a) 
+ EUR 2 019 914 000 for Specific Objective 1 – High Performance Computing;
+ ▼M2 
+ (b) 
+ EUR 1 760 806 000 for Specific Objective 2 – Artificial Intelligence;
+ (c) 
+ EUR 1 372 020 000 for Specific Objective 3 – Cybersecurity and Trust;
+ (d) 
+ EUR 482 640 000 for Specific Objective 4 – Advanced Digital Skills;
+ ▼M1 
+ (e) 
+ EUR 1 002 217 000 for Specific Objective 5 – Deployment and Best Use of Digital Capacities and Interoperability;
+ (f) 
+ EUR 1 575 000 000 for Specific Objective 6 – Semiconductors.
+ ▼B 
+ 3. 
+ The amount referred to in paragraph 1 may also be used for technical and administrative assistance for the implementation of the Programme, such as preparatory, monitoring, control, audit and evaluation activities, including by using corporate information technology systems.
+ 4. 
+ Budgetary commitments for actions extending over more than one financial year may be broken down over several years into annual instalments.
+ 5. 
+ Resources allocated to Member States under shared management may, at the request of the Member State concerned, be transferred to the Programme, subject to the conditions set out in the relevant provision of the Common Provisions Regulation for 2021-2027, including for the purpose of complementing grants awarded to an action, up to 100 % of the total eligible cost where possible, without prejudice to the co-financing principle laid down in Article 190 of the Financial Regulation and to the State aid rules. The Commission shall implement those resources directly in accordance with point (a) of the first subparagraph of Article 62(1) of the Financial Regulation or indirectly in accordance with point (c) of that subparagraph. Those resources shall be used for the benefit of the Member State concerned.
+ 6. 
+ Where the Commission has not entered into a legal commitment under direct or indirect management for resources transferred in accordance with paragraph 5 of this Article, the corresponding uncommitted resources may be transferred back to one or more respective source programmes, at the request of the Member State concerned, in accordance with the conditions set out in the relevant provision of the Common Provisions Regulation for 2021-2027.
+ 7. 
+ In accordance with point (a) of the second subparagraph of Article 193(2) of the Financial Regulation, in duly justified cases specified in the financing decision and for a limited period, actions supported under this Regulation and the underlying costs may be considered to be eligible as of 1 January 2021, even if they were implemented and incurred before the grant application was submitted.
+ ▼M2 
+ 8. 
+ By way of derogation from Article 12(1) of the Financial Regulation, unused commitment and payment appropriations for actions in the context of the implementation of the EU Cybersecurity Reserve and the actions supporting mutual assistance pursuant to Regulation 2025/38, pursuing the objectives set out in Article 6(1), point (g), of this Regulation shall be automatically carried over and may be committed and paid up to 31 December of the following financial year. The European Parliament and the Council shall be informed of appropriations carried over pursuant to Article 12(6) of the Financial Regulation.
+ ▼B 
+ Article 10
+ Third countries associated to the Programme
+ 1. 
+ The Programme shall be open to the participation of the following third countries through association or partial association, in accordance with the objectives laid down in Article 3:
+ (a) 
+ members of the European Free Trade Association, which are members of the European Economic Area, in accordance with the conditions laid down in the Agreement on the European Economic Area;
+ (b) 
+ acceding countries, candidate countries and potential candidates, in accordance with the general principles and general terms and conditions for the participation of those countries in Union programmes established in the respective framework agreements and Association Council decisions or in similar agreements and in accordance with the specific conditions laid down in agreements between the Union and those countries;
+ (c) 
+ European Neighbourhood Policy countries, in accordance with the general principles and general terms and conditions for the participation of those countries in Union programmes established in the respective framework agreements and Association Council decisions or in similar agreements and in accordance with the specific conditions laid down in agreements between the Union and those countries;
+ (d) 
+ other third countries, in accordance with the conditions laid down in a specific agreement covering the participation of the third country to any Union programme, provided that the agreement:
+ (i) 
+ ensures a fair balance as regards the contributions and benefits of the third country participating in the Union programmes;
+ (ii) 
+ lays down the conditions of participation in the programmes, including the calculation of financial contributions to individual programmes and their administrative costs;
+ (iii) 
+ does not confer on the third country any decision-making power in respect of the Union programme;
+ (iv) 
+ guarantees the rights of the Union to ensure sound financial management and to protect its financial interests;
+ The contributions referred to in point (d)(ii) of the first subparagraph shall constitute assigned revenues in accordance with Article 21(5) of the Financial Regulation.
+ 2. 
+ Association or partial association of third countries to the Programme shall be without prejudice to Article 12(5).
+ Article 11
+ International cooperation
+ 1. 
+ The Union may cooperate with third countries as referred to in Article 10, with other third countries and with international organisations or bodies established in those countries, in particular within the framework of the Euro-Mediterranean and Eastern Partnerships and with neighbouring countries, especially those of the Western Balkans and Black Sea regions. Without prejudice to Article 18, related costs incurred shall not be covered by the Programme.
+ ▼M1 
+ 2. 
+ Cooperation with third countries and organisations as referred to in paragraph 1 of this Article with respect to Specific Objectives 1, 2, 3 and 6 shall be subject to Article 12.
+ ▼B 
+ Article 12
+ Security
+ 1. 
+ Actions carried out under the Programme shall comply with applicable security rules, including with Union and national law and in particular in relation to the protection of the classified information against unauthorised disclosure. In the case of actions carried out outside the Union using or generating classified information, in addition to compliance with above requirements such actions shall be subject to a security agreement concluded between the Union and the third country in which the activity is conducted.
+ 2. 
+ Where appropriate, proposals and tenders to be submitted by applicants shall include a security self-assessment that identifies any security issues and details how those issues are to be addressed in order to comply with Union and national law.
+ 3. 
+ Where appropriate, the Commission or the body entrusted with the implementation of the Programme shall carry out a security review of proposals for funding submitted by applicants that raise security issues.
+ 4. 
+ Where appropriate, the actions carried out under the Programme shall comply with Commission Decision (EU, Euratom) 2015/444 ( 
+ 6 
+ ) and the rules implementing that Decision.
+ ▼M3 
+ 5. 
+ The work programme may also provide that legal entities established in associated countries and legal entities that are established in the Union but are controlled from third countries are not eligible to participate in all or some actions under Specific Objective 3 and in actions focused on technologies with dual-use potential under any specific objective for duly justified security reasons. In such cases, calls for proposals and calls for tenders shall be restricted to legal entities established or deemed to be established in Member States and controlled by Member States or by nationals of Member States. Such restrictions may be applied to access to the capacities deployed under such calls. Those restrictions shall be proportionate and applied only where strictly necessary.
+ ▼M2 
+ 5a. 
+ Paragraph 5 shall not apply, insofar as concerns legal entities that are established in the Union but are controlled from third countries, to any action implementing the European Cybersecurity Alert System where both of the following conditions are fulfilled in respect of the action concerned:
+ (a) 
+ there is a real risk, taking into account the results of the mapping carried out pursuant to Article 9(4) of Regulation (EU) 2025/38, that the tools, infrastructure or services necessary and sufficient for that action to adequately contribute to the objective of the European Cybersecurity Alert System will not be available from legal entities established or deemed to be established in Member States and controlled by Member States or by nationals of Member States;
+ (b) 
+ the security risk of procuring from such legal entities within the European Cybersecurity Alert System is proportionate to the benefits and does not undermine the essential security interests of the Union and its Member States.
+ 5b. 
+ Paragraph 5 shall not apply, insofar as concerns legal entities that are established in the Union but are controlled from third countries, to any action implementing the EU Cybersecurity Reserve where both of the following conditions are fulfilled in respect of the action concerned:
+ (a) 
+ there is a real risk, taking into account the results of the mapping carried out pursuant to Article 14(6) of Regulation (EU) 2025/38, that the technology, expertise or capacity necessary and sufficient for the EU Cybersecurity Reserve to adequately perform its functions will not be available from legal entities established or deemed to be established in Member States and controlled by Member States or by nationals of Member States;
+ (b) 
+ the security risk of including such legal entities within the EU Cybersecurity Reserve is proportionate to the benefits and does not undermine the essential security interests of the Union and its Member States.
+ ▼M2 
+ 6. 
+ ►C1 
+ If duly justified for security reasons, the work programme may also provide that legal entities established in associated countries and legal entities that are established in the Union but are controlled from third countries may be eligible to participate in all or some actions under Specific Objectives 1, 2 and 6 only if they comply with the requirements to be fulfilled by those legal entities to guarantee the protection of the essential security interests of the Union and the Member States and to ensure the protection of classified documents information. Those requirements shall be set out in the work programme. ◄ 
+ The first subparagraph shall also apply, insofar as concerns legal entities that are established in the Union but are controlled from third countries, to actions under Specific Objective 3:
+ (a) 
+ to implement the European Cybersecurity Alert System where paragraph 5a applies; and
+ (b) 
+ to implement the EU Cybersecurity Reserve where paragraph 5b applies.
+ ▼B 
+ 7. 
+ Where appropriate, the Commission or the body entrusted with the implementation of the Programme shall carry out security checks. Funding for actions which do not comply with the security requirements referred to in this Article may be suspended, terminated or reduced at any time, in accordance with the Financial Regulation.
+ Article 13
+ Synergies with other Union programmes
+ 1. 
+ The Programme shall enable synergies with other Union programmes, as described in Annex III, in particular through arrangements for complementary funding from Union programmes where the management arrangements allow it. Funding from other programmes may be deployed in sequence, in an alternating way, or through the combination of funds, including the joint funding of actions. The Commission shall ensure that the achievement of the specific objectives is not hampered when leveraging the complementary character of the Programme with other Union programmes.
+ 2. 
+ The Commission shall ensure the overall consistency and complementarity of the Programme with the relevant policies and Union programmes in cooperation with the Member States. To that end, the Commission shall facilitate the setting up of appropriate mechanisms for coordination between relevant authorities and between such authorities and the Commission, and shall establish appropriate monitoring tools to systematically ensure synergies between the Programme and any relevant Union funding instruments. The arrangements referred to in paragraph 1 shall contribute to avoiding duplications and to maximising the positive impact of expenditure.
+ ▼M1 
+ 3. 
+ The synergies of Specific Objective 6 with other Union Programmes are described in Article 6 of and Annex III to Regulation (EU) 2023/1781.
+ ▼B 
+ Article 14
+ Implementation and forms of Union funding
+ ▼M1 
+ 1. 
+ The Programme shall be implemented under direct management, in accordance with the Financial Regulation, or under indirect management by entrusting certain implementation tasks to the bodies referred to in Article 62(1), first subparagraph, point (c), of the Financial Regulation, in accordance with Articles 4 to 8a of this Regulation. Bodies entrusted with the implementation of the Programme may depart from the rules on participation and dissemination laid down in this Regulation only where such departure is provided for in the legal act that establishes those bodies or entrusts budget implementation tasks to them or, for the bodies referred to in Article 62(1), first subparagraph, point (c)(ii), (c)(iii) or (c)(v), of the Financial Regulation, where such departure is provided for in the contribution agreement and the specific operating needs of such bodies or the nature of the action so require.
+ ▼M2 
+ 2. 
+ The Programme may provide funding in any of the forms laid down in the Financial Regulation, including in particular through procurement as a primary form, or grants and prizes.
+ Where the achievement of the objective of an action requires the procurement of innovative goods and services, grants may be awarded only to beneficiaries that are contracting authorities or contracting entities as defined in Directives 2014/24/EU ( 
+ 7 
+ ) and 2014/25/EU ( 
+ 8 
+ ) of the European Parliament and of the Council.
+ Where the supply of innovative goods or services that are not yet available on a large-scale commercial basis is necessary to achieve the objectives of an action, the contracting authority or the contracting entity may authorise the award of multiple contracts within the same procurement procedure.
+ For duly justified reasons of public security, the contracting authority or the contracting entity may require that the place of performance of the contract be situated within the territory of the Union.
+ When implementing procurement procedures for the EU Cybersecurity Reserve, the Commission and ENISA may act as a central purchasing body to procure on behalf of or in the name of third countries associated to the Programme in accordance with Article 10 of this Regulation. The Commission and ENISA may also act as wholesaler, by buying, stocking and reselling or donating supplies and services, including rentals, to those third countries. By way of derogation from Article 168(3) of Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council ( 
+ 9 
+ ), the request from a single third country shall be sufficient to mandate the Commission or ENISA to act.
+ When implementing procurement procedures for the EU Cybersecurity Reserve, the Commission and ENISA may act as a central purchasing body to procure on behalf of or in the name of Union institutions, bodies, offices or agencies. The Commission and ENISA may also act as a wholesaler, by buying, stocking and reselling or donating supplies and services, including rentals, to Union institutions, bodies, offices or agencies. By way of derogation from Article 168(3) of Regulation (EU, Euratom) 2024/2509, a request from a single Union institution, body, office or agency shall be sufficient to mandate the Commission or ENISA to act.
+ The Programme may also provide financing in the form of financial instruments within blending operations.
+ ▼B 
+ 3. 
+ Contributions to a mutual insurance mechanism may cover the risk associated with the recovery of funds due by recipients and shall be considered to be a sufficient guarantee under the Financial Regulation. Article 37 of Regulation (EU) 2021/695 shall apply.
+ ▼M1 
+ 4. 
+ Where the conditions set in Article 27 of Regulation (EU) 2023/1781 are fulfilled, that Article shall apply.
+ ▼B 
+ Article 15
+ European Partnerships
+ The Programme may be implemented through European Partnerships and within the strategic planning between the Commission and the Member States, as referred to in Article 6 of Regulation (EU) 2021/695. Such implementation may include contributions to existing or new public-private partnerships in the form of joint undertakings established under Article 187 TFEU. For those contributions, the provisions of that Regulation relating to European Partnerships shall apply.
+ Article 16
+ European Digital Innovation Hubs
+ 1. 
+ An initial network of European Digital Innovation Hubs shall be established during the first year of the implementation of the Programme. That initial network shall consist of at least one hub for each Member State, unless there is no candidate in a given Member State that can be designated and selected in accordance with paragraphs 2 and 3.
+ 2. 
+ For the purpose of establishing the network referred to in paragraph 1 of this Article, each Member State shall designate candidate entities in accordance with its national procedures, administrative and institutional structures through an open and competitive process, on the basis of the following criteria:
+ (a) 
+ the appropriate competences related to the activities of the European Digital Innovation Hubs referred to in paragraph 6 of this Article and competences in one or several areas identified in Article 3(2);
+ (b) 
+ the appropriate management capacity, staff and infrastructure necessary to carry out the activities referred to in paragraph 6 of this Article;
+ (c) 
+ the operational and legal means to apply the administrative, contractual and financial management rules laid down at Union level; and
+ (d) 
+ the appropriate financial viability corresponding to the level of Union funds it will be called upon to manage and demonstrated, where appropriate, through guarantees issued preferably by a public authority.
+ 3. 
+ The Commission shall, by means of implementing acts, adopt decisions on the selection of entities forming the initial network. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(2). The Commission shall take the utmost account of the opinion of each Member State before selecting a European Digital Innovation Hub in its territory.
+ The entities shall be selected by the Commission from candidate entities designated by Member States on the basis of the criteria referred to in paragraph 2 of this Article and the following additional criteria:
+ (a) 
+ the budget available for the financing of the initial network; and
+ (b) 
+ the need for the initial network to ensure coverage of the needs of industry and areas of public interest and to ensure comprehensive and balanced geographical coverage to improve convergence between Member States benefiting from the Cohesion Fund for 2021 to 2027 established by a Regulation of the European Parliament and of the Council and the other Member States, for example to bridge the digital divide in geographical terms.
+ 4. 
+ If necessary, following an open and competitive process, the Commission shall, by means of implementing acts, adopt decisions on the selection of entities forming additional European Digital Innovation Hubs. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(2).
+ The Commission shall take the utmost account of the opinion of the Member State before selecting an additional European Digital Innovation Hub in its territory.
+ The Commission shall select additional European Innovation Hubs in such a way to ensure a broad geographical coverage across Europe. The number of entities of the network shall be sufficient to meet the demand for the hubs’ services in given Member States. To address the specific constraints faced by the Union’s outermost regions, specific entities may be nominated to cover the needs of such regions.
+ 5. 
+ European Digital Innovation Hubs shall have substantial overall autonomy to lay down their organisation, composition, and working methods.
+ 6. 
+ With respect to the implementation of the Programme, European Digital Innovation Hubs shall perform the following activities to the benefit of the Union industry, in particular SMEs and mid-caps, as well as the public sector:
+ (a) 
+ raising awareness and providing or ensuring access to digital transformation expertise, knowhow and services, including testing and experimentation facilities;
+ (b) 
+ assisting businesses, especially SMEs and start-ups, organisations and public administrations to become more competitive and to improve their business models through use of new technologies covered by the Programme;
+ (c) 
+ facilitating the transfer of expertise and knowhow between regions, in particular by matching SMEs, start-ups and mid-caps established in one region with European Digital Innovation Hubs established in other regions that are best suited to providing relevant services; encouraging exchanges of skills and knowledge, joint initiatives and good practices;
+ (d) 
+ providing or ensuring access to thematic services, in particular services related to AI, HPC and cybersecurity and trust to the public administrations, public sector organisations, SMEs or mid-caps;
+ (e) 
+ providing financial support to third parties under Specific Objective 4.
+ For the purposes of point (d) of the first subparagraph, European Digital Innovation Hubs may specialise in specific thematic services and shall not be required to provide all thematic services or to provide those services to all categories of entities referred to in this paragraph.
+ 7. 
+ Where a European Digital Innovation Hub receives funding under the Programme, that funding shall be in the form of grants.
+ ▼M2 
+ Article 16a
+ Conflicts of rules
+ In the case of actions implementing the European Cybersecurity Alert System, the applicable rules shall be those set out in Articles 4, 5 and 9 of Regulation (EU) 2025/38. In the case of a conflict between the provisions of this Regulation and Articles 4, 5 and 9 of Regulation (EU) 2025/38, the latter shall prevail and apply to those specific actions.
+ In the case of EU Cybersecurity Reserve, specific rules for the participation of third countries associated to the Programme are laid down in Article 19 of Regulation (EU) 2025/38. In the case of a conflict between the provisions of this Regulation and Article 19 of Regulation (EU) 2025/38, the latter shall prevail and apply to those specific actions.
+ ▼B 
+ CHAPTER II
+ ELIGIBILITY 
+ Article 17
+ Eligible actions
+ ▼M1 
+ 1. 
+ Only actions contributing to the achievement of the objectives laid down in Articles 3 to 8a shall be eligible for funding.
+ ▼B 
+ 2. 
+ The eligibility criteria for actions to be carried out under the Programme shall be set out in the work programmes.
+ Article 18
+ Eligible legal entities
+ 1. 
+ The following legal entities shall be eligible to participate in the Programme:
+ (a) 
+ legal entities established in:
+ (i) 
+ a Member State or an overseas country or territory linked to a Member State;
+ (ii) 
+ a third country associated to the Programme in accordance with Articles 10 and 12;
+ (b) 
+ any other legal entity created under Union law and any international organisation of European interest.
+ 2. 
+ By way of derogation from paragraph 1, legal entities established in a third country which is not associated to the Programme shall be eligible to participate in specific actions where their participation is necessary to achieve the objectives of the Programme. Such entities shall bear the cost of their participation unless specified otherwise in the work programmes.
+ 3. 
+ Natural persons shall not be eligible to participate in the Programme, except for grants awarded under Specific Objective 4.
+ 4. 
+ The work programme referred to in Article 24 may provide that participation is limited to beneficiaries established only in Member States, or to beneficiaries established in Member States and specific associated countries or other third countries, where there are security reasons for such limitation or where the actions directly relate to the Union’s strategic autonomy. Any limitation of the participation of legal entities established in associated countries shall comply with the terms and conditions of the relevant agreement.
+ CHAPTER III
+ GRANTS 
+ ▼M2 
+ Article 19
+ Grants
+ Grants under the Programme shall be awarded and managed in accordance with Title VIII of the Financial Regulation and may cover up to 100 % of the eligible costs, without prejudice to the co-financing principle as laid down in Article 190 of the Financial Regulation. Such grants shall be awarded and managed as specified for each specific objective.
+ Support in the form of grants may be awarded directly by the ECCC without a call for proposals to the Member States selected pursuant to Article 9 of Regulation (EU) 2025/38 and the Hosting Consortium referred to in Article 5 of Regulation (EU) 2025/38, in accordance with Article 195(1), point (d), of the Financial Regulation.
+ Support in the form of grants for the Cybersecurity Emergency Mechanism may be awarded directly by the ECCC to Member States without a call for proposals, in accordance with Article 195(1), point (d), of the Financial Regulation.
+ With regard to actions supporting mutual assistance provided for in Article 18 of Regulation (EU) 2025/38, the ECCC shall inform the Commission and ENISA about Member States’ requests for direct grants without a call for proposals.
+ With regard to actions supporting mutual assistance provided for in Article 18 of Regulation (EU) 2025/38, and in accordance with Article 193(2), second subparagraph, point (a), of the Financial Regulation, the costs may, in duly justified cases, be considered to be eligible even if they were incurred before the grant application was submitted.
+ ▼B 
+ Article 20
+ Award criteria
+ 1. 
+ The award criteria shall be set out in the work programmes and in the calls for proposals, taking into account at least the following elements:
+ (a) 
+ the maturity of the action in the project development;
+ (b) 
+ the soundness of the implementation plan proposed;
+ (c) 
+ the need to overcome financial obstacles such as a lack of market finance;
+ ▼M3 
+ (d) 
+ for calls for proposals intended to support dual-use technologies, services, competences or applications, the trans-European dimension of the project.
+ ▼B 
+ 2. 
+ Where applicable, the award criteria, shall take into account the following elements:
+ (a) 
+ the stimulating effect of Union support on public and private investment;
+ (b) 
+ the expected economic, social, climate and environmental impact;
+ (c) 
+ accessibility and ease of access to respective services;
+ (d) 
+ a trans-European dimension;
+ (e) 
+ a balanced geographical distribution across the Union, including bridging the geographical digital divide, including the outermost regions;
+ (f) 
+ the presence of a long-term sustainability plan;
+ (g) 
+ the freedom to re-use and adapt the projects’ results;
+ (h) 
+ synergies and complementarities with other Union programmes.
+ Article 21
+ Evaluation
+ In accordance with Article 150 of the Financial Regulation, applications for grants shall be evaluated by an evaluation committee, which may be fully or partially composed of external independent experts.
+ CHAPTER IV
+ BLENDING OPERATIONS AND OTHER COMBINED FUNDING 
+ Article 22
+ Blending operations
+ Blending operations under the Programme shall be carried out in accordance with Regulation (EU) 2021/523 and Title X of the Financial Regulation.
+ Article 23
+ Cumulative and alternative funding
+ 1. 
+ An action that has received a contribution from another Union programme, including funds under shared management, may also receive a contribution under the Programme, provided that the contributions do not cover the same costs. The rules of the relevant Union programme shall apply to the corresponding contribution to the action. The cumulative funding shall not exceed the total eligible costs of the action.The support from the different Union programmes may be calculated on a pro-rata basis in accordance with the documents setting out the conditions for support.
+ 2. 
+ In order to be awarded a Seal of Excellence under the Programme, actions shall comply with all of the following conditions:
+ (a) 
+ they have been assessed in a call for proposals under the Programme;
+ (b) 
+ they comply with the minimum quality requirements of that call for proposals;
+ (c) 
+ they are not financed under that call for proposals due to budgetary constraints.
+ In accordance with the relevant provisions of the Common Provisions Regulation for 2021-2027, the ERDF or ESF+ may support proposals submitted to a call for proposals under the Programme, which were awarded a Seal of Excellence in accordance with the Programme.
+ CHAPTER V
+ PROGRAMMING, MONITORING, EVALUATION AND CONTROL 
+ Article 24
+ Work programmes
+ 1. 
+ The Programme shall be implemented by means of work programmes as referred to in Article 110 of the Financial Regulation.
+ 2. 
+ Work programmes shall in principle be adopted as multiannual programmes, typically every two years, and cover the general objectives of the Programme as well as one or more specific objectives. If justified by specific implementation needs, they may also be adopted as annual programmes.
+ 3. 
+ Work programmes shall be consistent with the specific objectives of the Programme, as set out in Articles 4 to 8, while also taking into account the areas and types of activities set out in Annex I. They shall ensure that the actions thereby supported do not crowd out private financing.
+ 4. 
+ In order to reflect technological change and market developments, the Commission is empowered to adopt delegated acts in accordance with Article 30 to amend Annex I with regard to the activities set out therein in a manner consistent with the specific objectives of the Programme, as set out in Articles 4 to 8.
+ 5. 
+ Work programmes shall set out, where applicable, the overall amount reserved for blending operations.
+ 6. 
+ The Commission shall, by means of implementing acts, adopt the work programmes for Specific Objectives 2, 4 and 5 and for possible other actions under direct management for Specific Objectives 1 and 3. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(2).
+ Article 25
+ Monitoring and reporting
+ 1. 
+ Measurable indicators to monitor the implementation and to report on the progress of the Programme towards the achievement of the specific objectives laid down in Article 3(2) are set out in Annex II.
+ 2. 
+ The Commission shall establish a methodology to provide for indicators for accurately assessing progress made towards the achievement of the general objectives laid down in Article 3(1).
+ 3. 
+ In order to ensure the effective assessment of the Programme’s progress towards the achievement of its objectives, the Commission is empowered to adopt delegated acts in accordance with Article 30 to amend Annex II with regard to the measurable indicators, where considered to be necessary, as well as to supplement this Regulation with provisions on the establishment of a monitoring and evaluation framework.
+ 4. 
+ The performance reporting system shall ensure that data for monitoring the implementation and the results of the Programme are collected efficiently, effectively, and in a timely manner so that the results are suitable for an in-depth analysis of the progress achieved and the difficulties encountered.
+ To that end, proportionate reporting requirements shall be imposed on recipients of Union funds and, where necessary, on Member States.
+ 5. 
+ Official EU statistics, such as regular ICT statistical surveys, shall be used to their maximum as context indicators. The Commission shall consult national statistical institutes and shall involve them, together with Eurostat, in the initial design and subsequent development of statistical indicators used for monitoring the implementation of the Programme and progress made with regard to digital transformation.
+ Article 26
+ Evaluation of the Programme
+ 1. 
+ Evaluations of the Programme shall be carried out so that they feed into the decision-making process in a timely manner. They shall contain a qualitative assessment of the progress made towards the achievement of the general objectives of the Programme laid down in Article 3.
+ 2. 
+ In addition to regularly monitoring the Programme, the Commission shall conduct an interim evaluation of the Programme which shall be carried out once there is sufficient information available about its implementation, but no later than four years after the start of the implementation of the Programme. The interim evaluation shall form the basis for adjusting the implementation of the Programme, as appropriate, also taking into account new relevant technological developments.
+ 3. 
+ At the end of the implementation of the Programme, but no later than four years after the end of the period specified in Article 1, the Commission shall carry out a final evaluation of the Programme.
+ The final evaluation shall assess long-term impacts of the Programme and its sustainability.
+ 4. 
+ The evaluation reporting system shall ensure that recipients of Union funds collect data for programme evaluation in an efficient, effective and timely manner and at the appropriate level of granularity.
+ 5. 
+ The Commission shall submit the interim evaluation referred to in paragraph 2 and the final evaluation referred to in paragraph 3 to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions.
+ Article 27
+ Audits
+ 1. 
+ Audits on the use of the Union contribution carried out by persons or entities, including by others than those mandated by the Union institutions, bodies, offices or agencies shall form the basis of the overall assurance pursuant to Article 127 of the Financial Regulation.
+ 2. 
+ The control system shall ensure an appropriate balance between trust and control, taking into account administrative costs and other costs related to control at all levels.
+ 3. 
+ Audits of expenditure shall be carried out in a consistent manner in accordance with the principles of economy, efficiency and effectiveness.
+ 4. 
+ As part of the control system, the audit strategy may be based on the financial audit of a representative sample of expenditure. That representative sample shall be complemented by a selection based on an assessment of the risks related to expenditure.
+ 5. 
+ Actions that receive cumulative funding from different Union programmes shall be audited only once, covering all programmes concerned and their respective applicable rules.
+ Article 28
+ Protection of the financial interests of the Union
+ Where a third country participates in the Programme by means of a decision adopted pursuant to an international agreement or on the basis of any other legal instrument, the third country shall grant the necessary rights and access required for the authorising officer responsible, OLAF and the Court of Auditors to comprehensively exercise their respective competences. In the case of OLAF, such rights shall include the right to carry out investigations, including on-the-spot checks and inspections, as provided for in Regulation (EU, Euratom) No 883/2013.
+ Article 29
+ Information, communication, publicity, policy support and dissemination
+ 1. 
+ The recipients of Union funding shall acknowledge the origin of those funds and ensure the visibility of the Union funding, in particular when promoting the actions and their results, by providing coherent, effective and proportionate targeted information to multiple audiences, including the media and the public.
+ 2. 
+ The Commission shall implement information and communication actions relating to the Programme, to actions taken pursuant to the Programme and to the results obtained. The Commission shall also ensure that integrated information is provided and that it reaches potential applicants to Union funding in the digital sector.
+ Financial resources allocated to the Programme shall also contribute to the corporate communication of the political priorities of the Union, insofar as those priorities are related to the objectives referred to in Article 3.
+ 3. 
+ The Programme shall provide support to policy development, outreach, awareness-raising and the dissemination of actions related to the Programme and shall promote cooperation and the exchange of experience in the areas referred to in Articles 4 to 8.
+ CHAPTER VI
+ DELEGATED ACTS, IMPLEMENTING ACTS, TRANSITIONAL AND FINAL PROVISIONS 
+ Article 30
+ Exercise of the delegation
+ 1. 
+ The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+ 2. 
+ The power to adopt delegated acts referred to in Article 24(4) and Article 25(3) shall be conferred on the Commission until 31 December 2028.
+ 3. 
+ The delegation of power referred to in Article 24(4) and Article 25(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+ 4. 
+ Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+ 5. 
+ As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+ 6. 
+ A delegated act adopted pursuant to Article 24(4) and Article 25(3) shall only enter into force if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+ Article 31
+ Committee procedure
+ 1. 
+ The Commission shall be assisted by the Digital Europe Programme Coordination Committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+ 2. 
+ Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+ Article 32
+ Repeal
+ Decision (EU) 2015/2240 is repealed with effect from 1 January 2021.
+ Article 33
+ Transitional provisions
+ 1. 
+ This Regulation shall not affect the continuation of or modification of actions inititated pursuant to Regulation (EU) No 283/2014 of the European Parliament and of the Council ( 
+ 10 
+ ) and Decision (EU) 2015/2240, which shall continue to apply to those actions until their closure.
+ 2. 
+ The financial envelope for the Programme may also cover the technical and administrative assistance expenses necessary to ensure the transition between the Programme and the measures adopted pursuant to Regulation (EU) No 283/2014 and Decision (EU) 2015/2240.
+ 3. 
+ If necessary, appropriations may be entered in the Union budget beyond 2027 to cover the expenses provided for in Article 9(4), to enable the management of actions not completed by 31 December 2027.
+ Article 34
+ Entry into force and application
+ This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union .
+ It shall apply from 1 January 2021.
+ This Regulation shall be binding in its entirety and directly applicable in all Member States.
+ ANNEX I
+ ACTIONS
+ Technical description of the Programme: scope of actions 
+ The initial and, where appropriate, subsequent actions of the Programme shall be implemented in accordance with the following technical description:
+ Specific Objective 1 – High Performance Computing 
+ The Programme shall implement the European strategy on HPC by supporting a full Union ecosystem that provides the necessary HPC and data capabilities for Europe to compete globally. The strategy aims to deploy a world-class HPC and data infrastructure with exascale capabilities between 2022 and 2023, and with post-exascale facilities between 2026 and 2027 to endow the Union with its own independent and competitive HPC technology supply, achieve excellence in HPC applications and widen the availability and use of HPC.
+ Initial and, where appropriate, subsequent actions under this objective shall include:
+ 1. 
+ A joint procurement framework enabling a co-designed approach for the acquisition of an integrated network of world-class HPC, including the acquisition of exascale supercomputing and data infrastructure. That network will be easily accessible to public and private users, in particular SMEs, irrespective of the Member State in which they are located, and will be easily accessible for research purposes, in accordance with Regulation (EU) 2018/1488.
+ 2. 
+ A joint procurement framework for the acquisition of post-exascale supercomputing infrastructure, including the integration with quantum computing technologies.
+ 3. 
+ Coordination and adequate financial resources at Union level to support the development, procurement and operation of such infrastructure.
+ 4. 
+ Networking of Member States HPC and data capacities and support for Member States wishing to upgrade or acquire new HPC capacities.
+ 5. 
+ Networking of national High Performance Computing competence centres, at least one per Member State and associated with their national supercomputing centres to provide HPC services to industry, in particular SMEs, the academic community and public administrations.
+ 6. 
+ The deployment of ready to use operational technology, in particular supercomputing as a service resulting from research and innovation to build an integrated European HPC ecosystem, covering all segments of the scientific and industrial value chain (hardware, software, applications, services, interconnections and advanced digital skills).
+ Specific Objective 2 – Artificial Intelligence 
+ The Programme shall build up and strengthen core AI capacities in Europe, including data resources and repositories of algorithms, and make them accessible to all public administrations and businesses, and shall reinforce and network existing and newly established AI testing and experimentation facilities in Member States.
+ Initial and, where appropriate, subsequent actions under this objective shall include:
+ 1. 
+ The creation of common European data spaces that make accessible data across Europe, including information gathered from the re-use of public sector information, and become a data input source for AI solutions. The spaces should be open to the public and private sectors. For increased usage, data within a space are to be made interoperable, in particular through data formats that are open, machine readable, standardised and documented, both in the interactions between the public and private sectors, within sectors and across sectors (semantic interoperability).
+ 2. 
+ The development of common European libraries or interfaces to libraries of algorithms that make them easily accessible to all potential European users on the basis of fair, reasonable and non-discriminatory terms. Businesses and the public sector are to be able to identify and acquire whichever solution would work best for their needs.
+ 3. 
+ Co-investment with Member States in world class reference facilities for testing and experimentation in real setting focusing on the applications of AI in essential sectors such as health, earth or environment monitoring, transport and mobility, security, manufacturing and finance, as well as in other areas of public interest. Those facilities are to be open to all actors across Europe and connected to the network of European Digital Innovation Hubs. Those facilities are to be equipped with or connected to large computing and data handling facilities, as well as latest AI technologies, including emerging areas such as neuromorphic computing, deep learning and robotics.
+ ▼M2 
+ Specific Objective 3 – Cybersecurity and Trust 
+ The Programme shall stimulate the reinforcement, building and acquisition of essential capacities to secure the Union’s digital economy, society and democracy by reinforcing the Union cybersecurity industrial potential and competitiveness, as well as by improving capabilities of both the private and public sectors to protect citizens and businesses from cyber threats, including by supporting the implementation of Directive (EU) 2016/1148.
+ Initial and, where appropriate, subsequent actions under this objective shall include:
+ 1. 
+ Co-investment with Member States in advanced cybersecurity equipment, infrastructure and know-how that are essential to protect critical infrastructures and the Digital Single Market at large. Such co-investment could include investments in quantum facilities and data resources for cybersecurity, situational awareness in cyberspace including National Cyber Hubs and Cross-Border Cyber Hubs forming the European Cybersecurity Alert System, as well as other tools to be made available to public and private sector across Europe.
+ 2. 
+ Scaling up existing technological capacities and networking the competence centres in Member States and making sure that those capacities respond to public sector and industry needs, including through products and services that reinforce cybersecurity and trust within the Digital Single Market.
+ 3. 
+ Ensuring wide deployment of effective state-of-the-art cybersecurity and trust solutions across the Member States. Such deployment includes strengthening the security and safety of products, from their design to their commercialisation.
+ 4. 
+ Support closing the cybersecurity skills gap, taking into account gender balance by, for example, aligning cybersecurity skills programmes, adapting them to specific sectorial needs and facilitating access to targeted specialised training.
+ 5. 
+ Promoting solidarity among Member States in preparing for and responding to significant cybersecurity incidents and large-scale cybersecurity incidents through deployment of cybersecurity services across borders, including support for mutual assistance between public authorities and the establishment of a reserve of trusted managed security service providers at Union level.
+ ▼B 
+ Specific Objective 4 – Advanced digital skills 
+ The Programme shall support access to advanced digital skills and training opportunities on those skills, in particular in HPC, big data analytics, AI, distributed ledger technologies (e.g. blockchain) and cybersecurity for the current and future workforce by offering, inter alia, students, recent graduates, current workers and citizens of all ages in need of upskilling, wherever they are situated, with the means to acquire and develop those skills.
+ Initial and, where appropriate, subsequent actions under this objective shall include:
+ 1. 
+ Access to on-the-job training by taking part in traineeships in competence centres and businesses that deploy advanced digital technologies.
+ 2. 
+ Access to courses in advanced digital technologies which are to be offered by higher education institutions, research institutions and industry professional certification bodies in cooperation with the bodies involved in the Programme (topics are expected to include AI, cybersecurity, distributed ledger technologies (e.g. blockchain), HPC and quantum technologies).
+ 3. 
+ Participation in short-term, specialised professional training that have been pre-certified, for example in the area of cybersecurity.
+ Interventions shall focus on advanced digital skills related to specific technologies.
+ The European Digital Innovation Hubs provided for in Article 16 shall act as facilitators for training opportunities, liaising with education and training providers.
+ Specific Objective 5 – Deployment and Best Use of Digital Capacities and Interoperability 
+ Projects serving the deployment and the best use of digital capacities or interoperability shall constitute projects of common interest.
+ I. Initial and, where appropriate, subsequent actions under this objective related to the digital transformation of areas of public interest shall include:
+ 1. 
+ Modernisation of public administrations:
+ 1.1. 
+ Support Member States in the implementation of the principles of the Tallinn Declaration on eGovernment in all policy domains, creating, where necessary, the necessary registries and interconnecting them in full compliance with Regulation (EU) 2016/679.
+ 1.2. 
+ Support the design, piloting, deployment, maintenance, evolution and promotion of a coherent eco-system of cross-border digital services infrastructure and facilitate seamless end-to-end, secure, interoperable, multi-lingual cross-border or cross-sector solutions and common frameworks within public administrations. Methodologies for assessing the impact and benefits shall also be included.
+ 1.3. 
+ Support the assessment, updating and promotion of existing common specifications and standards as well as the development, establishment and promotion of new common specifications, open specifications and standards through the Union’s standardisation platforms and in cooperation with European or international standardisation organisations as appropriate.
+ 1.4. 
+ Cooperate towards a European ecosystem for trusted infrastructures, possibly using services and applications based on distributed ledger technologies (e.g. blockchain), including support for interoperability and standardisation and fostering the deployment of Union cross-border applications.
+ 2. 
+ Health
+ 2.1. 
+ Ensure that citizens have control over their personal data and can access, share, use, and manage their personal health data across borders securely and in a way that guarantees their privacy, irrespective of their location or the location of the data, in accordance with applicable data protection legislation. Complete the eHealth digital service infrastructure and extend it by new digital services in relation to disease prevention, health and care and support the deployment of such services, building on a broad support by Union activities and Member States, in particular in the eHealth network according to Article 14 of Directive 2011/24/EU of the European Parliament and of the Council ( 
+ 11 
+ ).
+ 2.2. 
+ Make available better data for research, disease prevention and personalised health and care. Ensure that European health researchers and clinical practitioners have access to the necessary scale of resources (shared data spaces, including data storage and computing, expertise and analytical capacities) to achieve breakthroughs in major as well as in rare diseases. The target is to ensure a population-based cohort of at least 10 million citizens.
+ 2.3. 
+ Make digital tools available for citizen empowerment and for person-centred care by supporting the exchange of innovative and best practices in digital health, capacity building and technical assistance, in particular for cybersecurity, AI and HPC.
+ 3. 
+ Judiciary
+ Enable seamless and secure cross-border electronic communication within the judiciary and between the judiciary and other competent bodies in the area of civil and criminal justice. Improve access to justice and to legal information and procedures for citizens, businesses, legal practitioners and members of the judiciary by providing semantically interoperable interconnections to databases and registers as well as by facilitating online out-of-court dispute resolution. Promote the development and implementation of innovative technologies for courts and the legal profession based, inter alia, on AI solutions which are likely to streamline and speed-up procedures (for example, ‘legal tech’ applications).
+ ▼M3 
+ 4. 
+ Transport, mobility, energy and environment
+ Deploy decentralised solutions and infrastructure required for large-scale digital applications such as connected automated driving, unmanned aerial, ground, surface and underwater vehicles, smart mobility concepts, smart cities, smart rural areas or outermost regions, in support of transport, energy and environmental policies and in coordination with the actions for digitalising the transport and energy sectors under Connecting Europe Facility..
+ ▼B 
+ 5. 
+ Education, culture and media
+ Provide creators, creative industry and cultural sectors in Europe with access to the latest digital technologies from AI to advanced computing. Exploit the European cultural heritage, including Europeana, to support education and research and to promote cultural diversity, social cohesion and European society. Support the uptake of digital technologies in education, as well as private and publicly funded cultural institutions.
+ 6. 
+ Other actions supporting the Digital Single Market
+ Support actions such as fostering digital and media literacy and raising awareness among minors, parents and teachers regarding risks minors may encounter online and ways to protect them, tackling cyberbullying and the dissemination of child sexual abuse material online by supporting a pan-European network of Safer internet Centres. Promote measures aimed at detecting and combatting intentional disinformation spread, thereby increasing the Union’s overall resilience; support a Union observatory for the digital platform economy as well as studies and outreach activities.
+ The actions referred to in points 1 to 6 may be partly supported by European Digital Innovation Hubs through the same capacities developed to assist industry with their digital transformation (see point (II).
+ II Initial and, where appropriate, subsequent actions under this objective related to the digital transformation of industry shall include:
+ Contribution to the upscaling of the network of European Digital Innovation Hubs to ensure access to digital capacities for any business, in particular SMEs, in any region across the Union. Such contribution includes:
+ 1. 
+ Access to common European data spaces and AI platforms and European HPC facilities for data analytics and compute intensive applications
+ 2. 
+ Access to AI large scale testing facilities and to advanced cybersecurity tools
+ 3. 
+ Access to advanced digital skills
+ The actions referred to in the first subparagraph will be coordinated with, and will complement, the innovation actions in digital technologies supported, in particular, under Horizon Europe, as well as investments in European Digital Innovation Hubs supported under the ERDF. Grants for market replication may also be provided from the Programme, in compliance with state aid rules. Support for access to financing for further steps in their digital transformation will be achieved with financial instruments making use of the InvestEU Programme.
+ ▼M1 
+ Specific Objective 6 – Semiconductors 
+ Actions under Specific Objective 6 are provided in Annex I to Regulation (EU) 2023/1781.
+ ▼B 
+ ANNEX II
+ MEASURABLE INDICATORS TO MONITOR THE IMPLEMENTATION AND TO REPORT ON THE PROGRESS OF THE PROGRAMME TOWARDS THE ACHIEVEMENT OF ITS SPECIFIC OBJECTIVES
+ Specific Objective 1 – High Performance Computing 
+ 1.1. The number of jointly procured HPC infrastructures
+ 1.2. The usage of the exascale and post-exascale computers in total and by various stakeholder groups (universities, SMEs etc.)
+ Specific Objective 2 – Artificial Intelligence 
+ 2.1. The total amount co-invested in testing and experimentation facilities
+ 2.2. The usage of common European libraries or interfaces to libraries of algorithms, usage of common European data spaces and usage of testing and experimentation facilities related to actions under this Regulation
+ 2.3. The number of cases for which organisations decide to integrate AI in their products, processes or services, as a result of the Programme
+ ▼M2 
+ Specific Objective 3 – Cybersecurity and Trust 
+ 3.1. The number of cybersecurity infrastructure, or tools, or both jointly procured including in the context of the European Cybersecurity Alert System
+ 3.2. The number of users and user communities getting access to European cybersecurity facilities
+ 3.3. The number of actions supporting preparedness for and response to cybersecurity incidents under the Cybersecurity Emergency Mechanism
+ ▼B 
+ Specific Objective 4 – Advanced Digital Skills 
+ 4.1. The number of persons who have received training to acquire advanced digital skills supported by the Programme
+ 4.2. The number of enterprises, in particular SMEs, having difficulty recruiting ICT specialists
+ 4.3. The number of people reporting an improved employment situation after the end of the training supported by the Programme
+ Specific Objective 5 – Deployment and Best Use of Digital Capacity and Interoperability 
+ 5.1. The take-up of digital public services
+ 5.2. Enterprises with high digital intensity score
+ 5.3. The extent of the alignment of the National Interoperability Framework with the European Interoperability Framework
+ 5.4. The number of businesses and public sector entities which have used the services of European Digital Innovation Hubs
+ ▼M1 
+ Specific Objective 6 – Semiconductors 
+ Measurable indicators to monitor the implementation and to report on the progress of Specific Objective 6 are provided in Annex II to Regulation (EU) 2023/1781.
+ ▼B 
+ ANNEX III
+ SYNERGIES WITH OTHER UNION PROGRAMMES
+ 1. Synergies with Horizon Europe shall ensure that:
+ (a) 
+ although several thematic areas addressed by the Programme and Horizon Europe converge, the type of actions to be supported, their expected outputs and their intervention logic are different and complementary;
+ (b) 
+ Horizon Europe will provide extensive support for research, technological development, demonstration, piloting, proof-of-concept, testing and innovation including pre-commercial deployment of innovative digital technologies, in particular through:
+ (i) 
+ a dedicated budget in the pillar ‘Global Challenges and European Industrial Competitiveness’ for the cluster ‘Digital, Industry and Space’ to develop enabling technologies (AI and robotics, Next Generation internet, HPC and Big Data, key digital technologies, combining digital with other technologies);
+ (ii) 
+ support to research infrastructures under the pillar ‘Excellent Science’;
+ (iii) 
+ the integration of digital across all the Global Challenges (health, security, energy and mobility, climate, etc.); and
+ (iv) 
+ support for scale-up breakthrough innovations under the pillar ‘Innovative Europe’ (many of which will combine digital and physical technologies);
+ (c) 
+ the Programme will invest in:
+ (i) 
+ digital capacity building in HPC, AI, distributed ledger technologies (e.g. blockchain), cybersecurity and advanced digital skills; and
+ (ii) 
+ national, regional and local deployment within an Union framework of digital capacities and the latest digital technologies in areas of public interest (such as health, public administration, justice and education) or market failure (such as the digitisation of businesses, in particular SMEs);
+ (d) 
+ the capacities and infrastructures of the Programme are made available to the research and innovation community, including for actions supported through Horizon Europe, such as testing, experimentation and demonstrations across all sectors and disciplines;
+ (e) 
+ as the development of novel digital technologies matures through Horizon Europe, those technologies will progressively be taken up and deployed by the Programme;
+ (f) 
+ Horizon Europe initiatives for the development of skills and competencies curricula, including those delivered at the co-location centres of the EIT’s KICs, are complemented by capacity-building in advanced digital skills supported by the Programme;
+ (g) 
+ strong coordination mechanisms for programming and implementation are put in place, aligning all procedures for both programmes to the extent possible. Their governance structures will involve all Commission concerned services.
+ 2. Synergies with Union programmes under shared management, including the ERDF, ESF+, the European Agricultural Fund for Rural Development and the European Maritime, Fisheries and Acquaculture Fund, shall ensure that:
+ (a) 
+ arrangements for complementary funding from Union programmes under shared management and the Programme are used to support actions providing a bridge between smart specialisations and support to the digital transformation of the European economy and society;
+ (b) 
+ the ERDF contributes to the development and strengthening of regional and local innovation ecosystems, industrial transformation, as well as the digital transformation of society and of public administrations, thereby also stimulating the implementation of the Tallinn Declaration on eGovernment. This includes support for the digital transformation of industry and the take-up of results, as well as the rolling out of novel technologies and innovative solutions. The Programme will complement and support the trans-national networking and mapping of digital capacities to make them accessible to SMEs and to make interoperable IT solutions accessible in all Union regions.
+ 3. Synergies with the Connecting Europe Facility shall ensure that:
+ (a) 
+ the Programme focuses on large-scale digital capacity and infrastructure building in the areas of HPC, AI, cybersecurity and advanced digital skills, aiming at the wide uptake and deployment across Europe of critical existing or tested innovative digital solutions within a Union framework in areas of public interest or market failure. The Programme is mainly to be implemented through coordinated and strategic investments with Member States, in particular through joint public procurement, in digital capacities to be shared across Europe and in Union-wide actions that support interoperability and standardisation as part of developing the Digital Single Market;
+ (b) 
+ the capacities and infrastructures of the Programme are to be made available to the deployment of innovative new technologies and solutions in the field of mobility and transport. The Connecting Europe Facility is to support the roll-out and deployment of innovative new technologies and solutions in the field of mobility and transport;
+ (c) 
+ coordination mechanisms are to be established, in particular through appropriate governance structures.
+ 4. Synergies with InvestEU Programme shall ensure that:
+ (a) 
+ support through market-based financing, including pursuing policy objectives under the Programme is provided under Regulation (EU) 2021/523; such market-based financing might be combined with the grant support;
+ (b) 
+ access to financial instruments by businesses is facilitated by the support provided by European Digital Innovation Hubs.
+ 5. Synergies with Erasmus+ shall ensure that:
+ (a) 
+ the Programme supports the development and acquisition of the advanced digital skills needed for the deployment of cutting-edge technologies such as AI or HPC, in cooperation with relevant industries;
+ (b) 
+ the advanced skills part of Erasmus+ complements the interventions of the Programme, addressing the acquisition of skills in all domains and at all levels through mobility experiences.
+ 6. Synergies with Creative Europe established by a Regulation of the European Parliament and of the Council shall ensure that:
+ (a) 
+ the MEDIA strand of Creative Europe supports initiatives that can generate real impact for cultural and creative sectors across Europe, helping them adapt to the digital transformation;
+ (b) 
+ the Programme, inter alia, provides creators, creative industry and cultural sector in Europe with access to latest digital technologies from AI to advanced computing.
+ 7. Synergies with other Union programmes and initiatives on competencies and skills shall be ensured.
+ ( 
+ 1 
+ ) Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).
+ ( 
+ 2 
+ ) Regulation (EU) 2025/38 of the European Parliament and of the Council of 19 December 2024 laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for and respond to cyber threats and incidents and amending Regulation (EU) 2021/694 (Cyber Solidarity Act) (OJ L, 2025/38, 15.1.2025, ELI: http://data.europa.eu/eli/reg/2025/38/oj).
+ ( 
+ 3 
+ ) Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union (OJ L 194, 19.7.2016, p. 1).
+ ( 
+ 4 
+ ) Regulation (EU) 2021/887 of the European Parliament and of the Council of 20 May 2021 establishing the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National Coordination Centres (OJ L 202, 8.6.2021, p. 1, ELI: http://data.europa.eu/eli/reg/2021/887/oj ).
+ ( 
+ 5 
+ ) Regulation (EU) 2023/1781 of the European Parliament and of the Council of 13 September 2023 establishing a framework of measures for strengthening Europe’s semiconductor ecosystem and amending Regulation (EU) 2021/694 (Chips Act) OJ L 229, 18.9.2023, p. 1
+ ( 
+ 6 
+ ) Commission Decision (EU, Euratom) 2015/444 of 13 March 2015 on the security rules for protecting EU classified information (OJ L 72, 17.3.2015, p. 53).
+ ( 
+ 7 
+ ) Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, p. 65).
+ ( 
+ 8 
+ ) Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94, 28.3.2014, p. 243).
+ ( 
+ 9 
+ ) Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council of 23 September 2024 on the financial rules applicable to the general budget of the Union (OJ L, 2024/2509, 26.9.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj).
+ ( 
+ 10 
+ ) Regulation (EU) No 283/2014 of the European Parliament and of the Council of 11 March 2014 on guidelines for trans-European networks in the area of telecommunications infrastructure and repealing Decision No 1336/97/EC (OJ L 86, 21.3.2014, p. 14).
+ ( 
+ 11 
+ ) Directive 2011/24/EU of the European Parliament and of the Council of 9 March 2011 on the application of patients’ rights in cross-border healthcare (OJ L 88, 4.4.2011, p. 45).

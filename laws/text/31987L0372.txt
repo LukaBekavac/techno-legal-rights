@@ -1,0 +1,81 @@
+### Frequency Bands Directive | CELEX 31987L0372 | text version 01987L0372-20091109 | role in_force
+01987L0372 — EN — 09.11.2009 — 001.001
+ This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document
+ ►B 
+ COUNCIL DIRECTIVE
+ of 25 June 1987
+ on the frequency bands to be reserved for the coordinated introduction of public pan-European cellular digital land-based mobile communications in the Community
+ (87/372/EEC) 
+ (OJ L 196 17.7.1987, p. 85)
+ Amended by:
+ Official Journal
+ No
+ page
+ date
+ ►M1 
+ DIRECTIVE 2009/114/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 16 September 2009
+ L 274
+ 25
+ 20.10.2009
+ Corrected by:
+ ►C1 
+ Corrigendum, OJ L 265, 16.9.1987, p. 15 (87/372) 
+ ▼B 
+ COUNCIL DIRECTIVE
+ of 25 June 1987
+ on the frequency bands to be reserved for the coordinated introduction of public pan-European cellular digital land-based mobile communications in the Community
+ (87/372/EEC)
+ ▼M1 
+ Article 1
+ 1. 
+ Member States shall make the 880-915 MHz and 925-960 MHz frequency bands (the 900 MHz band) available for GSM and UMTS systems, as well as for other terrestrial systems capable of providing electronic communications services that can coexist with GSM systems, in accordance with technical implementing measures adopted pursuant to Decision No 676/2002/EC of the European Parliament and of the Council of 7 March 2002 on a regulatory framework for radio spectrum policy in the European Community (Radio Spectrum Decision) ( 
+ 6 
+ ).
+ 2. 
+ Member States shall, when implementing this Directive, examine whether the existing assignment of the 900 MHz band to the competing mobile operators in their territory is likely to distort competition in the mobile markets concerned and, where justified and proportionate, they shall address such distortions in accordance with Article 14 of Directive 2002/20/EC of the European Parliament and of the Council of 7 March 2002 on the authorisation of electronic communications networks and services (Authorisation Directive) ( 
+ 7 
+ ).
+ Article 2
+ For the purposes of this Directive, the following definitions shall apply:
+ (a) 
+ ‘GSM system’ shall mean an electronic communications network that complies with the GSM standards, as published by ETSI, in particular EN 301 502 and EN 301 511;
+ (b) 
+ ‘UMTS system’ shall mean an electronic communications network that complies with the UMTS standards as published by ETSI, in particular EN 301 908-1, EN 301 908-2, EN 301 908-3 and EN 301 908-11.
+ Article 3
+ 1. 
+ Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 9 May 2010. They shall forthwith communicate to the Commission the text of those measures and a correlation table between those measures and this Directive.
+ When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+ 2. 
+ Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+ ▼M1 —————
+ ▼B 
+ Article 5
+ This Directive is addressed to the Member States.
+ ( 
+ 1 
+ ) 
+ OJ No C 69, 17.3.1987, p. 9.
+ ( 
+ 2 
+ ) 
+ OJ No C 125, 11.5.1987, p. 159.
+ ( 
+ 3 
+ ) 
+ OJ No L 298, 16.11.1984, p. 49.
+ ( 
+ 4 
+ ) See page 81 of this Official Journal.
+ ( 
+ 5 
+ ) 
+ OJ No L 217, 5.8.1986, p. 21.
+ ( 
+ 6 
+ ) 
+ OJ L 108, 24.4.2002, p. 1.
+ ( 
+ 7 
+ ) 
+ OJ L 108, 24.4.2002, p. 21.

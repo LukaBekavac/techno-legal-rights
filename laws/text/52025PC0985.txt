@@ -1,0 +1,2125 @@
+### GreenData4all | CELEX 52025PC0985 | text version 52025PC0985 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 10.12.2025
+ COM(2025) 985 final
+ 2025/0393(COD)
+ Proposal for a
+ DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ amending Directive 2007/2/EC as regards simplification of certain requirements for the establishment of the Infrastructure for Spatial Information in the Union
+ (Text with EEA relevance)
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ ‘The Future of European Competitiveness’ report emphasised that the transition to a low-carbon, resource-efficient, and circular economy will be essential for securing the EU's long- term economic prosperity, resilience, and competitiveness. 3 With the Competitiveness Compass for the EU, the Commission presented its strategy for the next five years for unlocking the full potential of this transition. 
+ 1 
+ Union legislation should deliver its policy objectives efficiently, effectively and transparently. The Competitiveness Compass promotes responsible law-making, announcing unprecedented efforts to simplify legislation to reignite the competitiveness of European business. Moreover , the Commission has since strengthened targets to reduce administrative costs for business (together with public authorities) and Small and Medium sized Entreprises by 25% and 35% respectively ( 1 ). 
+ Directive 2007/2/EC 
+ 2 
+ (the INSPIRE Directive) was adopted to create the European Spatial Data Infrastructure that enables the sharing of environmental spatial information among public sector organisations and improves public access to spatial information across Europe. The INSPIRE Directive has been crucial in overcoming obstacles such as missing or poorly described data, isolated spatial data infrastructures, barriers to sharing, duplicated efforts, and too many formats, so that maps and location data can be easily found, shared, and used across Europe. 
+ The most recent evaluation completed in 2022 
+ 3 
+ confirmed that while the objectives of the Directive remain highly relevant, the legal framework could be simplified and made more effective. 
+ This proposal seeks to modernise and simplify the INSPIRE Directive by removing technical requirements for data and data sharing and aligning its obligations with more recent horizontal EU datal legislation. This will ensure legal coherence, reduce duplication and burden on Member States, while preserving the Directive’s objectives of ensuring the accessibility, quality and interoperability of environmental spatial data . This approach is in line with the 2020 European strategy for data 
+ 4 
+ and the 2025 Data Union Strategy 
+ 5 
+ in terms of ensuring an over-arching policy framework for the data-agile economy and avoiding fragmentation of the internal market. The 2020 European s trategy for data 
+ 6 
+ announced the ‘GreenData4All’ initiative , which has the objective to modernise the INSPIRE Directive in line with technological developments and innovation opportunities, with a view to support ing the transition to a greener and carbon-neutral economy, and reducing administrative burden. 
+ Horizontal EU data legislation regulates the access to, reuse, interoperability, and governance of public sector data in a coherent and technologically advanced manner. This includes Directive (EU) 2019/1024 ( Open Data Directive ) 
+ 7 
+ and Implementing Regulation (EU) 2023/138 ( High-Value Datasets ) 
+ 8 
+ , Regulation (EU) 2022/868 (Data Governance Act) 
+ 9 
+ , and Regulation (EU) 2024/903 (Interoperable Europe Act) 
+ 10 
+ . Horizontal EU data legislation introduces open-by-default principles, structured metadata, mandatory Application Programming Interfaces (APIs) and where relevant as bulk download formats for high-value datasets, as well as a streamlined, common governance model for cross-border data use. 
+ More specifically, the Open Data Directive sets out in Article 1(7) that that Directive governs the re-use of existing documents held by public sector bodies and public undertakings of the Member States, including documents to which Directive 2007/2/EC applies. 
+ In addition, the EU’s objective of creating Common European Data Spaces set out in the 2020 European strategy for data, includes a dedicated Green Deal Data Space to support the European Green Deal; this requires breaking data silos and ensuring that all relevant environmental data – spatial and non-spatial – can flow freely to inform EU environmental and climate objectives and reduce administrative burden on companies and public administrations. 
+ The proposed simplification of the INSPIRE Directive, as part of the environmental simplification omnibus, constitutes the legal component of the GreenData4All initiative. It will be supported by non-legislative actions and practical tools to support smart and efficient reuse of environmental data across the Union. 
+ • Consistency with existing policy provisions in the policy area 
+ The proposed amendments will align the INSPIRE Directive with EU legislation governing public sector data. In particular, Directive (EU) 2019/1024 and Implementing Regulation (EU) 2024/903, have introduced requirements for free and open availability of data, including application programming interfaces (APIs), for key datasets in categories such as geospatial and environmental data. Notably, the high-value datasets defined under that framework were selected to match the data sets already covered by the INSPIRE Directive. 
+ The Digital Omnibus p roposal 
+ 11 
+ includes the consolidated and streamlined rules of Regulation (EU) 2024/1689 (Free Flow of Data Regulation), Regulation (EU) 2022/868 (Data Governance Act) and Directive (EU) 2019/1024 (the Open Data Directive) in Regulation (EU) 2023/2854 (Data Act), creating one single consolidated instrument for Europe’s data economy. Regulation (EU) 2024/1689) (Free Flow of Data Regulation), Directive (EU) 2019/1024 (Open Data Directive) and Regulation (EU) 2022/868 (Data Governance Act) will be repealed. That consolidation would therefore affect the references in this proposal to simplify the INSPIRE Directive , but it is not otherwise affected by the Digital Omnibus proposal, because the Commission did not propose relevant substantive changes to the solutions set out in the Open Data Directive . 
+ The INSPIRE Directive provides a common framework and technical standards needed for sharing and integrating spatial data across sectors and borders for reporting , policy implementation and decision making . Regulation (EU) 2019/1010 aligns reporting obligations in the field of environmental legislation and provides the basis for aligning reporting data models with INSPIRE specifications 
+ 12 
+ . 
+ The application of the INSPIRE Directive is not only relevant for environmental policy. Several pieces of EU legislation refer to the INSPIRE Directive, such as Regulation (EU) 2018/841 of the European Parliament and of the Council 
+ 13 
+ (LULUCF), Regulation (EU) 2021/2116 of the European Parliament and the Council 
+ 14 
+ (Common agricultural policy), Regulation (EU) 2018/1091 
+ 15 
+ (integrated farm statistics), Regulation (EU) 2021/696 of the European Parliament and of the Council 
+ 16 
+ (Union Space Programme) , Directive (EU) 2024/2881 of the European Parliament and of the Council 
+ 17 
+ ( Air Quality Directive), and Regulation (EU) 2024/1991 of the European Parliament and of the Council ( Nature Restoration Regulation ) 
+ 18 
+ , to ensure coherence, e.g. as regards technical formats, compatibility of procedures for the transmission and processing of data and data specifications, with a view to avoiding duplication of effort. 
+ • Consistency with other Union policies 
+ The proposal is fully in line with the EU’s horisontal data and digital policies, as regards promoting easier data sharing across sectors, and supporting the creation of Common European Data Spaces like the Green Deal Data Space - with the aim of making high-quality, accessible, and reusable environmental data available to drive innovation, sustainability, and digital transformation. With the proposed deletion of detailed technical requirements for interoperability, network services and data sharing , the proposal is consistent with Regulation (EU) 2024/903 as regards the aim to remove technical and legal barriers, promote common standards, and to ensure that public sector data - including geospatial and environmental data - can be easily shared, combined, and re-used across borders and sectors . Moreover, the proposed simplification will create flexibility in the implementation allowing for the adoption of community good practices, such as the widely recognised Minimum Interoperability Mechanisms (MIMs) developed by the Open & Agile Smart Cities community 
+ 19 
+ , that promote the use of minimal, flexible standards, for example, lightweight web APIs and common data models, to achieve cross-border geospatial data interoperability. 
+ The proposed measures to simplify the INSPIRE Directive are consistent with Directive (EU) 2019/1024 and Implementing Regulation (EU) 2023/138 because it will be ensured that geospatial and environmental data- are made available as open data, using common standards, APIs, and open licenses, thus minimizing duplication, reducing burdens for data providers, and maximizing accessibility and re-use for all users through data.europa.eu. It is therefore also proposed to delete the obligation on the Commission to operate the Inspire geo-portal. 
+ The proposal is furthermore consistent with Regulation (EU) 2022/868 which facilitates wider sharing of public sector data (including data not openly published) via trusted intermediaries and common data spaces, by ensuring that spatial datasets can be shared under clear conditions and via interoperable service solutions. 
+ In summary, this proposal aligns the INSPIRE Directive with the horisontal EU data policy, facilitating open-by-default data reuse, interoperability, and the development of data-driven services across sectors. 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ The legal basis for the INSPIRE Directive is Article 192(1) of the Treaty on the Functioning of the European Union. Article 192(1) provides the legal basis for measures to protect the environment including the use of available data to inform environmental policy preparation. 
+ Main legal provisions and amendments 
+ The proposal is a Directive of the European Parliament and of the Council amending Directive 2007/2/EC. 
+ The INSPIRE Directive does not prescribe uniform open licensing or charging conditions, which results in inconsistent reuse conditions across Member States. It is therefore proposed to replace the obligations for Member States to establish specific network services, including discovery, view, download and transformation, with a reference to the parallel provisions in Directive (EU) 2019/1024 to ensure that spatial data is by default open for reuse under harmonised conditions. 
+ It is proposed to delete the obligation on the Commission to operate a geo-portal. Access to spatial data will instead be made available via the EU’s open data portal (data.europa.eu), which serves as the central point of access for European public data. 
+ The obligations for metadata creation and data discovery set out in the INSPIRE Directive in Chapter II are still fit for purpose and allow for a transfer of metadata and discovery functionality from the INSPIRE geo-portal or national or sub-national geo-portals to data.europa.eu. 
+ With a view to reducing administrative burden, it is proposed to delete the reporting requirements set out in Article 21. Member States shall provide the Commission with a report on the measures taken to implement Implementing Regulation No (EU) 2023/138., in accordance with Article 5 of that Regulation. That report shall include a list of datasets corresponding to the description of each high-value data set in the Annex to that Regulation, which includes 33 out of 34 INSPIRE datasets, and with online reference to metadata that follow existing standards, such as a single register or open data catalogue. It is therefore no longer necessary to maintain the reporting requirements in Directive 2007/2/EC. 
+ Directive (EU) 2019/1024 sets out that data is open-by-default which also applies to spatial data, including spatial datasets defined under Directive 2007/2/EC. It is therefore proposed to delete the provision on data sharing in the INSPIRE Directive. Conditions for protecting sensitive information, such as national security or personal data, are also clearly defined in Directive (EU) 2019/1024 , Directive 2003/4/EC 
+ 20 
+ an d Regulation (EU) 2022/868 . The proposal therefore simplifies the legal framework without weakening the obligations concerning spatial data sharing between public authorities. 
+ As a consequence of the amendments set out above in relation to network services, interoperability and data sharing, it is furthermore proposed to repeal the following related implementing acts, by way of the applicable procedure, and to delete the corresponding empowerments: 
+ (1) Commission Regulation (EC) No 976/2009 as regards Network Services 
+ 21 
+ (2) Commission Regulation (EU) No 1089/2010 on interoperability of spatial data sets and services 
+ 22 
+ , and 
+ (3) Commission Regulation (EU) No 268/2010 on data and service sharing 
+ 23 
+ . 
+ (4) Commission Implementing Decision (EU) 2019/1372 implementing Directive 2007/2/EC as regards monitoring and reporting 
+ 24 
+ . 
+ • Subsidiarity 
+ The obligation to establish an European Spatial Data Infrastructure, building upon infrastructures established and operated by Member States, is imposed by EU law. The simplification of related obligations is therefore best done at EU level to ensure legal certainty and consistency. This will ensure clarity for public administrations across the EU, which will be benefiting from the simplified requirements arising from this proposal. 
+ A spatial data infrastructure for environmental policy and policies or activities that have an impact on the environment has an intrinsic cross-border and pan-European dimension. Individual Member States cannot adequately ensure interoperability and access to spatial data for EU-wide purposes. 
+ EU-level action is justified to simplify and consolidate a common interoperable framework for spatial data. The proposal does not concern Member States’ competence to organise their internal data infrastructures, so long as the common objectives (open availability and interoperability of certain spatial datasets) are achieved. 
+ • 
+ Proportionality 
+ The proposal aims at simplifying the legal framework by introducing changes to existing requirements that seek to reduce burden by deleting or amending provisions that have proven overly prescriptive or duplicative and which do not affect the substance of the wider policy objective as well as by aligning with Directive 2019/1024 and Regulation 2023/138. The proposal is therefore limited to those changes that are necessary to ensure efficient implementation, simplification and relevant alignment with horizontal data legislation. 
+ 3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Ex-post evaluations/fitness checks of existing legislation 
+ The 2022 evaluation 
+ 25 
+ of the INSPIRE Directive found that it has significantly advanced spatial data sharing since 2007, creating efficiencies through the application of FAIR principles and fostering EU-wide interoperability. The Directive’s main added value was found to lie in promoting data sharing as a norm, establishing governance structures, unlocking public sector data, improving transparency, and building EU-level expertise. It was found to be particularly relevant for supporting the Green Deal data space, environmental strategies, and environmental democracy through greater transparency. 
+ However, challenges remain. Implementation still faces technical and organisational barriers, with interoperability being the costliest aspect. The current framework is considered overly detailed and not sufficiently technology-neutral, which reduces flexibility and cost-effectiveness. Simplifying the interoperability requirements and allowing Member States some discretion in applying data specifications would increase adaptability and help maintain relevance in the light of technological change. The INSPIRE Directive cannot alone ensure cross-border and cross-sector data usability, requiring additional effort to render data into practical information. 
+ The INSPIRE Directive was found to be broadly coherent with environmental, open data, and access-to-information legislation, but synergies between these frameworks could be better leveraged to support active dissemination of environmental data. Implementation costs are largely borne by national governments, with little burden on end users, and where cost-benefit analyses were carried out, results aligned with expectations from the original ex-ante evaluation. 
+ Overall, the INSPIRE Directive was found to remain highly relevant for tackling obstacles to data sharing and addressing future data needs. But to increase its effectiveness, modernisation of the legal framework and improved practical implementation would be needed. 
+ • Stakeholder consultations 
+ The preparation of this proposal has been informed by extensive consultations with Member States’ authorities, data providers, data users, including businesses and NGOs, and the general public. The Open Public Consultation, which ran from 5 February - 30 April 2025, covered a broader scope than the present simplification proposal, comprising two distinct parts: 1) a general section addressing the availability and accessibility of environmental data (375 respondents), and 2) a more specific section concerning simplification of the INSPIRE Directive (227 respondents). This proposal draws principally on the outcomes of the second part of the open public consultation, dedicated to the simplification of the INSPIRE Directive. 
+ 375 respondents replied to the first part of the Open Public Consultation. Public authorities formed the largest group of respondents (150), followed by EU citizens (113), academic and research institutions (40), companies and businesses (27), environmental organisations (9), business associations (8), NGOs (7), non-EU citizens (6) and other actors (15). Public authorities were mainly national-level bodies, while 250 respondents came for organisations with over 250 employees. 
+ Respondents dealt with environmental data in multiple roles. A total of 258 identified as data users, 195 as producers, and 143 as hosts or providers. Environmental data is primarily used for research and development (188 mentions), public awareness and education (185), territorial and environmental planning (183), policymaking (170), compliance and reporting (169), business decision-making (92), corporate due diligence (76), and sustainability reporting (35). The most accessed data types included land use and land cover (258), climate and weather data (209), water quality and quantity (181), biodiversity (181), hydrology (171), forestry (165), agriculture (160), and soil quality (153). Data is most commonly accessed through downloading processed files (124), viewing services (102), and raw/API access (92). 
+ 227 respondents responded to the second part, focused on simplification of the INSPIRE Directive. Regarding alignment between the INSPIRE Directive and Directive (EU) 2019/1024, there was strong agreement that such alignment would promote wider accessibility and reuse (133 strongly agreed), simplify data-sharing rules (128), and reduce administrative burdens (111). On governance, a clear majority supported integrating the INSPIRE Directive under a common EU governance framework linked to horizontal legislation: 76 strongly supported this and 99 supported it, while only 22 were neutral and 22 were opposed. However, many emphasised the need to safeguard geospatial expertise, data quality, and interoperability standards. 
+ Respondents saw potential benefits in standardisation, quality assurance and scalability through APIs and cloud services. Concerns centered on transparency, governance, accountability, security, and the need to preserve public oversight and avoid reliance on opaque private platforms. Regarding the continued value of the INSPIRE Directive as a standalone instrument if fully aligned with horizontal legislation, views were mixed. While 91 respondents considered it highly or somewhat valuable, 62 saw limited or no value, and 35 remained uncertain. 
+ 25 individual attachments supplemented the consultation, of which 22 were directly relevant. These contributions highlighted persistent issues such as differences in the usability and accessibility of data portals, inconsistencies in data quality, and cross-border access barriers. Many advocated for a federated, coherent European platform built on national nodes, cautioning against commercialisation or paywalls. Divergent opinions were expressed on citizen-generated data, with support contingent on clear quality and validation frameworks. Respondents also stressed the importance of funding, capacity-building, secure exchanges, and maintaining geospatial coherence within broader EU data legislation, such as Directive (EU) 2019/1024 and Regulation (EU) 2024/903 . 
+ Member States’ experts, through the INSPIRE Maintenance and Implementation Group (MIG), have been closely involved through several workshops between 2022 – 2025. The INSPIRE Conference 2023 (participation of 280 people in person and 800 virtually, representing public authorities, business and academia) also discussed the possible evolution of the INSPIRE Directive. Mindful of investments already made in terms of implementation, there was broad agreement that the Directive’s legal requirements should not lock them into outdated technologies or lead to duplication of efforts. Some Member States have already piloted using their open data portal to satisfy INSPIRE discovery obligations, demonstrating feasibility. Data providers often face capacity constraints and fatigue due to overlapping obligations. The MIG echoed the results of the open public consultation to maintain a legislative basis for geospatial reference data, ensuring long-term standardisation, with a focus on not disrupting what works well, especially as regards metadata standards. 
+ • Collection and use of expertise 
+ During the preparation of the proposal, the Commission has made use of external expertise in the form of a support study . In addition , t he Joint Research Centre (JRC) has provided multidisciplinary analysis on the state of implementation of the INSPIRE Directive and possible future directions 
+ 26 
+ 27 
+ . The Commission has also taken into account the 2016 REFIT evaluation of the INSPIRE Directive 
+ 28 
+ as well as the 2022 evaluation 
+ 29 
+ , which contained detailed evidence of what works and what does not. The evaluation quantified the low uptake of some INSPIRE services and recommended integration with horizontal data legislation. 
+ • Impact assessment 
+ The proposal concerns targeted amendments to modernise and simplify the INSPIRE Directive by aligning it with the obligations set out in more recent, horizontal EU data legislation. The changes aim at ensuring a more efficient, effective and less burdensome implementation. Due to the targeted nature of the changes, and the lack of relevant policy options, an impact assessment is not necessary. However, the staff working document accompanying the proposal includes quantification of expected savings as well as information about continuation of the established coordination mechanisms at EU level in a more agile and less burdensome form. 
+ • Regulatory fitness and simplification 
+ Under the regulatory fitness and performance programme (REFIT), the Commission ensures that its legislation is fit for purpose, targeted to the needs of stakeholders, and minimises burdens while achieving its objectives. 
+ This proposal forms part of REFIT, responding to the findings of the 2022 evaluation of the INSPIRE Directive, which identified areas of excessive administrative burden and overly prescriptive technical requirements. The proposal simplifies the legal framework by deleting obligations that are now addressed through more recent horizontal EU data legislation specifically, Directive (EU) 2019/1024 , Implementing Regulation (EU) 2023/138 , Regulation (EU) 2022/868 and Regulation (EU) 2024/903. 
+ Notably, it is proposed to: 
+ – Remove duplicative reporting obligations, reducing compliance workload for Member States; 
+ – R emove four empowerments for adoption of implementing rules for interoperability, network services , data sharing and reporting requirements that no longer reflect current best practices or standards , thereby r emov ing rigid technical requirements . The four implementing acts adopted on the basis of the empowerments will be repealed by separate adoption procedure (comitology) . 
+ – Integrate spatial data access into another existing EU infrastructure , the o pen d ata p ortal (data.europa.eu), thereby simplifying user access and system maintenance and removing the obligation on the Commission to operate a g eo -p ortal. 
+ • Quantified impact of removing obligations 
+ The proposed amendments will benefit a wide range of stakeholders, including public sector data providers, national and regional authorities, businesses, research institutions, SMEs, and civil society organisations. Public sector data providers will see reduced administrative burden and simplified compliance, while businesses and data users will enjoy improved access to high-value environmental data through open licensing and modern APIs. 
+ A 12-month transposition period is proposed to allow Member States to adapt their infrastructures and to maintain service continuity during the migration to the new framework. The combined EU cost savings from the proposed simplification is expected to be substantial. The annual baseline costs for implementation of the INSPIRE Directive across EU-27 are estimated at EUR 4.967–48.926 million. 
+ The proposed simplification is expected to reduce administrative burdens by 24–64% compared to the current baseline. The lower bound of 24% reflects the more conservative estimates derived from stakeholder feedback during the validation workshop, which captured an immediate and pragmatic assessment of the potential impact. In contrast, the upper bound of 64% corresponds to the cost reductions identified through the full alignment scenario with Directive (EU) 2019/1024 
+ This is considered to represent the realistic range of expected savings from the simplification, particularly those savings linked to the annual update of harmonised datasets and the operation of publication and web services. It translates into annual savings of roughly EUR 6.36–16.96 million, based on the average annual cost component for updating and maintaining datasets and services under INSPIRE. On average across the projected range, this corresponds to approximately a 44% annual administrative cost reduction, or about EUR 11.66 million in yearly savings. These savings are achieved by removing the complex harmonisation requirements, by leveraging mainstream web technologies, and by consolidating infrastructure. 
+ • 
+ Fundamental rights 
+ The proposal has no adverse impact on fundamental rights as enshrined in the EU Charter of Fundamental Rights. The proposed amendments concern the sharing of public sector spatial data (non-personal, environmental and geographical information) and do not involve the processing of personal data or any limitations on individuals’ rights. Directive 2007/2/EC in its current form already contains safeguards to ensure that personal data and sensitive confidential information are protected, e.g in Article 13. 
+ By promoting open data and transparency, the proposal is consistent with Article 42 of the Charter (right of access to documents) and Article 37 (environmental protection) which implicitly supports access to environmental information. Citizens will continue to have at least the same access to spatial environmental information as before. The proposal does not affect the rights to privacy or data protection because any personal data (e.g. names of property owners in a cadastre) are excluded from the scope of the INSPIRE Directive. 
+ 4. BUDGETARY IMPLICATIONS 
+ N/A 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ Implementation plan 
+ N/A 
+ • Explanatory documents 
+ Considering the scope of the proposal, it is not justified or proportional to require explanatory documents. 
+ • 
+ Detailed explanation of the specific provisions of the proposal 
+ This proposal includes: 
+ – The deletion of technical interoperability specifications , taking into account that Article 1(7) of Directive (EU) 2019/1024 sets out that th at Directive governs the re-use of existing documents held by public sector bodies and public undertakings of the Member States, including documents to which Directive 2007/2/EC applies. (Article 7). 
+ – The deletion of technical requirements as regards network services, taking into account that Article 1(7) of Directive (EU) 2019/1024 sets out that th at Directive governs the re-use of existing documents held by public sector bodies and public undertakings of the Member States, including documents to which Directive 2007/2/EC applies (Article 11) . 
+ – The deletion of requirements for data-sharing as Directive (EU) 2019/1024 sets out that data is open-by-default which also applies to spatial data, including spatial datasets defined under Directive 2007/2/EC. 
+ – The deletion of conditions for public authorities to apply charges for spatial data sets , taking into account that Article 1(7) of Directive (EU) 2019/1024 sets out that th at Directive governs the re-use of existing documents held by public sector bodies and public undertakings of the Member States, including documents to which Directive 2007/2/EC applies , including principles and rules governing charging (Article 14) . 
+ – The deletion of the requirement on the Commission to establish and operate an INSPIRE geo-portal (Article 15). 
+ – The deletion of reporting requirements, to avoid duplication as Member States are obliged to undertake monitoring and reporting on the implementation of the INSPIRE Directive by the obligation set out in Article 5 of Implementing Regulation N o (EU) 2023/138 (Article 21). 
+ – An update of the regulatory procedure with scrutiny as regards adaptation of Annexes I, II and III (Article 4(7) and new Article 22a). 
+ – An update of the provision on i mplementing powers in Article 5(4) to replace the reference to Article 5 and 7 Decision 1999/468/EC with a reference to Article 5 of Regulation (EU) No 182/2011 (new Article 22b) 
+ – The deletion of obsolete provisions , where a timeframe has expired , or obsolete definitions. 
+ 2025/0393 (COD) 
+ Proposal for a 
+ DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ amending Directive 2007/2/EC as regards simplification of certain requirements for the establishment of the Infrastructure for Spatial Information in the Union 
+ (Text with EEA relevance) 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Economic and Social Committee 
+ 30 
+ , 
+ Having regard to the opinion of the Committee of the Regions 
+ 31 
+ , 
+ Acting in accordance with the ordinary legislative procedure, 
+ Whereas: 
+ (1) The political guidelines for the Commission’s 2024-2029 term 
+ 32 
+ point to the goal of simplifying legislation to eliminate any overlaps and contradictions while maintaining high standards and staying the course on the goals set out in the European Green Deal 
+ 33 
+ . 
+ (2) In response to the 2024 Draghi report 
+ 34 
+ , which point s to regulatory obstacles and administrative burden as one of the key challenges , notably for small and medium sized enterprises ( SMEs ) , the Competitiveness Compass 
+ 35 
+ identifies a set of hori s ontal enablers to underpin competitiveness including simplifying legislation , reducing burden and favouring speed and flexibility. 
+ (3) In its Communication of 19 November 2025 entitled “Data Union Strategy – Unlocking Data for AI” , 
+ 36 
+ the Commission set out its vision for the data union, including for the improvement of public-sector data-sharing . That agenda requires more than an incremental approach and the U nion must take bold action to achieve its goal s . The Commission, the European Parliament, the Council, Member States’ authorities at all levels and stakeholders need to work together to streamline and simplify Union , national and regional rules and implement policies more effectively . 
+ (4) In the context of the Commission’s commitment to reduce reporting burdens and compliance costs, advance interoperability, and enhance competitiveness, it is necessary to amend Directive 2007/2/EC of the European Parliament and of the Counci l 
+ 37 
+ , whilst maintaining the policy objectives of the European Green Deal, and the Sustainable Finance Action Plan 
+ 38 
+ . 
+ (5) Directive 2007/2/EC contains certain definitions that will become obsolete as a consequence of proposed amendments. Those d efinitions should be deleted. 
+ (6) Directive 2007/2/EC contains reference to third par t ies , whereas Directive (EU) 2019/1024 , which applies to public sector bodies and public undertakings , does not extend to private entities or businesses. To ensure coherence with the Directive (EU) 2019/1024 
+ 39 
+ , the reference to third parties should be deleted. 
+ (7) The timeframes for the creation of metadata and for the adoption of implementing rules laying down technical arrangements for interoperability of spatial data sets and services are obsolete and should be deleted. 
+ (8) Article s 7 and 8 of Directive 2007/2/EC empowers the Commission to adopt implementing rules laying down technical arrang e ments for the interoperability and, where practicable, harmonisation of spatial data sets and services . They also set out the conditions for and the content of those implementing rules . Article 5(1) of Directive (EU) 2019/1024 establishes that public sector bodies and public undertakings are to make their documents available in any pre-existing format or language and, where possible and appropriate, by electronic means, in formats that are open, machine-readable, accessible, findable and re-usable, together with their metadata. Both the format and the metadata is , where possible, to comply with formal open standards. Pursuant to Article 1(7) of Directive (EU) 2019/1024 , that Directive governs the re-use of existing documents held by public sector bodies and public undertakings of the Member States, including documents to which Directive 2007/2/EC applies. Since the interoperability requirements for open data apply to spatial data, the empowerment to adopt implementing rules laying down technical arrangements for the interoperability and , where practicable, harmonisation of spatial data sets and related provisions should be deleted . 
+ (9) Article 10 of Directive 2007/2/EC specifies that Member States are to make available information needed to make spatial data interoperable, including codes and classifications , and also sets out the conditions for ensuring coherence of spatial data relat ing to a feature, the location of which spans the frontier between two or more or more Member S tates . Since Articles 7 and 8 are being deleted , T he requirements for Member States to make such information available and the conditions for ensurin g coherence of spatial data are no longer needed . 
+ (10) Articles 11 and 12 of Directive 2007/2/EC specify that Member States are to establish and operate a network of services for the discovery, viewing, download, transformation and invoking of spatial data set s, and ensure that public authorities and third parties can link their spatial data sets and services to that network. Directive (EU) 2019/1024 sets the legal framework for open data and introduces the concept of high-value datasets, defined as data that is associated with important benefits for society and the economy when reused, which includes spatial data sets. Pursuant to Directive (EU) 2019/1024 , high-value datasets are to be made available for re-use in machine-readable format, via suitable application programming interfaces and, where relevant, as a bulk download. Pursuant to Article 1(7) of Directive (EU) 2019/1024 , that Directive sets out that the Directive governs the re-use of existing documents held by public sector bodies and public undertakings of the Member States, including documents to which Directive 2007/2/EC applies. To ensure consistency with Directive (EU) 2019/1024 and to avoid overlapping provisions , the requirements to establish and operate a network for spatial data services in Directive 200 7 /2/EC should be deleted. 
+ (11) Article 14 of Directive 2007/2/EC sets out the rules for making discovery and view services available to the public free of charge , as well as for making e-commerce services available where charges are levied . Directive (EU) 2019/1024 establishes principles and rules governing charging for making documents and high-value datase ts available free of charge , including exceptions and derogations from the rules on charging, for the purpose of ensuring the maximum impact and to facilitate re-use of data . Pursuant to Article 1(7) of Directive (EU) 2019/1024 , that Directive sets out that the Directive governs the re-use of existing documents held by public sector bodies and public undertakings of the Member States, including documents to which Directive 2007/2/EC applies. To ensure consistency with Directive (EU) 2019/1024 and to avoid overlapping provisions , the rules on charging for discovery and view services in Directive 2007/2/EC should be deleted . 
+ (12) ] Article 15 of Directive 2007/2/EC requires the Commission to establish and operate a n Inspire g eo-portal . That portal has functioned as the central European access point to the data provided by Member States and EFTA countries under Directive 2007/2/EC . The portal allows monitoring of the availability of datasets , discovery of suitable datasets based on their description s, and acces s to selected datasets through their view or download services. Since 2021 , the website data.europa.eu acts as a single access point for open data published by Union Institutions 
+ 40 
+ , on national portals of Member S tates and third countries , as well as by international organisations. To avoid duplication of access to spatial data sets and to reduce administrative burden , the obligation on the Commission to operate the Inspire g eo-portal should be deleted. 
+ (13) Article 16 of Directi ve 2007/2/EC sets out and empowerment for the Commission to adopt technical specifications and minimum performance criteria for network services referred to in Articles 11 and 12 of that Directive . Since Articles 11 and 12 of Directive 2007/2/EC are be ing deleted that empowerment is no longer needed . 
+ (14) Article 17 of Directive 2007/2/EC requires Member States to adopt measures that make it possible for spatial data collected at one level of public authority to be shared between all the different levels of public authorities and to ensure that spatial data and services are made available under conditions that do not restrict their extensive use. Pursuant to Directive (EU) 2019/1024 , data is open-by-default which also applies to spatial data, including spatial datasets falling within the scope of Directive 2007/2/EC . Article 17 should therefore be deleted for the purpose of simplifying the legal framework and avoiding overlapping rules . 
+ (15) Article 21 of Directive 2007/2 /EC sets out the monitoring and reporting requirements for Member States concerning the implementation of that Directive and the use of their infrastructures for spatial information. Article 5 of Commission Implementing Regulation (EU) 2023/138 
+ 41 
+ , establishes a list of high-value datasets belonging to the thematic categories set out in Annex I to Directive (EU) 2019/1024 and held by public sector bodies . It also lays down the arrangements for publishing and resusing of such high-value datasets. Member States are to provide the Commission with a report on the measures taken to implement the rules set out in Implementing Regulation (EU) 2023/138 , including a list of datasets corresponding to the description of each high-value data referred to in the Annex to that Implementing Regulation with online reference to metadata that allows for existing standards . That Annex, which includes 33 out of the 34 spatial datasets set out in Annexes I II and III to Directive 2007/2/EC . It is therefore no longer necessary to maintain the reporting requirements set out in Article 21 of Directive 2007/2/EC. 
+ (16) The Treaty of Lisbon modified the legal framework governing the powers conferred on the Commission by the legislator, introducing a distinction between powers delegated to the Commission to adopt non-legislative acts of general application to supplement or amend certain non-essential elements of a legislative act (delegated acts), and the powers conferred on the Commission to adopt acts to ensure uniform conditions for implementing legally binding Union acts (implementing acts). Where implementing powers are conferred on the Commission, those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council 
+ 42 
+ . 
+ (17) This Directive adopted before the entry into force of the Treaty of Lisbon confers powers on the Commission to adopt measures under the regulatory procedure with scrutiny established by Article 5a of Council Decision 1999/468/EC 
+ 43 
+ . 
+ (18) The need to align all existing legislation to the legal framework introduced by the Treaty of Lisbon is acknowledged in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making 
+ 44 
+ . 
+ (19) The empowerment for the Commission to amend Annexes I, II and III to Directive 2007/2/EC in order to adapt the description of the existing data themes referred to in those Annexes, which is set out in Article 4(7) of that Directive, provides for the use of the regulatory procedure with scrutiny. As that empowerment fulfils the criteria under Article 290 of the Treaty on the Functioning of the European Union (TFEU), it should be adapted to that provision. 
+ (20) In order to ensure the necessary adaptation of this Regulation, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission in respect of amending Annexes I to III to Directive 2007/2/EC by adapting the description of the existing data themes. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making. In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States’ experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts. 
+ (21) The empowerment for the Commission to adopt rules for the implementation of Article 5 of Directive 2007/27EC, which is set out in paragraph 4 of that Article, should be adapted to Article 291 TFEU. 
+ (22) Article 23 of Directive 2007/2/EC establishes the obligation for the Commission to evaluate th at Directive, and sets out the elements on the basis of which the evaluation should be based. Those elements should be modified i n view of the alignment with the monitoring and reporting obligations in Regulation No (EU) 2023/138 and the deletion of Article 21 of Directive 2007/2/EC. 
+ (23) Directive 2007/2/EC shoudl therefore be amended accordingly. 
+ (24) Commission Regulation s (EU) No 1089/2010 
+ 45 
+ , (EC) No 976/2009 
+ 46 
+ and (EU) No 268/2010 
+ 47 
+ should be repealed before the respective empowerments on the basis of which they were adopted are deleted. The application date for the repeal of those empowerments should therefore be deferred . 
+ (25) Since the objectives of this Directive cannot be sufficiently achieved by the Member States but can rather, by reason of the scale or effects of the action, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives. 
+ HAVE ADOPTED THIS DIRECTIVE: 
+ Article 1 
+ Amendments 
+ Directive 2007/2/EC is amended as follows: 
+ (1) i n Article 3, point s 5, 7 , 8 and 10 are deleted ; 
+ (2) Article 4 is amended as follows: 
+ (a) i n paragraph 1, point (c)(ii) is deleted ; (b) p aragraph 5 is deleted ; 
+ (b) p aragraph 7 is replaced by the following: 
+ ‘7. The Commission is empowered to adopt delegated acts in accordance with Article 22a in order to amend Annexes I, II and III by adapting the description of the existing data themes in the light of technological and economic developments.’ 
+ (3) Article 5 is amended as follows: 
+ (a) In p aragraph 2, point (a) is deleted. 
+ (b) paragraph 4 is replaced by the following: 
+ ‘4. The Commission is empowered to adopt implementing acts laying down rules for the application of this Article, taking account of relevant, existing international standards and user requirements, in particular with relation to validation metadata. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 22b(2)’; 
+ (4) Article s 6 to 7 are deleted . 
+ (5) Article 8 is deleted. 
+ (6) Article 9 to 12 are deleted. 
+ (7) Article 13 (1) is amended as follows : 
+ (a) the first subparagraph is replaced by the following: 
+ ‘Member States may limit public access to spatial data sets and services where such access could adversely affect international relations, public security or national defence. 
+ (b) in the second subparagraph, the introductory wording is replaced by the following: 
+ ‘Member States may limit public access to spatial data sets and services where such access could adversly affect any of the following:’; 
+ (8) Article s 14 to 1 5 are deleted. 
+ (9) Article 16 is deleted. 
+ (10) Article 17 is deleted. 
+ (11) Article 2 1 is deleted. 
+ (12) Article 22 is replaced by the following : 
+ ‘Article 22a 
+ 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article. 
+ 2. The power to adopt delegated acts referred to in Article 4(7) shall be conferred on the Commission for a period of five years from [Note to PO: please insert the date of entry into force of this Directive]. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration unless the European Parliament or the Council opposes such extension not later than three months before the end of each period. 
+ 3. The delegation of power referred to in Article 4(7) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force. 
+ 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making. 
+ 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council. 
+ 6. Delegated acts adopted pursuant to Article 4(7) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.’; 
+ ‘Article 22b 
+ 1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011. 
+ 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.’; 
+ (13) Article 23 is replaced by the following: 
+ ‘Article 23 
+ The Commission shall, no later than six years after [OP: please insert the date = 12 months following the date of entry into force of this Directive], carry out an evaluation of this Directive, and of its implementation, and make it publicly available. That evaluation shall be based, inter alia , on the following elements: 
+ (a) the experience gathered from the implementation of this Directive; 
+ (b) Member State high-value dataset metadata harvested by the European data portal (data.europa.eu) ; 
+ (c) relevant scientific, analytical data required on the basis of the Better Regulation guidelines, in particular by relying on efficient and effective information management processes.’ . 
+ Article 2 
+ Transposition 
+ 1. Member States shall adopt and publish, by [ OP : please insert the date 12 months after the date of entry into force of this Directive], the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those provisions. 
+ They shall apply those provisions from [OP: please insert the date 12 months and one day after the date of entry into force of this Directive]. 
+ When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 
+ 2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive. 
+ Article 3 
+ Entry into force and application 
+ 1. This Directive shall enter into force on the [twentieth] day following that of its publication in the Official Journal of the European Union . 
+ 2. Application of Article 1, points ( 5 ), ( 9 ), (1 0 ) and ( 1 1 ) shall apply from [ 1 March 2027 ]. 
+ Article 4 
+ Addressees 
+ This Directive is addressed to the Member States. 
+ Done at Brussels, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The President 
+ LEGISLATIVE FINANCIAL AND DIGITAL STATEMENT 
+ 1. FRAMEWORK OF THE PROPOSAL/INITIATIVE 3 
+ 1.1. Title of the proposal/initiative 3 
+ 1.2. Policy area(s) concerned 3 
+ 1.3. Objective(s) 3 
+ 1.3.1. General objective(s) 3 
+ 1.3.2. Specific objective(s) 3 
+ 1.3.3. Expected result(s) and impact 3 
+ 1.3.4. Indicators of performance 3 
+ 1.4. The proposal/initiative relates to: 4 
+ 1.5. Grounds for the proposal/initiative 4 
+ 1.5.1. Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative 4 
+ 1.5.2. Added value of EU involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this section 'added value of EU involvement' is the value resulting from EU action, that is additional to the value that would have been otherwise created by Member States alone. 4 
+ 1.5.3. Lessons learned from similar experiences in the past 4 
+ 1.5.4. Compatibility with the multiannual financial framework and possible synergies with other appropriate instruments 5 
+ 1.5.5. Assessment of the different available financing options, including scope for redeployment 5 
+ 1.6. Duration of the proposal/initiative and of its financial impact 6 
+ 1.7. Method(s) of budget implementation planned 6 
+ 2. MANAGEMENT MEASURES 8 
+ 2.1. Monitoring and reporting rules 8 
+ 2.2. Management and control system(s) 8 
+ 2.2.1. Justification of the budget implementation method(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed 8 
+ 2.2.2. Information concerning the risks identified and the internal control system(s) set up to mitigate them 8 
+ 2.2.3. Estimation and justification of the cost-effectiveness of the controls (ratio between the control costs and the value of the related funds managed), and assessment of the expected levels of risk of error (at payment & at closure) 8 
+ 2.3. Measures to prevent fraud and irregularities 9 
+ 3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE 10 
+ 3.1. Heading(s) of the multiannual financial framework and expenditure budget line(s) affected 10 
+ 3.2. Estimated financial impact of the proposal on appropriations 12 
+ 3.2.1. Summary of estimated impact on operational appropriations 12 
+ 3.2.1.1. Appropriations from voted budget 12 
+ 3.2.1.2. Appropriations from external assigned revenues 17 
+ 3.2.2. Estimated output funded from operational appropriations 22 
+ 3.2.3. Summary of estimated impact on administrative appropriations 24 
+ 3.2.3.1. Appropriations from voted budget 24 
+ 3.2.3.2. Appropriations from external assigned revenues 24 
+ 3.2.3.3. Total appropriations 24 
+ 3.2.4. Estimated requirements of human resources 25 
+ 3.2.4.1. Financed from voted budget 25 
+ 3.2.4.2. Financed from external assigned revenues 26 
+ 3.2.4.3. Total requirements of human resources 26 
+ 3.2.5. Overview of estimated impact on digital technology-related investments 28 
+ 3.2.6. Compatibility with the current multiannual financial framework 28 
+ 3.2.7. Third-party contributions 28 
+ 3.3. Estimated impact on revenue 29 
+ 4. Digital dimensions 29 
+ 4.1. Requirements of digital relevance 30 
+ 4.2. Data 30 
+ 4.3. Digital solutions 31 
+ 4.4. Interoperability assessment 31 
+ 4.5. Measures to support digital implementation 32 
+ 1. FRAMEWORK OF THE PROPOSAL/INITIATIVE 
+ 1.1. Title of the proposal/initiative 
+ Proposal for a Directive of the European Parliament and of the Council amending Directive 2007/2/EC as regards certain requirements for the establishment of the Infrastructure for Spatial Information in the EU. 
+ 1.2. Policy area(s) concerned 
+ Environment 
+ Communications Networks, Content and Technology 
+ European Green Deal 
+ 1.3. Objective(s) 
+ 1.3.1. General objective(s) 
+ The general objectives pursued by this legislative proposal are to simplify and modernise certain elements of Directive 2007/2/EC in order to alleviate burden on Member States as regards network services, interoperability and data sharing. By reducing the administrative burden and compliance costs associated with technical and reporting requirements, this proposal intends to ensure the proportionality of the framework, while maintaining the objective of making it easier for public authorities, businesses and citizens to access and re-use environmental geospatial data. 
+ 1.3.2. Specific objective(s) 
+ The specific objectives of the proposed amendments to Directive 2007/2/EC included in this proposal aim to achieve the following results: 
+ - Remove the obligation for the Commission to establish and operate an INSPIRE geo-portal. 
+ - Align the obligation for Member States to report to the Commission on the implementation of the Directive and use of their infrastructures for spatial information with the reporting obligation for high-value datasets set out in Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use. 
+ - Align with Regulation (EU) 2024/903 as regards interoperability. 
+ - Align the requirements for the establishment and maintenance of the Network Services with the obligations for APIs in Directive (EU) 2019/1024. 
+ 1.3.3. Expected result(s) and impact 
+ Specify the effects which the proposal/initiative should have on the beneficiaries/groups targeted. 
+ The proposed amendments will benefit a wide range of stakeholders, including public sector data providers, national and regional authorities, businesses, research institutions, SMEs, and civil society organisations. Public sector data providers will see reduced administrative burden and simplified compliance, while businesses and data users will enjoy improved access to high-value environmental data through open licensing and modern application programming interfaces (APIs). A 12-month transition transposition period is proposed to allow Member States to adapt their infrastructures and to maintain service continuity during the migration to the new framework. The combined EU cost savings from the proposed amendments are expected to be substantial. The annual baseline costs for INSPIRE implementation across EU-27 are estimated at EUR 4.967–48.926 million. The proposed measures are expected to reduce administrative burdens by 24–64% compared to the current baseline. The lower bound of 24% reflects the more conservative estimates derived from stakeholder feedback during the validation workshop, which captured an immediate and pragmatic assessment of the potential impact. In contrast, the upper bound of 64% corresponds to the cost reductions identified through the full alignment scenario with the Open Data Directive (ODD), based on a more systematic and explicit impact assessment. Taken together, these two assessments are considered to represent the realistic range of expected savings from the combined measures, particularly those linked to the annual update of harmonised datasets and the operation of publication and web services. This translates into annual savings of roughly EUR 6.36–16.96 million, based on the average annual cost component for updating and maintaining datasets and services under INSPIRE. On average across the projected range, this corresponds to approximately a 44% annual administrative cost reduction, or about EUR 12 million in yearly savings. These savings are achieved by removing the complex harmonisation requirements, leveraging mainstream web technologies, and consolidating infrastructure. 
+ 1.3.4. Indicators of performance 
+ Specify the indicators for monitoring progress and achievements. 
+ To monitor progress towards achieving the proposal’s specific objectives, the Commission will explore the possibility of organising exchanges with Member States in different formats as well as periodic surveys of INSPIRE data sets being made available via the EU’s open data portal (data.europa.eu) as well as of reporting by Member States on the basis of Article 5 of Commission Implementing Regulation (EU) 2023/138, depending on the availability of financial resources. 
+ 1.4. The proposal/initiative relates to: 
+  a new action 
+  a new action following a pilot project / preparatory action 
+ 48 
+  the extension of an existing action 
+  a merger or redirection of one or more actions towards another/a new action 
+ 1.5. Grounds for the proposal/initiative 
+ 1.5.1. Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative 
+ With this proposal, the Commission proposes a Directive amending a number of provisions of Directive 2007/2/EC. Once the co-legislators have reached an agreement on the contents of the proposal, the Member States will have a certain period of time to transpose the amendments introduced by this Directive into their national law. 
+ To monitor progress towards achieving the proposal’s specific objectives, the Commission will explore the possibility of organising exchanges with Member States in different formats as well as periodic surveys of INSPIRE data sets being made available on the open data portal as well as of reporting by Member States on the basis of Article 5 of Commission Implementing Regulation (EU) 2023/138, depending on the availability of financial resources. 
+ 1.5.2. Added value of EU involvement (it may result from different factors, e.g. coordination gains, legal certainty, great er effectiveness or complementarities). For the purposes of this section 'added value of EU involvement' is the value resulting from EU action, that is additional to the value that would have been otherwise created by Member States alone. 
+ Directive 2007/2/EC already regulates the establishment of an Infrastructure for Spatial Information in the Union (INSPIRE), with the objective to facilitate the sharing of environmental information among public sector organizations and improve public access to spatial data across Europe. Responding to the lessons learnt from the implementation of the INSPIRE Directive, the aim with the present proposal is to put in place a more simplified and prioritised approach for sharing of geospatial data to ease the burden on Member States, taking into account that technology and data management practices have evolved. 
+ The Open Data Directive promotes the reuse of public sector information by making data available in open and machine-readable formats which corresponds to the objectives of the INSPIRE Directive to enhance data accessibility and interoperability. The Implementing Regulation on High Value Datasets ensures that datasets with significant socioeconomic benefits are made available free of charge, which can help maximize the potential of environmental data. With the Implementing Regulation on High Value Datasets, first steps have already been taken to ensure that Member States make the most valuable datasets held by public sector bodies openly available. This includes datasets covering almost all the data themes set out in the INSPIRE Directive. 
+ Common rules on the sharing of environmental data enhance data accessibility and interoperability, with a view to establishing a more cohesive data landscape that promotes the once-only principle and ensures that environmental data plays a more integral role in the EU's digital single market, something that would be difficult to achieve by Member States acting alone. 
+ 1.5.3. Lessons learned from similar experiences in the past 
+ N/A 
+ 1.5.4. Compatibility with the multiannual financial framework and possible synergies with other appropriate instruments 
+ N/A 
+ 1.5.5. Assessment of the different available financing options, including scope for redeployment 
+ N/A 
+ 1.6. Duration of the proposal/initiative and of its financial impact 
+  limited duration 
+ –  
+ in effect from [DD/MM]YYYY to [DD/MM]YYYY 
+ –  
+ financial impact from YYYY to YYYY for commitment appropriations and from YYYY to YYYY for payment appropriations. 
+  unlimited duration 
+ – Implementation with a start-up period from YYYY to YYYY, 
+ – followed by full-scale operation. 
+ 1.7. Method(s) of budget implementation planned 
+ 49 
+  Direct management by the Commission 
+ –  by its departments, including by its staff in the Union delegations; 
+ –  
+ by the executive agencies 
+  Shared management with the Member States 
+  Indirect management by entrusting budget implementation tasks to: 
+ –  third countries or the bodies they have designated 
+ –  international organisations and their agencies (to be specified) 
+ –  the European Investment Bank and the European Investment Fund 
+ –  bodies referred to in Articles 70 and 71 of the Financial Regulation 
+ –  public law bodies 
+ –  bodies governed by private law with a public service mission to the extent that they are provided with adequate financial guarantees 
+ –  bodies governed by the private law of a Member State that are entrusted with the implementation of a public-private partnership and that are provided with adequate financial guarantees 
+ –  bodies or persons entrusted with the implementation of specific actions in the common foreign and security policy pursuant to Title V of the Treaty on European Union, and identified in the relevant basic act 
+ –   bodies established in a Member State, governed by the private law of a Member State or Union law and eligible to be entrusted, in accordance with sector-specific rules, with the implementation of Union funds or budgetary guarantees, to the extent that such bodies are controlled by public law bodies or by bodies governed by private law with a public service mission, and are provided with adequate financial guarantees in the form of joint and several liability by the controlling bodies or equivalent financial guarantees and which may be, for each action, limited to the maximum amount of the Union support. 
+ Comments 
+ N/A 
+ 2. MANAGEMENT MEASURES 
+ 2.1. Monitoring and reporting rules 
+ 2.2. Management and control system(s) 
+ 2.2.1. Justification of the budget implementation method(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed 
+ N/A 
+ 2.2.2. Information concerning the risks identified and the internal control system(s) set up to mitigate them 
+ N/A 
+ 2.2.3. Estimation and justification of the cost-effectiveness of the controls (ratio between the control costs and the value of the related funds managed), and assessment of the expected levels of risk of error (at payment & at closure) 
+ N/A 
+ 2.3. Measures to prevent fraud and irregularities 
+ N/A 
+ 3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE 
+ 3.1. Heading(s) of the multiannual financial framework and expenditure budget line(s) affected 
+ · Existing budget lines 
+ In order of multiannual financial framework headings and budget lines. 
+ Heading of multiannual financial framework 
+ Budget line 
+ Type of expenditure 
+ Contribution 
+ Number 
+ Diff./Non-diff. 
+ 50 
+ from EFTA countries 
+ 51 
+ from candidate countries and potential candidates 
+ 52 
+ From other third countries 
+ other assigned revenue 
+ N/A 
+ Diff./Non-diff. 
+ YES/NO 
+ YES/NO 
+ YES/NO 
+ YES/NO 
+ · New budget lines requested 
+ In order of multiannual financial framework headings and budget lines. 
+ Heading of multiannual financial framework 
+ Budget line 
+ Type of expenditure 
+ Contribution 
+ Number 
+ Diff./Non-diff. 
+ from EFTA countries 
+ from candidate countries and potential candidates 
+ from other third countries 
+ other assigned revenue 
+ N/A 
+ Diff./Non-diff. 
+ YES/NO 
+ YES/NO 
+ YES/NO 
+ YES/NO 
+ 3.2. Estimated financial impact of the proposal on appropriations 
+ 3.2.1. Summary of estimated impact on operational appropriations 
+ –  
+ The proposal/initiative does not require the use of operational appropriations 
+ –  
+ The proposal/initiative requires the use of operational appropriations, as explained below 
+ 3.2.1.1. Appropriations from voted budget 
+ EUR million (to three decimal places) 
+ Heading of multiannual financial framework 
+ Number 
+ DG: <…….> 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 53 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations 
+ for DG <…….> 
+ Commitments 
+ =1a+1b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ TOTAL operational appropriations 
+ Commitments 
+ (4) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ (5) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes 
+ (6) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations under HEADING <….> 
+ Commitments 
+ =4+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ of the multiannual financial framework 
+ Payments 
+ =5+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Heading of multiannual financial 
+ framework 
+ Number 
+ DG: <…….> 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 54 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations 
+ Commitments 
+ =1a+1b +3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ for DG <…….> 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ DG: <…….> 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 55 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations 
+ Commitments 
+ =1a+1b +3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ for DG <…….> 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ TOTAL operational appropriations 
+ Commitments 
+ (4) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ (5) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes 
+ (6) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations under HEADING <….> 
+ Commitments 
+ =4+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ of the multiannual financial framework 
+ Payments 
+ =5+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ • TOTAL operational appropriations (all operational headings) 
+ Commitments 
+ (4) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ (5) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ • TOTAL appropriations of an administrative nature financed from the envelope for specific programmes (all operational headings) 
+ (6) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations Under Heading 1 to 6 
+ Commitments 
+ =4+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ of the multiannual financial framework 
+(Reference amount) 
+ Payments 
+ =5+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Heading of multiannual financial framework 
+ 7 
+ ‘Administrative expenditure’ 
+ 56 
+ DG: <…….> 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+  Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+  Other administrative expenditure 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL DG <…….> 
+ Appropriations 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ DG: <…….> 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+  Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+  Other administrative expenditure 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL DG <…….> 
+ Appropriations 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations under HEADING 7 of the multiannual financial framework 
+ (Total commitments = Total payments) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ EUR million (to three decimal places) 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ TOTAL appropriations under HEADINGS 1 to 7 
+ Commitments 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ of the multiannual financial framework 
+ Payments 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 3.2.1.2. Appropriations from external assigned revenues 
+ EUR million (to three decimal places) 
+ Heading of multiannual financial framework 
+ Number 
+ DG: <…….> 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 57 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations 
+ for DG <…….> 
+ Commitments 
+ =1a+1b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ DG: <…….> 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 58 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations 
+ for DG <…….> 
+ Commitments 
+ =1a+1b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ TOTAL operational appropriations 
+ Commitments 
+ (4) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ (5) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes 
+ (6) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations under HEADING <….> 
+ Commitments 
+ =4+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ of the multiannual financial framework 
+ Payments 
+ =5+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Heading of multiannual financial framework 
+ Number 
+ DG: <…….> 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ Operational appropriations 
+ Budget line 
+ Commitments 
+ (1a) 
+ 0.000 
+ Payments 
+ (2a) 
+ 0.000 
+ Budget line 
+ Commitments 
+ (1b) 
+ 0.000 
+ Payments 
+ (2b) 
+ 0.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 59 
+ Budget line 
+ (3) 
+ 0.000 
+ TOTAL appropriations 
+ for DG <…….> 
+ Commitments 
+ =1a+1b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ =2a+2b+3 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ TOTAL operational appropriations 
+ Commitments 
+ (4) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ (5) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes 
+ (6) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations under HEADING <….> 
+ Commitments 
+ =4+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ of the multiannual financial framework 
+ Payments 
+ =5+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ • TOTAL operational appropriations (all operational headings) 
+ Commitments 
+ (4) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Payments 
+ (5) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ • TOTAL appropriations of an administrative nature financed from the envelope for specific programmes (all operational headings) 
+ (6) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations under Headings 1 to 6 
+ Commitments 
+ =4+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ of the multiannual financial framework (Reference amount) 
+ Payments 
+ =5+6 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Heading of multiannual financial framework 
+ 7 
+ ‘Administrative expenditure’ 
+ 60 
+ EUR million (to three decimal places) 
+ DG: <…….> 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+  Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+  Other administrative expenditure 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL DG <…….> 
+ Appropriations 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ DG: <…….> 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+  Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+  Other administrative expenditure 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL DG <…….> 
+ Appropriations 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL appropriations under HEADING 7 of the multiannual financial framework 
+ (Total commitments = Total payments) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ EUR million (to three decimal places) 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021-2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ TOTAL appropriations under HEADINGS 1 to 7 
+ Commitments 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ of the multiannual financial framework 
+ Payments 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 3.2.2. Estimated output funded from operational appropriations (not to be completed for decentralised agencies) 
+ Commitment appropriations in EUR million (to three decimal places) 
+ Indicate objectives and outputs 
+  
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ Enter as many years as necessary to show the duration of the impact (see Section1.6) 
+ TOTAL 
+ OUTPUTS 
+ Type 
+ 61 
+ Average cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ Total No 
+ Total cost 
+ SPECIFIC OBJECTIVE No 1 
+ 62 
+ … 
+ - Output 
+ - Output 
+ - Output 
+ Subtotal for specific objective No 1 
+ SPECIFIC OBJECTIVE No 2 ... 
+ - Output 
+ Subtotal for specific objective No 2 
+ TOTALS 
+ 3.2.3. Summary of estimated impact on administrative appropriations 
+ –  
+ The proposal/initiative does not require the use of appropriations of an administrative nature 
+ –  
+ The proposal/initiative requires the use of appropriations of an administrative nature, as explained below 
+ 3.2.3.1. Appropriations from voted budget 
+ VOTED APPROPRIATIONS 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL 2021 - 2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ HEADING 7 
+ Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Other administrative expenditure 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Outside HEADING 7 
+ Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Other expenditure of an administrative nature 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal outside HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 3.2.3.2. Appropriations from external assigned revenues 
+ EXTERNAL ASSIGNED REVENUES 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL 2021 - 2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ HEADING 7 
+ Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Other administrative expenditure 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Outside HEADING 7 
+ Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Other expenditure of an administrative nature 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal outside HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 3.2.3.3. Total appropriations 
+ TOTAL 
+VOTED APPROPRIATIONS + EXTERNAL ASSIGNED REVENUES 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL 2021 - 2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ HEADING 7 
+ Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Other administrative expenditure 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Outside HEADING 7 
+ Human resources 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Other expenditure of an administrative nature 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal outside HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ The appropriations required for human resources and other expenditure of an administrative nature will be met by appropriations from the DG that are already assigned to management of the action and/or have been redeployed within the DG, together, if necessary, with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints. 
+ 3.2.4. Estimated requirements of human resources 
+ –  
+ The proposal/initiative does not require the use of human resources 
+ –  
+ The proposal/initiative requires the use of human resources, as explained below 
+ 3.2.4.1. Financed from voted budget 
+ Estimate to be expressed in full-time equivalent units (FTEs) 
+ 63 
+ VOTED APPROPRIATIONS 
+ Year 
+ Year 
+ Year 
+ Year 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+  Establishment plan posts (officials and temporary staff) 
+ 20 01 02 01 (Headquarters and Commission’s Representation Offices) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 01 02 03 (EU Delegations) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 01 (Indirect research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 11 (Direct research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) 
+ 0 
+ 0 
+ 0 
+ 0 
+ • External staff (inFTEs) 
+ 20 02 01 (AC, END from the ‘global envelope’) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 02 03 (AC, AL, END and JPD in the EU Delegations) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Admin. Support line 
+[XX.01.YY.YY] 
+ - at Headquarters 
+ 0 
+ 0 
+ 0 
+ 0 
+ - in EU Delegations 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 02 (AC, END - Indirect research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 12 (AC, END - Direct research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) - Heading 7 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) - Outside Heading 7 
+ 0 
+ 0 
+ 0 
+ 0 
+ TOTAL 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3.2.4.2. Financed from external assigned revenues 
+ EXTERNAL ASSIGNED REVENUES 
+ Year 
+ Year 
+ Year 
+ Year 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+  Establishment plan posts (officials and temporary staff) 
+ 20 01 02 01 (Headquarters and Commission’s Representation Offices) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 01 02 03 (EU Delegations) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 01 (Indirect research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 11 (Direct research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) 
+ 0 
+ 0 
+ 0 
+ 0 
+ • External staff (in full time equivalent units) 
+ 20 02 01 (AC, END from the ‘global envelope’) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 02 03 (AC, AL, END and JPD in the EU Delegations) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Admin. Support line 
+[XX.01.YY.YY] 
+ - at Headquarters 
+ 0 
+ 0 
+ 0 
+ 0 
+ - in EU Delegations 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 02 (AC, END - Indirect research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 12 (AC, END - Direct research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) - Heading 7 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) - Outside Heading 7 
+ 0 
+ 0 
+ 0 
+ 0 
+ TOTAL 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3.2.4.3. Total requirements of human resources 
+ TOTAL VOTED APPROPRIATIONS + EXTERNAL ASSIGNED REVENUES 
+ Year 
+ Year 
+ Year 
+ Year 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+  Establishment plan posts (officials and temporary staff) 
+ 20 01 02 01 (Headquarters and Commission’s Representation Offices) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 01 02 03 (EU Delegations) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 01 (Indirect research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 11 (Direct research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) 
+ 0 
+ 0 
+ 0 
+ 0 
+ • External staff (in full time equivalent units) 
+ 20 02 01 (AC, END from the ‘global envelope’) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 02 03 (AC, AL, END and JPD in the EU Delegations) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Admin. Support line 
+[XX.01.YY.YY] 
+ - at Headquarters 
+ 0 
+ 0 
+ 0 
+ 0 
+ - in EU Delegations 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 02 (AC, END - Indirect research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 01 01 01 12 (AC, END - Direct research) 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) - Heading 7 
+ 0 
+ 0 
+ 0 
+ 0 
+ Other budget lines (specify) - Outside Heading 7 
+ 0 
+ 0 
+ 0 
+ 0 
+ TOTAL 
+ 0 
+ 0 
+ 0 
+ 0 
+ The staff required to implement the proposal (in FTEs): N/A 
+ To be covered by current staff available in the Commission services 
+ Exceptional additional staff* 
+ To be financed under Heading 7 or Research 
+ To be financed from BA line 
+ To be financed from fees 
+ Establishment plan posts 
+ N/A 
+ External staff (CA, SNEs, INT) 
+ Description of tasks to be carried out by: 
+ Officials and temporary staff 
+ External staff 
+ 3.2.5. Overview of estimated impact on d igital technology- related investments 
+ Compulsory: the best estimate of the digital technology-related investments entailed by the proposal/initiative should be included in the table below. 
+ Exceptionally, when required for the implementation of the proposal/initiative, the appropriations under Heading 7 should be presented in the designated line. 
+ The appropriations under Headings 1-6 should be reflected as “Policy IT expenditure on operational programmes”. This expenditure refers to the operational budget to be used to re-use/ buy/ develop IT platforms/ tools directly linked to the implementation of the initiative and their associated investments (e.g. licences, studies, data storage etc). The information provided in this table should be consistent with details presented under Section 4 “Digital dimensions”. 
+ TOTAL Digital and IT appropriations 
+ Year 
+ Year 
+ Year 
+ Year 
+ TOTAL MFF 2021 - 2027 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ HEADING 7 
+ IT expenditure (corporate) 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Outside HEADING 7 
+ Policy IT expenditure on operational programmes 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ Subtotal outside HEADING 7 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ TOTAL 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 0.000 
+ 3.2.6. Compatibility with the current multiannual financial framework 
+ The proposal/initiative: 
+ –  
+ can be fully financed through redeployment within the relevant heading of the multiannual financial framework (MFF) 
+ –  
+ requires use of the unallocated margin under the relevant heading of the MFF and/or use of the special instruments as defined in the MFF Regulation 
+ –  
+ requires a revision of the MFF 
+ 3.2.7. Third-party contributions 
+ The proposal/initiative: 
+ –  
+ does not provide for co-financing by third parties 
+ –  
+ provides for the co-financing by third parties estimated below: 
+ Appropriations in EUR million (to three decimal places) 
+ Year 
+ 2024 
+ Year 
+ 2025 
+ Year 
+ 2026 
+ Year 
+ 2027 
+ Total 
+ Specify the co-financing body 
+ TOTAL appropriations co-financed 
+ 3.3. 
+ Estimated impact on revenue 
+ –  
+ The proposal/initiative has no financial impact on revenue. 
+ –  
+ The proposal/initiative has the following financial impact: 
+ –  
+ on own resources 
+ –  
+ on other revenue 
+ –  
+ please indicate, if the revenue is assigned to expenditure lines 
+ EUR million (to three decimal places) 
+ Budget revenue line: 
+ Appropriations available for the current financial year 
+ Impact of the proposal/initiative 
+ 64 
+ Year 2024 
+ Year 2025 
+ Year 2026 
+ Year 2027 
+ Article …………. 
+ For assigned revenue, specify the budget expenditure line(s) affected. 
+ N/A 
+ Other remarks (e.g. method/formula used for calculating the impact on revenue or any other information). 
+ N/A 
+ 4. Digital dimensions 
+ 4.1. Requirements of digital relevance 
+ If the policy initiative is assessed as having no requirement of digital relevance, provide an explanation as to why digital means are not used 
+ Otherwise, please list the requirements of digital relevance in the table below: 
+ Reference to the requirement 
+ Requirement description 
+ Actor affected or concerned by the requirement 
+ High-level Processes 
+ Category 
+ Article 1 
+ Establishment of a European infrastructure for spatial information (INSPIRE) building upon infrastructures established and operated by the Member States 
+ Member States 
+ Digital infrastructure governance 
+ Digital public service 
+ Article 5(1) 
+ Metadata must be created and kept up to date for datasets and services 
+ Member States 
+ Metadata management 
+ Data 
+ Article 5(2) 
+ Description of information to be included in metadata for spatial datasets and services 
+ Member States 
+ Metadata management 
+ Data 
+ Article 5(3) 
+ Metadata describing spatial data sets and spatial data services should be reusable, discoverable and catalogued 
+ Member States 
+ Metadata management 
+ Data; digital solution; digital public service 
+ 4.2. Data 
+ High-level description of the data in scope and any related standards/specifications 
+ Type of data 
+ Reference to the requirement(s) 
+ Standard and/or specification (if applicable) 
+ Spatial data (elevation models, protected sites etc.) 
+ Article 4 
+ Annex I, II and III to Directive 2007/2/EC; Categories “1. GEOSPATIAL”,”2. EARTH OBSERVATION AND ENVIRONMENT” and “6. MOBILITY” of the Annex to Commission Implementing Regulation (EU) 2023/138 on high-value datasets. 
+ Metadata for spatial datasets and services 
+ Article 5 
+ INSPIRE Metadata Regulation (EC) No 1205/2008; ISO 19115; DCAT-AP; 
+ Alignment with the European Data Strategy 
+ Explain how the requirement(s) are aligned with the European Data Strategy 
+ The INSPIRE Directive is part of the EU’s digital and environmental policy landscape and aligns closely with the objectives of the European Data Strategy and the Data Union Strategy. By establishing a common framework for the sharing, and reuse of spatial data across Member States, INSPIRE contributes to the development of a federated European data infrastructure. It supports the creation of the Common European Green Deal Data Space by making spatial data accessible for public authorities, businesses, and citizens. 
+ Alignment with the once-only principle 
+ Explain how the once-only principle has been considered how the possibility to reuse existing data explored 
+ The INSPIRE Directive applies the once-only principle by ensuring that spatial data is collected once and reused many times, particularly within and between public authorities. According to Article 4(4), the Directive does not impose any requirement for the collection of new data. Instead, it focuses on the identification and documentation of existing spatial data held by public bodies. The Directive encourages Member States to share spatial data through coordinated infrastructures and to provide access via API’s under the rules set out by the Open Data Directive, ensuring that once data is created or collected, it can be reused for multiple purposes, including policymaking, regulatory reporting, and public access. 
+ Explain how newly created data is findable, accessible, interoperable and reusable, and meets high-quality standards 
+ The INSPIRE Directive incorporates robust mechanisms to ensure that spatial data adheres to the FAIR principles. Data is made findable through mandatory metadata requirements set out in Article 5, which require public authorities to describe datasets using standardised metadata elements, enabling users to search by themes, location, quality, or responsible authority. Member States are to make spatial data accessible and interoperable following the rules set forward by the Open Data Directive and its Implementing Regulation on high-value datasets. Finally, reusability is supported by ensuring data is shared under clear conditions that allow broad reuse. 
+ Data flows 
+ Type of data 
+ Reference(s) to the requirement(s) 
+ Actor who provides the data 
+ Actor who receives the data 
+ Trigger for the data exchange 
+ Frequency (if applicable) 
+ Metadata for spatial datasets and services 
+ Article 5 
+ Member States 
+ Public access with full reuse 
+ Mandated by directive; periodic updates 
+ Ongoing and continuous. 
+ 4.3 Digital Solutions 
+ For each digital solution, please provide the reference to the requirement(s) of digital relevance concerning it, a description of the digital solution's mandated functionality, the body that will be responsible for it, and other relevant aspects such as reusability and accessibility. Finally, explain whether the digital solution intends to make use of AI technologies. 
+ Digital solution 
+ Reference(s) to the requirement(s) 
+ Main mandated functionalities 
+ Responsible body 
+ How is accessibility catered for? 
+ How is reusability considered? 
+ Use of AI technologies (if applicable) 
+ National Spatial Data Infrastructures 
+ Articles 1(2) 
+ Host and provide access to metadata, spatial datasets and supporting information for interoperability 
+ Member States 
+ Each MS ensures the accessibility of metadata, spatial data and spatial data 
+ Reuse of common metadata schemas, license conditions and data access interfaces (API’s) 
+ No 
+ For each digital solution, explain how the digital solution complies with the requirements and obligations of the EU cybersecurity framework, and other applicable digital policies and legislative enactments (such as eIDAS, Single Digital Gateway, etc.). 
+ National Spatial Data Infrastructures 
+ Digital and/or sectorial policy (when these are applicable) 
+ Explanation on how it aligns 
+ AI Act 
+ Not applicable 
+ EU Cybersecurity framework 
+ Handled by EC standard rules. 
+ eIDAS 
+ Not referenced at this point. 
+ Single Digital Gateway and IMI 
+ Not referenced at this point. 
+ Others 
+ - 
+ 4.4 
+ Interoperability assessment 
+ Describe the digital public service(s) affected by the requirements 
+ Digital public service or category of digital public services 
+ Description 
+ Reference(s) to the requirement(s) 
+ Interoperable Europe Solution(s) 
+ (NOT APPLICABLE) 
+ Other interoperability solution(s) 
+ European infrastructure for spatial information 
+ European infrastructure for spatial information building upon national infrastructures for spatial information created by the Member States and designed to ensure that spatial data are stored, made available and maintained at the most appropriate level and under conditions which do not unduly restrict their extensive use. 
+ Art. 1 
+ // 
+ INSPIRE Metadata Regulation (EC) No 1205/2008; ISO 19115 metadata standard for geographic information; DCAT-AP metadata standard; OGC geospatial standards 
+ Assess the impact of the requirement(s) on cross-border interoperability 
+ European infrastructure for spatial information 
+ Assessment 
+ Measures 
+ Potential remaining barriers 
+ Assess the alignment with existing digital and sectorial policies 
+ Please list the applicable digital and sectorial policies identified 
+ - European Data Strategy: INSPIRE supports structured and secure access to public data through interoperable services. 
+- Open Data Directive (2019/1024): INSPIRE spatial datasets fall within the directive’s scope and many qualify as high-value datasets (HVDs). 
+- H igh Value Datasets Implementing Regulation (EU) 2023/138): INSPIRE Annex I–III data categories overlap largely with HVD themes, especially under the categories of geospatial, earth observation and environmental, and mobility. 
+- Interoperable Europe Act (2024/903): INSPIRE enables cross-border data sharing. 
+ Fragmentation in how Member States classify and license spatial data. 
+Full alignment of INSPIRE datasets with High-Value Datasets . 
+ Assess the organisational measures for a smooth cross-border digital public services delivery 
+ Please list the governance measures foreseen 
+ Coordination structures established by each Member State (Article 18) ensure national alignment and support multi-level governance. 
+A single national contact point is designated (Article 19(2)) to liaise with the European Commission. 
+The European Commission coordinates at EU level (Article 19(1)). 
+ Varying maturity of national coordination structures. 
+Coordination burden on smaller public authorities. 
+Lack of enforcement mechanisms for cross-border data integration consistency. 
+ Assess the measures taken to ensure a shared understanding of the data 
+ Please list such measures 
+ Mandatory creation of metadata for all datasets and services (Article 5). 
+Standardised metadata elements (ISO 19115 / INSPIRE Metadata Regulation (EC) No 1205/2008). 
+Harmonised spatial data themes set out in Annexes I–III. 
+ Metadata quality varies across Member States. 
+Limited multilingual support for metadata. 
+Inconsistent updates to metadata records, leading to discoverability issues. 
+ Assess the use of commonly agreed open technical specifications and standards 
+ Please list such measures 
+ Metadata conform to INSPIRE rules aligned with ISO 19115. 
+Reference to European and international standards (Article 20). 
+Use of DCAT-AP for metadata portals is supported through a GeoDCAT mapping. 
+ Ongoing maintenance of alignment with evolving EU and global technical standards required. 
+ 4.5 
+ Measures to support digital implementation 
+ Description of the measure 
+ Reference(s) to the requirement(s) 
+ Commission role 
+ (if applicable) 
+ Actors to be involved 
+ (if applicable) 
+ Expected timeline 
+ (if applicable) 
+ Metadata Implementing Regulation 
+ (INSPIRE Metadata Regulation (EC) No 1205/2008) 
+ Article 5(4) 
+ Legal maintenance of the Act. Monitor implementation. 
+ Commission, Member States 
+ In force 
+ (1) 
+ COM(2025) 47 final of 11 February 2025, A simpler and faster Europe: Communication on implementation and simplification. 
+ (2) 
+ Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) 
+ ( OJ L 108, 25.4.2007, p. 1–14 ). 
+ (3) 
+ Commission Staff Working Do cum ent Evaluation of Directive 2007/2/EC establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) ( SWD /2022/ 0 195 final ). 
+ (4) 
+ C ommunication from the C ommission to the E uropean P arliament, the C ouncil, the E uropean E conomic and S ocial C ommittee and the C ommittee of the R egions A European strategy for data ( COM/2020/66 final ). 
+ (5) 
+ Communication from the Commission to the European Parliament and the Council Data Union Strategy Unlocking Data for AI (COM/2025/835 final ). 
+ (6) 
+ Directive (EU) 2019/1024 of the European Parliament and of the Council of 20 June 2019 on open data and the re-use of public sector information ( OJ L 172, 26.6.2019, p. 56–83 ). 
+ (7) 
+ Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use ( OJ L 19, 20.1.2023, p. 43–75 ). 
+ (8) 
+ Regulation (EU) 2022/868 of the European Parliament and of the Council of 30 May 2022 on European data governance and amending Regulation (EU) 2018/1724 ( OJ L 152, 3.6.2022, p. 1–44 ). 
+ (9) 
+ Regulation (EU) 2024/903 of the European Parliament and of the Council of 13 March 2024 laying down measures for a high level of public sector interoperability across the Union (Interoperable Europe Act) ( OJ L, 2024/903, 22.3.2024 ). 
+ (10) 
+ Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus), COM/2025/837 final. 
+ (11) 
+ Regulation (EU) 2019/1010 of the European Parliament and of the Council of 5 June 2019 on the alignment of reporting obligations in the field of legislation related to the environment, and amending Regulations (EC) No 166/2006 and (EU) No 995/2010 of the European Parliament and of the Council, Directives 2002/49/EC, 2004/35/EC, 2007/2/EC, 2009/147/EC and 2010/63/EU of the European Parliament and of the Council, Council Regulations (EC) No 338/97 and (EC) No 2173/2005, and Council Directive 86/278/EEC (Text with EEA relevance), ELI: 
+ http://data.europa.eu/eli/reg/2019/1010/oj 
+ . 
+ (12) 
+ Regulation (EU) 2018/841 of the European Parliament and of the Council of 30 May 2018 on the inclusion of greenhouse gas emissions and removals from land use, land use change and forestry in the 2030 climate and energy framework, and amending Regulation (EU) No 525/2013 and Decision No 529/2013/EU (Text with EEA relevance), (OJ L 156, 19.6.2018, p. 1, ELI: 
+ http://data.europa.eu/eli/reg/2018/841/oj 
+ ). 
+ (13) 
+ R egulation (EU) 2021/2116 of the European Parliament and of the Council of 2 December 2021 on the financing, management and monitoring of the common agricultural policy and repealing Regulation (EU) No 1306/2013, (OJ L 435, 6.12.2021, p. 187, ELI: 
+ http://data.europa.eu/eli/reg/2021/2116/oj 
+ ). 
+ (14) 
+ Regulation (EU) 2018/1091 of the European Parliament and of the Council of 18 July 2018 on integrated farm statistics and repealing Regulations (EC) No 1166/2008 and (EU) No 1337/2011 (OJ L 200, 7.8.2018, p. 1–29). 
+ (15) 
+ Regulation (EU) 2021/696 of the European Parliament and of the Council of 28 April 2021 establishing the Union Space Programme and the European Union Agency for the Space Programme and repealing Regulations (EU) No 912/2010, (EU) No 1285/2013 and (EU) No 377/2014 and Decision No 541/2014/EU, (OJ L 170, 12.5.2021, p. 69, ELI: 
+ http://data.europa.eu/eli/reg/2021/696/oj 
+ ). 
+ (16) 
+ Directive (EU) 2024/2881 of the European Parliament and of the Council of 23 October 2024 on ambient air quality and cleaner air for Europe (OJ L, 2024/2881, 20.11.2024). 
+ (17) 
+ Regulation (EU) 2024/1991 of the European Parliament and of the Council of 24 June 2024 on nature restoration and amending Regulation (EU) 2022/869 (OJ L, 2024/1991, 29.7.2024) . 
+ (18) 
+ Y-MIM Standard for Global Smart City Interoperability | Interoperable Europe Portal 
+ (19) 
+ Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information and repealing Council Directive 90/313/EEC (OJ L 41, 14.2.2003, p. 26–32) . 
+ (20) 
+ Commission Regulation (EC) No 976/2009 of 19 October 2009 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards the Network Services (OJ L 274, 20.10.2009, p. 9–18). 
+ (21) 
+ Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services (OJ L 323, 8.12.2010, p. 11–102). 
+ (22) 
+ Commission Regulation (EU) No 268/2010 of 29 March 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards the access to spatial data sets and services of the Member States by Community institutions and bodies under harmonised conditions (OJ L 83, 30/03/2010, p. 8–9). 
+ (23) 
+ Commission Implementing Decision (EU) 2019/1372 of 19 August 2019 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards monitoring and reporting : ELI: 
+ http://data.europa.eu/eli/dec_impl/2019/1372/oj 
+ (24) 
+ SWD(2022)195 
+ (25) 
+ https://publications.jrc.ec.europa.eu/repository/handle/JRC126319 
+ (26) 
+ https://publications.jrc.ec.europa.eu/repository/handle/JRC139026 
+ (27) 
+ Staff Working Document on the REFIT evaluation of the INSPIRE Directive (SWD(2016)273) 
+ (28) 
+ See supra footnote 2. 
+ (29) 
+ OJ C , , p. . 
+ (30) 
+ OJ C , , p. . 
+ (31) 
+ Europe’s Choice, Political Guidelines for the next European Commission 2024−2029, Ursula von der Leyen 
+ (32) 
+ Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee and the Committee of the Regions of 11 December 2019, ‘ The European Green Deal ’, COM/2019/640 final. 
+ (33) 
+ Draghi, M. (2024) The future of European competitiveness. Available at: The Draghi report on EU competitiveness 
+ (34) 
+ COM(2025) 47 final of 11 February 2025, A simpler and faster Europe: Communication on implementation and simplification. 
+ (35) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions of 11 February 2025, ‘A simpler and faster Europe: Communication on implementation and simplification’ ( COM/2025/47 final ) . 
+ (36) 
+ Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) 
+ , OJ L 108, 25/04/2007, p. 1 . 
+ (37) 
+ Communication from the Commission to the European Parliament, the European Council, the Council, the European Central Bank, the European Economic and Social Committee and the Committee of the Regions of 8 March 2018 , ‘ Action Plan: Financing Sustainable Growth ’, COM/2018/097 final. 
+ (38) 
+ Directive (EU) 2019/1024 of the European Parliament and of the Council of 20 June 2019 on open data and the re-use of public sector information (OJ L 172, 26.6.2019, p. 56, ELI: http://data.europa.eu/eli/dir/2019/1024/oj). 
+ (39) 
+ Decision from April 2021? 
+ (40) 
+ Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use (Text with EEA relevance), (OJ L 19, 20.1.2023, p. 43, ELI: 
+ http://data.europa.eu/eli/reg_impl/2023/138/oj 
+ ). 
+ (41) 
+ Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13). 
+ (42) 
+ Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission (OJ L 184, 17.7.1999, p. 23, ELI: 
+ http://data.europa.eu/eli/dec/1999/468/oj 
+ . 
+ (43) 
+ OJ L 123, 12.5.2016, p. 1, ELI: 
+ http://data.europa.eu/eli/agree_interinstit/2016/512/oj 
+ . 
+ (44) 
+ Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services ( OJ L 323, 8.12.2010, pp. 11 ), ELI: 
+ http://data.europa.eu/eli/reg/2010/1089/oj 
+ (45) 
+ Commission Regulation (EC) No 976/2009 of 19 October 2009 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards the Network Services (OJ L 274, 20.10.2009, p. 9), ELI: 
+ http://data.europa.eu/eli/reg/2009/976/oj 
+ . 
+ (46) 
+ Commission Regulation (EU) No 268/2010 of 29 March 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards the access to spatial data sets and services of the Member States by Community institutions and bodies under harmonised conditions (OJ L 83, 30.3.2010, p. 8) , ELI: 
+ http://data.europa.eu/eli/reg/2010/268/oj 
+ . 
+ (47) 
+ As referred to in Article 58(2), point (a) or (b) of the Financial Regulation. 
+ (48) 
+ Details of budget implementation methods and references to the Financial Regulation may be found on the BUDGpedia site: 
+ https://myintracomm.ec.europa.eu/corp/budget/financial-rules/budget-implementation/Pages/implementation-methods.aspx 
+ . 
+ (49) 
+ Diff. = Differentiated appropriations / Non-diff. = Non-differentiated appropriations. 
+ (50) 
+ EFTA: European Free Trade Association. 
+ (51) 
+ Candidate countries and, where applicable, potential candidates from the Western Balkans. 
+ (52) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (53) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (54) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (55) 
+ The necessary appropriations should be determined using the annual average cost figures available on the appropriate BUDGpedia webpage . 
+ (56) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (57) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (58) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (59) 
+ The necessary appropriations should be determined using the annual average cost figures available on the appropriate BUDGpedia webpage. 
+ (60) 
+ Outputs are products and services to be supplied (e.g. number of student exchanges financed, number of km of roads built, etc.). 
+ (61) 
+ As described in Section 1.3.2. ‘Specific objective(s)’ 
+ (62) 
+ Please specify below the table how many FTEs within the number indicated are already assigned to the management of the action and/or can be redeployed within your DG and what are your net needs. 
+ (63) 
+ As regards traditional own resources (customs duties, sugar levies), the amounts indicated must be net amounts, i.e. gross amounts after deduction of 20 % for collection costs.

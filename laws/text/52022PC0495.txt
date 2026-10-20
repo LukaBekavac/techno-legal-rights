@@ -1,0 +1,662 @@
+### Product Liability Directive | CELEX 52022PC0495 | text version 52022PC0495 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 28.9.2022
+ COM(2022) 495 final
+ 2022/0302(COD)
+ Proposal for a
+ DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ on liability for defective products
+ (Text with EEA relevance)
+ {SEC(2022) 343 final} - {SWD(2022) 315 final} - {SWD(2022) 316 final} - {SWD(2022) 317 final}
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ 1.1. Reasons for and objectives of the proposal 
+ This explanatory memorandum accompanies the proposal for a directive on liability for defective products repealing Directive 85/374/EEC 
+ 1 
+ (Product Liability Directive or PLD). 
+ The PLD’s objective is to provide an EU-level system for compensating people who suffer physical injury or damage to property due to defective products. Since the adoption of the PLD in 1985, there have been significant changes in the way products are produced, distributed and operated, including the modernisation of product safety and market surveillance rules. The green and digital transitions are underway and bring with them enormous benefits for Europe’s society and economy, be it by extending the life of materials and products, e.g. through remanufacturing, or by increasing productivity and convenience thanks to smart products and artificial intelligence. 
+ The evaluation of the PLD 
+ 2 
+ in 2018 , carried out as part of the Commission’s regulatory fitness and performance (REFIT) programme, concluded that the PLD was , on the whole , an effective and relevant instrument . However, the Directive also had several shortcomings: 
+ · it was legally unclear how to apply the PLD’s decades-old definitions and concepts to products in the modern digital economy and circular economy (e.g. software and products that need software or digital services to function, such as smart devices and autonomous vehicles); 
+ · the burden of proof (i.e. the need, in order to obtain compensation, to prove the product was defective and that this caused the damage suffered) was challenging for injured persons in complex cases (e.g. those involving pharmaceuticals, smart products or AI-enabled products); 
+ · the rules excessively limited the possibility of making compensation claims (e.g. property damage worth less than EUR 500 is simply not recoverable under the PLD). 
+ The Directive’s shortcomings in the area of emerging digital technologies were further analysed in the White Paper on Artificial Intelligence (AI) 
+ 3 
+ , the accompanying r eport on l iability for AI, the Internet of Things and r obotics 
+ 4 
+ and the report of the Expert Group on Liability and New Technologies 
+ 5 
+ . The European Parliament has also highlighted the need for liability rules that are adapted to the digital world, to ensure a high level of effective consumer protection and a level playing field with legal certainty for all businesses, while avoiding high costs and risks for small and medium-sized businesses ( SMEs ) and start-ups 
+ 6 
+ . 
+ The revision of the PLD seeks to ensure the functioning of the internal market, free movement of goods, undistorted competition between market operators, and a high level of protection of consumers’ health and property. In particular, this proposal aims to: 
+ · ensure liability rules reflect the nature and risks of products in the digital age and circular economy; 
+ · ensure there is always a business based in the EU that can be held liable for defective products bought directly from manufacturers outside the EU , in light of the increasing trend for consumers to purchase products directly from non-EU countries without there being a manufacturer or importer based in the EU ; 
+ · ease the burden of proof in complex cases and ease restrictions on making claims, while ensuring a fair balance between the legitimate interests of manufacturers, injured persons and consumers in general; and 
+ · ensure legal certainty by better align ing the PLD with the new legislative framework created by Decision 768/2008/EC 
+ 7 
+ and with product safety rules , and by codif ying PLD-related case law. 
+ 1.2. Consistency with existing provisions in the policy area 
+ National liability regimes exist in each Member State that allow compensation claims in more situations than under the PLD: claims can be made against a broader range of liable persons for a broader range of damages . These claims cover services as well as products, and often allow more time to make a claim . However, injured persons have to prove the wrongdoer’s fault 
+ 8 
+ , which is not required under the PLD. The PLD , as a no-fault (strict) liability regime , does not affect these rights, so the PLD is consistent with the broader national regimes. In addition, several complementary instruments concerning liability exist at EU level and are described below. 
+ · The Sale of Goods Act 
+ 9 
+ and the Digital Content and Services Directive 
+ 10 
+ give consumers the right to remedy, i.e. replacement, repair or reimbursement, when goods, including digital content or a digital service, are not in conformity with the contract or do not work properly. Those laws concern contractual liability , whereas the PLD is about extra-contractual liability of producers for injuries/damage caused by a lack of safety. 
+ · The General Data Protection Regulation (GDPR) 
+ 11 
+ concerns liability of data processors and controllers for material or non-material damage caused by data processing that infringes the GDPR, whereas the PLD proposal provides compensation only for material losses resulting from death, personal injury, damage to property and loss or corruption of data. 
+ · The Environmental Liability Directive 
+ 12 
+ sets out a framework to prevent and remedy environmental damage. It deals with ecological damage such as damage to protected species and natural habitats , as distinct from damage to privately owned property, which is covered under the PLD. 
+ EU product safety legislation aims to ensure that only safe products are placed on the internal market. If they are covered by sectoral legislation (e.g. on machinery, pharmaceutical products, toys, radio equipment), they have to comply with essential health and safety requirements set out therein. Otherwise they fall under the General Product Safety Directive 
+ 13 
+ and are required to be safe 
+ 14 
+ . Safety rules are enforced by market surveillance rules 
+ 15 
+ , which ensure consumer protection by stopping non-compliant products circulating or by bringing them into compliance. Product safety legislation does not contain specific provisions on liability of businesses , but refer s to the fact that the PLD applies when a defective product causes damage. Product safety and product liability are therefore complementary mechanisms for achieving a functioning single market for goods that ensures high levels of safety. A number of legislative proposals are currently under negotiation in the area of product safety: 
+ · The draft Artificial Intelligence Act 
+ 16 
+ aims to ensure that high-risk AI systems comply with safety and fundamental rights requirements (e.g. data governance, transparency, human oversight). The PLD proposal will ensure that when AI systems are defective and cause physical harm, property damage or data loss it is possible to seek compensation from the AI-system provider or from any manufacturer that integrates an AI system into another product. 
+ · The proposed Machinery Regulation 
+ 17 
+ and the proposed General Product Safety Regulation 
+ 18 
+ (GPSR) , which revise the existing Machinery Directive and General Product Safety Directive, aim, in their respective fields, to address the risks of digitalisation in the area of product safety, but not liability. The GPSR proposal imposes additional obligations on online intermediary service providers to tackle the online sale of unsafe products. The recently adopted Digital Services Act 
+ 19 
+ sets out horizontal rules for online intermediary service providers , including online marketplaces. When online platforms manufacture, import or distribute defective products, they can be held liable on the same terms as such economic operators. When online platforms play a mere intermediary role in the sale of products between traders and consumers, they are covered by a conditional liability exemption under the Digital Services Act. None of these measures concern liability for defective products.The Digital Services Act sets out under which conditions platforms operating as an intermediary can be exempt from liability. 
+ In the area of cybersecurity , t he Cybersecurity Act 
+ 20 
+ and the delegated act 
+ 21 
+ under the Radio Equipment Directive 
+ 22 
+ are intended to mitigate cybersecurity risks, but they do not regulate the liability of manufacturers. The recent proposal for a Cyber-resilience Act 
+ 23 
+ build s on existing rules to encourage manufacturers and software developers to mitigate cybersecurity risks, but does not address liability. 
+ As regards the circular economy , the 2020 c ircular e conomy a ction p lan 
+ 24 
+ announced a sustainable products policy to provide high-quality, functional and safe products designed for reuse, repair, remanufacturing and high-quality recycling. The a ction p lan does not contemplate measures on liability for defective products. 
+ The draft Directive on adapting non-contractual fault-based civil liability rules to artificial intelligence , adopted as a package with this proposal, seeks to facilitate access to information and alleviate the burden of proof in compensation claims pursued under national fault-based liability regimes in cases where certain AI systems are involved in causing damage. There is no overlap with claims brought under the PLD. 
+ 1.3. Consistency with other Union policies 
+ This proposal is in line with the Commission’s priorities to make Europe fit for the digital age and to build a future-ready economy that works for people 
+ 25 
+ . 
+ In order to minimise risks linked to digital technologies and improve the safety of products, the EU is modernising rules on machinery, radio equipment and general product safety, as well as creating new rules on safe and trustworthy AI systems 
+ 26 
+ . This proposal complements this digital-by-default modernisation process by ensuring that , when products cause harm, injured persons can be confident that their right to compensation will be respected , and businesses have legal certainty about the liability risks they face when doing business. Taken together, these modernisation efforts should better enable Europe to pursue a digital transformation that works for the benefit of people. These efforts should contribute to a fair and competitive economy and a frictionless single market . C ompanies of all sizes and in any sector should be able to compete on equal terms and develop, market and use digital technologies, products and services at a scale that boosts their productivity and global competitiveness. 
+ In respect of AI in particular , this proposal confirms that AI systems and AI-enabled goods are “products” and therefore fall within the PLD’s scope, meaning that compensation is available when defective AI causes damage , without the injured person having to prove the manufacturer’s fault , just like for any other product . Second, the proposal makes it clear that not only hardware manufacturers but also software providers and providers of digital services that affect how the product works ( such as a navigation service in an autonomous vehicle) can be held liable. Third, the proposal ensures that manufacturers can be held liable for changes they make to products they have already placed on the market , including when these changes are triggered by software updates or machine learning. Fourth, the revised PLD alleviates the burden of proof in complex cases, which could include certain cases involving AI systems, and when products fail to comply with safety requirements. In doing so, it responds in large part to the calls of the European Parliament 
+ 27 
+ to ensure liability rules are adapted to AI. As a complement to these changes, the parallel proposal for a d irective on fault-based liability for AI seeks to ensure that, where an injured person has to prove that it was somebody’s fault that an AI system caused damage in order to obtain compensation under national law, the burden of proof can be alleviated if certain conditions are met . 
+ For the circular economy , business models in which products are modified or upgraded are increasingly common and central to the EU’s efforts to achieve sustainability and waste-reduction goals in line with the European Green Deal and the European Climate Law 
+ 28 
+ . This proposal aims to reinforce efforts like the s ustainable p roducts i nitiative 
+ 29 
+ by ensuring consumers have rights to compensation for harm caused by defective modified products that are just as clear as those for entirely new products and by creating the legal clarity that industry needs in order to embrace circular business models. 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ The proposal is, like Directive 85/374/EEC, based on Article 114 of the Treaty on the Functioning of the European Union (ex-Article 95 of the Treaty Establishing the European Community, ex-Article 100 of the Treaty establishing the European Economic Community). This is because its objective is to harmonise national rules to promote free movement of goods, thereby creating a level playing field for companies in the internal market, and to ensure consumer protection. 
+ • Subsidiarity 
+ The evaluation concluded that the added value of having EU product liability rules to complement EU product safety rules was uncontested 
+ 30 
+ . Indeed rules on compensating people harmed by defective products reinforce EU product safety rules. Both sets of rules pursue the same policy goal of a functioning internal market for goods that ensures a high level of consumer protection and they both also require modernisation. 
+ This proposal will provide legal certainty about: (i) what products, businesses and types of damage fall within the PLD’s scope; and (ii) the appropriate balance of interests between manufacturers and consumers across the EU. Without a uniform set of rules for compensating people harmed by defective products, manufacturers would be faced with 27 different sets of rules. This would lead to different levels of consumer protection and distorted competition among businesses from different Member States. 
+ • Proportionality 
+ This proposal strikes a careful balance between the interests of industry and consumers, as explained in Section 8 of the impact assessment. The proposal provides legal certainty on what products and businesses are covered by no-fault liability. It will also encourage all businesses, including non-EU manufacturers, to place only safe products on the EU market in order to avoid incurring liability. This will in turn reinforce product safety. 
+ The proposal will also ensure that people enjoy the same protection no matter whether the defective product that harms them is tangible or digital. By enlarging the scope of the EU’s product liability regime to explicitly include software providers, businesses that make substantial modifications to products, authorised representatives and fulfilment service providers, injured persons will have a better chance of being compensated for damage suffered, and a level playing field will be established between businesses. By covering material losses due to the loss, destruction or corruption of data, the proposal recognises the importance of data in the digital age. However, the proposal does not go beyond what is necessary and therefore does not address other types of harm, such as privacy or discrimination, which would be more appropriately dealt with under other legislation. 
+ The proposal will also create greater legal certainty and achieve a more equal level of consumer protection across the EU. The burden of proof will be more fairly shared between injured persons and manufacturers in complex cases, increasing the chances of enforcing a successful compensation claim. However, there will be no reversal of the burden of proof, as this would expose manufacturers to significantly higher liability risks and could hamper innovation, leading also to potentially higher product prices and reduced access to innovative products. 
+ • Choice of the instrument 
+ The proposal takes the form of a directive, which gives Member States flexibility to seamlessly embed its rules into national systems. This is important, given that its rules interact closely with national civil codes and are deeply integrated into national legal systems. This proposal seeks to replace the PLD entirely. Changing the PLD by way of recast or amending act was deemed inappropriate in light of the need for changes in almost every article. 
+ 3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Ex-post evaluations/fitness checks of existing legislation 
+ The evaluation of the PLD 
+ 31 
+ in 2018 concluded that the PLD was on the whole an effective and relevant instrument, but had several shortcomings (see section 1.1) . 
+ These findings were taken on board in the preparation of the impact assessment supporting this proposal. 
+ • 
+ Stakeholder consultations 
+ In preparing this proposal, the Commission consulted a broad range of stakeholders, including EU and national consumer associations and civil society organisations, industry associations, businesses , insurance associations, legal firms, academic experts, members of the public , and national authorities. The consultation activities included an inception impact assessment 
+ 32 
+ , a 12-week dedicated public consultation to which 291 responses were submitted, s takeholder w orkshops, a workshop with Member States, as well as a targeted consultation and interviews with stakeholders carried out by an independent consultant. 
+ A summary of stakeholder input on each specific objective of the revision of PLD is provided below. 
+ · Objective to ensure liability rules reflect nature and risks of products in the digital age and the circular economy 
+ – Most stakeholders were in favour of clarifying that software is a product that falls within the scope of the PLD . However, a majority of industry stakeholders suggested clarifying this through non-binding guidelines rather than through the legislative revision of the PLD. There was a broad consensus among all stakeholders groups that a product could be considered defective for having cybersecurity vulnerabilities . 70% of respondents in the public consultation were in favour of the possibility of holding manufacturers liable for failing to provide software security updates necessary to tackle such vulnerabilities. 
+ – Industry stakeholders were opposed to including no-fault liability for data protection infringements in the PLD , in part because such infringements can already be compensated under other laws like the GDPR . However, c onsumer organisations, public authorities and NGOs were more in favour of inclu ding this . 
+ – There was broad support among all stakeholder groups for making it possible to hold economic operators that make substantial modifications to products liable when those modified products are defective and cause damage. 
+ · Objective to ensure there is always an EU-based liable person for defective products bought from producers outside the EU 
+ In the public consultation, 64% of all respondents agreed or strongly agreed that the PLD needs to ensure consumer protection if defective products bought directly from non-EU countries cause damage where there is no EU-based manufacturer or importer. Views diverged on whether it should be possible to hold the authorised representative of a non-EU manufacturer, the fulfilment service provider or an online marketplace liable. 
+ · Objective to ease the burden of proof in complex cases and ease restrictions on making claims, while ensuring a fair balance between manufacturers and consumers 
+ – In the public consultation, 77% of respondents considered that technically complex products created difficulties in respect of the injured person’s burden of proof. The percentage was considerably higher among consumer organisations, NGOs and members of the public (95%) than among business and industry organisations (38%). Industry stakeholders were more open to information disclosure obligations and easing the burden of proof in complex cases than to reversing the burden of proof, which they considered a radical option that would harm innovation. Most stakeholders from industry organisations , consumer organisations and legal experts were strongly in favour of retaining the PLD’s technology-neutral approach. A majority of stakeholders were opposed to removing the development risk defence. 
+ – Consumer organisations, NGOs and member of the public were in favour of removing the rule that prevents compensation of property damage valued below EUR 500 and were in favour of lengthening the 10-year period for which manufacturers remain liable for a defective product after placing it on the market. Industry stakeholders were in favour of keeping the restrictions unchanged. 
+ • Collection and use of expertise 
+ The preparation for the proposal was informed in particular by the two independent studies: one prepared as part of the evaluation 
+ 33 
+ and the other as part of the impact assessment 
+ 34 
+ . The Commission also gathered expert advice from academia, consumer groups, industry and national authorities through the 2018-2020 Expert Group on Liability and New Technologies. 
+ The legal analysis is based on a rich collection of case - law delivered since 1985, in particular from the C ourt of Justice of the European Union (CJEU) , and on many publications 
+ 35 
+ . 
+ • Impact assessment 
+ This proposal is supported by an impact assessment (SWD[xxxx]), prepared in line with the Commission’s ‘Better Regulation’ guidelines. The impact assessment report was reviewed by the Regulatory Scrutiny Board and received a positive opinion. The impact assessment report was revised to take into account the Board’s comments, in particular by better explaining: the scope of the problems identified, the impact of product safety rules on product-related harm, the baseline estimates of cases, the impacts of the preferred option by stakeholder group, and the relevance of the initiative for SMEs. 
+ Besides the baseline scenario of no action, the impact assessment identified 3 options to address the first problem relating to the digital age and circular economy, and 2 options to address the second problem on obstacles to getting compensation and making compensation claims. 
+ – Option 1a would ensure that manufacturers of products for which software or digital services are necessary for them to operate would be liable under the Directive. Just like for tangible components, the providers of those intangible digital elements would be jointly and severally liable with the manufacturer. But under this option, producers of standalone software would not be liable under the PLD. 
+ – Option 1b would build on option 1a and, in addition, it would include all relevant software as a product in its own right, including 3 rd -party software added to a product or standalone software that itself may cause harm (such as a medical device smartphone app ). Businesses that substantial ly modif y a product and place it back on the market would also be liable under the Directive. Under this option it would also be possible to hold a non-EU producer’s authorised representative or fulfilment service provider liable when no importer is present in the EU . 
+ – Option 1c would include the measures of option 1b and, in addition, would include any software with implications for fundamental rights. Damage resulting from fundamental rights infringements, such as data protection breaches, privacy infringements or discrimination (e.g. by AI recruitment software) would be compensable. 
+ – Option 2a would ease the burden of proof on consumers by harmonising : (i) rules on when producers are obliged to disclose necessary technical information to the victim in court ; and (ii) conditions for national courts to presume that a product was indeed defective or that the defect did indeed cause the damage, especially in complex cases where proving liability is very difficult. Option 2a would reduce restrictions on making claims ( by removing the property-damage threshold and lengthening the period of liability). 
+ – Option 2b would reverse the burden of proof, so that if a product causes damage , it would be the producer who must prove the product was not defective and did not cause the damage . The development risk defence, which exempts producers from liability when the defectiveness of a product was not discoverable according to state-of-the-art knowledge, would be removed. Option 2b would further reduce restrictions on making claims (thresholds and time limits). 
+ The impact assessment identified options 1b and 2a as the preferred combination of options. 
+ Option 1b will provide legal certainty on what products and producers are covered by no-fault liability and will encourage all producers, including non-EU producers, to place only safe products on the EU market to avoid incurring liability. This reinforces product safety and will have positive economic and social impacts. It will also ensure that consumers enjoy the same protection when they are harmed by defective products regardless of whether the defect concerned the product’s digital or tangible components and when they are harmed by defective standalone software itself. By explicitly bringing software providers, authorised representatives and fulfilment service providers into the scope of the Directive, victims of harm will have a better chance of getting compensation because they will not have to prove the fault of the producer (due to the Directive’s “no-fault liability” principle). Clearer liability rules with regard to circular business models will bring legal certainty and therefore help promote such business models, and so will have a positive environmental impact. All in all, with option 1b, annual compensation for injured persons is expected to increase by between EUR 0.15 million and 22.13 million compared to the baseline. This would translate into a small increase in annual insurance premiums for producers, estimated between EUR 4.35 million and 8.69 million compared to the baseline. 
+ Option 2a will create greater legal certainty and achieve a more equal level of consumer protection across the EU, hence having a positive economic and social impact. The burden of proof will be shared more fairly between injured persons and producers in more complex cases. This will increase the chances of enforcing a successful compensation claim in such cases. Disproportionate obstacles to making claims will be reduced. All in all, with option 2a, annual compensation for injured persons is expected to increase by between EUR 0.20 million and 43.54 million compared to the baseline. This would translate into a small increase in annual insurance premiums for producers, estimated at between EUR 14.35 million and 28.71 million compared to the baseline. 
+ The preferred option will contribute to the UN sustainable development goals (SDGs), in particular to SDG 3 (healthy lives and well-being) due to its positive social impacts on victims’ health and well-being, SDG 9 (fostering innovation) by providing legal certainty for businesses to innovate and SDG 12 (responsible consumption and production) by improving product safety when substantial modifications are made. 
+ • Regulatory fitness and simplification 
+ The evaluation of the PLD found the current administrative burden to be very low, with no need for simplification. Adapting liability rules to the digital age and circular economy will not create new administrative costs for businesses or consumers. 
+ The proposal seeks to achieve a fair balance of interests between industry and consumers, in particular by avoiding measures that could make it difficult for SMEs to innovate or create additional costs that might be more difficult for SMEs to absorb. The proposal does not exempt micro-enterprises nor does it include specific mitigation measures for SMEs, because proper compensation for persons injured by defective products cannot be made dependent on the size of the liable company. Doing so would distort competition between market players if companies selling similar products faced different liability rules. 
+ • Fundamental rights 
+ Reducing restrictions on making claims and easing the burden of proof in complex cases would strengthen the right to an effective remedy, a right guaranteed under Article 47 of the Charter of Fundamental Rights of the European Union. 
+ 4. BUDGETARY IMPLICATIONS 
+ This proposal does not have any implications for the EU budget. 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ Member States must transpose the Directive 12 months after it enters into force and communicate the national execution measures to the Commission. The Commission stands ready to provide technical support to Member States to implement the Directive. 
+ The Commission will review the application and transposition of the Directive 6 years after it enters into force and propose, where appropriate, legislative amendments. 
+ • Explanatory documents 
+ The proposed Directive harmonises civil liability law, and contains both substantive and procedural rules. Member States might use different types of legal instruments to transpose it. It is therefore justified that when notif ying their transposition measures , Member States should include one or more documents explaining the relationship between the parts of the Directive and the corresponding parts of the national transposition instruments, in accordance with the Joint Political Declaration of 28 September 2011 of Member States and the Commission on explanatory documents. 
+ 36 
+ • Detailed explanation of the specific provisions of the proposal 
+ Chapter I – General provisions 
+ Chapter I defines the subject matter and scope of the proposal, as well as defining the terms used in the proposal. It brings product liability terminology in line with the Union’s product safety framework by basing definitions, inter alia of ‘manufacturer’ and ‘placing on market’, on the definitions in the new legislative framework created by Decision 768/2008/EC 
+ 37 
+ . It also responds to the reality of products in the digital age, in a technology-neutral manner, by including software and digital manufacturing files within the definition of product and by clarifying when a related service is to be treated as a component of a product. It also expands the notion of compensable damage to include the loss or corruption of data. 
+ Chapter II – Specific provisions on liability for defective products 
+ Chapter II lays down the rules governing the liability of economic operators for damage caused by defective products and the conditions under which natural persons have a right to compensation: 
+ – The test for determining whether a product is defective – i.e. whether the product provided the safety which the public at large is entitled to expect – is substantively the same as under the PLD. However, in order to reflect the changing nature of products in the digital age , and to reflect case law of the CJEU, factors such as the interconnectedness or self-learning functions of products have been added to the non-exhaustive list of factors to be taken into account by courts when assessing defectiveness. 
+ – The range of economic operators that can be held liable for defective products takes into account the growing significance of products manufactured outside the Union that are placed on the Union market, and ensures that there is always an economic operator in the Union against whom a compensation claim can be made. The proposal does not affect the conditional liability exemption under the Digital Services Act, because it sets out conditions for liability only in cases in which an online platform does not benefit from the exemption. Moreover, this proposal targets only the specific case in which a person is harmed by a defective product and seeks compensation, a scenario not covered by the Digital Services Act. It also clarifies when economic operators who make modifications to a product, such as in the context of circular economy business models, can be held liable. 
+ – The burden of proof is on injured persons, who have to prove the damage they have suffered, the defectiveness of the product and the causal link between the two. However, in light of challenges faced by injured persons, especially in complex cases, the burden of proof is eased in order to achieve a fair balance of industry and consumer interests. 
+ – Economic operators are entitled, as under the PLD, to be exempted from liability on certain conditions for which they carry the burden of proof. The exemptions are adapted to take into account the capacity of products in the digital age to change or be changed after they are placed on the market. In the interests of a level playing field for manufacturers across the Union as well as uniform consumer protection, the exemption afforded to manufacturers for scientifically and technically undiscoverable defects should apply in all Member States and the possibility under the PLD to derogate should not be continued. 
+ Chapter III – General provisions on liability 
+ Chapter III lays down liability rules of a more general nature, which are closely based on those of the current PLD. It stipulates that if there are two or more liable persons, they are liable jointly and severally. It also stipulates that if a defective product causes damage, the contributory actions of third parties do not reduce the liability of the manufacturer, whereas the contributory actions of the injured person may do so. Importantly for consumer protection, liability cannot be excluded or limited by contract or other laws. It is therefore also not allowed to set either maximum or minimum financial ceilings for compensation. The 3-year time limit for initiating proceedings remains unchanged compared to the PLD. Economic operators are liable for defective products for a 10-year period after placing the product on the market, but claimants will enjoy an additional 5-year period in cases where the symptoms of personal injury are slow to emerge, for example following ingestion of a defective chemical or food product. 
+ Chapter IV – Final provisions 
+ Member States will be required to publish court judgments relating to product liability so that, in the interests of a more harmonised interpretation of the product liability rules, other national courts can take these judgments into account. These transparency measures will also facilitate the review that the Commission will undertake 6 years after entry into force. Besides standard provisions on transposition and entry into force, Chapter IV also provides for the repeal of the PLD and sets out transitional measures . 
+ 2022/0302 (COD) 
+ Proposal for a 
+ DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ on liability for defective products 
+ (Text with EEA relevance) 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Economic and Social Committee 
+ 38 
+ , 
+ Acting in accordance with the ordinary legislative procedure, 
+ Whereas: 
+ (1) Council Directive 85/374/EEC 
+ 39 
+ lays down common rules on liability for defective products with the aim of removing divergences between the legal systems of Member States that may distort competition and affect the movement of goods within the internal market, and that entail a differing degree of protection of the consumer against damage to health or property caused by such products . 
+ (2) Liability without fault on the part of the relevant economic operator remains the sole means of adequately solving the problem of a fair apportionment of the risks inherent in modern technological production. 
+ (3) Directive 85/374/EEC needs to be revised in light of developments related to new technologies , including artificial intelligence (AI) , new circular economy business models and new global supply chains, which have led to inconsistences and legal uncertainty , in particular as regards the meaning of the term ‘ product ’ . Experience gained from applying Directive 85/374/EEC has also shown that injured persons face difficulties obtaining compensation due to restrictions on making compensation claims and due to challenges in gathering evidence to prove liability, especially in light of increasing technical and scientific complexity. This includes claims for damages related to new technologies, including AI. The revision will therefore encourage the roll-out and uptake of such new technologies, including AI, while ensuring that claimants can enjoy the same level of protection irrespective of the technology involved. 
+ (4) A revision of Directive 85/374/EEC is also needed in order to ensure coherence and consistency with product safety and market surveillance legislation at Union and national level. In addition, there is a need to clarify basic notions and concepts to ensure coherence and legal certainty and to reflect recent case law of the Court of Justice of the European Union . 
+ (5) Considering the extensive nature of the amendments that would be required and in order to ensure clarity and legal certainty, Directive 85/374/EEC should be repealed and replaced with a new Directive. 
+ (6) In order to ensure the Union’s product liability regime is comprehensive, n o-fault liability for defective products should apply to all movables, including when they are integrated into other movables or installed in immovables. 
+ (7) Liability for defective products should not apply to damage arising from nuclear accidents , in so far as liability for such damage is covered by international conventions ratified by Member States. 
+ (8) In order to create a genuine internal market with a high and uniform level of consumer protection, and to reflect the case law of the C ourt of Justice , Member States should not be , in respect of matters within the scope of this Directive, maintain or introduce more, or less, stringent provisions than those laid down in this Directive. 
+ (9) Under the legal systems of Member States an injured person may have a claim for damages on the basis of contractual liability or on grounds of non-contractual liability that do not concern the defectiveness of a product , for example liability based on warranty or on fault. This includes the provisions of the [ AI Liability Directive …/… of the European Parliament and of the Council ] , which lays down common rules on the disclosure of information and the burden of proof in the context of fault-based claims for damages caused by a n AI system. S uch provisions , which also serve to attain inter alia the objective of effective protection of consumers, should remain unaffected by this Directive. 
+ (10) In certain Member States, injured persons may be entitled to make claims for damages caused by pharmaceutical products under a special national liability system, with the result that effective protection of consumers in the pharmaceutical sector is already attained . The right to make such claims should remain unaffected by this Directive . 
+ (11) Decision No 768/2008/EC 
+ 40 
+ of the European Parliament and of the Council lays down common principles and reference provisions intended to apply across sectoral product legislation. In order to ensure consistency with such legislation, it is appropriate to align certain provisions of this Directive, in particular the definitions, to that Decision. 
+ (12) Products in the digital age can be tangible or intangible. Software, such as operating systems, firmware, computer programs, applications or AI systems, is increasingly common on the market and plays an increasingly important role for product safety. Software is capable of being placed on the market as a standalone product and may subsequently be integrated into other products as a component , and is capable of causing damage through its execution . In the interest of legal certainty it should therefore be clarified that software is a product for the purposes of applying no-fault liability, irrespective of the mode of its supply or usage, and therefore irrespective of whether the software is stored on a device or accessed through cloud technologies. The source code of software, however, is not to be considered as a product for the purposes of this Directive as this is pure information . The developer or producer of software, including AI system providers within the meaning of [ Regulation (EU) …/… (AI Act) ] , should be treated as a manufacturer. 
+ (13) In order not to hamper innovation or research, this Directive should not apply to free and open-source software developed or supplied outside the course of a commercial activity. This is in particular the case for software, including its source code and modified versions, that is openly shared and freely accessible, usable, modifiable and redistributable. However w here software is supplied in exchange for a price or personal data is used other than exclusively for improving the security, compatibility or interoperability of the software , and is therefore supplied in the course of a commercial activity , the Directive should apply . 
+ (14) D igital manufacturing file s , which contain the functional information necessary to produce a tangible item by enabling the automated control of machinery or tools, such as drills, lathes, mills and 3D printers, should be considered as product s , in order to ensure consumer protection in cases where such files are defective . For the avoidance of doubt, it should also be clarified that electricity is a product. 
+ (15) It is becoming increasingly common for digital services to be in tegrated in or inter-connected with a product in such a way that the absence of the service would prevent the product from performing one of its functions , for example the continuous supply of traffic data in a navigation system . While this Directive should not apply to services as such, it is necessary to extend no-fault liability to such digital services as they determine the safety of the product just as much as physical or digital components. Such related services should be considered as components of the product to which they are inter-connected, when they are within the control of the manufacturer of that product, in the sense that they are supplied by the manufacturer itself or that the manufacturer recommends them or otherwise influences their supply by a third party. 
+ (16) In recognition of the growing relevance and value of intangible assets, the loss or corruption of data, such as content deleted from a hard drive, should also be compensated, including the cost of recovering or restoring the data. As a result, t he protection of consumers requires compensation for material losses resulting not only from death or personal injury, such as funeral or medical expenses or lost income, and from damage to property , but also for loss or corruption of data. Nevertheless, compensation for infringements of Regulation (EU) 2016/679 of the European Parliament and of the Council 
+ 41 
+ , Directive 2002/58/EC of the European Parliament and of the Council 
+ 42 
+ , Directive (EU) 2016/680 of the European Parliament and of the Council 
+ 43 
+ and Regulation (EU) 2018/1725 of the European Parliament and of the Council 
+ 44 
+ is not affected by this Directive. 
+ (17) In the interests of legal certainty, it should be clarified that personal injury includes medically recognised damage to psychological health. 
+ (18) While Member States should provide full and proper compensation for all material losses resulting from death, or personal injury, or damage to or destruction of property and data loss or corruption, rules on calculati ng compensation should be laid down by Member States. Furthermore, this Directive should not affect national rules relating to non-material damage . 
+ (19) In order to protect consumers, damage to any property owned by a natural person should be compensated. Since property is increasingly used for both private and professional purposes, it is appropriate to provide for the compensation of damage to such mixed-use property. In light of this Directive’s aim to protect consumers, property used exclusively for professional purposes should be excluded from its scope . 
+ (20) This Directive should apply to products placed on the market or, where relevant, put into service in the course of a commercial activity , whether in return for payment or free of charge , for example products supplied in the context of a sponsoring campaign or products manufactured for the provision of a service financed by public funds , since this mode of supply still has an economic or business character. 
+ (21) This Directive should not affect the various means of seeking redress at national level, whether through court proceedings, non-court solutions, alternative dispute resolution or representative actions under Directive (EU) 2020/1828 
+ 45 
+ of the European Parliament and of the Council or under national collective redress schemes. 
+ (22) In order to protect the health and property of consumers, the defectiveness of a product should be determined by reference not to its fitness for use but to the lack of the safety that the public at large is entitled to expect. The assessment of defectiveness should involve an objective analysis and not refer to the safety that any particular person is entitled to expect. The safety that the public at large is entitled to expect should be assessed by taking into account, inter alia, the intended purpose, the objective characteristics and the properties of the product in question as well as the specific requirements of the group of users for whom the product is intended. S ome products , such as life-sustaining medical devices , entail an especially high risk of damage to people and therefore give rise to particularly high safety expectations. In order to take such expectations into account , it should be possible for a court to find a product defective without establishing its actual defective ness, where it belong s to the same production series as a product already proven to be defective . 
+ (23) In order to reflect the increasing prevalence of inter-connected products, the assessment of a product’s safety should also take into account the effects of other products on the product in question. The effect on a product’s safety of its ability to learn after deployment should also be taken into account, to reflect the legitimate expectation that a product’s software and underlying algorithms are designed in such a way as to prevent hazardous product behaviour. In order to reflect that in the digital age many products remain within the manufacturer’s control beyond the moment at which they are placed on the market, the moment in time at which a product leaves the manufacturer’s control should also be taken into account in the assessment of a product’s safety . A product can also be found to be defective on account of its cybersecurity vulnerability. 
+ (24) In order to reflect the relevance of product safety and market surveillance legislation for determining the level of safety that the public at large is entitled to expect, it should be clarified that safety requirements , including safety-relevant cybersecurity requirements, and interventions by regulatory authorities, such as issuing product recalls, or by economic operators themselves , should also be taken into account in th at assessment. Such interventions should, however, not of themselves create a presumption of defectiveness. 
+ (25) In the interests of consumer choice and in order to encourage innovation, the existence, or subsequent placing, on the market of a better product should not in itself lead to the conclusion that a product is defective. Equally, the supply of updates or upgrades to a product should not in itself lead to the conclusion that a previous version of the product is defective. 
+ (26) The protection of the consumer requires that any manufacturer involved in the production process can be made liable, in so far as their product or a component supplied by them is defective. Where a manufacturer integrates a defective component from another manufacturer in to a product, an injured person should be able to seek compensation for the same damage from either the manufacturer of the product or from the manufacturer of the component . 
+ (27) In order to ensure that injured persons have an enforceable claim for compensation where a manufacturer is established outside the Union, it should be possible to hold the importer of the product and the authorised representative of the manufacturer liable. Practical experience of market surveillance has shown that supply chains sometimes involve economic operators whose novel form means that the y do not fit easily into the traditional supply chains under the e xisting legal framework. Such is the case, in particular, with fulfilment service providers, which perform many of the same functions as importers but which might not always correspond to the traditional definition of importer in Union law. In light of the role of fulfilment service providers as economic operators in the product safety and market surveillance framework , in particular in Regulation (EU) 2019/1020 of the European Parliament and of the Council 
+ 46 
+ , it should be possible to hold them liable , but given the subsidiary nature of that role, they should be liable only where no importer or authorised representative is based in the Union . In the interests of channelling liability in an effective manner towards manufacturers, importers, authorised representatives and fulfilment service providers , it should be possible to hold distributors liable only where they fail to promptly identify a relevant economic operator based in the Union . 
+ (28) Online selling has grown consistently and steadily, creating new business models and new actors in the market such as online platforms. [ Regulation […/…] on a Single Market for Digital Services (Digital Services Act) ] and [ Regulation […/…] on General Product Safety ] regulate, inter alia, the responsibility and accountability of online platforms with regard to illegal content, including products. When online platforms perform the role of manufacturer, importer or distributor in respect of a defective product, they should be liable on the same terms as such economic operators. When online platforms play a mere intermediary role in the sale of products between traders and consumers, they are covered by a conditional liability exemption under the Digital Services Act. However, the Digital Services Act establishes that online platforms that allow consumers to conclude distance contracts with traders are not exempt from liability under consumer protection law where they present the product or otherwise enable the specific transaction in question in a way that would lead an average consumer to believe that the product is provided either by the online platform itself or by a trader acting under its authority or control . In keeping with this principle, when online platforms do so present the product or otherwise enable the specific transaction, it should be possible to hold them liable, in the same way as distributors under this Directive. That means that they would be liable only when they do so present the product or otherwise enable the specific transaction, and only where the online platform fails to promptly identify a relevant economic operator based in the Union. 
+ (29) In the transition from a linear to a circular economy, products are designed to be more durable, reusable, reparable and upgradable. The Union is also promoting innovative and sustainable ways of production and consumption that prolong the functionality of products and components , such as remanufacturing , refurbishment and repair . 
+ 47 
+ . In addition, products allow for modifications through changes to software , including upgrades . When a product is modified substantially outside the control of the original manufacturer , it is considered to be a new product and it should be possible to hold the person that made the substantial modification liable as a manufacturer of the modified product, since under relevant Union legislation they are responsible for the product’s compliance with safety requirements. Whether a modification is substantial is determined according to criteria set out in relevant Union and national safety legislation , such as modifications that change the original intended functions or affect the product’s compliance with applicable safety requirements . In the interests of a fair apportionment of risks in the circular economy, an economic operator that makes a substantial modification should be exempted from liability if it can prove that the damage is related to a part of the product not affected by the modification . Economic operators that carry out repairs or other operations that do not involve substantial modifications should not be subject to liability under this Directive. 
+ (30) In light of the imposition on economic operators of liability irrespective of fault, and with a view to achieving a fair apportionment of risk, the injured person claiming compensation for damage caused by a defective product should bear the burden of proving the damage, the defectiveness of a product and the causal link between the two. Injured persons, are , however, often at a significant disadvantage compared to manufacturers in terms of access to, and understanding of, information on how a product was produced and how it operates. This asymmetry of information can undermine the fair apportionment of risk, in particular in cases involving technical or scientific complex ity . 
+ (31) It is therefore necessary to facilitate claimants’ access to evidence to be used in legal proceedings , while ensuring that such access is limited to that which is necessary and proportionate, and that confidential information and trade secrets are protected. Such evidence should also include documents that have to be created ex novo by the defendant by compiling or classifying the available evidence. 
+ (32) In respect of trade secrets within the meaning of Directive (EU) 2016/943 of the European Parliament and of the Council 
+ 48 
+ , national courts should be empowered to take specific measures to ensure the confidentiality of trade secrets during and after the proceedings, while achieving a fair and proportionate balance between the interest of the trade - secret holder to secrecy and the interest of th e injured person. This should include at least measures to restrict access to documents containing trade secrets or alleged trade secrets and access to hearings to a limited number of people, or allowing access to redacted documents or transcripts of hearings. When deciding on such measures, national courts should take into account : (i) the need to ensure the right to an effective remedy and to a fair trial ; (ii) the legitimate interests of the parties and, where appropriate, of third parties ; and (iii) any potential harm for either of the parties, and, where appropriate, for third parties, resulting from the granting or rejection of such measures. 
+ (33) It is also necessary to alleviate the claimant’s burden of proof provided that certain conditions are fulfilled . Rebuttable p resumptions of fact are a common mechanism for alleviating a claimant’s evidential difficulties, and allow a court to base the existence of defectiveness or causal link on the presence of another fact that has been proven, while p reserving the right s of the defendant. In order to provide an incentive to comply with the obligation to disclose information, national courts should presume the defectiveness of a product where a defendant fails to comply with such an obligation. Many legislative and mandatory safety requirements have been adopted in order to protect consumers and the public from the risk of harm. In order to reinforce the close relationship between product safety rules and liability rules, non-compliance with such requirements should also result in a presumption of defectiveness . This includes cases in which a product is not equipped with the means to log information about the operation of the product as required under Union or national law . The same should apply in the case of obvious malfunction, such as a glass bottle that explodes in the course of normal use , since it is unnecessarily burdensome to require a claimant to prove defectiveness when the circumstances are such that its existence is undisputed . 
+ (34) National courts should also presume the defectiveness of a product or the causal link between the damage and the defectiveness , or both, where , notwithstanding the defendant’s disclosure of information, it would be excessively difficult for the claimant , in light of the technical or scientific complexity of the case, to prove its defectiveness or the causal link , or both . In such cases, requiring proof would undermine the effectiveness of the right to compensation. Therefore, given that manufacturers have expert knowledge and are better informed than the injured person, it should be for them to rebut the presumption . Technical or scientific complexity should be determined by national courts on a case-by-case basis, taking into account various factors . Those factors should include the complex nature of the product, such as a n innovative medical device ; the complex nature of the technology used, such as machine learning ; the complex nature of the information and data to be analysed by the claimant ; and the complex nature of the causal link, such as a link between a pharmaceutical or food product and the onset of a health condition , or a link that, in order to be proven, would require the claimant to explain the inner workings of an AI system . The assessment of excessive difficulties should also be made by national courts on a case-by-case basis . While a claimant should provide arguments to demonstrate excessive difficulties, proof of such difficulties should not be required. For example, in a claim concernin g an AI system, the claimant should, for the court to decide that excessive difficulties exist, neither be required to explain the AI system’s specific characteristics nor how these characteristics make it harder to establish the causal link. The defendant should have the possibility to contest the existence of excessive difficulties. 
+ (35) In order to maintain a fair apportionment of risk, and to avoid a reversal of the burden of proof , a claimant should nevertheless , in order to benefit from the presumption, be required to demonstrate , on the basis of sufficiently relevant evidence, that it is likely that , where the claimant’s difficulties relate to proving defectiveness, the product was defective , or that , where the claimant’s difficulties relate to proving the causal link, its defective ness is a likely cause of the damage . 
+ (36) In the interest of a fair apportionment of risk , economic operators should be exempted from liability if they can prove the existence of specific exonerating circumstances. They should not be liable where they can prove that a person other than themselves has caused the product to leave the manufacturing process against their will or that compliance with mandatory regulations was the very reason for the product’s defectiveness. 
+ (37) The moment of placing on the market or putting into service is normally the moment at which a product leaves the control of the manufacturer , while for distributors it is the moment when they make the product available on the market . Therefore manufacturers should be exempted from liability where they prove that it is probable that the defect iveness that caused the damage did not exist when they placed the product on the market or put it into service or that it came into being after that moment . However, since digital technologies allow manufacturers to exercise control beyond th e moment of placing the product on the market or putting into service , manufacturers should remain liable for defect iveness that come s into being after that moment as a result of software or related services within their control, be it in the form of upgrades or updates or machine-learning algorithms. Such software or related services should be considered within the manufacturer’s control where they are supplied by that manufacturer or where that manufacturer authorises them or otherwise influences their supply by a third party. 
+ (38) The possibility for economic operators to avoid liability by proving that a defect came into being after they placed the product on the market or put it into service should also be restricted when a product’s defectiveness consists in the lack of software updates or upgrades necessary to address cybersecurity vulnerabilities and maintain the product’s safety . S uch vulnerabilities can affect the product in such a way that it causes damage within the meaning of this Directive . In recognition of manufacturers’ responsibilities under Union law for the safety of products throughout their lifecycle , such as under Regulation (EU) 2017/745 of the European Parliament and of the Council 
+ 49 
+ , manufacturers should also be liable for damage caused by their failure to supply software security updates or upgrades that are necessary to address the product’s vulnerabilities in response to evolving cybersecurity risks. Such liability should not apply where the supply or installation of such software is beyond the manufacturer’s control , for example where the owner of the product does not install an update or upgrade supplied for the purpose of ensuring or maintaining the level of safety of the product. 
+ (39) In the interests of a fair apportionment of risks, m anufacturers should also be exempted from liability if they prove that the state of scientific and technical knowledge , determined with reference to the most advanced level of objective knowledge accessible and not to the actual knowledge of the manufacturer in question , while the product was within their control was such that the existence of defectiveness could not be discovered. 
+ (40) Situations may arise in which two or more parties are liable for the same damage, in particular where a defective component is integrated into a product that causes damage. In such a case , the injured person should be able to seek compensation both from the manufacturer that integrated the defective component into its product and from the manufacturer of the defective component itself . In order to ensure consumer protection, all parties should be held liable jointly and severally in such situations . 
+ (41) Situations may arise in which the acts and omissions of persons other than a potentially liable economic operator contribute , in addition to the defectiveness of the product, to the cause of the damage suffered, such as a third party exploiting a cybersecurity vulnerability of a product. In the interests of consumer protection, where a product is defective, for example due to a vulnerability that makes the product less safe than the public at large is entitled to expect , the liability of the economic operator should not be reduced as a result of such acts or omissions. However, it should be possible to reduce or disallow the economic operator’s liability where injured persons themselves have negligently contributed to the cause of the damage. 
+ (42) The objective of consumer protection would be undermined if it were possible to limit or exclude an economic operator’s liability through contractual provisions. Therefore no contractual derogations should be permitted. For the same reason, it should not be possible for provisions of national law to limit or exclude liability, such as by setting financial ceilings on an economic operator’s liability. 
+ (43) Given that products age over time, and that higher safety standards are developed as the state of science and technology progresses, it would not be reasonable to make manufacturers liable for an unlimited period of time for the defectiveness of their product s . Therefore , the liability should be subject to a reasonable length of time , that is 10 years following placing on the market , without prejudice to claims pending in legal proceedings . In order to avoid unreasonably denying the possibility of compensation, t h e limitation period should be 15 years in cases where the symptoms of a personal injury are , according to medical evidence, slow to emerge . 
+ (44) Since s ubstantially modified product s are essentially new product s , the limitation period should restart after a product has been substantially modified , for example as a result of remanufacturing , that modify a product in such a way that its compliance with the applicable safety requirements may be affected. 
+ (45) In order to facilitate harmonised interpretation of this Directive by national courts, Member States should be required to publish relevant court judgments on product liability. 
+ (46) The Commission should carry out an evaluation of this Directive. Pursuant to paragraph 22 of the Interinstitutional Agreement between the European Parliament, the Council of the European Union and the European Commission on Better Law-Making 
+ 50 
+ , that evaluation should be based on the five criteria of efficiency, effectiveness, relevance, coherence and EU value added and should provide the basis for impact assessments of possible further measures. For reasons of legal certainty, this Directive should not apply to products placed or put into service on the Union market before the date of its transposition. It is necessary to provide for transitional arrangements in order to ensur e continued liability under Directive 85/374/EEC for damage that caused by defective products which have been placed on the market or put into service before that date. 
+ (47) Since the objectives of this Directive, namely to ensure the functioning of the internal market, undistorted competition and a high level of consumer protection, cannot be sufficiently achieved by the Member States due to the Union-wide nature of the market in goods but can rather, by reason of the harmonising effect of common rules on liability, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives, 
+ HAVE ADOPTED THIS DIRECTIVE: 
+ CHAPTER I 
+ General provisions 
+ Article 1 
+ Subject matter 
+ This Directive lays down common rules on the liability of economic operators for damage suffered by natural persons caused by defective products. 
+ Article 2 
+ Scope 
+ 1. This Directive shall apply to products placed on the market or put into service after [ OP, please insert the date: 12 months after entry into force] . 
+ 2. This Directive shall not apply to damage arising from nuclear accidents in so far as liability for such damage is covered by international conventions ratified by Member States . 
+ 3. This Directive shall not affect : 
+ (a) the applicability of Union law on the protection of personal data, in particular Regulation (EU) 2016/679 , Directive 2002/58/EC , and Directive (EU) 2016/680 ; 
+ (b) national rules concerning the right of contribution or recourse between two or more economic operators that are jointly and severally liable pursuant to Article 1 1 or in a case where the damage is caused both by a defective product and by an act or omission of a third party as referred to in Article 1 2 ; 
+ (c) any rights which an injured person may have under national rules concerning contractual liability or concerning non-contractual liability on grounds other than the defectiveness of a product , including national rules implementing Union Law, such as [AI Liability Directive] ; 
+ (d) any rights which an injured person may have under any special liability system that existed in national law on 30 July 1985. 
+ Article 3 
+ Level of harmonisation 
+ Member States shall not maintain or introduce, in their national law, provisions diverging from those laid down in this Directive, including more, or less, stringent provisions to achieve a different level of consumer protection, unless otherwise provided for in this Directive. 
+ Article 4 
+ Definitions 
+ For the purpose of this Directive, the following definitions shall apply: 
+ (1) ‘product ’ means all movables , even if integrated into another movable or into an immovable. ‘Product ’ includes electricity, digital manufacturing files and software ; 
+ (2) ‘ d igital manufacturing file’ means a digital version or a digital template of a movable ; 
+ (3) ‘component’ means any item , whether tangible or intangible, or any related service, that is integrated into, or inter-connected with, a product by the manufacturer of that product or within that manufacturer’s control; 
+ (4) ‘related service’ means a digital service that is integrated in to, or inter-connected with , a product in such a way that its absence would prevent the product from performing one or more of its functions; 
+ (5) ‘ manufacturer’s control’ means that the manufacturer of a product authorises a) the integration, inter-connection or supply by a third party of a component including software updates or upgrades, or b) the modification of the product; 
+ (6) ‘damage’ means material losses resulting from: 
+ (a) death or personal injury, including medically recognised harm to psychological health ; 
+ (b) harm to, or destruction of, any property , except : 
+ (i) the defective product itself; 
+ (ii) a product damaged by a defective component of that product; 
+ (iii) property used exclusively for professional purposes; 
+ (c) loss or corruption of data that is not used exclusively for professional purposes ; 
+ (7) ‘data’ means data as defined in Article 2, point (1) , of Regulation (EU) 2022/868 of the European Parliament and of the Council 
+ 51 
+ ; 
+ (8) ‘placing on the market’ means the first making available of a product on the Union market; 
+ (9) ‘making available on the market’ means any supply of a product for distribution, consumption or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge; 
+ (10) ‘put ting into service’ means the first use of a product in the Union in the course of a commercial activity, whether in return for payment or free of charge, in circumstances in which the product has not been placed on the market prior to its first use; 
+ (11) ‘manufacturer’ means any natural or legal person who develops, manufactures or produces a product or has a product designed or manufactured, or who markets that product under its name or trademark or who develops, manufactures or produces a product for its own use ; 
+ (12) ‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on its behalf in relation to specified tasks; 
+ (13) ‘importer’ means any natural or legal person established within the Union who places a product from a third country on the Union market; 
+ (14) ‘fulfilment service provider’ means any natural or legal person offering, in the course of commercial activity, at least two of the following services: warehousing, packaging, addressing and dispatching of a product , without having ownership of the product, with the exception of postal services as defined in Article 2, point ( 1 ), of Directive 97/67/EC of the European Parliament and of the Council 
+ 52 
+ , of parcel delivery services as defined in Article 2, point ( 2 ), of Regulation (EU) 2018/644 of the European Parliament and of the Council 
+ 53 
+ , and of any other postal services or freight transport services ; 
+ (15) ‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a product available on the market; 
+ (16) ‘economic operator’ means the manufacturer of a product or component, the provider of a related service , the authorised representative, the importer, the fulfilment service provider or the distributor; 
+ (17) ‘ online platform’ means online platform as defined in Article 2, point (h), of Regulation (EU)…/… of the European Parliament and of the Council on a Single Market for Digital Services (Digital Services Act) 
+ 54 
+ + . 
+ CHAPTER II 
+ Specific provisions on liability for defective products 
+ Article 5 
+ Right to compensation 
+ 1. Member States shall ensure that a ny natural person who suffers damage caused by a defective product (‘the injured person’) is entitled to compensation in accordance with the provisions set out in this Directive . 
+ 2. Member States shall ensure that c laims for compensation pursuant to paragraph 1 may also be brought by: 
+ (a) a person that succeeded , or was subrogated , to the right of the injured person by virtue of law or contract; or 
+ (b) a person acting on behalf of one or more injured persons in accordance with Union or national law. 
+ Article 6 
+ Defectiveness 
+ 1. A product shall be considered defective when it does not provide the safety which the public at large is entitled to expect, taking all circumstances into account, including the following : 
+ (a) the presentation of the product, including the instructions for installation, use and maintenance ; 
+ (b) the reasonably foreseeable use and misuse of the product; 
+ (c) the effect on the product of any ability to continue to learn after deployment ; 
+ (d) the effect on the product of other products that can reasonably be expected to be used together with the product ; 
+ (e) the moment in time when the product was placed on the market or put into service or , where the manufacturer retains control over the product after that moment, the moment in time when the product left the control of the manufacturer ; 
+ (f) product safety requirements , including safety-relevant cybersecurity requir e ments ; 
+ (g) any intervention by a regulatory authority or by a n economic operator referred to in Article 7 relating to product safety ; 
+ (h) the specific expectations of the end- users for whom the product is intended. 
+ 2. A product shall not be considered defective for the sole reason that a better product , including updates or upgrades to a product, is already or subsequently placed on the market or put into service . 
+ Article 7 
+ Economic operators liable for defective products 
+ 1. Member States shall ensure that the manufacturer of a defective product can be held liable for damage caused by that product. 
+ Member States shall ensure that, where a defective component has caused the product to be defective, the manufacturer of a defective component can also be held liable for the same damage. 
+ 2. Member States shall ensure that , w here the manufacturer of the defective product is established outside the Union, the importer of the defective product and the authorised representative of the manufacturer can be held liable for damage caused by that product . 
+ 3. Member States shall ensure that, where the manufacturer of the defective product is established outside the Union and neither of the economic operators referred to in paragraph 2 is established in the Union , the fulfilment service provider can be held liable for damage caused by the defective product . 
+ 4. Any natural or legal person that modifies a product that has already been placed on the market or put into service shall be considered a manufacturer of the product for the purposes of paragraph 1 , where the modification is considered substantial under relevant Union or national rules on product safety and is undertaken outside the original manufacturer ’s control . 
+ 5. Member States shall ensure that w here a manufacturer under paragraph 1 cannot be identified or, where the manufacturer is established outside the Union, an economic operator under paragraph 2 or 3 cannot be identified , each distributor of the product can be held liable where: 
+ (a) the claimant requests that distributor to identify the economic operator or the person who supplied the distributor with the product ; and 
+ (b) the distributor fails to identify the economic operator or the person who supplied the distributor with the product within 1 month of receiving the request . 
+ 6. Paragraph 5 shall also apply to any provider of an online platform that allows consumers to conclude distance contracts with traders and that is not a manufacturer, importer or distributor , provided that the conditions of Article 6 (3) set out in Regulation (EU)…/… of the European Parliament and of the Council on a Single Market for Digital Services (Digital Services Act) 
+ 55 
+ + are fulfilled . 
+ Article 8 
+ Disclosure of evidence 
+ 1. Member States shall ensure that national courts are empowered , upon request of a n injured person claiming compensation for damage caused by a defective product (‘the claimant’) who has presented facts and evidence sufficient to support the plausibility of the claim for compensation , to order the defendant to disclose relevant evidence that is at its disposal. 
+ 2. Member States shall ensure that national courts limit the disclosure of evidence to what is necessary and proportionate to support a claim referred to in paragraph 1 . 
+ 3. When determining whether the disclosure is proportionate, national courts shall consider the legitimate interests of all parties , including third parties concerned , in particular in relation to the protection of confidential information and trade secrets within the meaning of Article 2 , point 1 , of Directive (EU) 2016/943 . 
+ 4. Member States shall ensure that , where a defendant is ordered to disclose information that is a trade secret or an alleged trade secret, national courts are empowered, up on a duly reasoned request of a party or on their own initiative , to take the specific measures necessary to preserve the confidentiality of that information when it is used or referred to in the course of the legal proceedings. 
+ Article 9 
+ Burden of proof 
+ 1. Member States shall ensure that a claimant is required to prove the defectiveness of the product, the damage suffered and the causal link between the defectiveness and the damage. 
+ 2. T he defectiveness of the product shall be presumed , where any of the following conditions are met : 
+ (a) the defendant has failed to comply with an obligation to disclose relevant evidence at its disposal pursuant to Article 8(1) ; 
+ (b) the claimant establishes that the product does not comply with mandatory safety requirements laid down in Union law or national law that are intended to protect against the risk of the damage that has occurred; or 
+ (c) the claimant establishes that the damage was caused by a n obvious malfunction of the product during normal use or under ordinary circumstances . 
+ 3. The causal link between the defectiveness of the product and the damage shall be presumed , where it has been established that the product is defective and the damage caused is of a kind typically consistent with the defect in question . 
+ 4. W here a national court judges that the claimant faces excessive difficult ies , due to technical or scientific complexity, to prove the defectiveness of the product or the causal link between its defectiveness and the damage , or both, the defectiveness of the product or causal link between its defectiveness and the damage, or both, shall be presumed where the claimant has demonstrated, on the basis of sufficiently relevant evidence, that: 
+ (a) the product contributed to the damage; and 
+ (b) it is likely that the product was defective or that its defectiveness is a likely cause of the damage, or both . 
+ The defendant shall have the right to contest the existence of excessive difficulties or the likelihood referred to in the first subparagraph. 
+ 5. The defendant shall have the right to rebut any of the presumption s referred to in paragraph s 2 , 3 and 4 . 
+ Article 10 
+ Exemption from liability 
+ 1. A n economic operator referred to in Article 7 shall not be liable for damage caused by a defective product if that economic operator proves any of the following : 
+ (a) in the case of a manufacturer or importer , that it did not place the product on the market or put it into service ; 
+ (b) in the case of a distributor, that it did not make the product available on the market; 
+ (c) that it is probable that the defect iveness that caused the damage did not exist when the product was placed on the market , put into service or , in respect of a distributor, made available on the market, or that this defect iveness came into being after that moment ; 
+ (d) that the defect iveness is due to compliance of the product with mandatory regulations issued by public authorities; 
+ (e) in the case of a manufacturer, that the objective state of scientific and technical knowledge at the time when the product was placed on the market , put into service or in the period in which the product was within the manufacturer’s control was not such that the de fect iveness could be discovered ; 
+ (f) in the case of a manufacturer of a defective component referred to in Article 7 (1), second subparagraph , that the defectiveness of the product is attributable to the design of the product in which the component has been integrated or to the instructions given by the manufacturer of that product to the manufacturer of the component ; or 
+ (g) in the case of a person that modifies a product as referred to in Article 7(4), that the defectiveness that caused the damage is related to a part of the product not affected by the modification . 
+ 2. By way of derogation from paragraph 1 , point (c) , a n economic operator shall not be exempted from liability , where the defect iveness of the product is due to any of the following, provided that it is within the manufacturer ’s control : 
+ (a) a related service ; 
+ (b) software, including software updates or upgrades; or 
+ (c) the lack of software updates or upgrades necessary to maintain safety . 
+ CHAPTER III 
+ General provisions on liability 
+ Article 11 
+ Liability of multiple economic operators 
+ Member States shall ensure that where two or more economic operators are liable for the same damage pursuant to this Directive, they can be held liable jointly and severally. 
+ Article 12 
+ Reduction of liability 
+ 1. Member States shall ensure that the liability of an economic operator is not reduced when the damage is caused both by the defect iveness of a product and by an act or omission of a third party. 
+ 2. The liability of a n economic operator may be reduced or disallowed when the damage is caused both by the defect iveness of the product and by the fault of the injured person or any person for whom the injured person is responsible. 
+ Article 13 
+ Exclusion or limitation of liability 
+ Member States shall ensure that the liability of an economic operator pursuant to this Directive is not, in relation to the injured person, limited or excluded by a contractual provision or by national law. 
+ Article 14 
+ Limitation periods 
+ 1. Member States shall ensure that a limitation period of 3 years appl ies to the initiating of proceedings for claiming compensation for damage falling within the scope of this Directive. The limitation period shall begin to run from the day on which the injured person became aware, or should reasonably have become aware, of all of the following: 
+ (a) the damage ; 
+ (b) the defect iveness ; 
+ (c) the identity of the relevant economic operator that can be held liable for the damage in accordance with Article 7 . 
+ The laws of Member States regulating suspension or interruption of the limitation period referred to in the first subparagraph shall not be affected by this Directive. 
+ 2. Member States shall ensure that the rights conferred upon the injured person pursuant to this Directive are extinguished upon the expiry of a limitation period of 10 years from the date on which the actual defective product which caused the damage was placed on the market , put into service or substantially modified as referred to in Article 7 (4) , unless a claimant has , in the meantime , initiated proceedings before a national court against a n economic operator that can be held liable pursuant to Article 7 . 
+ 3. By way of exception from paragraph 2 , where an injured person has not been able to initiate proceedings within 10 years due to the latency of a personal injury, the rights conferred upon the injured person pursuant to this Directive shall be extinguished upon the expiry of a limitation period of 15 years. 
+ CHAPTER IV 
+ Final provisions 
+ Article 15 
+ Transparency 
+ 1. Member States shall publish, in an easily accessible and electronic format, any final judgment delivered by their national courts in relation to proceedings launched pursuant to this Directive as well as other relevant final judgments on product liability . The publication shall be made without delay upon notification of the full written judgment to the parties. 
+ 2. The Commission may set up and maintain a publicly available database containing the judgments referred to in paragraph 1. 
+ Article 16 
+ Review 
+ The Commission shall by [OP, please insert the date: 6 years after the date of entry into force of this Directive], and every 5 years thereafter, review the application of this Directive and submit a report to the European Parliament, to the Council and to the European Economic and Social Committee. 
+ Article 17 
+ Repeal and transitional provision 
+ 1. Directive 85/374 /EEC is repealed with effect from [ OP, p lease insert the date : 12 months after the date of entry into force of this Directive ] . However, it shall continue to apply with regard to products placed on the market or put into service before that date . 
+ 2. References to Directive 85/374/EEC shall be construed as references to this Directive and shall be read in accordance with the correlation table set out in the Annex to this Directive . 
+ Article 18 
+ Transposition 
+ 1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by [ OP, please insert the date: 12 months after entry into force of this Directive ]. They shall forthwith communicate to the Commission the text of those provisions. 
+ When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 
+ 2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive. 
+ Article 19 
+ Entry into force 
+ This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . 
+ Article 20 
+ Addressees 
+ This Directive is addressed to the Member States. 
+ Done at Brussels, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The President 
+ (1) 
+ Council Directive 85/374/EEC on the approximation of the laws, regulations and administrative provisions of the Member States concerning li ability for defective products, OJ L 210, 7.8.1985, p. 29. 
+ (2) 
+ Evaluation of Product Liability Directive, 
+ SWD(2018)157 
+ . 
+ (3) 
+ European Commission, White Paper on Artificial Intelligence - A European approach to excellence and trust, COM(2020) 65 final, 2020. 
+ (4) 
+ European Commission, Report on safety and liability implications of AI, the Internet of Things and Robotics, COM(2020) 64 final, 2020 
+ . 
+ (5) 
+ Expert 
+ Group on Liability and New Technologies (2019), 
+ Report 
+ on Liability for artificial intelligence and other emerging digital technologies. 
+ (6) 
+ European Parliament resolution of 20 October 2020 with recommendations to the Commission on a civil liability regime for artificial intelligence (2020/2014(INL)). 
+ (7) 
+ Decision No 768/2008/EC of the European Parliament and of the Council of 9 July 2008 on a common framework for the marketing of products, and repealing Council Decision 93/465/EEC (OJ L 218, 13.08.2008, p. 82). 
+ (8) 
+ Depending on the circumstances, victims may also have a strict liability claim at national level for which they do not have to prove fault, for example claims against vehicle owners in most Member States. 
+ (9) 
+ Directive (EU) 2019/771 on certain aspects concerning contracts for the sale of goods. 
+ (10) 
+ Directive (EU) 2019/770 on certain aspects concerning contracts for the supply of digital content and digital services. 
+ (11) 
+ Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (GDPR). 
+ (12) 
+ Directive 2004/35/EC on environmental liability with regard to the prevention and remedying of environmental damage. 
+ (13) 
+ Directive 2001/95/EC (GPSD). 
+ (14) 
+ Beyond sectoral legislation and the G eneral Product Safety Directive , there is also technology-specific but horizontal product safety legislation, notably the proposed AI Act. 
+ (15) 
+ Established by Regulation (EU) 2019/1020 on market surveillance . 
+ (16) 
+ Proposal for a Regulation of the European Parliament and of the Council laying down harmonised rules on artificial intelligence (AI Act), COM(2021)206 final. 
+ (17) 
+ COM(2021) 202 final. 
+ (18) 
+ COM(2021)346 final , that will replace the GPSD and Council Directive 87/357/EEC. 
+ (19) 
+ Regulation (EU) …/… of the European Parliament and of the Council on a Single Market For Digital Services (Digital Services Act) and amending Directive 2000/31/EC, COM( 2020) 825 final. 
+ (20) 
+ Regulation (EU) 2019/881 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (Text with EEA relevance), OJ L 151, 7.6.2019, pp. 15-69. 
+ (21) 
+ Commission Delegated Regulation (EU) 2022/30 of 29 October 2021 supplementing Directive 2014/53/EU of the European Parliament and of the Council with regard to the application of the essential requirements referred to in Article 3(3), points (d), (e) and (f), of that Directive . 
+ (22) 
+ Radio Equipment Directive 2014/53/EU, Article 3(3)(e) and Article 3(3)(f). 
+ (23) 
+ Proposal for a regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital elements and amending Regulation (EU) 2019/1020, COM(2022) 454 final 
+ . 
+ (24) 
+ Circular economy action plan 
+ , March 2020 . 
+ (25) 
+ COM/2020/67 final. 
+ (26) 
+ See section 1.2 for more details. 
+ (27) 
+ European Parliament resolution of 20 October 2020 with recommendations to the Commission on a civil liability regime for artificial intelligence (2020/2014(INL)). 
+ (28) 
+ Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 ( OJ L 243, 9.7.2021, p. 1). 
+ (29) 
+ Sustainable products initiative (europa.eu) 
+ . 
+ (30) 
+ Evaluation of Product Liability Directive, 
+ SWD(2018)157 
+ , p. 60. 
+ (31) 
+ Evaluation of Product Liability Directive, 
+ SWD(2018)157 
+ . 
+ (32) 
+ Civil liability – adapting liability rules to the digital age and artificial intelligence (europa.eu) 
+ . 
+ (33) 
+ EY, Technopolis, VVA (2018), 
+ Study 
+ accompanying the Evaluation of Product Liability Directive. 
+ (34) 
+ CSES with Wavestone, CSIL (2022), Impact assessment study on the revision of Product Liability Directive. 
+ (35) 
+ See bibliography in Annex 6 of CSES with Wavestone, CSIL (2022), Impact assessment study on the revision of Product Liability Directive. 
+ (36) 
+ Joint Political Declaration of 28 September 2011 of Member States and the Commission on explanatory documents OJ C 369, 17.12.2011, p. 14. 
+ (37) 
+ Decision No 768/2008/EC of the European Parliament and of the Council of 9 July 2008 on a common framework for the marketing of products, and repealing Council Decision 93/465/EEC (OJ L 218, 13.08.2008, p. 82). 
+ (38) 
+ OJ C […], […], p. […]. 
+ (39) 
+ Council Directive 85/374/EEC of 25 July 1985 on the approximation of the laws, regulations and administrative provisions of the Member States concerning liability for defective products (OJ L 210, 7.8.1985, p. 29). 
+ (40) 
+ Decision No 768/2008/EC of the European Parliament and of the Council of 9 July 2008 on a common framework for the marketing of products . 
+ (41) 
+ Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (OJ L 119, 4.5.2016, p. 1 ). 
+ (42) 
+ Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (OJ L 201, 31.7.2002, p. 37). 
+ (43) 
+ Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA, OJ L 119, 4.5.2016, p. 89. 
+ (44) 
+ Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC , OJ L 295, 21.11.2018, p. 39 . 
+ (45) 
+ Directive (EU) 2020/1828 of the European Parliament and of the Council of 25 November 2020 on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC (OJ L 409, 4.12.2020, p. 1 ). 
+ (46) 
+ Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169 , 25.6 .20 19 , p. 1 ). 
+ (47) 
+ Communication f rom t he Commission t o t he European Parliament, t he Council, t he European Economic a nd Social Committee a nd t he Committee o f t he Regions , A n ew Circular Economy Action Plan f o r a c leaner a nd m ore c ompetitive Europe , C OM /2020/98 f inal . 
+ (48) 
+ Directive (EU) 2016/943 of the European Parliament and of the Council of 8 June 2016 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure (OJ L 157, 15.6.2016, p. 1 ). 
+ (49) 
+ Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117, 5.5.2017, p. 1 ). 
+ (50) 
+ Interinstitutional Agreement between the European Parliament, the Council of the European Union and the European Commission on Better Law-Making of 13 April 2016 ( OJ L 123, 12.5.2016, p. 1 ). 
+ (51) 
+ Regulation (EU) 2022/868 of the European Parliament and of the Council of 30 May 2022 on European data governance and amending Regulation (EU) 2018/1724 (Data Governance Act) (OJ L 152, 3.6.2022, p. 1 ). 
+ (52) 
+ Directive 97/67/EC of the European Parliament and of the Council of 15 December 1997 on common rules for the development of the internal market of Community postal services and the improvement of quality of service (OJ L 15, 21.1.1998, p. 14). 
+ (53) 
+ Regulation (EU) 2018/644 of the European Parliament and of the Council of 18 April 2018 on cross-border parcel delivery services (OJ L 112, 2.5.2018, p. 19). 
+ (54) 
+ + 
+ OP: Please insert in the text the number of the Directive contained in document PE-CONS 30/22 (2020/0361(COD)) and insert the number, date, title and OJ reference of that Directive in the footnote. 
+ (55) 
+ + 
+ OP: Please insert in the text the number of the Directive contained in document PE-CONS 30/22 (2020/0361(COD)) and insert the number, date, title and OJ reference of that Directive in the footnote.
+
+EUROPEAN COMMISSION
+ Brussels, 24.3.2023
+ COM(2022) 495 final/2
+ CORRIGENDUM
+This document corrects document COM(2022) 495 final of 28 September 2022.
+Concerns all language versions.
+Addition of a missing annex.The act is not concerned.
+ ANNEX
+ to the Proposal for a
+ DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ on liability for defective products
+ {SEC(2022) 343 final} - {SWD(2022) 315 final} - {SWD(2022) 316 final} - {SWD(2022) 317 final}
+ ANNEX 
+ CORRELATION TABLE 
+ Directive 85/374/EEC 
+ This Directive 
+ Article 1 
+ Article 1 
+ - 
+ Article 3 
+ Article 2 
+ Article 4, point (1) 
+ - 
+ Article 4, points (2) to (5), (6)(b) and (c), and (7) to (17) 
+ Article 3(1) and (2) 
+ Article 4, point (11) 
+ - 
+ Article 5 
+ Article 3(3) 
+ Article 7(5) 
+ - 
+ Article 7(1) to (4), and (6) 
+ - 
+ Article 8 
+ Article 4 
+ Article 9(1) 
+ - 
+ Article 9(2) 
+ - 
+ Article 9(3) 
+ - 
+ Article 9(5) 
+ Article 5 
+ Article 2(3), point (b) and Article 11 
+ Article 6 
+ Article 6 
+ Article 7 
+ Article 10 
+ Article 8 
+ Article 12 
+ Article 9, first paragraph, point (a) 
+ Article 4, point (6)(a) 
+ Article 9, first paragraph, point (b) 
+ Article 4, point 6(b) 
+ Article 9, second paragraph 
+ - 
+ Article 10 
+ Article 14(1) 
+ Article 11 
+ Article 14(2) 
+ - 
+ Article 14(3) 
+ Article 12 
+ Article 13 
+ - 
+ Article 15 
+ Article 13 
+ Article 2(3), points (c) and (d) 
+ - 
+ Article 2(3), points (a) and (b) 
+ Article 14 
+ Article 2(2) 
+ Article 15(1), point (b) 
+ - 
+ Article 15(2) and (3) 
+ - 
+ Article 16 
+ - 
+ Article 17 
+ Article 2(1) 
+ - 
+ Article 16 
+ - 
+ Article 17 
+ Article 18 
+ - 
+ Article 19 
+ Article 18(1) 
+ Article 20 
+ Article 18(2) 
+ Article 21 
+ - 
+ - 
+ Article 19 
+ Article 22 
+ Article 20

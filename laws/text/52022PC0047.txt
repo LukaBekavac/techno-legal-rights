@@ -1,0 +1,332 @@
+### Regulation on Joint Undertakings under Horizon Europe | CELEX 52022PC0047 | text version 52022PC0047 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 8.2.2022
+ COM(2022) 47 final
+ 2022/0033(NLE)
+ Proposal for a
+ COUNCIL REGULATION
+ amending Regulation (EU) 2021/2085 establishing the Joint Undertakings under Horizon Europe, as regards the Chips Joint Undertaking
+ (Text with EEA relevance)
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ This explanatory memorandum accompanies the proposal for a Council Regulation amending Council Regulation (EU) 2021/2085 establishing the Joint Undertakings under Horizon Europe. 
+ This proposal complements the proposal for a Regulation of the European Parliament and Council establishing a framework of measures for strengthening Europe’s semiconductor ecosystem ( ‘ Chips Act ’ ) 
+ 1 
+ by implementing most of the actions foreseen under the Chips for Europe Initiative , set up under the Chips Act proposal . 
+ The Chips Act proposal delivers on the political commitment by President von der Leyen, who announced in her 2021 State of the Union speech that t he aim is to jointly create a state-of-the-art European chip ecosystem, including production 
+ 2 
+ . The Chips Act proposal’s underlying strategic vision for strengthening Europe’s semiconductor ecosystem is explained in its accompanying Communication. 
+ 3 
+ To fulfil this vision, t he European Chips Strategy is articulated around five strategic objectives : 
+ · Europe should strengthen its research and technology leadership ; 
+ · Europe should build and reinforce its own capacity to innovate in the design, manufacturing , and packaging of advanced chips, and turn them into commercial products ; 
+ · Europe should put in place an adequate framework to increase substantially its production capacity by 2030 ; 
+ · Europ e should address the acute skills shortage, attract new talent , and support the emergence of a skilled workforce ; 
+ · Europe should develop an in-depth understanding of global semiconductor supply chains. 
+ The Chips Act proposal aims at reaching the strategic objective of increasing the resilience of Europe’s semiconductor ecosystem and increasing its global market share. It also aims at facilitating early adoption of new chips by European industry and increase its competitiveness. For this, it needs to attract investment in innovative production facilities, have a skilled workforce, but also be in the position to design and produce the most advanced chips that will define the markets of tomorrow, developing capabilities and having the possibility to test and prototype innovative designs through pilot lines in close collaboration with its industrial vertical sectors. These are necessary steps, but not sufficient unless Europe has the analytical capability of increasing the transparency of the value chain and is capable to benefit from increased capacity to serve the common interest of the single market in case of crisis. The objective is not to become self-sufficient, which is not an achievable target. The Union must strengthen its strengths and work with third countries in a supply chain where interdependencies will remain strong. 
+ In terms of delivering on these objectives, one of the goals of the proposed Chips Act is to set up the Chips for Europe Initiative (the ‘Initiative’), to support large-scale capacity building throughout investment into cross-border and openly accessible research, development and innovation infrastructure set up in the Union to enable the development of cutting-edge and next-generation semiconductor technologies that will reinforce the EU’s advanced design, systems integration, and chips production capabilities, including emphasis on start-ups and scale-ups. 
+ In particular, the Initiative will build a virtual design platform to reinforce Europe’s design capacity, which will be accessible on open, non-discriminatory, and transparent terms . The p latform will stimulate a wide cooperation of user communities with design houses, intellectual property ( IP ) and tool suppliers, designers , and research and technology organisations ( RTOs ) , and will int egrate existing and new design facilities with extended libraries and EDA 
+ 4 
+ tools. 
+ The Initiative will support pilot lines that provide the means for third parties under open, transparent, and non-discriminatory terms to test, validate, and further develop their product designs. The development of new pilot lines will prepare for the next generation of production capabilities and their validation. 
+ Furthermore, the Initiative will set up advanced technology and engineering capacities for quantum chips, e.g. in the form of design libraries for quantum chips, pilot lines, and testing and experimentation facilities. 
+ The Initiative will support a network of competence centres across Europe that will provide expertise to stakeholders, including end-user small and medium-sized enterprises (SMEs), start-ups as well as vertical sectors, and improve their skills. Competence centres will facilitate open, transparent, and non-discriminatory access to and effective use of the design infrastructure and the pilot lines. They will become poles of attraction for innovation and for new, highly skilled talent, including via reskilling and upskilling of workers. 
+ The actions under the Initiative will be primarily implemented through the Chips Joint Undertaking , i.e. the amended and renamed current Key Digital Technologies Joint Undertaking 
+ 5 
+ . This Joint Undertaking currently provides extensive support for industrially driven research, technology development, and innovation in the area of electronic components and systems, and related software and systems tech nologies. These activities will become part of the Initiative . 
+ This proposal aims to amend the legal provisions of the Council Regulation amending Council Regulation (EU) 2021/2085 establishing the Joint Undertakings under Horizon Europe for equipping the Key Digital Technologies Joint Undertaking for its new tasks related to the Initiative. This proposal also renames the Key Digital Technologies as the “Chips Joint Undertaking”. 
+ • Consistency with existing policy provisions in the policy area 
+ The Chips JU will pool resources from the Union, including the Horizon Europe and the Digital Europe Programme, Member States and third countries associated with the existing Union programmes, as well as the private sector. 
+ The proposal defines the actions under the Chips for Europe Initiative that are implemented through the Chips Joint Undertaking . The proposal complements t he Digit al Europe programme 
+ 6 
+ , which supports digital capacity building in key digital domains where semiconductor technology underpins performance gains, notably High Performance Computing, Artificial Intelligence, and Cybersecurity, together with skills development and the deployment of digital innovation hubs. T he proposal supports capacity building to reinforce advanced research, design, production and systems integration capabilities in cutting-edge and next-generation semiconductor technologies . The Digital Europe P rogramme contributes to the Chips JU via a new sixth Specific Objective, which will have a thematic focus on semiconductor technologies . 
+ The Chips JU also builds on and complements Horizon Europe 
+ 7 
+ , which in the area of semiconductors provides support for academically driven research, technology development, and innovation. T he Chips JU will focus on supporting investment into cross-border and openly accessible research, development and innovation infrastructure s set up in the Union to enable the development of semiconductor technologies across Europe . New semiconductor technologies from research and innovation actions supported by Horizon Europe may be progressively taken up and deployed by the capacity building activities supported by the Chips JU. Conversely, the technology capacities set up under the Chips JU will be made available to the research and innovation community, including for actions s upported through Horizon Europe. 
+ • Consistency with other Union policies 
+ The proposed measures are in line with some of the main policies of the Union , such as the Green Deal 
+ 8 
+ . The application of semiconductor technologies such as for power electronics , and for digital technologies in general, are powerful enablers for the sustainability transition and can lead to new products and more efficient and effective ways of working that contribute to the Green Deal objectives. 
+ Semiconductor supply disruptions and dependencies on other regions can slow down the sustainability transition of European sectors benefiting from digital solutions. To address the disruptions and dependencies, the proposal strengthens Europe’s technology and innovation leadership in the semiconductor domain. 
+ D igital techno logies have their own environmental footprint, including their significant energy co n s umption. T he information and communications technology (ICT) sector i s responsible for 5-9% of the world ’ s total electricity use and more than 2% of all emissions 
+ 9 
+ . D ata centres alone accounted for 2 . 7% of electricity demand in 2018 in the EU and will reach 3 . 21% by 2030, if development continues on the current trajectory 
+ 10 
+ . Such energy consumption needs to be reduce d . The proposal, and in particular via the design facilities and pilot lines that it supports, will lead to the design, testing, and validation of new, low power processors . Processors are the core components of servers that handle the computational workload in data centres. Larger data centres contain millions of such servers and improvements in the power consumption of processors can have a significant bearing on the overall power consumption of a data centre. Such chips with a low-energy footprint contribute also to position ing the EU as a leader in sustainable digital technologies. 
+ The proposal contributes to the objectives of parts of the Fit for 55 package that focus on promoting cleaner vehicles and fuels in a technologically neutral way 
+ 11 
+ . The revision of the CO 2 emission standards for new cars and vans aims at further reducing the greenhouse gas emissions of these vehicles, providing a clear and realistic pathway towards zero-emission mobility. Consumer demand for zero emission vehicles , such as electrically chargeable vehicles , is increasing already 
+ 12 
+ . Electrically chargeable vehicles typically have more than twice the amount of semiconductor content per vehicle than cars with internal-combustion engine s 
+ 13 
+ . Advanced packaging technologies are increasingly important to address increasing power and energy-efficiency requirements by electrical vehicles . I t follows that the objectives of the proposal are consistent with the objectives of the Fit for 55 package. 
+ With digitalisation and electrification increasing, energy-efficient chips contribute to other policies as well, including policies on industrial manufacturing, transport, and energy, e.g. the upcoming Digitalisation of Energy Action Plan 
+ 14 
+ . The demand for semiconductor technologies is expected to double in a decade. More and more chips are embedded in robots , and manufacturing machines, in industry , in energy and in agriculture, but also in transport vehicles and other devices . The demand of power electronics semiconductors is expected to increase due to the growing penetration of renewables in the electrical system and to the transition to electro mobility. Via smart use of chips and other digital technologies, and via more energy-efficient chips, the proposal is consistent with and contributes to several sectoral policies. 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ This Regulation will amend Council Regulation (EU) 2021/2085 of 19 November 2021 that established nine institutionalised European partnerships based on Article 187 TFEU according to which the EU may set up joint undertakings or any other structure necessary to efficiently carry out EU research, technological development and demonstration programmes. Therefore, this amending Regulation will also be based on Article 187 TFEU. 
+ • Subsidiarity (for non-exclusive competence) 
+ Research is a shared competence between the EU and its Member States according to the TFEU. Article 4(3) specifies that in the areas of research, technological development and space the EU can carry out specific activities, including defining and implementing programmes, without affecting the member states’ freedom to act in the same areas. 
+ The proposed regulation amends the provisions of the Council Regulation (EU) 2021/2085 applicable to one of the nine joint undertakings established thereunder, the Key Digital Technologies, which, through this regulation, is renamed to Chips Joint Undertaking. The Chips Joint Undertaking focuses on areas where there is a demonstrable value added in acting at EU level due to the scale, speed and scope of the efforts needed for the EU to meet its long-term Treaty objectives and deliver on its strategic policy priorities and commitments. The proposed initiative should also complement and reinforce national and sub-national activities in the same area. Each European partnership, including the Chips Joint Undertaking, is based on a long-term Strategic Research and Innovation Agenda, and is well suited to address complex cross-border challenges. 
+ In particular, the Chips Joint Undertaking focuses on: 
+ · strengthening collaboration and knowledge exchange between key actors in the European research and innovation system, including cross-disciplinary and cross-sectoral collaboration and an improved integration of value chains and ecosystems; 
+ · ensuring alignment and in tegration of European, national / regional and industrial research and innovation strategies, programmes and investments with the agreed directions; 
+ · creating critical scales of investments on common priorities and increasing private investment in research and innovation; 
+ · reducing risks and uncertainties for industry that are related to investing in research and innovation activities and new technologies / solutions by sharing risks and providing investment predictability. 
+ Action at national level or by industry alone cannot achieve the scale, speed and scope of research and innovation support needed for the EU to meet its long-term Treaty objectives, deliver on its strategic policy priorities (including the climate and energy goals set out in the Paris Agreement, and the European Green Deal), and to contribute to tackling global challenges and meeting the Sustainable Development Goals (SDGs). 
+ • Proportionality 
+ The proportionality principle underpins the entire approach that led to the current proposal amending the Council Regulation (EU) 2021/2085 for Chips Joint Undertaking. Given the greater focus on the need to rationalise key EU policy priorities and ensure they have a measurable and meaningful impact, the Chips Joint Undertaking proves its added value, in particular by efficiently and effectively achieving objectives that cannot be more effectively achieved through simpler means, including the default approach of traditional Horizon Europe or the Digital Europe Programme calls or simpler partnership forms, such as “co-programmed partnerships”. 
+ In the proposal for Council Regulation (EU) 2021/2085, the proportionality of the Chips Joint Undertaking was assessed according to the following two-step logic: 
+ (1) Justification of the use of a partnership approach in a given area (including considerations on additionality, directionality and a link with strategic priorities) instead of other forms of intervention available under Horizon Europe or the Digital Europe Programme; 
+ (2) If the partnership approach is deemed appropriate, proportionality considerations guided the assessment of which type of partnership (co-programmed, co-funded or institutionalised partnership) would be most effective in achieving the intended objectives. 
+ The proposed amendment to Council Regulation (EU) 2021/2085 adds one further rationale: 
+ (3) Given the relation in scope of the objectives of the Chips for Europe Initiative with the scope of the KDT (now, Chips) Joint Undertaking, it is deemed appropriate to task this Joint Undertaking, which is already in force, with the implementation of certain activities related to the Chips for Europe Initiative . 
+ • Choice of the instrument 
+ This proposal aims to amend an existing joint undertaking established under Council Regulation (EU) 2021/2085 and based on Article 187 TFEU. For this kind of structure, Article 188(1) TFEU requires the adoption of a Council Regulation. 
+ 3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Stakeholder consultations 
+ In her speech at the World Economic Forum in January 2022, President von der Leyen mentioned that “ we will propose our European Chips Act in early February ” and that “w e have no time to lose ” 
+ 15 
+ . Leading economies are keen to secure their supply in the most advanced chips as this increasingly conditions their capacity to act (economically, industrially, militarily) and drive s digital transformation. They are already heavily investing and rolling out support measures to innovate and strengthen their production capacities , or expect to do so soon 
+ 16 
+ . There are indications that EU companies and RTOs may be attracted to move to other regions. International players are less likely to expand existing facilities or set up new production facilities in the EU without full clarity , including, on investment conditions, possibilities for public support, public investments in skills, infrastructure, and advanced R&D. 
+ Given the urgent need to act, no impact assessment was carried out and no online public consultation was foreseen. The analysis and all supporting evidence will be set out in a staff working document published at the latest within three months of the publication of the Chips Act proposal. 
+ Nevertheless, a d-hoc workshops with industry stakeholders on specific topics related to the Initiative indicated the need to consider facilities for upcoming technologies , such as photonics, neuromorphic computing, and quantum technologies , as well as n ew materials 
+ 17 
+ . In addition, these workshops emphasised the need for due consideration of alternative instruction set architectures, such as RISC-V. 
+ Furthermore, in the context of the ECSEL Joint Undertaking – the predecessor of the Key Digital Technologies Joint Undertaking – meetings with industry representatives and public authorities took place in summer 2021, where the Digital Compass objectives, the update of the industrial strategy, the Industrial alliance, and the European Chips Act were discussed. 
+ Regular meetings with Member States took place monthly in 2021 to prepare the planned second IPCEI on Microelectronics. They provided inputs for the definition and assessment of Integrated Production Facilities and Open EU Foundries of the proposed regulation, as well as for the definition of specific facilities under the regulation. 
+ A meeting with CEOs representing key stakeholders in the European semiconductor ecosystem took place on 10 January 2022. Key t akeaways from that meeting relevant for this proposal were: build ing on European strengths, e.g. R&D and equipment manufacturing; clear support for pilot lines and design infrastructures; and the need for a worldwide level playing field 
+ 18 
+ . 
+ There were also numerous meetings with representatives of CEOs on the need to strengthen the European sector, following Commissioner Breton’s meetings with the CEOs of the main semiconductor players and RTOs. These provided inputs notably to the research and innovation activities and capacity building activities to be implemented in the Chips JU. 
+ The European Forum for Electronic Components and Systems (EFECS), in November 2021, with over 500 participants, provided a large platform for discussion on industrial needs. Further input was provided in meetings with industry associations and their members, such as SEMI, ESIA, and DigitalEurope. 
+ Moreover, long-standing and regular contacts with industry stakeholders, Member States, trade associations, and user associations enabled the collection of a fair amount of information and feedback relevant to the proposal. 
+ Many reports have been published since end-2019 on the semiconductor sector describing trends and providing facts and figures, and served to inform the proposal 
+ 19 
+ . 
+ • Impact assessment 
+ This proposal is not accompanied by a formal impact assessment. Considering the urgency as explained above, an impact assessment could not have been delivered in the timeframe available prior to the adoption of the proposal. 
+ • Fundamental rights 
+ Article 16 of the Charter of Fundamental Rights of the European Union (‘the Charter’) provides for the freedom to conduct business. The measures under this proposal create innovation capacity and foster the security of supply of semiconductors, which can reinforce the freedom to conduct a business in accordance with Union law and national laws and practices. 
+ 4. BUDGETARY IMPLICATIONS 
+ The EU budget will support the Chips for Europe Initiative with a total of up to EUR 3.3 billion, including EUR 1.65 billion via Horizon Europe programme and EUR 1.65 billion via Digital Europe Programme. Out of this total amount, EUR 2.875 billion will be implemented through the Chips Joint Undertaking. 
+ Further details are provided in the Legislative Financial Statement annexed to the ‘Chips Act’ proposal. 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ The Chips Joint Undertaking will be monitored and evaluated in line with Articles 50 and 52 and Annex III of the Horizon Europe Regulation. The interim and ex-post evaluations will be supported by external contractors and fed into the overall Horizon Europe evaluations. In accordance with the criteria set for European partnerships, the evaluations will assess the most effective policy intervention mode for any future action, as well as the possible renewal of the partnership within the overall European partnerships landscape. In the absence of renewal, appropriate measures will be developed to ensure the phasing-out of framework programme funding according to the conditions and timeline agreed with the partners of the partnership. 
+ • Detailed explanation of the specific provisions of the proposal 
+ The institutionalised European partnerships, including the Chips Joint Undertaking, are designed to increase coherence and to maximise impact in an evolving research and innovation landscape. 
+ The amendment to Council Regulation (EU) 2021/2085 is necessary in order to allow the Chips Joint Undertaking to implement the Chips for Europe Initiative established under Regulation (EU) […] establishing a framework of measures for strengthening Europe’s semiconductor ecosystem (the ‘Chips Act’). To this end, the following proposed amendments to Council Regulation (EU) 2021/2085 are required: 
+ (1) Amendments to ‘Part One’ on ‘Common Provisions’ of Council Regulation (EU) 2021/2085: 
+ Article 2 (Definitions): the definitions on ‘founding member’, ‘associated member’, ‘participating state’ and ‘work programme’ are amended in order to include the fact that the Chips Joint Undertaking will now also be financed from the Digital Europe Programme. 
+ Article 3 (Establishment): under this Article, the name of the former Key Digital Technologies Joint Undertaking is renamed to ‘Chips Joint Undertaking’. 
+ Article 4 (Objectives and principles) is amended to make sure that the Chips Joint Undertaking also contributes to the general and specific objectives of the Chips for Europe Initiative and the Digital Europe Programme. 
+ Article 10 (Union financial contribution) is amended to reflect the fact that the Union contribution can also be paid from the appropriations in the general budget of the Union allocated to the Specific Objective implementing the Digital Europe Programme. 
+ Article 12(1) (Management of contributions from the participating states) is amended to reflect that the eligibility criteria set out in Article 18 of the Digital Europe Programme should also be taken into account in the work programme. Furthermore, each participating state should entrust the joint undertaking with the evaluation of the proposals according to the contributing Union programme. 
+ Article 29(2) (Financial commitments) is amended to include the Chips Joint Undertaking amongst the joint undertakings that can divide their budgetary commitments into annual instalments. 
+ (2) Amendments to ‘Part Two ’ on ‘Specific Provisions Of Individual Joint Undertakings’ of Council Regulation (EU) 2021/2085: 
+ Article 126 (Additional objectives of the Chips Joint Undertaking) is amended to add one general and four specific additional objectives of the Chips Joint Undertaking. The general objective focuses on the increase large-scale capacity throughout the Union in cutting-edge and next-generation semiconductor technologies, while the four specific objectives focus on building up large-scale design capacities for integrated semiconductor technologies, enhancing existing and developing new pilot lines, building advanced technology and engineering capacities for accelerating the development of quantum chips, and creating a network of competence centres across Europe. 
+ Article 128 is amended in order to reflect the increased budget, from two different Programmes (Horizon Europe and the Digital Europe Programme). 
+ Article 129 is amended in order to determine the contribution to administrative costs of the private members of the Chips Joint Undertaking. 
+ Article 133 (Functioning of the Governing Board) is amended to specify that the Governing Board solely includes the Commission and public authorities from Member States when voting on the part of the work programme related to capacity building activities. 
+ Article 133a (Rules applicable to the activities funded under the Digital Europe Programme) is added to clarify that rules related to the Digital Europe Programme apply to the Chips Joint Undertaking. 
+ Article 134 (Limitations and conditions to participation in specific actions) is amended to allow for the possibility to limit the participation in specific actions funded under the Digital Europe programme. Furthermore, the new third paragraph 3 of Article 134 indicates that certain actions may be carried out by legal entities cooperating within a consortium of at least three eligible legal entities which are established in at least three different Member States or countries associated to the Initiative. It specifies that this consortium may be structured in the form of a European Chips Infrastructure Consortium, as laid down in the Chips Act. 
+ Article 134a (Additional tasks of the Executive Director) specifies that the Executive Director needs to take into account the definition made by the Public Authorities Board on the part of the work programme related to capacity building activities and research and innovation activities, including their corresponding expenditure estimates. 
+ Article 136 (Functioning of the Public Authorities Board) is amended to add four further situations in which the Public Authorities Board solely includes the Commission and public authorities from Member States. 
+ Article 137 (Tasks of the Public Authorities Board) is amended in order to add two additional tasks to the Chips Joint Undertaking’s Public Authorities Board, namely the definition of the part of the work programme related to capacity building activities and research and innovation activities and the selection of projects related to these activities. For both tasks, the Public Authorities Board includes only the Commission and public authorities from Member States. 
+ Article 141 (funding rates) is amended in order to allow, for activities funded under the Digital Europe programme, the Chips Joint Undertaking to apply different funding rates for the Union funding within an action depending on the type of participant, in particular SMEs and non-profit legal entities, and the type of action. Furthermore, a new paragraph is added in order to allow a single legal entity established in a Member State or associated country or consortia not meeting the condition laid down in Article 22(2) of the Horizon Europe Regulation to be eligible to participate in indirect actions funded by the Chips Joint Undertaking. 
+ Finally, point 17 of this regulation indicates that references to “Key Digital Technologies Joint Undertaking” should be understood as referring to “Chips Joint Undertaking”. 
+ 2022/0033 (NLE) 
+ Proposal for a 
+ COUNCIL REGULATION 
+ amending Regulation (EU) 2021/2085 establishing the Joint Undertakings under Horizon Europe, as regards the Chips Joint Undertaking 
+ (Text with EEA relevance) 
+ THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 187 and Article 188, first paragraph thereof, 
+ Having regard to the proposal from the European Commission, 
+ Having regard to the opinion of the European Parliament 
+ 20 
+ , 
+ Having regard to the opinion of the European Economic and Social Committee 
+ 21 
+ , 
+ Whereas: 
+ (1) Council Regulation (EU) 2021/2085 
+ 22 
+ establishes the Joint Undertakings under Horizon Europe , including the Key Digital Technologies Joint Undertaking. 
+ (2) The Key Digital Technologies Joint Undertaking addresses clearly defined topics that enable European industries at large to design, manufacture and use the most innovative technologies in electronic components and systems. 
+ (3) Regulation (EU) […] 
+ 23 
+ establishes a framework for increasing the Union’s resilience in the field of semiconductor technologies, stimulating investment, strengthening the capabilities of the European semiconductor supply chain, and increasing cooperation among the Member States and the Commission . T o create the conditions necessary to strengthen the Union’s industrial innovation capacity , the Chips for Europe Initiative (the ‘ Initiative ’) is established . In order to ensure a consistent implementation of the Initiative , the European Semiconductor Board should provide advice to the Public Authorities Board . 
+ (4) The activities supported under the Initiative should be funded from Regulation (EU) 2021/695 of the European Par liament and of the Council 
+ 24 
+ establishing the Horizon Europe Programme and from Regulation (EU) 2021/694 of the European Parliament and of the Council 
+ 25 
+ establishing the Digital Europe Programme . 
+ (5) The Initiative aims to reinforce the competitiveness and resilience of the semiconductor technological and industrial base, whilst strengthening the innovation capacity of its semiconductor ecosystem, reducing dependence on a limited number of third country companies and geographies, and strengthening its capacity to design and produce advanced components . T hese aims should be supported by bridging the gap between the Union’s advanced research and innovation capabilities and their industrial exploitation. It should promote capacity building to enable design, production and systems integration in next-generation semiconductor technologies, enhance collaboration among key players across the Union, strengthening Europe ’ s semiconductor supply and value chains, serving key industrial sectors , and creating new markets. 
+ (6) The Initiative should be implemented through actions that should build upon the strong knowledge base acquired by the Key Digital Technologies Joint Undertaking . The Key Digital Technologies Joint Undertaking should be tasked with providing financial support, through any instrument or procedure provided for in Horizon Europe or the Digital Europe Programme, to actions funded under the Initiative . Furthermore, the Key Digital Technologies Joint Undertaking should be renamed to Chips Joint Undertaking. Throughout the lifetime of the Chips Joint Undertaki ng, at least EUR 2.5 billion s hould be dedicated to pilot lines, design infrastructures, competence centres , and other capacity building activities. 
+ (7) The activities funded by the Chips Joint Undertaking should be covered in one single work programme, which should be adopted by the Governing Board. Before each work programme is prepared , the Public Authorities Board , taking into account the advice of the European Semiconductor Board and input from other relevant stakeholders, including as appropriate , roadmap s produced by the Alliance on Processors and Semiconductor Technologies 
+ 26 
+ , should define the part of the work programme related to capacity building activities and research and innovation activities , including the ir corresponding expenditure estimates. For this purpose, the Public Authorities Board sh ould include only the Commission and public authorities from Member States . Subsequently, on the basis of this definition , the Executive Director should prepare the work programme including capacity building and research and innovation activities and their corresponding expenditure estimates. 
+ (8) When the Governing Board adopts the work programme, the voting rights for the part of the work programme related to capacity building should be limited to the Commission and Member States only. The voting rights for the part of the work programme related to R&I activities should be equally shared between the Commission, the Participating States , and the private members. In the event that a decision on one of the two parts of the work programme cannot be reached, the work programme should be adopted including only the part on which a positive decision has been reached. 
+ (9) The Public Authorities Board should be responsible for the selection of the projects related to capacity building activities. For this purpose, the Public Authorities Board sh ould include only the Commission and public authorities from Member States . 
+ (10) The Public Authorities Board should be responsible for the selection of the projects related to R&I activities. 
+ (11) With a view to accelerating implementation of the actions of the Initiative and enhance cooperation between legal entities, particularly Research and Technology Organi s ations, certain proposals for actions should be eligible for funding only if the action is carried out by legal entities cooperating within a consortium of at least three legal entities from t hree different Members States. That consortium could be structured either as the European Chips Infrastructure Consortium as proposed in the ‘ Chips Act ’ , or based on other available legal tools under Union law . Given that t he activities supported under the Initiative and implemented by the Chips Joint Undertaking are financed from Horizon Europe programme and the Digital Europe p rogramme , the Union financial contribution to the Chips Joint Undertaking indicated in Article 128 of Council Regulation (EU) 2021/2085 should be increased accordingly. The administrative costs of the Chips Joint Undertaking should also be increased in accordance with the increase of operational tasks. The private members should not contribute to the additional administrative costs. 
+ (12) Provision of financial support to activities from the Digital Europe Programme should comply with Regulation (EU) 2021/694. 
+ (13) The Chips Joint Undertaking should facilitate cooperation between the Union and international actors by defining a cooperation strategy, including identifying and promoting areas for cooperation in research and development and skills development , and implementing actions w here there is a mutual benefit, mainly based on reciprocity. 
+ (14) Council Regulation (EU) 2021/2085 should therefore be amended accordingly, 
+ HAS ADOPTED THIS REGULATION: 
+ Article 1 
+ Regulation (EU) 2021/2085 is amended as follows: 
+ (1) Article 2 is amende d as follows: 
+ (a) Points 2 , 3 and 4 are replaced by the following: 
+ “2. ‘founding member’ means any legal entity established in a Member State, a country associated to Horizon Europe or, where applicable, to the Digital Europe Programme , or an international organisation that is identified as a member of a joint undertaking in this Regulation or in one of its Annexes; 
+ “3. ‘associated member’ means any legal entity established in a Member State, a country associated to Horizon Europe or, where applicable, to the Digital Europe Programme , or an international organisation that accedes to a joint undertaking by signing a letter of commitment in accordance with Article 6(3) and subject to an approval in accordance with Article 7; 
+ 4. ‘participating state’ means any Member State or country associated to Horizon Europe or, where applicable, to the Digital Europe Programme upon notification of its participation in the activities of the relevant joint undertaking by means of a letter of commitment;”; 
+ (2) Article 3 is amended as follows: 
+ (a) In p aragraph 1 , point (g) is replaced by the following: 
+ “(g) the Chips Joint Undertaking;”; 
+ (b) p aragraph 3 is replaced by the following: 
+ “3. In order to take into account the duration of Horizon Europe and, where applicable, the Digital Europe Programme , calls for proposals under the joint undertakings shall be launched at the latest by 31 December 2027. In duly justified cases, calls for proposals may be launched by 31 December 2028, at the latest.” 
+ (3) In Articl e 4 (1), the following subparagraph is added : 
+ “The Chips Joint Undertaking shall also contribute to the objectives of the Chips for Europe Initiative and the Digital Europe Programme”. 
+ (4) In Article 10 , paragraphs 2 and 3 are replaced by the following : 
+ “2. The amount of the Union contribution specified in Part Two may be increased with contributions from third countries associated to Horizon Europe in line with Article 16(5) of Regulation (EU) 2021/695 and, where applicable, to the Digital Europe Programme in accordance with point (d) of Article 10(1) of Regulation (EU) 2021/694, provided that the total amount by which the Union contribution is increased is at least matched by the contribution of members other than the Union, or their constituent or affiliated entities. 
+ 3. The Union contribution shall be paid from the appropriations in the general budget of the Union allocated to the Specific Programme implementing Horizon Europe and, where applicable, to the Digital Europe Programme , in accordance with Article 62(1), point (c)(iv), and Article 154 of Regulation (EU, Euratom) 2018/1046 in the case of bodies referred to in Article 71 of that Regulation.” 
+ (5) Article 12(1) is amended as follows : 
+ (a) The second subparagraph of p aragraph 1 is replaced by the following: 
+ “1. In addition to criteria set out in Article 22 of the Horizon Europe Regulation or, in the case of the Chips Joint Undertaking, in Article 18 of the Digital Europe Programme , the work programme may include, as an annex, eligibility criteria regarding national legal entities.” 
+ (b) The third subparagraph of paragraph 1 is replaced by the following: 
+ “Each participating state shall entrust the joint undertaking with the evaluation of the proposals according to the contributing Union programme .” 
+ (6) In Article 29 , paragraph 2 is replaced by the following : 
+ (a) Paragraph 2 is replaced by the following: 
+ “2. Budgetary commitments of the joint undertakings referred to in Article 3(1), points (b), (d), (g) and (h), may be divided into annual instalments. Until 31 December 2024, the cumulative amount of those budgetary commitments in instalments shall not exceed 50 % of the maximum Union contribution set out in Article 10. From January 2025, at least 20 % of the cumulative budget of the residual years shall not be covered by annual instalments.” 
+ (7) Article 126 is amended as follows : 
+ (a) In paragraph 1 point (b) is replaced by the following: 
+ “(b) Establish Union scientific excellence and innovation leadership in emerging components and systems technologies, including in activities related to lower TRLs; and promote the active involvement of SMEs, which shall represent at least one third of the total number of participants in indirect actions and at least 20 % of public funding dedicated to research and innovation actions should go to them. 
+ (b) In paragraph 1 the following point (d) is added : 
+ “(d) increase large-scale capacity throughout the Union in cutting-edge and next-generation semiconductor technologies to reinforce the Union’s advanced design, systems integration and semiconductor production capabilities and limit where possible the environmental footprint.” 
+ (c) In paragraph 2 point (f) is replaced by the following: 
+ “(f) establish coherence between the Strategic Research and Innovation Agenda of the Chips Joint Undertaking inputs from other relevant stakeholders, including as appropriate, roadmaps produced by the Alliance on Processors and Semiconductor technologies and Union policies so that electronics components and systems technologies contribute efficiently.” 
+ (d) In paragraph 2 the following point s (g), (h), (i) and (j) are added: 
+ “(g) build up large-scale design capacities for integrated semiconductor technologies. 
+ (h) enhance existing and develop new pilot lines. 
+ (i) build advanced technology and engineering capacities for accelerating the development of quantum chips. 
+ (j) establish a network of competence centres across Europe.” 
+ (8) Article 128 is replaced by the following : 
+ Article 128 
+ 1. The Union financial contribution to the Joint Undertaking including EEA appropriations shall be up to EUR 4 175 000 000 , including up to EUR 50 174 000 for administrative costs distributed as follows: 
+ (a) up to EUR 2 650 000 000 from Horizon Europe; 
+ (b) up to EUR 1 525 000 000 from the Digital Europe Programme; 
+ 2. The Union financial contribution referred to in paragraph 1 shall be paid from the appropriations in the general budget of the Union allocated to each relevant programme. 
+ 3. Additional Union funds complementing the contribution referred to in paragraph 1 of this Article may be allocated to the Joint Undertaking from third countries associated to Horizon Europe or the Digital Europe Programme in accordance with their respective association agreements. Those additional Union funds shall not affect the Participating States’ contr ibution referred to in Article 129 (1). 
+ 4. The Union financial contribution referred to in paragraph 1 point (a) of this Article shall be used for the Joint Undertaking to provide financial support to indirect actions as defined in Article 2, point (43), of Regulation (EU) 2021/695, corresponding to the research and innovation activities of the Joint Undertaking. 
+ 5. The Union financial contribution referred to in paragraph 1 point (b) shall be used for capability building for pilot lines and design infrastructures across the whole Union . 
+ (9) In Article 129 paragraph 3 is rep laced by the following: 
+ “3. By way of derogation from Article 28(4), the private members shall make or arrange for their constituent and affiliated entities to make a financial contribution of at least EUR 26 331 000 for administrative costs of the Chips Joint Undertaking. The share of the total contribution on an annual basis for administrative costs of the Chips Joint Undertaking by the private members shall be 35%.” 
+ (10) In Article 133, the following paragraph 3a is added: 
+ “3a. The Governing Board shall solely include the Commission and public authorities from Member States when voting on the part of the work programme related to capacity building activities. The Commission shall hold 50% of the voting rights. Paragraphs 2 and 3 shall apply mutatis mutandis to the voting rights of the Member States.” 
+ (11) The following Article 133a is inserted 
+ Article 133a 
+ Rules applicable to the activities funded under the Digital Europe Programme 
+ 1. Regulation (EU) 2021/694 shall apply to the activities funded by the Chips Joint Undertaking under the Digital Europe Programme. 
+ 2. The work programme and the calls for proposals of the Chips Joint Undertaking shall be published on the website of the Digital Europe Programme. 
+ 3. In the case of the Chips Joint Undertaking, ex post audits of expenditure on activities funded by the Digital Europe Programme budget shall be carried out by the Joint Undertaking in accordance with Article 27 of Regulation (EU) 2021/694. 
+ (12) Article 134 is replaced by the following: 
+ Article 134 
+ Limitations and conditions to participation in specific actions 
+ 1. For actions funded under the Horizon Europe, by way of derogation from Article 17(2), point (l), where the Commission so requests, following approval of the Public Authorities Board, participation in specific actions shall be limited in accordance with Article 22(5) of Regulation (EU) 2021/695 . 
+ 2. For actions funded under the Digital Europe Programme, where the Commission so requests, following approval of the Public Authorities Board, participation in specific actions shall be limited in accordance with Articles 12 ( 6 ) and 18 of the Regulation (EU) 2021/694 . 
+ 3. F or actions funded under more than one contributing Union programme, the work programme shall set joint conditions, including for the limitation of pa rticipation under paragraphs 1- 2 of this Article, in accordance with the rules of the contributing Union programmes. 
+ 4. Certain actions may be carried out by legal entities cooperating within a consortium structured in a form of European Chips Infrastructure Consortium . The actions for which s uch consortium may be necessary, as well as specific eligibility requirements for implementing specific actions and tasks , and, where appropriate, operational require ments for setting up, operating , and winding up shall be defined in the work programme. 
+ (13) The following Article 134a is inserted 
+ Article 134a 
+ Additional tasks of the Executive Director 
+ In addition to the tasks listed in Article 19, the Executive Director of the Chips Joint Undertaking shall prepare and, after having taken into account the definition of the Public Authorities Board referred to in Article 137(f), as well as the inputs from relevant stakeholders including as appropriate, roadmaps produced by the Alliance on Processors and Semiconductor technologies, submit for adoption to the Governing Board the work programme for the joint undertaking, to implement the Strategic Research and Innovation Agenda. 
+ (14) Article 136 is amended as follows: 
+ (a) Paragraph 2 is replaced by the following: 
+ “2. For the purpose of paragraphs (1) and (2) Article 134 and points (f) and (g) of Article 137 , the Public Authorities Board shall include only the Commission and public authorities from Member States. Paragraph 1 shall apply mutatis mutandis .” 
+ (15) Article 137 is amended as follows: 
+ (a) The following points (f) and ( g ) are added: 
+ “(f) before each work programme is prepared, define the part of the work programme related to capacity building activities and research and innovation activities, including the corresponding expenditure estimates, taking into account the advice of the European Semiconductor Board and input from other relevant stakeholders, including as appropriate, roadmaps produced by the Alliance on Processors and Semiconductor Technologies; 
+ (g) select proposals corresponding to capacity building activities in accordance with Articles 12(1) and 17(2), point (u);” 
+ (b) Point (d) is replaced by the following: 
+ “(d) select proposals corresponding to research and innovation activities in accordance with Articles 12(1) and 17(2), point (u);” 
+ (16) Article 141 is replaced by the following: 
+ Article 141 
+ Funding rates and rules for participation 
+ 1. For indirect actions funded under Horizon Europe , in accordance with Article 17(2) of Regulation (EU) 2021/695 and by way of derogation from Article 34 of that Regulation and for activities funded under the Digital Europe Programme , the Chips Joint Undertaking may apply different funding rates for the Union funding within an action depending on the type of participant, in particular SMEs and non-profit legal entities, and the type of action. The funding rates shall be indicated in the work programme. 
+ 2. Where it is duly justified in the description of relevant topics in the work programme, a single legal entity established in a Member State or associated country or consortia not meeting the condition laid down in Article 22(2) of Regulation (EU) 2021/695 or in Article 18 of Regulation (EU) 2021/694 shall be eligible to participate in actions funded by the Chips Joint Undertaking. 
+ (17) The references to “Key Digital Technologies Joint Undertaking” shall be understood as referring to “Chips Joint Undertaking”. 
+ Article 2 
+ This Regulation shall enter into force on the date of its publication in the Official Journal of the European Union. 
+ This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+ Done at Brussels, 
+ For the Council 
+ The President 
+ LEGISLATIVE FINANCIAL STATEMENT 
+ Please see LFS of the Chips Act Regulation 
+ (1) 
+ COM(2022) 46, 08.02.2022. 
+ (2) 
+ State of the Union address 2021. 
+ https://ec.europa.eu/info/sites/default/files/soteu_2021_address_en_0.pdf 
+ (3) 
+ COM(2022) 4 5 , 08.02.2022. 
+ (4) 
+ Electronic D esign A utomation tools, i.e. software tools for designing integrated circuits . 
+ (5) 
+ Regulation (EU) 2021/2085 of the Council of 19 November 2021 establishing the Joint Undertakings under Horizon Europe and repealing Regulations (EC) No 219/2007, (EU) No 557/2014, (EU) No 558/2014, (EU) No 559/2014, (EU) No 560/2014, (EU) No 561/2014 and (EU) No 642/2014, OJ L 427, 30.11.2021, p. 17. 
+ (6) 
+ Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme and repealing Decision (EU) 2015/2240, OJ L 166, 11.5.2021, p. 1. 
+ (7) 
+ Regulation (EU) 2021/695 of the European Parliament and of the Council of 28 April 2021 establishing Horizon Europe – the Framework Programme for Research and Innovation, laying down its rules for participation and dissemination, and repealing Regulations (EU) No 1290/2013 and (EU) No 1291/2013, OJ L 170, 12.5.2021, p. 1. 
+ (8) 
+ Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee and the Committee of the Regions. The European Green Deal. COM(2019) 640, 11.12.2019. 
+ (9) 
+ Proposal for a Directive of the European Parliament and of the Council on energy efficiency (recast). COM(2021) 558, 14.7.2021. 
+ (10) 
+ https://digital-strategy.ec.europa.eu/en/library/energy-efficient-cloud-computing-technologies-and-policies-eco-friendly-cloud-market 
+ (11) 
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions. 'Fit for 55': delivering the EU's 2030 Climate Target on the way to climate neutrality. COM(2021) 550, 14.7.2021. 
+ (12) 
+ For instance, the share of e lectric cars in new sales in Europe is increasing and is expected to make up 14% in 2021 . 
+ https://think.ing.com/articles/slow-start-for-electric-vehicles-in-the-us-but-times-are-changing 
+ (13) 
+ https://www.idtechex.com/en/research-article/ev-power-electronics-driving-semiconductor-demand-in-a-chip-shortage/24820 
+ (14) 
+ https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13141-Digitalising-the-energy-sector-EU-action-plan_en 
+ (15) 
+ ‘State of the World' Special Address by President von der Leyen at the World Economic Forum. https://ec.europa.eu/commission/presscorner/detail/en/speech_22_443 
+ (16) 
+ For instance: USA: 
+ https://www.congress.gov/bill/117th-congress/senate-bill/1260?s=1&r=52 
+ China: 
+ https://crsreports.congress.gov/product/pdf/R/R46767 
+ Japan: 
+ https://www.reuters.com/technology/japan-create-scheme-subsidise-domestic-chip-output-nikkei-2021-11-07/ 
+ South Korea: 
+ https://spectrum.ieee.org/south-koreas-450billion-investment-latest-in-chip-making-push 
+ (17) 
+ https://ecscollaborationtool.eu/ecs-sria-workshops.html 
+ (18) 
+ https://digital-strategy.ec.europa.eu/en/news/ceo-roundtable-semiconductors-10-january-2022 
+ (19) 
+ A non-exhaustive list: Measuring distortions in international markets: The semiconductor value chain OECD 2019; The Geopolitics of Semiconductors, prepared by EURASIA group, Sept 2020; The global semiconductor value chain, Stiftung Neue Verantwortung, Oct 2020; The Weak Links in China's Drive for Semiconductors, Montaigne institute, Jan 2021; Strengthening the Semiconductor supply chain in an uncertain Era, BCGxSIA, April 2021; SIA Factbook, May 2021; Building Resilient Supply Chains, Revitalizing American Manufacturing, and Fostering Broad-Based Growth, A Report by the White House, June 2021; Mapping China’s semiconductor ecosystem in global context, Stiftung Neue Verantwortung, June 2021; Semiconductors Global Policy Review Access Partnership, Sept 2021; Semiconductors: U.S. Industry, Global Competition, and Federal Policy, Congressional Report Service October 2021; Semiconductor Strategy for Germany and Europe, ZVEI, Oct 2021; Understanding the global chip shortage Stiftung Neue Verantwortung, Nov 2021. 
+ (20) 
+ OJ C , , p. . 
+ (21) 
+ OJ C , , p. . 
+ (22) 
+ Council Regulation (EU) 2021/2085 of 19 November 2021 establishing the Joint Undertakings under Horizon Europe and repealing Regulations (EC) No 219/2007, (EU) No 557/2014, (EU) No 558/2014, (EU) No 559/2014, (EU) No 560/2014, (EU) No 561/2014 and (EU) No 642/2014 (OJ L 427, 30.11.2021, p.17). 
+ (23) 
+ OJ L …, p… 
+ (24) 
+ Regulation (EU) 2021/695 of the European Parliament and of the Council of 28 April 2021 establishing Horizon Europe – the Framework Programme for Research and Innovation, laying down its rules for participation and dissemination, and repealing Regulations (EU) No 1290/2013 and (EU) No 1291/2013 (OJ L 170, 12.5.2021, p. 1). 
+ (25) 
+ Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme and repealing Decision (EU) 2015/2240 (OJ L 166, 11.5.2021, p. 1). 
+ (26) 
+ The Alliance is referred to in the Communication from the Commission of 5 May 2021 on ‘Updating the 2020 New Industrial Strategy: Building a stronger Single Market for Europe’s recovery’.

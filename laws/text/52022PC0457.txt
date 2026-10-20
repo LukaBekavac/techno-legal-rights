@@ -1,0 +1,1276 @@
+### European Media Freedom Act | CELEX 52022PC0457 | text version 52022PC0457 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 16.9.2022
+ COM(2022) 457 final
+ 2022/0277(COD)
+ Proposal for a
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ establishing a common framework for media services in the internal market (European Media Freedom Act) and amending Directive 2010/13/EU
+ (Text with EEA relevance)
+ {SEC(2022) 322 final} - {SWD(2022) 286 final} - {SWD(2022) 287 final}
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ This explanatory memorandum accompanies the proposal for a r egulation of the European Parliament and Council establishing a common framework for media services in the internal market ( the ‘ European Media Freedom Act ’ ) . The proposal delivers on the political commitment by President von der Leyen , who announced the initiative in her 2021 State of the Union address . In her speech, s he stressed the role of information as a public good , acknowledg ing that media companies cannot be treated as any other businesses and that their independence must be protected at EU level 
+ 1 
+ . The initiative has been included in the Commission’s 2022 w ork p rogramme 
+ 2 
+ . 
+ The media sector i s part of the cultural and creative industries ecosystem 
+ 3 
+ , one of the 14 industrial ecosystems that are key for an inclusive and sustainable recovery and for the twin (green and digital) transition of the EU economy . At the same time, m edia services are not only an important and dynamic economic sector , they are also essential for a healthy civic sphere and for economic freedoms and fundamental rights , including equality 
+ 4 
+ . Independent m edia, and in particular news media, provide access to a plurality of views and are reliable sources of information to citizens and businesses alike. They contribute to shaping public opinion and help people and companies form views and make informed choices. They play a crucial role in preserving the integrity of the European information space and are essential for the functioning of our democratic societies and economies . With digital technologies, media services can increasingly be accessed across borders and through various means , while competition in the digital media space is increasingly international . The European Union is already a global standard setter in this field, with this proposal further strengthening and organising the European information space. 
+ Against this background, the proposal seeks to tackle a series of problems affecting the functioning of the internal market for media services and the operation of media service providers. In particular, media companies face obstacles hindering their operation and impacting investment conditions in the internal market such as different national rules and procedures related to media freedom and pluralism. These rules include in particular scrutiny of market concentrations for media pluralism purposes and protectionist measures affecting the operation of media companies. Such rules have created fragmentation in the internal market, impacting legal certainty for media market players and resulting in additional costs when operating across borders. 
+ The picture is further complicated by insufficient cooperation among national media regulators 
+ 5 
+ . The European Regulators Group for Audiovisual Media Services (ERGA) has limited scope for action , and that scope is related to audiovisual media services only . Moreover , ERGA does not have sufficient tools and resources to contribute to solv ing cross-border matters or practical issues in key areas of media regulation . Th e result ing insufficient regulatory convergence affect s media market players, in particular providers of audiovisual media services and video-sharing platforms , and harms the public interest . The role of media regulators is also key in the protection from rogue media service providers, including those that are state-controlled , be it financially or editorially by certain third countries, which may prejudice or pose risks of prejudice to public security and defence. 
+ European media service providers also face increasing interference in their editorial decisions and ability to provide quality media services ( i.e. services produced independently and in line with journalistic standards ) in the internal market, as evidenced by the Commission’s annual r ule of l aw reports 
+ 6 
+ and the Media Pluralism Monitor 
+ 7 
+ . The problem is driven by fragmented safeguards to prevent interference in the editorial freedom of all media and uneven independence guarantees for public service media 
+ 8 
+ , leading to distortions of competitive conditions in the internal market . 
+ Finally, internal market barriers and an uneven playing field result from the opaque and unfair allocation of economic resources . In particular, the opacity of and biases inherent to proprietary systems of audience measurement skew advertising revenue flows, affecting negatively in particular media service providers and disadvantaging competitors that provide audience measurement services abiding by industry-agreed standards 
+ 9 
+ . T he internal market is also distorted by the opaque and unfair allocation of s tate advertising (i.e. public funds used for advertising purposes) , which may be allocated preferentially to incumbent national service providers or used to favour and covertly subsidise certain media outlets that provide government-friendly views . The regulation in this area is fragmented and limited 
+ 10 
+ , with many Member States lacking specific rules and the existing rules varying in scope 
+ 11 
+ , to the detriment of legal certainty and with the ensuing risk of arbitrary or discriminatory decisions . 
+ While the gravity of the problems varies across the EU, overall they make it difficult for media service providers to use the internal market to its full potential, maintain economic sustainability and properly fulfil their societal role to inform people and businesses. The recipients of media services are also negatively impacted by an insufficient or non-independent media offer, the uneven playing field and the lacking protection of their interests. 
+ Both Parliament 
+ 12 
+ and Council 
+ 13 
+ have repeatedly called on the Commission to take action to lift barriers to the functioning of the internal media market and promote pluralism and independence in that market. In the final report of the Conference on the Future of Europe, published on 9 May 2022, in their proposals , citizens called on the EU to further promote media independence and pluralism , in particular by introducing a legislation addressing threats to media independence through EU-wide minimum standards . They also called to defend and support free, pluralistic and independent media, to step up the fight against disinformation and foreign interference, and to ensure the protection of journalists 
+ 14 
+ . 
+ Against this background, the proposal for a European Media Freedom Act aims to improve the functioning of the internal media market. 
+ The proposal is articulated around four specific objectives: 
+ · Fostering cross-border activity and investment in media services by harmoni s ing certain elements of the diverging national media pluralism frameworks , in particular to facilitate cross-border service provision. Through coordination at EU level, t he proposal aims to ensure that when assessing media market concentrations independent national authorities approach media pluralism and media independence in a consistent manner . 
+ · Increasing regulatory cooperation and convergence through cross-border coordination tools and EU-level opinions and guid elines. This will promot e consistent approaches to media pluralism and media independence , and provide effective protect ion for users of media services from illegal and harmful content, including online and with regard to service providers (including from third countries) not following EU media standards. 
+ · Facilitating provision of quality media services b y mitigat ing the risk of undue public and private interference in editorial freedom. The proposal aims to guarantee that journalists and editors can work without interference , including when it comes to protecti ng their sources and communications . By fostering editorial independence , i t also guarantees better protection for the interests of recipients of media services . 
+ · Ensuring transparent and fair allocation of economic resources in the internal media market by enhancing transparency and fairness in audience measurement and allocation of state advertising . The proposal aims to ensure transparency, non-discrimination, proportionality, objectivity and inclusiveness of audience measurement methodologies, in particular online. It will also ensure transparency , non-discrimination, proportionality and objectivity in allocation of state advertising to media outlets , in order to minimise the risks of the misuse of public funding for partisan interests, to the detriment of other market players . It will thus promote fair competition in the internal media market . 
+ The legislative proposal is accompanied by a R ecommendation, which sets out a catalogue of voluntary good practices for media companies to promote editorial independence and recommendations to media companies and Member States aimed to increase media ownership transparency. T he R ecommendation will contribute to mitigating the risks of unjustified interference in individual editorial decisions and enhanc ing access to information on media ownership 
+ 15 
+ . 
+ • Consistency with existing policy provisions in the policy area 
+ This proposal is consistent with the existing EU horizontal and sectoral rules concerning media and online services. It seeks to address regulatory gaps, which affect the functioning of the internal media market. 
+ The proposal does so firstly by building on the revised Audiovisual Media Services Directive (AVMSD) 
+ 16 
+ , which governs EU-wide coordination of national legislation for audiovisual media. It steps up cooperation within the European Regulators Group for Audiovisual Media Services (ERGA) set up by the Directive by transforming it into the European Board for Media Services ( ‘ the Board ’ ) and giving it a broader scope of action and additional tasks 
+ 17 
+ . 
+ T he proposal lays down new rules related to media services , such as those on the protection of journalistic sources and communications , s tate advertising and audience measurement. By doing so, it complements the copyright reform 
+ 18 
+ , which supports the financial sustainability of the press. 
+ The proposal is fully consistent with , and complements the e -C ommerce Directive 
+ 19 
+ and the Regulation on platform-to-business relations ( P2B ) 
+ 20 
+ . It is also consistent with and complements the Digital Services Act (DSA) 
+ 21 
+ and the Digital Markets Act (DMA) 
+ 22 
+ , which provide horizontal frameworks setting out harmonised rules for online services. The proposal addresses remaining sector-specific issues which the two horizontal instruments do not fully address. 
+ The proposal complem ents the EU competition rules, which do not directly address the impacts that market concentrations could have on media pluralism or independence , and State aid rules, which are applied on a case-by-case basis ( often ex post ) and do not s ufficiently address the problems created by the unfair allocation of state resources to the media service providers . The proposal ensur es that s tate advertising is systematically subject to ex ante rules on transparency, notably as regards the beneficiaries and the amounts spent , and on fair allocation of such advertising . The proposal, and in particular the s tate advertising provisions, are consistent with the proposal for a Regulation on the transparency and targeting of political advertising 
+ 23 
+ . 
+ Moreover, the proposal is complementary to and does not affect existing EU rules on transparency of ownership. The Anti-Money Laundering (AML) Directive 
+ 24 
+ is the main instrument to ensure beneficial ownership transparency , while t he EU Company Law Directive 
+ 25 
+ regulate s the information that in particular limited liability companies need to disclose in business registers. The AVMSD encourage s Member States to adopt measures to make accessible information on the ownership structure of audiovisual media . The proposal will complement the existing framework b y requiring all media service providers providing news and current affairs content to provide information on media ownership in particular on direct , indirect and beneficial owners , to recipients of media services . 
+ Th e proposal is also consistent with the Protocol on the system of public broadcasting in the Member States (the Amsterdam Protocol) 
+ 26 
+ , which recognises the competence of Member States to define the public service remit of public service media and to provide for their funding insofar as such funding does not affect trading conditions and competition in the EU to an extent that would be contrary to the common interest . The Amsterdam Protocol implicitly confirms that public service media are within the scope of the internal market. 
+ The proposal is in line with the Strategic Compass for Security and Defence 
+ 27 
+ and relevant Council Conclusions 
+ 28 
+ . By strengthening the role and cooperation between media regulators , including in matters affecting the EU’s information space, the proposal complements the actions taken to develop the EU’s toolbox on Foreign Information Manipulation and Interference. 
+ Th e proposal is in line with the Council of Europe’s Recommendation of the Committee of Ministers to Member States on public service media governance 
+ 29 
+ . The r ecommendation states that public service media need to operate and evolve within a sustainable governance framework, which secures both the necessary editorial independence and public accountability. 
+ In view of the recent threats to journalistic sources, the proposal adds a targeted safeguard against the deployment of spyware in devices used by media service providers or journalists, building on protections provided by Directive 2002/58/EC (the ePrivacy Directive), Directive 2016/680/EU (the Law Enforcement Directive) and Directive 2013/40/EU on attacks against information systems. 
+ • Consistency with other Union policies 
+ The proposal builds on the European d emocracy a ction p lan 
+ 30 
+ in which the Commission proposed a set of measures to promote democratic participation, fight disinformation and support free and independent media. By strengthening the protection of journalistic sources and communications, t he initiative complements the Recommendation on the protection, safety and empowerment of journalists 
+ 31 
+ , as well as the proposal for a Directive 
+ 32 
+ and Recommendation 
+ 33 
+ on protecting persons who engage in public participation from manifestly unfounded or abusive court proceedings ( ‘ Strategic lawsuits against public participation ’ ). The proposal provides concrete actions in response to the European Declaration on Digital Rights and Principles for the Digital Decade 
+ 34 
+ , which calls for safeguarding the freedom of expression and information online, and supports the implementation of the M edia and a udiovisual a ction p lan 
+ 35 
+ , in which the Commission set out a series of actions to strengthen financial sustainability and digital transformation of the media sector. 
+ The proposal aims at strengthening editorial independence of media service providers. In parallel, financial sustainability is a key element for protecting editorial independence from external and market pressures. As raised by stakeholders during the public consultation, the fragile economic situation of the media sector remains an issue, and has been exacerbated by the COVID-19 crisis. Securing diverse and sufficient financing sources could bolster the resilience and independence of media, and support the provision of quality services to Europeans. 
+ Consequently, the media sector has been increasingly turning to the EU for financial support, in view of the fact that the Commission has for long co-financed the independent media coverage of European affairs to foster a European public sphere. While inevitably limited in amount relative to the scale and importance of the sector, European funding is indeed well placed to contribute to the recovery of the sector from the COVID-19 pandemic, the digital transformation of news, and the experimenting across borders of new formats or new models to monetise content online. 
+ As a result, following the adoption of the M edia and a udiovisual a ction p lan in December 2020, the Commission has bundled actions geared to support news media , in full respect of editorial independence . For example, i t has set up MEDIA INVEST , a dedicated equity investment instrument under the InvestEU programme, designed to foster the financial capacity of European audiovisual companies. Equity support is also available to news media since 2022, combined with investment readiness actions to mobilise private investors and increase equity investment volumes. In parallel, the Commission is supporting the launch of a dedicated co-investment facility under the InvestEU programme with foundations and philanthropic organisations in order to target three specific mission areas, including ‘Media pluralism, democracy and culture’ 
+ 36 
+ . Innovation is another focus of the bundle: under the research and innovation and digital programmes, financing is offered to develop innovative solutions, including in particular a soon-to-be-launched call to develop a European media data space. In addition, innovative research funded under Horizon 2020 and Horizon Europe helps to understand the impact of the media on citizens and democracy, and provide tools and strategies to foster a healthier and more diverse media landscape, tackling online disinformation and improving journalistic standards. Regular exchanges with the industry in the context of the European News Media Forum , also cont ribute to monitoring innovation in the sector, and provide a forum to discuss the EU agenda on the matter. 
+ Following the Media and audiovisual action plan, the news media sector has become a dedicated focus of the Creative Europe programme, designed to support the cultural and creative sectors. The programme can finance partnerships between media organisations in order to innovate, test new formats or share good business practices across borders. Creative Europe also co-finances projects that promote a more pluralistic media environment: grants allow to provide protection for reporters (including legal support) and cover areas such as fact-finding, monitoring, advocacy work, informing the public and awareness raising. EU funding also supported the operations of media councils, as well as the activities of the Media Pluralism Monitor. As of 2023, the Commission will also allocate dedicated funding under the Creative Europe programme to support media that serve the public interest, such as investigative outlets, thus contributing to a pluralistic debate across borders and a more healthy democracy. 
+ T he demand for media funding exceeds the funds available. T he European Parliament called for the reinforce ment of the funding opportunities for the news media sector, in particular through a permanent News Media Fund and by strengthening the budgets for the C ross-sectoral and M edia strands under Creative Europe 
+ 37 
+ . The Council also invited the Commission to strengthen funding for independent journalism 
+ 38 
+ . With a view to complementing current EU policies, and ultimately reinforcing the financial resilience of the sector, t he Commission will map public financial schemes and initiatives developed by Member States and ide ntify financing trends and gaps . 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ The legal basis for this proposal is Article 114 of the Treaty on the Functioning of the European Union (TFEU), which provides for the adoption of measures for the approximation of the provisions laid down by law, regulation or administrative action in Member States which have as their object the establishment and functioning of the internal market. 
+ The proposal aims to address the fragmented national regulatory approaches related to media freedom and pluralism and editorial independence. This will foster a common approach and coordination at EU level, ensure the optimal functioning of the internal market for media services, and prevent the emergence of future obstacles to the operation of media service providers across the EU. 
+ In particular, the proposal aims at tackling the following issues hindering the provision of media services in the internal market: 
+ · national restrictions related to sources and communications of journalists as service providers , affecting th e production and provision of media services; 
+ · interference in the operation of media service providers, including their editorial decisions, and diverging approaches to protection of editorial independence; 
+ · the risk of state interference in public service media, to the detriment of a level playing field in the single market and quality of public service media; 
+ · the market operations of rogue operators (including media service providers that are state-controlled, be it financially or editorially, by certain third countries) that create tensions in the application of the free movement rules within the Union; 
+ · given the increasing digitalis ation of media service distribution, the risks to free provision of media services on very large online platforms, to the detriment of a level playing field in the internal market; 
+ · n ational media market measures affecting the operation of media service providers restricti ng the free movement in the Union, thereby fragmenting the internal market and leading to legal uncertainty; the same applies to national rules and procedures for the assessment of the impact of media market concentrations on media pluralism and editorial independence; 
+ · o pacity and possible biases in audience measurement systems and methodologies , leading to market distortion , to the detriment of the level playing field in the internal market; 
+ · u nfair and un-transparent allocation of state advertising expenditure to media service providers, to the detriment of other media service providers , including those established in other Member States . 
+ In addition, Article 114 TFEU is an appropriate legal basis for the creation of new structures under EU law. This is particularly relevant given the governance aspect of the initiative, which aims to foster closer cooperation between national media regulators within an EU-level Board, which would be tasked to promote the effective and consistent application of EU media rules. 
+ The EU legislator must not only comply with fundamental rights when regulating the internal market 
+ 39 
+ , but also balance competing fundamental rights 
+ 40 
+ . The present Regulation proposal constitutes a harmonious, coordinated and multi-pronged legislative framework by which the legislator contributes to the development and protection of the internal market for media services, thereby also pursuing several further legitimate public interests (including the protection of users) and reconciling in a fair manner the fundamental rights of all the individuals concerned. 
+ • Subsidiarity 
+ The objectives of the intervention cannot be achieved by Member States acting alone, as the problems are increasingly of a cross-border nature and not limited to individual Member States or to a subset of Member States. Production, distribution and consumption of media content, including news, are increasingly digital and cross-border as the internet continues to drive the transformation of traditional media business models. The provision of media services across the EU is increasingly affected by global platforms, which act as gateways to media content while being prominent online advertising providers. 
+ A common EU approach, promoting convergence, transparency, legal certainty and a level playing field for the relevant media market players is the best way to advance the internal media market. It will reduce the burden for media service providers, who have to comply with different national legal regimes when they operate in several Member States. It will enhance legal certainty for media market players, thereby promoting fair competition and cross-border investment. It will also enable media regulators to adopt coordinated responses in matters affecting the EU’s information space and in particular the protection of EU consumers’ interests. 
+ The initiative takes due account of the Protocol on the system of public broadcasting in the Member States (the Amsterdam Protocol) and Article 4(2) of the Treaty on European Union (TEU). It will not interfere with Member States’ competence to provide funding to public service media so that they can fulfil their public service remit, as conferred, defined and organised at national level, nor will it interfere with national identities or regulatory traditions in the media field. It also takes due account of stakeholders’ views; it thus follows the proposition that exceedingly uniform and detailed EU media pluralism rules would be undesirable and disproportionate, as such rules must be adapted to the historic and cultural background of each Member State. Instead, the initiative strikes the right balance between generally couched provisions and more specific rules to reach the policy objectives. 
+ • Proportionality 
+ The initiative builds on existing legal frameworks and will only focus on areas where additional EU action appears necessary for the proper functioning of the internal media market, including to ensure a level playing field and independent operation of media market players across the EU. It is limited to issues on which Member States cannot achieve satisfactory solutions on their own, and provides for a well-calibrated harmonisation that does not go beyond what is necessary to achieve the objective of establishing a common framework for the proper functioning of the internal market for media services, while guaranteeing the quality of such services. The fact that several of the proposed rules are principle-based also contributes to ensuring the proposals’ proportionality. 
+ The proposal gives rise to limited compliance and enforcement costs that will likely be offset by significant benefits for media market players and citizens. By enhancing transparency and reducing regulatory fragmentation in the market, the proposal will enhance legal certainty and fair competition while reducing market distortions. This will increase investors’ confidence and make cross-border media market transactions less burdensome, creating a positive environment for investments and free provision of media services across the EU. Citizens and businesses will also benefit from a more diverse and plural media offer, increased transparency and improved access to information. 
+ • Choice of the instrument 
+ The proposal takes the form of a regulation of the European Parliament and of the Council. In view of the issues to be addressed and given the economic, social and political context, a regulation is more suitable than a directive to ensure a consistent level of protection throughout the EU and reduce regulatory divergences that would hamper the independent provision of media services in the internal market. It will allow for a quick application of the new EU rules, thus addressing the problems faster. This will avoid a lengthy transposition process, prevent potential divergences or distortions during the transposition process, by stipulating directly applicable provisions and avoiding situations where Member States use the transposition process as a pretext to introduce or keep legislative measures that in substance run against independent media service providers or are otherwise discriminatory. The recourse to a regulation is also preferable given the initiative’s institutional component (the establishment of the Board). The choice of a regulation is equally justified by the increasing digitalisation and cross-border provision of media services, which calls for a swift, consistent approach across the internal market. By establishing directly applicable provisions, the proposed regulation will also ensure effective and efficient cooperation among national media regulatory authorities and bodies of the Member States. 
+ 3. RESULTS OF EX POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Stakeholder consultations 
+ The proposal is based on extensive consultation with stakeholders, in the light of the general principles and standards for consultation of interested parties by the Commission. 
+ A c all for e vidence announcing the initiative was published on 21 December 2021 and was open for feedback until 25 March 2022. A total of 1 473 responses were received 
+ 41 
+ . A public consultation was open from 10 January to 25 March 2022 and attracted 917 responses 
+ 42 
+ . They were both promoted through the Commission’s website, as well as through social media and specific networks. While the c all for e vidence aimed at gathering general feedback in response to the Commission’s announcement of the initiative, the public consultation collected views through a structured questionnaire containing specific questions regarding the initiative. 
+ In addition, t he Commission organised meetings with key stakeholders and experts to gather additional evidence and data on the specific problems to be addressed by the initiative, the policy approach and its impact , as well as technical information about existing industry practices. It also conducted targeted workshops and analysed numerous position and analytical papers received in the context of the initiative’s preparation. The preparation of the i mpact a ssessment underpinning the initiative was supported by two external studies encompassing a series of individual consultations with key stakeholders 
+ 43 
+ . 
+ Furthermore, the Commission discussed the initiative with members of the AVMSD Contact Committee and ERGA. These expert groups provided a direct channel to consult the most relevant authorities at Member State level. To gather views of researchers and experts with particular expertise in relevant areas (such as public and constitutional law as well as media freedom and internal market), a specific workshop with representatives from academia, ERGA and the Commission was organised on 18 February 2022. 
+ The idea of a legislative proposal, regulating at least certain substantive areas, received support from citizens and most other stakeholders, including the media freedom community, consumer organisations, media regulators and ERGA, public and private broadcasters, content distributors and advertising ecosystem players. Among those stakeholders, there is wide support for a principle-based approach as opposed to no action or detailed standard-setting. 
+ Non-governmental organisations and public service broadcasters particularly supported EU-level action to introduce safeguards for editorial independence, including that of public service media, while recalling the importance of the Amsterdam Protocol. Public broadcasters specifically support safeguards for editorial integrity online and guidance on the appropriate prominence of audiovisual media services of general interest. 
+ Private broadcasters were especially in favour of common principles for media pluralism measures and audience measurement transparency, objectivity and verifiability, on the latter aspect agreeing with publishers and the advertising ecosystem players. Publishers, who are traditionally unregulated, expressed a general preference for self-regulation or a recommendation. However, they did support EU-wide measures both on protection of journalistic sources and on state advertising. Citizens strongly agreed with the need for transparency and fairness in the allocation of state advertising. Broadcasters and publishers called for effective regulation of online platforms. 
+ As regards governance, there is overall wide support for oversight based on ERGA but differing views as to its potential future status. Regulators and the media freedom community are in favour of strengthening ERGA, while companies and business associations would rather keep it in its current form. Public authorities supported in particular regulatory cooperation at EU level to facilitate common standards for media pluralism and the strengthening of the role and resources of ERGA for further EU coordination. 
+ • Collection and use of expertise 
+ The Commission has relied on a wide array of expertise for the preparation of this proposal. 
+ In addition to the public consultation and other stakeholder consultations described above, the Commission contracted two external studies to ensure a high level of coherence and comparability of analysis for all potential policy approaches. 
+ The European Audiovisual Observatory of the Council of Europe also produced a special report on governance and independence of public service media 
+ 44 
+ . The publication is accompanied by a comprehensive overview on the main governance safeguards for public service media in Europe. 
+ T he Commission’s r ule of l aw reports , the annual reports produced by the Media Pluralism Monitor as well as some Eurobarometer surveys provided evidence and analysis on many relevant issues . These sources were used to identify the problem s, their scale in the internal media market and their drivers. The Commission has also built on the relevant Council of Europe Recommendations, which were agreed on by all Member States 
+ 45 
+ . 
+ Finally, to further support evidence-based analysis, the Commission conducted a review of relevant case law and an extensive literature review, covering academic literature and a wide spectrum of policy studies and reports, including by NGOs active in the area of media freedom and pluralism. 
+ • Impact assessment 
+ In line with its ‘Better Regulation’ policy, the Commission conducted an impact assessment for this proposal, examined by the Commission's Regulatory Scrutiny Board (RSB). The impact assessment report was first submitted to the RSB on 13 May, and was discussed with it during a hearing on 8 June. Following a negative opinion delivered on 10 June, the report was substantially revised and re-submitted to the RSB on 11 July. The RSB delivered a positive opinion with reservations on 27 July. The impact assessment report was further revised to accommodate the RSB’s suggestions for improvement. The opinions of the RSB, and the comments and explanations of how they have been taken into account, are presented in Annex 1 to the impact assessment. 
+ The Commission examined different policy options to achieve the proposal’s general objective, which is to improve the functioning of the internal media market. 
+ Three policy options of different degrees of regulatory intensity were assessed: 
+ · Option 1: Recommendation on media pluralism and independence , encouraging Member States and, in certain areas, companies in the media market to implement a set of actions to promote media pluralism, editorial independence and transparency and fairness in the media market. 
+ · Option 2: Legislative proposal and recommendation on media independence , the former providing common rules for the internal market for media services and the latter encouraging media companies and Member States to foster media independence and transparency. 
+ · Option 3: Enhanced legislative proposal adding on top of all the legislative elements of O ption 2 further obligations for companies in the media market and regulators to foster the availability of quality media services and transparent and fair allocation of economic resources in the media market. 
+ Two sub-options were considered for the governance of the legislative instrument under options 2 and 3: 
+ · Sub-option A: a governance system based on a b oard supported by a Commission secretariat ; 
+ · Sub-option B: a governance system based on a b oard assisted by an independent EU office . 
+ According to the Commission’s established methodology, each policy option was evaluated for economic, social and fundamental rights impacts. The preferred option is Option 2 Sub-option A. This option will meet the general objective of the intervention in an efficient, coherent, proportionate and largely effective way. 
+ In particular, the proposed legislative instrument will establish some core principles and rules for the media market, and assign important tasks to the Board, as the collective body of independent media regulators, including tasks to provide expert advice on regulatory, technical or practical aspects of media regulation, to issue opinions on market concentrations likely to affect the functioning of the internal market and to coordinate actions with regard to media service providers (including from third countries) not following EU media standards. It will be possible to rely on the principles and rules established in the legislative instrument before national courts, and the Commission will be able to launch infringements proceedings, inter alia in case of systemic issues. The non-binding element of the policy package - the Recommendation - will suggest voluntary actions on two specific issues: media independence safeguards and media ownership transparency. Such a multi-layered and flexible approach will bring the desired benefits while optimising the costs for media market players and public authorities, also taking into account the lower cost of a Commission secretariat compared to the EU office. 
+ The impacts of the policy options on different categories of stakeholders are explained in detail in Annex 3 to the impact assessment. 
+ • Fundamental rights 
+ The proposed regulation, by enhancing regulatory convergence in the internal media market, safeguarding editorial independence in conjunction with media service providers’ business freedom, and increasing transparency and fairness in the allocation of economic resources, will facilitate the provision of independent and quality media services across borders, hence promoting media freedom and pluralism. The key role of the Board in the new framework, fully independent from governments and any other public or private entities, will contribute to effective and impartial upholding of freedom of expression across the EU, protected by Article 11 of the Charter of Fundamental Rights of the European Union (‘the Charter’), which corresponds to Article 10 of the European Convention on Human Rights. 
+ The proposed regulation will also have a positive impact on the freedom to conduct a business (Article 16 of the Charter), by lifting obstacles to the freedom to provide services and limiting the risks of certain media market players being subject to discriminatory treatment. 
+ 4. BUDGETARY IMPLICATIONS 
+ The budgetary impact of the proposal for this regulation will be covered by the allocations laid down in the 2021-2027 multiannual financial framework under the financial allocations for the Creative Europe programme, as detailed in the legislative financial statement accompanying the proposal. 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ The Commission will establish a comprehensive framework to continuously monitor the output, results and impact of this legislative instrument. This includes in particular a new independent monitoring mechanism to identify and assess risks to the functioning of the internal market for media services. An evaluation of the instrument and a report to the European Parliament, the Council and the European Economic and Social Committee are envisaged within 4 years from its entry into force and every 4 years thereafter. 
+ • Detailed explanation of the specific provisions of the proposal 
+ Chapter I sets out the subject matter and scope of the Regulation and the definitions of key terms used in the Regulation. In particular, it states that Chapter II and Chapter III, Section 5 of the Regulation are minimum harmonisation provisions. 
+ Chapter II contains rights of recipients of media services and rights of media service providers in the internal market. It also sets out safeguards for the independent functioning of public service media and duties of media service providers in the internal market. 
+ Chapter III lays out a framework for regulatory cooperation and a well-functioning market for media services. 
+ Section 1 provides that the independent national regulatory authorities or bodies of the Member States that are in charge of implementation of the AVMSD are responsible for the application of this Chapter and grants them appropriate powers of investigation to carry out their tasks. 
+ Section 2 establishes the European Board for Media Services, the collective body of independent media regulators, replacing and succeeding the European Regulators Group for Audiovisual Media Services (ERGA). It sets out the requirements for the independence of the Board and specifies its structure. The Board will receive administrative and organisational support, required for carrying out its tasks, from a secretariat provided by the Commission. The Chapter lists the tasks of the Board under the Regulation. 
+ Section 3 establishes rules and procedures for regulatory cooperation and convergence in the internal media market, comprising a mechanism for structured cooperation, requests for enforcement measures, guidance on media regulation matters and coordination of measures concerning third-country media services. The provisions are intended to ensure a closer cooperation among national regulatory authorities and bodies in different areas of media regulation. 
+ Section 4 addresses specific issues concerning the provision of media services in a digital environment. Regarding the provision of media services on very large online platforms, it builds on existing horizontal legislation by providing additional safeguards for editorial integrity of content provided online by media service providers that adhere to certain regulatory or self-regulatory standards, and establishing a structured dialogue between very large online platforms and relevant media ecosystem counterparts. The Section also provides for the right of customization of audiovisual media offer in devices and user interfaces controlling access to audiovisual media services and the corresponding obligation of manufacturers and developers to technically enable such customisation. 
+ Section 5 sets out a legal framework for national measures affecting the operation of media service providers and lays down requirements for national rules and procedures related to the assessment of the impact of media market concentrations on media pluralism and editorial independence. The Board will be given the task of taking position on instances where the functioning of the internal market may be affected. 
+ Section 6 establishes requirements for audience measurement systems and methodologies deployed by relevant market players. The rules are accompanied by an encouragement to draw up codes of conduct and to foster exchanges of best practices. Section 6 also provides for common requirements on the allocation of state advertising expenditure to media service providers, without affecting the public procurement rules and the State aid rules. 
+ Chapter IV sets out final provisions, in particular concerning monitoring, evaluation and reporting. The Regulation includes a mechanism for the Commission to monitor risks to the functioning of the internal market for media services on a regular basis, in consultation with the Board. The Chapter also repeals the relevant Article of the AVMSD and specifies the entry into force and the start of application of the Regulation. 
+ 2022/0277 (COD) 
+ Proposal for a 
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ establishing a common framework for media services in the internal market (European Media Freedom Act) and amending Directive 2010/13/EU 
+ (Text with EEA relevance) 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Economic and Social Committee, 
+ Having regard to the opinion of the Committee of the Regions, 
+ Acting in accordance with the ordinary legislative procedure, 
+ Whereas: 
+ (1) Independent media services play a unique role in the internal market. They represent a fast-changing and economically important sector and at the same time provide access to a plurality of views and reliable sources of information to citizens and businesses alike, thereby fulfilling the general interest function of ‘public watchdog’. Media services are increasingly available online and across borders while they are not subject to the same rules and the same level of protection in different Member States . 
+ (2) Given the ir unique role, the protection of media freedom and pluralism is an essential feature of a well-functioning internal market for media services (or ‘ internal media market ’ ) . This market has substantially changed since the beginning of the new century, becoming increasingly digital and international. It offers many economic opportunities but also faces a number of challenges. The Union should help the media sector seize those opportunities within the internal market, while at the same time protecting the values , such as the protection of the fundamental rights , that are common to the Union and to its Member States. 
+ (3) In the digital media space, citizens and businesses access and consume media content, immediately available on their personal devices, increasingly in a cross- b order setting . Global online platforms act as gateways to media content, with business models that tend to disintermediate access to media services and amplify polarising content and disinformation. These platforms are also essential providers of online advertising, which has diverted financial resources from the media sector , affecting its financial sustainability, and consequently the diversity of content on offer. As media services are knowledge- and capital-intensive, they require scale to remain competitive and to thrive in the internal market. To that effect, the possibility to offer services across borders and obtain investment including from or in other Member States is particularly important. 
+ (4) However, the internal market for media services is in sufficiently integrated. A number of national restrictions hamper free movement within the internal market . In particular, different national rules and approaches related to media pluralism and editorial independence, insufficient cooperation between national regulator y authorities or bodies as well as opaque and unfair allocation of public and private economic resources make it difficult for media market players to operate and expand across borders and lead to an uneven level playing field across the Union. The integrity of the internal market for media services may also be challenged by providers that systematically engage in disinformation, including information manipulation and interference, and abuse the internal market freedoms , including by state-controlled media service providers financed by certain third countries . 
+ (5) Moreover, in response to challenges to media pluralism and media freedom online, some Member States have taken regulatory measures and other Member States are likely to do so, with a risk of further ing the divergen ce in national approaches and restrictions to free movement in the internal market. 
+ (6) Recipients of media services in the Union ( natural persons who are nationals of Member States or benefit from rights conferred upon them by Union law and legal persons established in the Union ) should be able to effectively enjoy the freedom to receive free and pluralistic media services in the internal market. In fostering the cross-border flow of media services , a minimum level of protection of service recipients should be ensured in the internal market. That would be in compliance with the right to receive and impart information pursuant to Article 11 of the Charter of Fundamental Rights of the E uropean U nion ( ‘ the Charter ’ ) . It is thus necessary to harmonise certain aspects of national rules related to media services. In the final report of the Conference on the Future of Europe, citizens called on the EU to further promote media independence and pluralism, in particular by introducing legislation addressing threats to media independence through EU-wide minimum standards 
+ 46 
+ . 
+ (7) For the purposes of this Regulation, the definition of a media service should be limited to services as defined by the Treaty and therefore should cover any form of economic activity. This definition should exclude user-generated content uploaded to an online platform unless it constitutes a professional activity normally provided for consideration (be it of financial or of other nature) . I t should also exclude purely private correspondence, such as e-mails, as well as all services that do not have the provision of audiovisual or audio programmes or press publications as their principal purpose , meaning where the content is merely incidental to the service and not its principal purpose, such as advertis ements or information related to a product or a service provided by websites that do not offer media services. The definition of a media service should cover in particular television or radio broadcasts, on-demand audiovisual media services, audio podcasts or press publications. C orporate communication and distribution of informational or promotional materials for public or private entities should be excluded from the scope of this definition. 
+ (8) In the digitalised media market, providers of video-sharing platforms or very large online platforms may fall under the definition of media service provider. In general, such providers play a key role in the content organisation, including by automated means or algorithms, but do not exercise editorial responsibility over the content to which they provide access. However, in the increasingly convergent media environment, some providers of video-sharing platforms or very large online platforms have started to exercise editorial control over a section or sections of their services. Therefore, such an entity could be qualified both as a video-sharing platform provider or a very large online platform provider and as a media service provider. 
+ (9) The definition of audience measurement should cover measurement systems developed as agreed by industry standards within self-regulatory organisations , like the Joint Industry Committees , and measurement systems developed outside such self-regulatory approaches. The latter tend to be deployed by certain online players who self-measure or provide their proprietary audience measurement systems to the market , which do not necessarily abide by the commonly agreed industry standards. Given the significant impact that such audience measurement systems have on the advertising and media markets, they should be covered by this Regulation. 
+ (10) S tate advertising should be understood broadly as covering promotional or self-promotional activities undertaken by, for or on behalf of a wide range of public authorities or entities , including governments, regulatory authorities or bodies as well as state-owned enterprises or other state-controlled entities in different sectors , at national or regional level , or local government s of territorial entit ies of more than 1 million inhabitants . However, the definition of s tate advertising should not include emergency messages by public authorities which are necessary, for example, in cases of natural or sanitary disasters, accidents or other sudden incidents that can cause harm to individuals. 
+ (11) In order to en sure that society reaps the benefits of the internal media market, it is essential not only to guarantee the fundamental freedom s under the Treaty, but also the legal certainty which the recipients of media services need for the enjoyment of the corresponding benefits. S uch recipients should have access to quality media services, which have been produced by journalists and editors in an independent manner and in line with journalistic standards and hence provide trustworthy information, including news and current affairs content. Such right does not entail any correspondent obligation on any given media service provider to adhere to standards not set out explicitly by law. Such quality media services are also an antidote against disinformation , including foreign information manipulation and interference . 
+ (12) This Regulation does not affect the freedom of expression guaranteed to individuals under the Charter. The European Court of Human Rights has observed that in such a sensitive sector as audiovisual media, in addition to its negative duty of non-interference, the public powers have a positive obligation to put in place an appropriate legislative and administrative framework to guarantee effective pluralism 
+ 47 
+ . 
+ (13) The f ree flow of trustworthy information is essential in a well-functioning internal market for media services. Therefore, the provision of media services should not be subject to any restrictions contrary to this Regulation or other rules of Union law , such as Directive 2010/13/EU of the European Parliament and of the Council 
+ 48 
+ providing for measures necessary to protect users from illegal and harmful content . Restrictions could also derive from measures applied by national public authorities in compliance with Union law . 
+ (14) The p rotection of editorial independence is a precondition for exercising the activity of media service provider s and their professional integrity. Editorial independence is especially important for media service providers providing news and current affairs content given its societal role as a public good. M edia service providers should be able to exercise their economic activities freely in the internal market and compete on equal footing in an increasingly online environment where information flows across borders. 
+ (15) Member States have taken different approaches to the protection of editorial independence, which is increasingly challenged across the Union. In particular, there is growing interference with editorial decisions of media service providers in several Member States. Such interference can be direct or indirect, from the State or other actors, including public authorities, elected officials, government officials and politicians, for example to obtain a political advantage. Shareholders and other private parties who have a stake in media service providers may act in ways which go beyond the necessary balance between their own business freedom and freedom of expression, on the one hand, and editorial freedom of expression and the information rights of users, on the other hand, in pursuit of economic or other advantage. Moreover, recent trends in media distribution and consumption, including in particular in the online environment, have prompted Member States to consider laws aimed at regulating the provision of media content. Approaches taken by media service providers to guarantee editorial independence also vary. As a result of such interference and fragmentation of regulation and approaches, the conditions for the exercise of economic activities by media service providers and, ultimately, the quality of media services received by citizens and businesses are negatively affected in the internal market. It is thus necessary to put in place effective safeguards enabling the exercise of editorial freedom across the Union so that media service providers can independently produce and distribute their content across borders and service recipients can receive such content . 
+ (16) Journalists and editors are the main actors in the production and provi sion of trustworthy media content, in particular by reporting on news or current affairs. I t is essential therefore to protect journalists’ capability to collect, fact-check and analyse information, including information imparted confidentially. In particular, media service providers and journalists ( including those operating in non-standard forms of employment, such as freelancers) should be able to rely on a robust protection of journalistic sources and communications , including against deployment of surveillance technologies, since without such protection sources may be deterred from assisting the media in informing the public on matters of public interest. As a result, journalists’ freedom to exercise their economic activity and fulfil their vital ‘public watchdog’ role may be undermined, thus affecting negatively access to quality media services. The protection of journalistic sources contributes to the protection of the fundamental right enshrined in Article 11 of the Charter. 
+ (17) The protection of journalistic sources is currently regulated heterogeneously in the Member States. Some Member States provide an absolute protection against coercing journalists to disclose information that identify their source in criminal and administrative proceedings . O ther Member States provide a qualified protection confined to judicial proceedings based on certain criminal charges, while others provide protection in the form of a general principle. This leads to fragmentation in the internal media market. As a result, journalists, which work increasingly on cross-border projects and provide their services to cross-border audiences, and by extension providers of media services , are likely to face barriers, legal uncertainty and uneven conditions of competition. Therefore, the protection of journalistic sources and communications needs harmoni s ation and further strengthening at Union level . 
+ (18) Public service media established by the Member State s play a particular role in the internal media market , by ensur ing that citizens and businesses have access to quality information and impartial media coverage, as part of their mission . However, p ublic service media can be particularly exposed to the risk of interference, given their institutional proximity to the State and the public funding they receive. This risk may be exacerbated by uneven safeguards related to independent governance and balanced coverage by public service media across the Union. This situation may lead to biased or partial media coverage, distort competition in the internal media market and negatively affect access to independent and impartial media services. It is thus necessary, building on the international standards developed by the Council of Europe in this regard , to put in place legal safeguards for the independent functioning of public service media across the Union. It is also necessary to gu a rantee that, without prejudice to the application of the Union’s State aid rules, public service media providers benefit from sufficient and stable funding to fulfil their mission that enable s predictability in their planning . Preferably, such funding should be decided and appropriated on a multi-year basis, in line with the public service mission of public service media providers, to avoid potential for undue influence from yearly budget negotiations. The requirements laid down in this Regulation do not affect the competence of Member States to provide for the funding of public service media as enshrined in Protocol 29 on the system of public broadcasting in the Member States , annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union . 
+ (19) I t is crucial for the recipients of media services to know with certainty who owns and is behind the news media so that they can identify and understand potential conflicts of interest which is a prerequisite for forming well-informed opinion s and consequently to actively participate in a democracy . Such transparency is also an effective tool to limit risks of interference with editorial independence . It is thus necessary to introduce common information requirements for all relevant media service providers across the Union that should include proportionate requirement s to disclose ownership i nformation . In this context, the measures taken by Member States under Article 30(9) of Directive (EU) 2015/849 
+ 49 
+ should not be affected. The required information should be disclosed by the relevant providers on their website s or other medium that is easily and directly accessible . 
+ (20) Media integrity also requires a proactive approach to promote editorial independence by news media companies , in particular through internal safeguards . M edia service provider s should adopt proportionate measures to guarantee , once the overall editorial line has been agreed between their owners and editors, the freedom of the editors to take individual decisions in the course of their professional activity. The objective to shield editors from undue interference in their decisions taken on specific pieces of content as part of their everyday work contributes to ensuring a level playing field in the internal market for media services and the quality of such services. That objective is also in conformity with the fundamental right to receive and impart information under Article 11 of the Charter . In view of these considerations, m edia service providers should also ensure transparency of actual or potential conflicts of interest to their service recipients . 
+ (21) To mitigate regulatory burdens, micro enterprises within the meaning of Article 3 of Directive 2013/34/EU of the European Parliament and of the Council 
+ 50 
+ should be exempted from the requirements related to information and internal safeguards with a view to guarantee ing the independence of individual editorial decisions . Moreover, media service providers should be free to tailor the internal safeguards to their needs, in particular if they are small and medium-sized enterprises within the meaning of that Article. The Recommendation that accompanies this Regulation 
+ 51 
+ provides a catalogue of voluntary internal safeguards that can be adopted within media companies in this regard. The present Regulation should not be construed to the effect of depriving the owners of private media service providers of their prerogative to set strategic or general goals and to foster the growth and financial viability of their undertakings. In this respect, th is Regulation recognise s that the goal of fostering editorial independence needs to be reconciled with the legitimate rights and interests of private media owners . 
+ (22) Independent national regulatory authorities or bodies are key for the proper application of media law across the Union . National regulatory authorities or bodies referred to in Article 30 of Directive 2010/13/EU are best placed to ensure the correct application of the requirements related to regulatory cooperation and a well-functioning market for media services , envisaged in Chapter III of this Regulation . In order to ensure a consistent application of this Regulation and other Union media law , it is necessary to set up an independent advisory body at Union level gathering such authorities or bodies and coordinating their actions. The European Regulators Group for Audiovisual Media Services (ERGA), established by Directive 2010/13/EU, has been essential in promoting the consistent implementation of that Directive. The European Board for Media Services (‘the Board’) should therefore build on ERGA and replace it. This requires a targeted amendment of Directive 2010/13/EU to delete its Article 30b, which establishes ERGA, and to replace references to ERGA and its tasks as a consequence . The amendment of Directive 2010/13/EU by this Regulation is justified in this case as it is limited to a provision which does not need to be transposed by Member States and is addressed to the institutions of the Union. 
+ (23) The Board should bring together senior representatives of the national regulatory authorities or bodies referred to in Article 30 of Directive 2010/13/EU , appointed by such authorities or bodies . In cases where Member States have several relevant regulatory authorities or bodies, including at regional level, a joint representative should be chosen through appropriate procedures and the voting right should remain limited to one representative per Member State. This should not affect the possibility for the other national regulatory authorities or bodies to participate, as appropriate, in the meetings of the Board. The Board should also have the possibility to invite to attend its meetings, in agreement with the Commission, experts and observers, including in particular regulatory authorities or bodies from candidate countries, potential candidate countries, EEA countries, or ad hoc delegates from other competent national authorities. Due to the sensitivity of the media sector and following the practice of ERGA decisions in accordance with its rules of procedure, the Board should adopt its decisions on the basis of a two-thirds majority of the votes . 
+ (24) Without prejudice to the powers granted to the Commission by the Treaties, i t is essential that the Commission and the Board work and cooperate closely . In particular, t he Board should actively support the Commission in its task s of ensuring the consistent application of this Regulation and of the national rules implementing Directive 2010/13/EU. For that purpose, the Board should in particular advise and assist the Commission on regulatory, technical or practical aspects pertinent to the application of U nion law, promote cooperation and the effective exchange of information, experience and best practices and draw up opinions in agreement with the Commission or upon its request in the cases envisaged by this Regulation . In order to effectively fulfil its tasks, t he Board should be able to rely on the expertise and human resources of a secretariat provided by the Commission. The Commission secretariat should provide administrative and organisational support to the Board, and help the Board in carrying out its tasks. 
+ (25) Regulatory cooperation between independent media regulatory authorities or bodies is essential to make the internal market for media services function properly. However, Directive 2010/13/EU does not provide for a structured cooperation framework for national regulatory authorities or bodies. Since the revision of the EU framework for audiovisual media services by Directive 2018/1808/EU of the European Parliament and of the Council 
+ 52 
+ , which extended its scope to video-sharing platforms, there has been an ever-increasing need for close cooperation among national regulatory authorities or bodies, in particular to resolve cross-border cases. Such a need is also justified in view of the new challenges in the EU media environment that this Regulation seeks to address, including by entrusting national regulatory authorities or bodies with new tasks. 
+ (26) To ensure the effective enforcement of Union media law , to prevent the possible circumvention of the applicable media rules by rogue media service providers and to avoid the raising of additional barriers in the internal market for media services , it is essential to provide for a clear, legally binding framework for national regulatory authorities or bodies to cooperate effectively and efficiently . 
+ (27) Due to the pan-European nature of video-sharing platforms, national regulatory authorities or bodies need to have a dedicated tool to protect viewers of video-sharing platform services from certain illegal and harmful content, including commercial communications. In particular, a mechanism is needed to allow any relevant national regulatory authority or body to request its peers to take necessary and proportionate actions to ensure enforcement of obligations under this Article by video-sharing platform providers. In case the use of such mechanism does not lead to an amicable solution, the freedom to provide information society services from another Member State can only be restricted if the conditions set out in Article 3 of Directive 2000/31/EC of the European Parliament and of the Council 
+ 53 
+ are met and following the procedure set out therein. 
+ (28) Ensuring a consistent regulatory practice regarding this Regulation and Directive 2010/13/EU is essential. For this purpose, and to contribute to ensuring a convergent implementation of EU media law, the Commission may issue guidelines on matters covered by both this Regulation and Directive 2010/13/EU when needed. When deciding to issu e guidelines, the Commission should consider in particular regulatory issues affecting a significant number of Member States or those with a cross-border element . This is the case in particular for national measures taken under Article 7a of Directive 2010/13/EU on the appropriate prominence of audiovisual media services of general interest . In view of the abundance of information and the increasing use of digital means to access the media, it is important to ensure prominence for content of general interest, in order to help achieving a level playing field in the internal market and compliance with the fundamental right to receive information under Article 11 of the Charter of Fundamental Rights of the Union. Given the possible impact of the national measures taken under Article 7a on the functioning of the internal media market, guidelines by the Commission would be important to achieve legal certainty in this field. It would also be useful to provide guidance o n national measures taken under Article 5(2) of Directive 2010/13/EU with a view to ensuring the public availability of accessible, accurate and up-to-date information related to media ownership. In the process of preparing its guidelines, the Commission should be assisted by the Board. The Board should in particular share with the Commission its regulatory, technical and practical expertise regarding the areas and topics covered by the respective guidelines. 
+ (29) In order to ensure a level playing field in the provision of diverse audiovisual media services in the face of technological developments in the internal market, it is necessary to find common technical prescriptions for devices controlling or managing access to and use of audiovisual media services or carrying digital signals conveying the audiovisual content from source to destination. In this context, it is important to avoid diverging technical standards creating barriers and additional costs for the industry and consumers while encouraging solutions to implement existing obligations concerning audiovisual media services. 
+ (30) R egulatory authorities or bodies referred to in Article 30 of Directive 2010/13/EU have specific practical expertise that allows them to effectively balance the interests of the providers and recipients of media services while ensuring the respect for the freedom of expression . This is key in particular when it comes to protecting the internal market from activities of media service providers established outside the Union that target audiences in the Union where, inter alia in view of the control that may be exercised by third countries over them , they may prejudice or pose risks of prejudice to public security and defence . In this regard , the coordination between national regulatory authorities or bodies to face together possible public security and defence threats stemming from such media services needs to be strengthened and given a legal framework to ensure the effectiveness and possible coordination of the national measures adopted in line with Union media legis l ation . In order to ensure that media services suspended in certain Member States under Article 3(3) and 3(5) of Directive 2010/13/EU do not continue to be provided via satellite or other means in those Member States, a mechanism of accelerated mutual cooperation and assistance should also be available to guarantee the ‘effet utile’ of the relevant national measures , in complian ce with Union law. Additionally, it is necessary to coordinate the national measures that may be adopted to counter public security and defence threats by media services established outside of the Union and targeting audiences in the Union, including the possibility for the Board, in agreement with the Commission, to issue opinions on such measures, as appropriate. In this regard, risks to public security and defence need to be assessed with a view to all relevant factual and legal elements, at national and European level. Th is is without prejudice to the competence of the Union under Article 215 of the Treaty on the Functioning of the European Union . 
+ (31) Very large online platforms act for many users as a gateway for access to media services. Media service providers who exercise editorial responsibility over the ir content play an important role in the distribution of information and in the exercise of freedom of information online. When exercising such editorial responsibility, they are expected to act diligently and provide information that is trustworthy and respectful of fundamental rights, in line with the regulatory or self-regulatory requirements they are subject to in the Member States. Therefore, also in view of users’ freedom of information, where providers of very large online platforms consider that content provided by such media service providers is incompatible with their terms and conditions, while it is not contributing to a systemic risk referred to in Article 26 of Regulation (EU) 2022/XXX [the Digital Services Act], they should duly consider freedom and pluralism of media, in accordance with Regulation (EU) 2022/XXX [the Digital Services Act] and provide, as early as possible, the necessary explanations to media service providers as their business users in the statement of reasons under Regulation (EU) 2019/1150 of the European Parliament and of the Council 
+ 54 
+ . To minimise the impact of any restriction to that content on users’ freedom of information, very large online platforms should endeavour to submit the statement of reasons prior to the restriction taking effect without prejudice to their obligations under Regulation (EU) 2022/XXX [the Digital Services Act] . In particular , this Regulation should not prevent a provider of a very large online platform to take expeditious measures either against illegal content disseminated through its service, or in order to mitigate systemic risks posed by dissemination of certain content through its service, in compliance with Union law, in particular pursuant to Regulation (EU) 2022/XXX [the Digital Services Act] . 
+ (32) It is furthermore justified, in view of an expected positive impact on freedom to provide services and freedom of expression, that where media service providers adhere to certain regulatory or self-regulatory standards, their complaints against decisions of providers of very large online platforms are treated with priority and without undue delay. 
+ (33) To this end, providers of very large online platforms should provide a functionality on their online interface to enable media service providers to declare that they meet certain requirements, while at the same time retaining the possibility not to accept such self-declaration where they consider that these conditions are not met. Providers of very large online platforms may rely on information regarding adherence to these requirements, such as the machine-readable standard of the Journalism Trust Initiative or other relevant codes of conduct. Guidelines by the Commission may be useful to facilitate an effective implementation of such functionality, including on modalities of involvement of relevant civil society organisations in the review of the declarations, on consultation of the regulator of the country of establishment, where relevant, and address any potential abuse of the functionality. 
+ (34) This Regulation recognises the importance of self-regulatory mechanisms in the context of the provision of media services on very large online platforms. They represent a type of voluntary initiatives , for instance in a form of codes of conduct, which enable media service providers or their representatives to adopt common guidelines, including on ethical standards, correction of errors or complaint handling, amongst themselves and for themselves. Robust, inclusive and widely-recognised media self-regulation represents an effective guarantee of quality and professionalism of media services and is key for safeguarding editorial integrity. 
+ (35) Providers of very large online platforms should engage with media service providers that respect standards of credibility and transparency and that consider that restrictions on their content are frequently imposed by providers of very large online platforms without sufficient grounds , in order to find an amicable solution for terminating any unjustified restrictions and avoiding them in the future . Providers of very large online platforms should engage in such exchanges in good faith, paying particular attention to safeguarding media freedom and freedom of information. 
+ (36) Building on the useful role played by ERGA in monitoring compliance by the signatories of EU Code of Practice on Disinformation, the Board should , at least on a yearly basis, organise a structured dialogue between providers of very large online platforms, representatives of media service providers and representatives of civil society to foster access to diverse offer s of independent media on very large online platforms , discuss experience and best practices related to the application of the relevant provisions of this Regulation and to monitor adherence to self-regulatory initiatives aimed at protecting society from harmful content, including those aimed at countering disinformation. The Commission may, where relevant, examine the reports on the results of such structured dialogues when assessing systemic and emerging issues across the Union under Regulation (EU) 2022/ XX X [ D igital S ervices A ct] and may ask the Board to support it to this effect. 
+ (37) Recipients of audiovisual media services should be able to effectively choose the audiovisual content they want to watch according to their preferences. Their freedom in this area may however be constrained by commercial practices in the media sector, namely agreements for content prioritisation between manufacturers of devices or providers of user interfaces controlling or managing access to and use of audiovisual media services, such as connected televisions, and media service providers. Prioritisation can be implemented, for example, on the home screen of a device, through hardware or software shortcuts, applications and search areas, which have implications on the recipients’ viewing behaviour , who may be unduly incentivised to choose certain audiovisual media offers over others . Service recipients should have the possibility to change, in a simple and user-friendly manner, the default settings of a device or user interface controlling and managing access to , and use of, audiovisual media services, without prejudice to measures to ensure the appropriate prominence of audiovisual media services of general interest implementing Article 7a of Directive 2010/13/EC, taken in the pursuit of legitimate public policy considerations. 
+ (38) Different legislative, regulatory or administrative measures can negatively affect the operation of media service providers in the internal market. They include, for example, rules to limit the ownership of media companies by other companies active in the media sector or non-media related sectors; they also include decisions related to licensing, authorisation or prior notification for media service providers. In order to mitigate their potential negative impact on the functioning of the internal market for media services and enhance legal certainty, it is important that such measures comply with the principles of objective justification, transparency, non-discrimination and proportionality. 
+ (39) It is also key that the Board is empowered to issue an opinion, on the Commission’s request , where national measures are likely to affect the functioning of the internal market for media services. This is, for example, the case when a national administrative measure is addressed to a media service provider providing its services towards more than one Member State, or when the concerned media service provider has a significant influence on the formation of public opinion in that Member State. 
+ (40) Media play a decisive role in shaping public opinion and helping citizens participate in democratic processes. This is why Member States should provide for rules and procedures in their legal systems to ensure assessment of media market concentrations that could have a significant impact on media pluralism or editorial independence. Such rules and procedures can have an impact on the freedom to provide media services in the internal market and need to be properly framed and be transparent, objective, proportionate and non-discriminatory . Media market concentrations subject to such rules should be understood as covering those which could result in a single entity controlling or having significant interests in media services which have substantial influence on the formation of public opinion in a given media market, within a media sub-sector or across different media sectors in one or more Member States. An important criterion to be taken into account is the reduction of competing views within that market as a result of the concentration. 
+ (41) National regulatory authorities or bodies, who have specific expertise in the area of media pluralism, should be involved in the assessment of the impact of media market concentrations on media pluralism and editorial independence where they are not the designated authorities or bodies themselves. In order to foster legal certainty and ensure that the rules and procedures are genuinely geared at protecting media pluralism and editorial independence, it is essential that objective, non-discriminatory and proportionate criteria for notifying and assessing the impact of media market concentrations on media pluralism and editorial independence are set out in advance . 
+ (42) When a media market concentration constitutes a concentration falling within the scope of Council Regulation (EC) No 139/2004 
+ 55 
+ , the application of this Regulation or of any rules and procedures adopted by Member States on the basis of this Regulation should not affect the application of Article 21(4) of Regulation (EC) No 139/2004. Any measures taken by the designated or involved national regulatory authorities or bodies based on their assessment of the impact of media market concentrations on media pluralism and editorial independence should therefore be aimed at protecting legitimate interests within the meaning of Article 21(4 ), third subparagraph, of Regulation (EC) No 139/2004 , and should be in line with the general principles and other provisions of Union law . 
+ (43) The Board should be empowered to provide opinions on draft decisions or opinions by the designated or involved national regulatory authorities or bodies, where the notifiable concentrations may affect the functioning of the internal media market. This would be the case, for example, where such concentrations involve at least one undertaking established in another Member State or operating in more than one Member State or result in media service providers having a significant influence on formation of public opinion in a given media market. Moreover, where the concentration has not been assessed for its impact on media pluralism and editorial independence by the relevant national authorities or bodies, or where the national regulatory authorities or bodies have not consulted the Board regarding a given media market concentration, but that media market concentration is considered likely to affect the functioning of the internal market for media services, the Board should be able to provide an opinion, upon request of the Commission . In any event, the Commission retains the possibility to issue its own opinions following the opinions drawn up by the Board. 
+ (44) With a view to ensuring pluralistic media markets, the national authorities or bodies and the Board should take account of a set of criteria. In particular, impact on media plurali sm should be considered, including notably the effect on the formation of public opinion, taking into account of the online environment. Concurrently, it should be consider ed whether other media outlets, providing different and alternative content, would still coexist in the given market(s) after the media market concentration in question. Assessment of safeguards for editorial independence should include the examination of potential risks of undue interference by the prospective owner, management or governance structure in the individual editorial decisions of the acquired or merged entity. T he existing or envisaged internal safeguards aimed at preserving independence of the individual editorial decisions within the media undertakings involved should also be taken into account . In assessing the potential impacts, the effects of the concentration in question on the economic sustainability of the entity or entities subject to the concentration should also be considered and whether, in the absence of the concentration, they would be economically sustainable, in the sense that they would be able in the medium term to continue to provide and further develop financially viable, adequately resourced and technologically adapted quality media services in the market . 
+ (45) Audience measurement has a direct impact on the allocation and the prices of advertising, which represents a key revenue source for the media sector. It is a crucial tool to evaluate the performance of media content and understand the preferences of audiences in order to plan the future production of content . Accordingly , media m arket players , in particular media service providers and advertisers , should be able to rely on objective audience data stemming from transparent, unbiased and verifiable audience measurement solutions. However, certain new players that have emerged in the media ecosystem provide their own measurement services without making available information on their methodologies. This could result in i nformation asymmetries among media market players and in potential market distortions , to the detriment of equality of opportunities for media service providers in the market. 
+ (46) In order to enhance the verifiability and reliability of audience measurement methodologies, in particular online, transparency obligations should be laid down for providers of audience measurement systems that do not abide by the industry benchmarks agreed within the relevant self-regulatory bodies. Under these obligations, such actors, when requested and to the extent possible, should provide advertisers and media service providers or parties acting on their behalf, with information describing the methodologies employed for the measurement of the audience. Such information could consist in providing elements, such as the size of the sample measured, the definition of the indicators that are measured, the metrics, the measurement methods and the margin of error as well as the measurement period. The obligations imposed under this Regulation are without prejudice to any obligations that apply to providers of audience measurement services under Regulation 2019/1150 or Regulation (EU) 2022/ XX [D igital M arkets A ct ], including those concerning ranking or self-preferencing. 
+ (47) Codes of conduct, drawn up either by the providers of audience measurement systems or by organisations or associations representing them, can contribute to the effective application of this Regulation and should, therefore, be encouraged. Self-regulation has already been used to foster high quality standards in the area of audience measurement. Its further development could be seen as an effective tool for the industry to agree on the practical solutions needed for ensuring compliance of audience measurement systems and their methodologies with the principles of transparency, impartiality, inclusiveness, proportionality, non-discrimination and verifiability. When drawing up such codes of conduct, in consultation with all relevant stakeholders and notably media service providers, account could be taken in particular of the increasing digitalisation of the media sector and the objective of achieving a level playing field among media market players. 
+ (48) State advertising is an important source of revenue for many media service providers, contributing to their economic sustainability. Access to it must be granted in a non-discriminatory way to any media service provider from any Member State which can adequately reach some or all of the relevant members of the public, in order to ensure equal opportunities in the internal market. Moreover, State advertising may make media service providers vulnerable to undue state influence to the detriment of the freedom to provide services and fundamental rights. Opaque and biased allocation of state advertising is therefore a powerful tool to exert influence or ‘capture’ media service providers. The distribution and transparency of state advertising are in some regards regulated through a fragmented framework of media-specific measures and general public procurement laws, which, however, may not cover all state advertising expenditure nor offer sufficient protection against preferential or biased distribution. In particular, Directive 2014/24/EU of the European Parliament and of the Council 
+ 56 
+ does not apply to public service contracts for the acquisition, development, production or co-production of programme material intended for audiovisual media services or radio media services. Media-specific rules on state advertising, where they exist, diverge significantly from one Member State to another. 
+ (49) In order to ensure undistorted competition between media service providers and to avoid the risk of covert subsidies and of undue political influence on the media, it is necessary to establish common requirements of transparency, objectivity , proportionality and non-discrimination in the allocation of s tate advertising and of state resources to media service providers for the purpose of purchasing goods or services from them other than state advertising, including the requirement to publish information on the beneficiaries of s tate advertising expenditure and the amounts spent. It is important that Member States make the necessary information related to s tate advertising publicly accessible in an electronic format that is easy to view, access and download, in compliance with Union and national rules on commercial confidentiality. This Regulation shall not affect the application of the State aid rules , which are applied on a case-by-case basis . 
+ (50) Risks to the functioning and resilience of the internal media market should be regularly monitored as part of the efforts to improve the functioning of the internal market for media services. Such monitoring should aim at providing detailed data and qualitative assessments on the resilience of the internal market for media services , including as regards the degree of concentration of the market at national and regional level and risks of foreign information manipulation and interference . It should be conducted independently, on the basis of a robust list of key performance indicators, developed and regularly updated by the Commission, in consultation with the Board. Given the rapidly evolving nature of risks and technological developments in the internal media market, the monitoring should include forward-looking exercises such as stress tests to assess the prospective resilience of the internal media market, to alert about vulnerabilities around media pluralism and editorial independence, and to help efforts to improve governance, data quality and risk management. In particular, the level of cross-border activity and investment, regulatory cooperation and convergence in media regulation, obstacles to the provision of media services, including in a digital environment, as well as transparency and fairness of allocation of economic resources in the internal media market should be covered by the monitoring. It should also consider broader trends in the internal media market and national media markets as well as national legislation affecting media service providers. In addition, the monitoring should provide an overview of measures taken by media service providers with a view to guaranteeing the ind ep endence of individual editorial decisions , including those proposed in the accompanying Recommendation . In order to ensure the highest standards of such monitoring, the Board, as it gathers entities with a specialised media market expertise, should be duly involved. 
+ (51) To prepare the ground for a correct implementation of this Regulation, its provisions concerning independent media authorities, the Board and the required amendments to Directive 2010/13/EU ( Articles 7 to 12 and 27 of this Regulation) should apply 3 months after the entry into force of the Act, while all other provisions of this Regulation will apply 6 months after the entry into force of this Regulation . In particular, this is needed to ensure that the Board will be established in time to ensure a successful implementation of the Regulation. 
+ (52) Since the objectives of this Regulation , namely ensuring the proper functioning of the internal market for media services, cannot be sufficiently achieved by the Member States, because they cannot or might not have incentives to achieve the necessary harmonisation and cooperation acting alone, but can rather, by reason s of the increasingly digital and cross-border production, distribution and consumption of media content as well as the unique role of media service s , be better achieved at the Union level , the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve th ose objective s . 
+ (53) This Regulation respects the fundamental rights and observes the principles recognised in particular by the Charter, in particular Articles 7, 8, 11, 16, 47, 50 and 52 thereof. Accordingly, this Regulation should be interpreted and applied with due respect to those rights and principles. In particular, nothing in this Regulation should be interpreted as interfering with freedom of information or freedom of the press, or incentivising Member States to introduce requirements for editorial content of press publications. 
+ (54) The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council 
+ 57 
+ and delivered an opinion on XX XX 2022 . 
+ HAVE ADOPTED THIS REGULATION: 
+ Chapter I 
+General Provisions 
+ Article 1 
+ Subject matter and scope 
+ 1. This Regulation lays down common rules for the proper functioning of the internal market for media services, including the establishment of the European Board for Media Services, while preserv ing the quality of media services. 
+ 2. T his Regulation shall not affect rules laid down by : 
+ (a) Directive 2000/31/EC; 
+ (b) Directive 2019/790/EU; 
+ (c) Regulation 2019/1150; 
+ (d) Regulation (EU) 2022/ XX X [the Digital Services Act] ; 
+ (e) Regulation (EU) 2022/ XX X [the Digital Markets Act] ; 
+ (f) Regulation (EU) 2022/ XX X [Regulation on the transparency and targeting of political advertising ] . 
+ 3. This Regulation shall not affect the possibility for Member States to adopt more detailed rules in the fields covered by Chapter II and Section 5 of Chapter III, provided that those rules comply with Union law. 
+ Article 2 
+ Definitions 
+ For the purposes of this Regulation, the following definitions shall apply: 
+ ‘media service’ means a service as defined by Articles 56 and 57 of the Treaty, where the principal purpose of the service or a dissociable section thereof consists in providing programmes or press publications to the general public, by any means, in order to inform, entertain or educate, under the editorial responsibility of a media service provider; 
+ ‘media service provider’ means a natural or legal person whose professional activity is to provide a media service and who has editorial responsibility for the choice of the content of the media service and determines the manner in which it is organised; 
+ ‘public service media provider’ means a media service provider which is entrusted with a public service mission under national law or receives national public funding for the fulfilment of such a mission; 
+ ‘programme’ means a set of moving images or sounds constituting an individual item, irrespective of its length, within a schedule or a catalogue established by a media service provider; 
+ ‘press publication’ means a publication as defined in Article 2(4) of Directive 2019/790/EU; 
+ ‘audiovisual media service’ means a service as defined in Article 1(1), point (a), of Directive 2010/13/EU; 
+ ‘editor’ means a natural person or a number of natural persons possibly grouped in a body, regardless of its legal form, status and composition, that takes or supervises editorial decisions within a media service provider; 
+ ‘editorial decision’ means a decision taken on a regular basis for the purpose of exercising editorial responsibility and linked to the day-to-day operation of a media service provider; 
+ ‘editorial responsibility’ means the exercise of effective control both over the selection of the programmes or press publications and over their organisation, for the purposes of the provision of a media service, regardless of the existence of liability under national law for the service provided; 
+ ‘provider of very large online platform’ means a provider of an online platform that has been designated as a very large online platform pursuant to Article 25(4) of Regulation (EU) 2022/XXX [Digital Services Act]; 
+ ‘video-sharing platform service’ means a service as defined in Article 1(1), point (aa), of Directive 2010/13/EU; 
+ ‘national regulatory authority or body’ means the authority or body designated by Member States pursuant to Article 30 of Directive 2010/13/EU; 
+ ‘media market concentration’ means a concentration as defined in Article 3 of Regulation (EC) No 139/2004 involving at least one media service provider; 
+ ‘audience measurement’ means the activity of collecting, interpreting or otherwise processing data about the number and characteristics of users of media services for the purposes of decisions regarding advertising allocation or prices or the related planning, production or distribution of content; 
+ ‘State advertising’ means the placement, publication or dissemination, in any media service, of a promotional or self-promotional message, normally in return for payment or for any other consideration, by, for or on behalf of any national or regional public authority, such as national, federal or regional governments, regulatory authorities or bodies as well as state-owned enterprises or other state-controlled entities at the national or regional level, or any local government of a territorial entity of more than 1 million inhabitants; 
+ ‘spyware’ means any product with digital elements specially designed to exploit vulnerabilities in other products with digital elements that enables the covert surveillance of natural or legal persons by monitoring, extracting, collecting or analysing data from such products or from the natural or legal persons using such products, in particular by secretly recording calls or otherwise using the microphone of an end-user device, filming natural persons, machines or their surroundings, copying messages, photographing, tracking browsing activity, tracking geolocation, collecting other sensor data or tracking activities across multiple end-user devices, without the natural or legal person concerned being made aware in a specific manner and having given their express specific consent in that regard; 
+ ‘ s erious crime’ means any of the following criminal offences listed in Art icle 2(2) of the Council Framework Decision 2002/584/JHA 
+ 58 
+ : 
+ (a) terrorism, 
+ (b) trafficking in human beings, 
+ (c) sexual exploitation of children and child pornography, 
+ (d) illicit trafficking in weapons, munitions and explosives, 
+ (e) murder, grievous bodily injury, 
+ (f) illicit trade in human organs and tissues, 
+ (g) kidnapping, illegal restraint and hostage-taking, 
+ (h) organised or armed robbery, 
+ (i) rape, 
+ (j) crimes within the jurisdiction of the International Criminal Court. 
+ Chapter II 
+ Rights and duties of media service providers and recipients 
+ Article 3 
+ Rights of recipients of media services 
+ Recipients of media services in the Union shall have the right to receive a plurality of news and current affairs content, produced with respect for editorial freedom of media service providers, to the benefit of the public discourse. 
+ Article 4 
+ Rights of media service providers 
+ 1. Media service providers shall have the right to exercise their economic activities in the internal market without restrictions other than those allowed under Union law . 
+ 2. Member States shall respect effective editorial freedom of media service providers. Member States , including their national regulatory authorities and bodies , shall not: 
+ (a) interfere in or try to influence in any way, directly or indirectly, editorial policies and decisions by media service providers; 
+ (b) detain, sanction, intercept, subject to surveillance or search and seizure , or inspect media service providers or , if applicable, their family members, their employees or their family members , or their corporate and private premises , on the ground that they refuse to disclose information on their sources, unless this is justified by an overriding requirement in the public interest , in accordance with Article 52(1) of the Charter and in compliance with other Union law ; 
+ (c) deploy spyware in any device or machine used by media service providers or, if applicable, their family members, or their employees or their family members, unless the deployment is justified, on a case-by-case basis, on grounds of national security and is in compliance with Article 52(1) of the Charter and other Union law or the deployment occurs in serious crimes investigations of one of the aforementioned persons , it is provided for under national law and is in compliance with Article 52(1) of the Charter and other Union law , and measures adopted pursuant to sub-paragraph (b) would be inadequate and insufficient to obtain the information sought . 
+ 3. Without prejudice and in addition to the right to effective judicial protection guaranteed to each natural and legal person, Member States shall designate an independent authority or body to handle complaints lodged by media service providers or , if applicable, their family members, their employees or their family members, regarding breaches of paragraph 2, points (b) and (c). Media service providers shall have the right to request that authority or body to issue, within three months of the request , an opinion regarding compliance with paragraph 2, points (b) and (c). 
+ Article 5 
+ Safeguards for the independent functioning of public service media providers 
+ 1. Public service media providers shall provide in an impartial manner a plurality of information and opinions to their audiences, in accordance with their public service mission. 
+ 2. The head of management and the members of the governing board of public service media providers shall be appointed through a transparent, open and non-discriminatory procedure and on the basis of transparent, objective, non-discriminatory and proportionate criteria laid down in advance by national law. 
+ The duration of their term of office shall be established by national law, and be adequate and sufficient to ensure effective independence of the public media service provider. They may be dismissed before the end of their term of office only exceptionally where they no longer fulfil the legally predefined conditions required for the performance of their duties laid down in advance by national law or for specific reasons of illegal conduct or serious misconduct as defined in advance by national law. 
+ Dismissal decisions shall be duly justified, subject to prior notification to the person concerned, and include the possibility for judicial review. The grounds for dismissal shall be made available to the public. 
+ 3. Member States shall ensure that public service media providers have adequate and stable financial resources for the fulfilment of the ir public service mission . Those resources shall be such that editorial independence is safeguarded. 
+ 4. Member States shall designate one or more independent authorit ies or bod ies in order to monitor compliance with paragraphs 1 to 3 . 
+ Article 6 
+ Duties of media service providers providing news and current affairs content 
+ 1. Media service providers providing news and current affairs content shall make easily and directly accessible to the recipients of their service s the following information : 
+ (a) their legal name and contact details; 
+ (b) the name(s) of the ir direct or indirect owner(s) with shareholdings enabling them to exercise influence on the operation and strategic decision making ; 
+ (c) t h e name(s) of their beneficial owners within the meaning of Article 3 , point 6 of Directive (EU) 2015/84 9 of the European Parliament and of the Council . 
+ 2. Without prejudice to national constitutional laws consistent with the Charter, m edia service providers providing news and current affairs content shall take measures that they deem appropriate with a view to guarantee ing the independence of individual editorial decisions. I n particular, such measures shall aim to : 
+ (a) guarantee that editors are free to take individual editorial decisions in the exercise of their professional activity; and 
+ (b) ensure disclosure of any actual or potential conflict of interest by any party having a stake in media service providers that may affect the provision of news and current affairs content. 
+ 3. The obligations under this Article shall not apply to media service providers that are micro enterprises within the meaning of Article 3 of Directive 2013/34/EU. 
+ Chapter III 
+ Framework for regulatory cooperation and a well-functioning internal market for media services 
+ Section 1 
+ Independent media authorities 
+ Article 7 
+ National regulatory authorities or bodies 
+ 1. The n ational regulatory authorities or bodies referred to in Article 30 of Directive 2010/13/EU shall be responsible for the application of Chapter III of this Regulation. 
+ 2. The national regulatory authorities or bodies shall be subject to the requirements set out in Article 30 of Directive 2010/13/EU in relation to the exercise of the tasks assigned to them by this Regulation. 
+ 3. Member States shall ensure that the national regulatory authorities or bodies have adequate financial , human and technical resources to carry out their tasks under this Regulation . 
+ 4. Where needed for carrying out their tasks under this Regulation , the national regulatory authorities or bodies shall have appropriate powers of investigation, with regard to the conduct of natural or legal persons to which Chapter III applies . 
+ Those powers shall include in particular the power to request such persons to provide, within a reasonable time period, information that is proportionate and necessary for carrying out the tasks under Chapter III; the request can also be addressed to any other person that, for purposes related to their trade, business or profession, may reasonably be in possession of the information needed. 
+ Section 2 
+ European Board for Media Services 
+ Article 8 
+ European Board for Media Services 
+ 1. The European Board for Media Services ( ‘ the Board’) is established. 
+ 2. The Board shall replace and succeed the European Regulators Group for Audiovisual Media Services (ERGA) established by Directive 2010/13/EU. 
+ Article 9 
+ Independence of the Board 
+ The Board shall act in full independence when performing its tasks or exercising its powers. In particular, the Board shall, in the performance of its tasks or the exercise of its powers, neither seek nor take instructions from any government, institution, person or body. This shall not affect the competences of the Commission or the national regulatory authorities or bodies in conformity with this Regulation. 
+ Article 10 
+ Structure of the Board 
+ 1. The Board shall be composed of representatives of national regulatory authorities or bodies referred to in Article 30 of Directive 2010/13/EU . 
+ 2. Each member of the Board shall have one vote. 
+ 3. Where a Member State has more than one national regulatory authority or body, those regulatory authorities or bodies shall coordinate with each other as necessary and appoint a joint representative which shall exercise the right to vote. 
+ 4. The Board shall be represented by its Chair. The Board shall elect a Chair from amongst its members by a two-thirds majority of its members with voting rights . The term of office of the Chair shall be two years. 
+ 5. The Commission shall designate a representative to the Board. The representative of t he Commission shall participate in all activities and meetings of the Board, without voting rights. The Chair of the Board shall keep the Commission informed about the ongoing and planned activities of the Board. The Board shall consult the Commission in preparation of its work programme and main deliverables . 
+ 6. The Board, in agreement with the Commission, may invite experts and observers to attend its meetings . 
+ 7. The Board shall take decisions by a two-thirds majority of its members with voting rights. 
+ 8. The Board shall adopt its rules of procedure by a two-thirds majority of its members with voting rights, in agreement with the Commission. 
+ Article 11 
+ Secretariat of the Board 
+ 1. The Board shall have a secretariat, which shall be provided by the Commission. 
+ 2. The main task of the secretariat shall be to contribute to the execution of the tasks of the Board laid down in this Regulation and in Directive 2010/13/EU. 
+ 3. The secretariat shall provide administrative and organisational support to the activities of the Board. The s ecretariat shall also assist the Board in carrying out its tasks. 
+ Article 12 
+ Tasks of the Board 
+ Without prejudice to the powers granted to the Commission by the Treaties, the Board shall promote the effective and consistent application of this Regulation and of national rules implementing Directive 2010/13/EU throughout the Union. The Board shall: 
+ (a) support the Commission , through technical expertise, in ensuring the correct application of this Regulation and the consistent implementation of Directive 2010/13/EU across all Member States, without prejudice to the tasks of national regulatory authorities or bodies; 
+ (b) promote cooperation and the effective exchange of information , experience and best practices between the national regulatory authorities or bodies on the application of the Union and national rules applicable to media services, including this Regulation and Directive 2010/13/EU , in particular as regards Articles 3, 4 and 7 of that Directive ; 
+ (c) advi s e the Commission, whe re requested by it , on regulatory , technical or practical aspects pertinent to the consistent application of this Regulation and implementation of Directive 2010/13/EU a s well as all on other matters related to media services within its competence . W here the Commission requests advice or opinions from the Board, it may indicate a time limit, taking into account the urgency of the matter ; 
+ (d) whe n requested by the Commission, provide opinions on the technical and factual issues that arise with regard to Article 2(5c), Article 3(2) and (3), Article 4(4 ), point (c ) and Article 28a(7) of Directive 2010/13/EU ; 
+ (e) in agreement with the Commission, draw up opinions with respect to : 
+ (i) requests for cooperation and mutual assistance between national regulatory authorities or bodies, in accordance with Article 13 (7) of this Regulation ; 
+ (ii) requests for enforcement measures in case of disagreement between the requesting authority or body and the requested authority or body regarding the actions recommended pursuant to A rticle 14(4) of this Regulation ; 
+ (iii) national measures concerning media service providers established outside of the Union, in accordance with Article 16(2) of this Regulation; 
+ (f) upon request of the Commission, draw up opinions with respect to: 
+ (i) national measures which are likely to affect the functioning of the internal market for media services, in accordance with Article 20(4) of this Regulation; 
+ (ii) media market concentrations which are likely to affect the functioning of the internal market for media services, in accordance with Article 22 (1) of this Regulation; 
+ (g) draw up opinions on draft national opinions or decisions assessing the impact on media pluralism and editorial independence of a notifiable media market concentration where such a concentration may affect the functioning of the internal market, in accordance with Article 21(5) of this Regulation ; 
+ (h) assist the Commission in drawing up guidelines with respect to : 
+ (i) the application of this Regulation and of the national rules implementing Directive 2010/13, in accordance with Article 15( 2) of this Regulation . 
+ (ii) factors to be taken into account when applying the criteria for assessing the impact of media market concentrations, in accordance wi th Article 21( 3 ) of this Regulation ; 
+ (iii) the application of Articles 23(1 ) , (2) and ( 3) pursuant to Article 23(4) of this Regulation . 
+ (i) upon request of at least one of the concerned authorities, mediate in the case of disagreements between national regulatory authorities or bodies, in accordance with Article 14(3) of this Regulation ; 
+ (j) foster cooperation on technical standards related to digital signals and the design of devices or user interfaces , in accordance with Article 15(4) of this Regulation ; 
+ (k) coordinate national measures related to the dissemination of or access to content of media service providers established outside of the Union that target audiences in the Union , where their activities prejudice or present a serious and grave risk of prejudice to public security and defence , in accordance with Article 16 (1) of this Regulation ; 
+ (l) organise a structured dialogue between providers of very large online platforms, representatives of media service providers and of civil society, and report on its results to the Commission, in accordance with Article 1 8 of this Regulation ; 
+ (m) foster the exchange of best practices related to the deployment of audience measurement systems, in accordance with Article 23(5) of this Regulation . 
+ Section 3 
+ Regulatory cooperation and convergence 
+ Article 13 
+ Structured cooperation 
+ 1. A national regulatory authority or body may request ( ‘ requesting authority ’ ) cooperation or mutual assistance at any time from one or more national regulatory authorities or bodies ( ‘ requested authorities ’ ) for the purposes of exchange of information or taking measures relevant for the consistent and effective application of this Regulation or the national measures implementing Directive 2010/13/EU. 
+ 2. Where a national regulatory authority or body considers that there is a serious and grave risk of prejudice to the functioning of the internal market for media services or a serious and grave risk of prejudice to public security and defence, it may request other national regulatory authorities or bodies to provide accelerated cooperation or mutual assistance, while ensuring compliance with fundamental rights, in particular freedom of expression. 
+ 3. Requests for cooperation or mutual assistance, including accelerated cooperation or mutual assistance , shall contain all the necessary information, including the purpose of and reasons for it . 
+ 4. The requested authority may refuse to address the request only in the following cases : 
+ (a) it is not competent for the subject matter of the request or for the measures it is requested to take; 
+ (b) execution of the request would infringe this Regulation, Directive 2010/13/EU or other Union legislation or Member State law compliant with Union law to which the requested authority is subject. 
+ The requested authority shall provide reasons for any refusal to address a request. 
+ 5. The requested authority shall inform the requesting authority of the results achieved or of the progress of the measures taken in response to the request. 
+ 6. The requested authority shall do its utmost to address and reply to the request without undue delay. The requested authority shall provide intermediary results within the period of 14 calendar days from the receipt of the request , with subsequent regular updates on the progress of execution of the request. In case of requests for accelerated cooperation or mutual assistance, the requested authority shall address and reply to the request within 14 calendar days. 
+ 7. Where the requesting authority does not consider the measures taken by the requested authority to be sufficient to address and reply to its request, it shall inform the requested authority without undue delay, explaining the reasons for its position. If the requested authority does not agree with that position, or if the requested authority’s reaction is missing , either authority may refer the matter to the Board . W ithin 14 calendar days from the receipt of that referral, the Board shall issue , in agreement with the Commission , an opinion on the matter, including recommended actions. The requested authority shall do its outmost to take into account the opinion of the Board. 
+ Article 14 
+ Requests for enforcement of obligations by video-sharing platforms 
+ 1. Without prejudice to Article 3 of Directive 2000/31/EC, a national regulatory authority or body may request another national regulatory authority or body to take necessary and proportionate actions for the effective enforcement of the obligations imposed on video - sharing platforms under Article 28b of Directive 2010/13/EU. 
+ 2. The requested national authority or body shall , without undue delay and within 30 calendar days, inform the requesting national authority or body about the actions taken or planned pursuant to paragraph 1. 
+ 3. In the event of a disagreement between the requesting national authority or body and the requested authority or body regarding actions taken pursuant to paragraph 1, either authority or body may refer the matter to the Board for mediation in view of finding an amicable solution. 
+ 4. If no amicable solution has been found following mediation by the Board, the requesting national authority or body or the requested national authority or body may request the Board to issue an opinion on the matter. In its opinion the Board shall assess whether the requested authority or body has complied with a request referred to in paragraph 1. If the Board considers that the requested authority has not complied with such a request, the Board shall recommend actions to comply with the request. The Board shall issue its opinion , in agreement with the Commission, without undue delay . 
+ 5. The requested national authority or body shall, without undue delay and within 30 calendar days at the latest from the receipt of the opinion referred to in paragraph 4 , inform the Board , the Commission and the requesting authority or body of the actions taken or planned in relation to the opinion. 
+ Article 15 
+ Guidance on media regulation matters 
+ 1. The Board shall foster the exchange of best practices among the national regulatory authorities or bodies , consulting stakeholders , where appropriate, and in close cooperation with the Commission, on regulatory , technical or practical aspects pertinent to the consistent and effective application of this Regulation and of the national rules implementing Directive 2010/13/EU. 
+ 2. Where the Commission issues guidelines related to the application of this Regulation or the national rules implementing Directive 2010/13/EU, t he Board shall assist it by providing expertise on regulatory, technical or practical aspects, as regards in particular : 
+ (a) the appropriate prominence of audiovisual media services of general interest under Article 7a of Directive 2010/13/EU ; 
+ (b) making information accessible on the ownership structure of media service providers, as provided under Article 5(2) of Directive 2010/13/EU. 
+ 3. The Commission may issue an opinion on any matter related to the application of this Regulation and of the national rules implementing Directive 2010/13/EU. The Board shall assist the Commission in this regard, where requested. 
+ 4. The Board shall foster cooperation between media service providers, standardisation bodies or any other relevant stakeholders in order to facilitate the development of technical standards related to digital signals or design of devices or user interfaces controlling or managing access to and use of audiovisual media services. 
+ Article 16 
+ Coordination of measures concerning media service providers established outside the Union 
+ 1. The Board shall coordinate measures by national regulatory authorities or bodies related to the dissemination of or access to media services provided by media service providers established outside the Union that target audiences in the Union where , inter alia in view of the control that may be exercised by third countries over them, such media services prejudice or present a serious and grave risk of prejudice to public security and defence. 
+ 2. T he Board , in agreement with the Commission , may issue opinions on appropriate national measures under paragraph 1. All competent national authorities , including the national regulatory authorities or bodies , shall do their utmost to take into account the opinions of the Board . 
+ Section 4 
+ Provision of media services in a digital environment 
+ Article 17 
+ Content of media service providers on very large online platforms 
+ 1. Providers of very large online platforms shall provide a functionality allowing recipient s of their services to declare that: 
+ (a) it is a media service provider within the meaning of Article 2( 2 ); 
+ (b) it is editorially independent from Member S tate s and third countries ; and 
+ (c) it is subject to regulatory requirements for the exercise of editorial responsibility in one or more Member States, or adheres to a co-regulatory or self-regulatory mechanism governing editorial standards , widely recognised and accepted in the relevant media sector in one or more Member States . 
+ 2. Where a provider of very large online platform decides to suspend the provision of its online intermediation services in relation to content provided by a media service provider that submitted a declaration pursuant to paragraph 1 of this Article , on the grounds that such content is incompatible with its terms and conditions, without that content contributing to a systemic risk referred to in Article 26 of the Regulation (EU) 2022/XXX [Digital Services Act ], it shall take all possible measures , to the extent consistent with their obligations under Union law, including Regulation (EU) 2022/ XXX [D igital S ervices A ct ], to communicate to the media service provider concerned the statement of reasons accompanying that decision , as required by Article 4(1) of Regulation (EU) 2019/1150 , prior to the suspension taking effect . 
+ 3. Providers of very large online platforms shall take all the necessary technical and organisational measures to ensure that complaints under Article 11 of Regulation (EU) 2019/1150 by media service providers that submitted a declaration pursuant to paragraph 1 of this Article are processed and decided upon with priority and without undue delay. 
+ 4. Where a media service provider that submitted a declaration pursuant to paragraph 1 considers that a provider of very large online platform frequently restricts or suspends the provision of its services in relation to content provided by the media service provider without sufficient grounds, the provider of very large online platform shall engage in a meaningful and effective dialogue with the media service provider , upon its request, in good faith with a view to finding an amicable solution for terminating unjustified restrictions or suspension s and avoiding them in the future . The media service provider may notify the outcome of such exchanges to the Board . 
+ 5. Providers of very large online platforms shall make publicly available on an annual basis information on: 
+ (a) the number of instances where they imposed any restriction or suspension on the grounds that the content provided by a media service provider that submitted a declaration in accordance with paragraph 1 of this Article is incompatible with their terms and conditions; and 
+ (b) the grounds for imposing such restrictions. 
+ 6. With a view to facilitating the consistent and effective implementation of this Article, the Commission may issue guidelines to establish the form and details of the declaration set out in paragraph 1. 
+ Article 18 
+ Structured dialogue 
+ 1. The Board shall regularly organise a structured dialogue between providers of very large online platforms, representatives of media service providers and representatives of civil society to discuss experience and best practices in the application of Article 17 of this Regulation , to foster access to diverse offers of independent media on very large online platforms and to monitor adherence to self-regulatory initiatives aimed at protecting society from harmful content, including disinformation and foreign information manipulation and interference . 
+ 2. The Board shall report on the results of the dialogue to the Commission. 
+ Article 19 
+ Right of customisation of audiovisual media offer 
+ 1. U sers shall have a right to easily change the default settings of a ny device or user interface controlling or managing access to and use of audiovisual media services in order to customise the audiovisual media offer according to their interests or preferences in compliance with the law . This provision shall not affect national measures implementing Article 7a of Directive 2010/13/EU. 
+ 2. When placing the devices and user interfaces referred to in paragraph 1 on the market, manufacturers and developers shall ensure that they include a functionality enabling users to freely and easily change the default settings controlling or managing access to and use of the audiovisual media services offered. 
+ Section 5 
+ Requirements for well-functioning media market measures and procedures 
+ Article 20 
+ National measures affecting the operation of media service providers 
+ 1. Any legislative, regulatory or administrative measure taken by a Member State that is liable to affect the operation of media service providers in the internal market shall be duly justified and proportionate . S uch measures shall be reasoned, transparent, objective and non-discriminatory. 
+ 2. Any national procedure used for the purposes of the preparation or the adoption of a regulatory or administrative measure as referred to in paragraph 1 shall be subject to clear timeframes set out in advance. 
+ 3. Without prejudice and in addition to its right to effective judicial protection, any media service provider subject to a n administrative or regulatory measure referred to in paragraph 1 that concerns it individually and directly shall have the right to appeal against th at measure to an appel late body . That body shall be independent of the parties involved and of any external intervention or political pressure liable to jeopardise its independent assessment of matters coming before it. It shall have the appropriate expertise to enable it to carry out its functions effectively. 
+ 4. The Board, upon request of the Commission , shall draw up an opinion where a national legislative, regulatory or administrative measure is likely to affect the functioning of the internal market for media services . Following the opinion of the Board, and without prejudice to its powers under the Treaties, the Commission may issue its own opinion on the matter. Opinions by the Board and , where applicable , by the Commission shall be made publicly available. 
+ 5. Where a national authority or body adopt s a measure that affects individually and directly a media service provider and is likely to affect the functioning of the internal market for media services , it shall communicate , at the request of the Board, and where applicable, of the Commission , without undue delay and by electronic means, any relevant information, including the summary of the facts, its measure , the grounds on which the national authority or body has based its measure , and , where applicable, the views of other authorities concerned. 
+ Article 21 
+ Assessment of media market concentrations 
+ 1. Member States shall provide , in their national legal systems , substantive and procedural rules which ensure an assessment of media market concentrations that could have a significant impact on media pluralism and editorial independence. These rules shall: 
+ (a) be transparent, objective, proportionate and non-discriminatory; 
+ (b) require the parties to a media market concentration that could hav e a significant impact on media pluralism and editorial independence to notify that concentration in advance to the relevant national authorit ies or bod ies ; 
+ (c) designate the national regulatory authority or body as responsible for the assessment of the impact of a notifiable concentration on media pluralism and editorial independence or ensure the involvement of the national regulatory authority or body in such assessment ; 
+ (d) set out in advance objective, non-discriminatory and proportionate criteria for notifying media market concentrations that could have a significant impact on media pluralism and editorial independence and for assessing the impact of media market concentrations on media pluralism and editorial independence. 
+ The assessment referred to in this paragraph shall be distinct from the competition law assessments including those provided for under merger control rules. It shall be without prejudice to Article 21(4) of Regulation (EC) No 139/2004, where applicable. 
+ 2. In the assessment referred to in paragraph 1, the following elements shall be taken into account: 
+ (a) the impact of the concentration on media pluralism, including its effects on the formation of public opinion and on the diversity of media players on the market , taking into account the online environment and the parties’ interests, links or activities in other media or non-media businesses ; 
+ (b) the safeguards for editorial independence, including the impact of the concentration on the functioning of the editorial teams and the existence of measures by media service providers taken with a view to guaranteeing the independence of individual editorial decisions; 
+ (c) whether, in the absence of the concentration, the acquiring and acquired entity would remain economically sustainable, and whether there are any possible alternatives to ensure its economic sustainability. 
+ 3. The Commission , assisted by the Board, may issue guidelines on the factors to be taken into account when applying the criteria for assessing the impact of media market concentrations on media pluralism and editorial independence by the national regulat ory authorities or bod ies . 
+ 4. The national regulatory authority or body shall consult the Board in advance on any opinion or decision it aims to adopt assessing the impact on media pluralism and editorial independence of a notifiable media market concentration whe re such concentrations may affect the functioning of the internal market. 
+ 5. Within 14 calendar days from the receipt of the consultation referred to in paragraph 4, t he Board shall draw up an opinion on the draft national opinion or decision referred to it , taking account of the elements referred to in paragraph 2 and transmit that opinion to the consulting authority and the Commission . 
+ 6. The national regulatory authority or body referred to in paragraph 4 shall take utmost account of the opinion referred to in paragraph 5 . Where th at authority does not follow the opinion , fully or partially, it shall provide the Board and the Commission with a reasoned justification explaining its position within 30 calendar days from the receipt of that opinion . Without prejudice to its powers under the Treaties, the Commission may issue its own opinion on the matter. 
+ Article 22 
+ Opinions on media market concentrations 
+ 1. In the absence of a n assessment or a consultation pursuant to Article 21 , t he Board , upon request of the Commission , shall draw up an opinion on the impact of a media market concentration on media pluralism and editorial independence , where a media market concentration is likely to affect the functioning of the internal market for media services . The Board shall base its opinion on the elements set out in Article 21 ( 2 ) . The Board may bring media market concentrations likely to affect the functioning of the internal market for media services to the attention of the Commission . 
+ 2. Following the opinion of the Board, and without prejudice to its powers under the Treaties, the Commission may issue its own opinion on the matter. 
+ 3. Opinions by the Board and , where applicable , by the Commission shall be made publicly available. 
+ Section 6 
+ Transparent and fair allocation of economic resources 
+ Article 23 
+ Audience measurement 
+ 1. Audience measurement systems and methodologies shall comply with principles of transparency, impartiality, inclusiveness, proportionality, non-discrimination and verifiability. 
+ 2. Without prejudice to the protection of undertakings ’ business secrets, providers of proprietary audience measurement systems shall provide, without undue delay and free of costs , to media service providers and advertisers , as well as to third parties authorised by media service providers and advertisers, accurate, detailed, comprehensive, intelligible and up-to-date information on the methodology used by their audience measurement systems. This provision shall not affect the Union’s data protection and privacy rules. 
+ 3. National regulatory authorities or bodies shall encourage the drawing up of codes of conduct by providers of audience measurement systems, together with media service providers, their representative organisations and any other interested parties, that are intended to contribute to compliance with the principles referred to in paragraph 1, including by promoting independent and transparent audits. 
+ 4. The Commission , assisted by the Board, may issue guidelines on the practical application of paragraphs 1 , 2 and 3 of this Article. 
+ 5. The Board shall foster the exchange of best practices related to the deployment of audience measurement systems through a regular dialogue between representatives of the national regulatory authorities or bodies , representatives of providers of audience measurement systems and other interested parties. 
+ Article 24 
+ Allocation of state advertising 
+ 1. P ublic funds or any other consideration or advantage granted by public authorities to media service providers for the purposes of advertising shall be awarded according to transparent, objective, proportionate and non-discriminatory criteria and through open , proportionate and non-discriminatory procedures . This Article shall not affect public procurement rules. 
+ 2. Public authorities, including national, federal or regional governments, regulatory authorities or bodies , as well as st ate-owned enterprises or other s tate-controlled entities at the national or regional level , or local governments of territorial entities of more than 1 million inhabitants , shall make publicly available accurate, comprehensive, intelligible, detailed and yearly information about their advertising expenditure allocated to media service providers, which shall include at least the following details: 
+ (a) the legal name s of media service providers from which advertising services were purchased ; 
+ (b) the total annual amount spent as well as the amounts spent per media service provider. 
+ 3. National regulatory authorities or bodies shall monitor the allocation of s tate advertising in media markets. In order to assess the accuracy of the information on s tate advertising made available pursuant to paragraph 2, national regulatory authorities or bodies may request from the entities referred to in paragraph 2 further information, including information on the application of criteria referred to in paragraph 1. 
+ 4. The a llocation of s tate resources to media service providers for the purpose of purchasing goods or services from them other than s tate advertising shall be subject to the requirements set out in paragraph 1. This Article shall not affect the application of the S tate aid rules. 
+ Chapter IV – Final Provisions 
+ Article 25 
+ Monitoring exercise 
+ 1. The Commission shall ensure an independent monitoring of the internal market for media services, including risks to and progress in its functioning and resilience . The findings of the monitoring exercise shall be subject to consult ation with the Board. 
+ 2. The Commission shall define key performance indicators to be used for the monitoring referred in paragraph 1 , in consultation with the Board . 
+ 3. The monitoring exercise shall include: 
+ (a) a detailed analysis of the resilience of media markets of all Member States , including as regards the level of media concentration and risks of foreign information manipulation and interference ; 
+ (b) a n overview and forward-looking assessment of the resilience of the internal market for media services as a whole; 
+ (c) a n overview of measures taken by media service providers with a view to guaranteeing the independence of individual editorial decisions . 
+ 4. The monitoring shall be carried out annually, and its results shall be made publicly available. 
+ Article 26 
+ Evaluation and reporting 
+ 1. By [ four years after the entry into force of this Regulation ] at the latest, and every four years thereafter, the Commission shall evaluate this Regulation and report to the European Parliament, the Council and the European Economic and Social Committee. 
+ 2. For the purposes of paragraph 1 and upon its request , Member States and the Board shall send relevant information to the Commission . 
+ 3. In carrying out the evaluations referred to in paragraph 1, the Commission shall take into account: 
+ (a) the positions and findings of the European Parliament, the Council and other relevant bodies or sources; 
+ (b) outcomes of the relevant discussions carried out in relevant fora; 
+ (c) relevant documents issued by the Board; 
+ (d) findings of the monitoring exercise referred to in Article 25 . 
+ Article 27 
+ Amendments to Directive 2010/13/EU 
+ 1. 
+ Article 30b of Directive 2010/13/EU is deleted . 
+ 2. 
+ R eferences to Article 30 b of Directive 2010/13/EU shall be read as references to Article 12 of this Regulation. 
+ 3 . 
+ R eferences in Union law to the European Regulators Group for Audiovisual Media Services (ERGA) shall be read as references to the European Board for Media Services (the Board). 
+ Article 28 
+ Entry into force and application 
+ 1. 
+ This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . 
+ 2. 
+ This Regulation shall apply from [6 months after the entry into force] . 
+ However, Articles 7 to 12 and 27 shall apply from [3 months after the entry into force] and Article 19(2) shall apply from [48 months after the entry into force] . 
+ 3. 
+ This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+ Done at Brussels, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The President 
+ LEGISLATIVE FINANCIAL STATEMENT 
+ 1. 
+ FRAMEWORK OF THE PROPOSAL/INITIATIVE 
+ 1.1. 
+ Title of the proposal/initiative 
+ 1.2. 
+ Policy area(s) concerned 
+ 1.3. 
+ The proposal/initiative relates to 
+ 1.4. 
+ Objective(s) 
+ 1.5. 
+ Grounds for the proposal/initiative 
+ 1.6. 
+ Duration and financial impact of the proposal/initiative 
+ 1.7. 
+ Management mode(s) planned 
+ 2 
+ MANAGEMENT MEASURES 
+ 2.1. 
+ Monitoring and reporting rules 
+ 2.2. 
+ Management and control system(s) 
+ 2.3. 
+ Measures to prevent fraud and irregularities 
+ 3. 
+ ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE 
+ 3.1. 
+ Heading(s) of the multiannual financial framework and expenditure budget line(s) affected 
+ 3.2. 
+ Estimated financial impact of the proposal on appropriations 
+ 3.3. 
+ Estimated impact on revenue 
+ LEGISLATIVE FINANCIAL STATEMENT 
+ 1. FRAMEWORK OF THE PROPOSAL/INITIATIVE 
+ 1.1. Title of the proposal/initiative 
+ Regulation establishing a common framework for media services in the internal market (European Media Freedom Act) and amending Directive 2010/13/EU 
+ 1.2. Policy area(s) concerned 
+ · Internal market 
+ · Investing in people, social cohesion and values 
+ · A new push for EU democracy 
+ 1.3. The proposal/initiative relates to: 
+ ☑ a new action 
+ ◻ a new action following a pilot project/preparatory action 
+ 59 
+ ◻ the extension of an existing action 
+ ◻ a merger or redirection of one or more actions towards another/a new action 
+ 1.4. Objective(s) 
+ 1.4.1. General objective(s) 
+ The general objective of the intervention is to improve the functioning of the internal media market. Improving the functioning of the internal media market will foster the provision of quality media services and thus strengthen the integrity of the internal market as a whole. A regulation providing common rules, underpinned by a structured cooperation framework for media regulators within a Board composed of representatives of the relevant national independent media regulatory authorities or bodies, will achieve this objective. 
+ 1.4.2. Specific objective s 
+ Fostering cross-border activity and investment in the internal media market 
+ The objective is to make it easier for media market players to expand their operations across the internal market, gradually increasing cross-border investments in terms of their number and value. To this end, the initiative would aim to coordinate certain elements of the diverging national media pluralism frameworks in order to facilitate cross-border service provision. It will aim in particular at ensuring that when assessing media market transactions, national independent authorities approach media pluralism consistently across the EU media market through common criteria and coordination at EU level. 
+ Increasing regulatory cooperation and convergence in the internal media market 
+ The objective is to strengthen regulatory cooperation to better enforce the EU media framework in the cross-border context and to foster regulatory convergence through EU-level opinions and guidance, promoting thus consistent approaches to media independence and media pluralism, including online. The goal is also to provide tools for collective - EU-wide - action by independent regulators to protect the EU internal market from service providers (including from third countries) not following EU media standards 
+ Facilitating free provision of quality media services in the internal market 
+ The objective is to ensure that consumers and businesses benefit from trustworthy content provided by independent media in an increasingly digital and inherently cross-border market for media services. In order to foster provision of quality media services in the internal market, the initiative will aim to mitigate the trend of undue public and private interference in editorial freedom. It will enhance media-specific ownership transparency, with a view of strengthening media accountability and independence. It will also aim to promote self-regulation for the independent functioning of media companies. Moreover, the initiative will aim to ensure that journalists can work without interference in particular when it comes to protection of their sources. 
+ Ensuring transparent and fair allocation of economic resources in the internal media market 
+ The objective is to ensure a level playing field for media market players by promoting transparent and fair allocation of economic resources. This would be achieved by enhancing the transparency, non-discrimination, proportionality, objectivity and inclusiveness of audience measurement methodologies, in particular online. It would also aim at ensuring transparency, non-discrimination, proportionality and objectivity of state advertising to media, in order to minimise the risks of favouring pro-government outlets or using public support for partisan interests, to the detriment of other players in the market, and thus promote fair competition in the internal media market. 
+ 1.4.3. Expected result(s) and impact 
+ It is expected that a regulation and a recommendation to media companies and Member States to foster media independence, underpinned by a governance structure consisting of the Board assisted by a Commission secretariat, will improve the functioning of the internal media market through approximation of national rules and approaches in areas related to media pluralism - in an efficient, coherent, proportionate and largely effective way. 
+ The financial modelling for the Impact Assessment accompanying the proposal estimates the net economic benefits, in terms of increased revenues, at EUR 2 885 million for the first year and EUR 2 898.1 million for the following years. Media market players will see direct regulatory benefits. 
+ The audiovisual sector will particularly benefit from the introduction of common requirements for national media pluralism laws and market scrutiny procedures and will enjoy economies of scale in a better functioning and more predictable, coherent and less protectionist internal media market. 
+ Broadcasters and providers of (audiovisual) news content and non-domestic entities, which are more likely to suffer from regulatory fragmentation, will be able to expand their operations in other Member States. 
+ Those broadcasters and press companies that take up the recommendations on safeguards for editorial independence will strengthen their editorial independence and increase their freedom to make decisions without public or private interference, expanding the plurality of voices or opinions expressed and issues analysed in their media content. Journalists will also be more independent vis-a-vis media owners due to the increased deployment of these safeguards within media companies. 
+ Greater transparency of media ownership and, in particular on owners’ other business interests, will enhance fair competition, especially in the press sector (encompassing printed and online media) for which Member States typically do not have specific transparency tools, such as media registers. 
+ More transparent online audience measurement systems will reduce market distortions, further strengthen the level playing field between media service providers and online players and will particularly benefit audiovisual media services and online press, as well as online advertisers. Journalists should also benefit, as they will understand better how online players measure audiences of media services. The measures on transparency and fairness of state advertising will reduce market distortions and make sure that a wider range of media outlets have access to this revenue source. 
+ SMEs will benefit from more certainty and lower legal costs. Also, potentially increased access to state advertising will represent a proportionally bigger opportunity for smaller companies. Similarly, SMEs are in a particularly weak position vis-a-vis online players when it comes to online audience measurement, therefore the initiative will help balance the playing field for SMEs to compete for advertising revenues. 
+ 1.4.4. Indicators of performance 
+ Proposed indicators and expected results 
+ Baseline 
+ Indicator - number and value of cross-border investments in the EU27 Member States’ media markets (annual) 
+ Expected result - gradual increase in cross-border investments’ number and value 
+ Investments 2013-2021 by investors: 
+ - EU: 478 transactions 
+ - non-EU: 389 transactions 
+ Value of 60% of transactions: EUR 84 billion 
+ Indicator - number of opinions by the Board on national media market scrutiny decisions taken into account by the relevant national authority (annual) 
+ Expected result – share of opinions by the Board taken into account by Member States 
+ n/a 
+ Indicator - share of cases solved by the Board under the cooperation mechanism and the mutual assistance mechanism (annual) 
+ Expected result - share of cases solved by the Board 
+ n/a 
+ Indicator - number of guidance documents /reports issued by the Commission and/or the Board, as the case may be, in key regulatory areas for media pluralism (each 3 years) 
+ Expected result – increased number of areas pertinent to media pluralism covered by EU level guidance/reports 
+ n/a 
+ Indicator - risk scores (annual) on: 
+ - political independence of media - editorial autonomy 
+ - independence of public service media governance 
+ - commercial & owner influence over editorial content 
+ - protection of journalistic sources 
+ - transparency of media ownership 
+ Expected result - gradual reduction in risk scores 
+ Respective 2021 MPM risk scores: 
+ - 54% 
+ - 55% 
+ - 50% 
+ - 60% 
+ - 16% 
+ - 58% 
+ Indicator - number of Member States with media self-regulatory bodies (annual) 
+ Expected result - gradual increase in the number of Member States with self-regulatory bodies 
+ 16 
+ Indicator - citizens’ perceived trust in media (biannual) 
+ Expected result - gradual increase in trust in media 
+ Percentage of respondents who trust the following media: 
+ 58%: radio 
+ 51%: television 
+ 51%: press 
+ 35%: internet 
+ Indicator – number of cases related to incompliance with the principles for audience measurement systems (annual) 
+ Expected result - gradual decrease of audience measurement systems incompliant with the new EU framework 
+ Nielsen: 61% of marketers agree to have access to the quality audience data needed to get the most of their media budget 
+ Indicator - risk score (annual) on the distribution of state advertising 
+ Expected result - gradual reduction in the risk score 
+ 2021 MPM risk score on state advertising: 70% 
+ 1.5. Grounds for the proposal/initiative 
+ 1.5.1. Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative 
+ Most of the provisions of the Regulation will be directly applicable from six months after its entry into force. To prepare the ground for a correct implementation of the European Media Freedom Act, its provisions on independent media authorities and the European Board for Media Services and the related amendment of the Audiovisual Media Services Directive (AVMSD) will already apply 3 months after the entry into force of the Act. This will ensure that the Board will be established in time to ensure a successful implementation of the Regulation. 
+ The Board will succeed and replace the European Regulators Group for Audiovisual Media Services (ERGA) established by the AVMSD. It is renamed, to reflect a wider remit, entrusted with additional tasks and supported with additional resources (in particular additional staff within the Commission, DG CNECT). The European Media Freedom Act will ensure that all references to the European Regulators Group for Audiovisual Media Services (ERGA) in EU law and in particular in the AVMSD are read as references to the European Board for Media Services (the Board). 
+ As currently the case for ERGA, the Board will be assisted in its activities by a secretariat, provided by the Commission. The secretariat will continue to be located in DG CNECT. The secretariat will provide administrative and organisational support to the Board. The resources envisaged for the secretariat under the Regulation will enable it to assist the Board in carrying out its tasks. The secretariat for the Board will be built up over the initial two years of the implementation, beginning in 2024, with the full staff capacity to be reached in 2025. 
+ To support the implementation of the European Media Freedom Act, DG CNECT is expected to procure external studies. Such studies may also be used to support the activities of the Board and informing its work. The relevant annual budget for these studies will be available from the expected start of the implementation in 2024 by redeployment from the Creative Europe programme. 
+ 1.5.2. Added value of Union involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this point 'added value of Union involvement' is the value resulting from Union intervention which is additional to the value that would have been otherwise created by Member States alone 
+ Reasons for action at European level (ex-ante): The initiative aims to ensure that the internal market for media functions better by improving legal certainty and eliminating internal market obstacles. The rules will set out mechanisms to increase the transparency, independence and accountability of measures and actions affecting media markets, freedom and pluralism within the EU. 
+ Expected generated Union added value (ex-post): The Impact Assessment accompanying this proposal indicates that the intervention would reduce the burden for market players to comply with different national legal regimes when they operate in several Member States. It would also increase predictability and enhance legal certainty for media market players, thereby promoting fair competition and cross-border investment. It would also allow for a coordinated response of media regulators in matters affecting the EU’s information space. The net economic benefits, in terms of increased revenues, are estimated at EUR 2 885 million for the first year and EUR 2 898 million for the following years. The initiative, by establishing a common EU framework fostering cross-border activity, strengthening cooperation between regulators, promoting provision of quality media content, and addressing practices that distort competition, would create conditions more favourable for the development of media services across borders and increase consumer choice of quality media content. This will strengthen the internal media market whilst promoting media freedom and pluralism, protected under the Charter of Fundamental Rights. 
+ 1.5.3. Lessons learned from similar experiences in the past 
+ This proposal is informed by the experiences of the Commission with the Audiovisual Media Services Directive (AVMSD), which was last reviewed in 2018 and still needs to be transposed in some Member States. While there is not yet a full evaluation of the revised AVMSD, the Directive contains a number of media regulatory measures related to consumer protection and promotion of public policy interests, such as cultural diversity. However, it is limited to audiovisual media services and does not cover issues related to media pluralism and independence (beyond independence of national regulatory authorities and bodies), to be addressed by the intervention. The main relevant lessons learnt are that a regulation is likely to achieve the desired results of the intervention much faster than a directive and that a stronger and better resourced institutional support structure is needed for an effective and consistent media regulation. 
+ 1.5.4. Compatibility with the Multiannual Financial Framework and possible synergies with other appropriate instruments 
+ This proposal is reflected under the heading of ‘A New Push for European Democracy’ in the Commission work programme 2022. 
+ The European Media Freedom Act will complement the relevant framework that includes the copyright rules, the revised AVMSD, and the recently adopted Digital Services Act (DSA) and Digital Markets Act (DMA). In the area of ownership transparency, it will lead to synergies with the Anti-Money Laundering (AML) Directive and the EU Company Law Directive. Regarding journalistic sources, the Act will add a targeted robust safeguard against the deployment of spyware in the devices used by the media service providers or their employees, building on protections provided by Directive 2002/58/EC, Directive 2016/680/EU and Directive 2013/40/EU. 
+ The Act is fully compatible with the financing actions undertaken under the Multiannual Financial Framework, Creative Europe programme, in particular concerning monitoring and defending media freedom and pluralism and journalism partnerships. 
+ 1.5.5. Assessment of the different available financing options, including scope for redeployment 
+ Based on the current experience with the work of ERGA and its secretariat, the support by the Commission for the new European Board for Media Services, in particular by providing the Board’s secretariat, is estimated to require 8 to 10 FTEs. Other potential options have been considered in the accompanying Impact Assessment. 
+ The additional studies to be procured by the Commission are expected to cost up to EUR 1 million per year. 
+ The functioning of the Board, in particular the reimbursement of travel expenses is expected to require about EUR 150 000 – 200 000 per year. 
+ The recurrent administrative costs for national regulatory authorities (NRAs) for participating in the Board (such as salaries of staff employed for that purpose) would be covered by the NRAs, as is the case today with ERGA and comparable entities. 
+ Expenses for the activities of ERGA and procurement of AVMSD-related studies are currently financed from the Media strand of the Creative Europe programme (CRE). 
+ The Cross-sectoral strand of CRE aims to ‘promote cross-sectoral activities that aim at adjusting to the structural and technological changes faced by the media, including enhancing a free, diverse, and pluralistic media environment, quality journalism and media literacy, including in the digital environment’ (Article 7(1)(c) of the CRE Regulation (EU) 2021/818). 
+ Therefore, the Cross-sectoral strand will be the source of funding of costs related to the functioning of the Board whose remit will cover different types of media market players in the audiovisual and other media sectors. 
+ The source for financing of studies will depend on the subject matter of such studies: those covering audiovisual matters only will continue to be financed from the Media strand of CRE, while other required studies will be financed from the Cross-sectoral strand. 
+ 1.6. Duration and financial impact of the proposal/initiative 
+ ◻ limited duration 
+ – ◻ 
+ in effect from [DD/MM]YYYY to [DD/MM]YYYY 
+ – ◻ 
+ Financial impact from YYYY to YYYY for commitment appropriations and from YYYY to YYYY for payment appropriations. 
+ ☑ unlimited duration 
+ – Implementation with a start-up period from 2024 to 2025 , 
+ – followed by full-scale operation. 
+ 1.7. Management mode(s) planned 
+ ☑ Direct management by the Commission 
+ – ☑ by its departments, including by its staff in the Union delegations; 
+ – ◻ 
+ by the executive agencies 
+ ◻ Shared management with the Member States 
+ ◻ Indirect management by entrusting budget implementation tasks to: 
+ – ◻ third countries or the bodies they have designated; 
+ – ◻ international organisations and their agencies (to be specified); 
+ – ◻ the EIB and the European Investment Fund; 
+ – ◻ bodies referred to in Articles 70 and 71 of the Financial Regulation; 
+ – ◻ public law bodies; 
+ – ◻ bodies governed by private law with a public service mission to the extent that they are provided with adequate financial guarantees; 
+ – ◻ bodies governed by the private law of a Member State that are entrusted with the implementation of a public-private partnership and that are provided with adequate financial guarantees; 
+ – ◻ persons entrusted with the implementation of specific actions in the CFSP pursuant to Title V of the TEU, and identified in the relevant basic act. 
+ – If more than one management mode is indicated, please provide details in the ‘Comments’ section. 
+ Comments 
+ 2. MANAGEMENT MEASURES 
+ 2.1. Monitoring and reporting rules 
+ After the adoption of the legislative instrument, Member States will be given between 3 and 6 months to adapt their national frameworks, where required. Its first evaluation will take place 4 years after the new rules’ entry into force, and subsequent evaluations will be carried out every 4 years. The monitoring by the Commission will be supported by the Board. 
+ A specific monitoring scheme will also be envisaged for the recommendation accompanying the proposal. It will combine targeted reporting by Member States and the new mechanism for the independent monitoring of risks to the functioning of the internal market for media services under the Regulation. 
+ 2.2. Management and control system(s) 
+ 2.2.1. Justification of the management mode(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed 
+ Under the European Media Freedom Act, the European Regulators Group for Audiovisual Media Services (ERGA) will evolve into the European Board for Media Services. It will promote the effective and consistent application of both the European Media Freedom Act and AVMSD across the Member States. In line with its tasks under EU law, the Board will, amongst others, provide expert advice on regulatory, technical or practical aspects of media regulation, opinions, coordinate actions with regard to service providers (including from third countries) not following EU media standards , and promote cooperation and the effective exchange of information, experience and best practices between regulators. 
+ In order to ensure that the Board fulfils its mandate, it is foreseen that the Commission will be in a close contact with the relevant national regulatory authorities and bodies. Moreover, the Regulation provides that the Chair of the Board must keep the Commission informed about the planned and ongoing activities of the Board. In addition, the Board is required to consult the Commission in preparation of its work programme and main deliverables, in accordance with its rules of procedure. 
+ In line with current practices and reflecting the chosen policy option, the Commission will implement the intended funding under CRE via direct management. It is covered by the respective control strategy. The controls will be done by DG CNECT. 
+ 2.2.2. Information concerning the risks identified and the internal control system(s) set up to mitigate them 
+ In order to ensure that the Board fulfils its mandate as established in this Regulation, a secretariat, provided by the Commission, is foreseen. It will assist the Board in its activities, provide administrative and organisational support. 
+ The envisaged control and support system allows for the mitigation of potential risks. As the Act builds on an existing structure and taking into account the direct management of the relevant financial resources by the Commission, no major risks have been identified. 
+ The controls are part of DG CNECT’s internal control system. 
+ 2.2.3. Estimation and justification of the cost-effectiveness of the controls (ratio of "control costs ÷ value of the related funds managed"), and assessment of the expected levels of risk of error (at payment & at closure) 
+ DG CNECT’s internal control systems and procedures will be used. They are functional and cost-effective. The aim is to ensure an error rate under the materiality threshold of 2%. 
+ 2.3. Measures to prevent fraud and irregularities 
+ The existing fraud prevention measures applicable to the Commission will cover the additional appropriations necessary for this Regulation. 
+ 3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE 
+ 3.1. Heading(s) of the multiannual financial framework and expenditure budget line(s) affected 
+ · Existing budget lines 
+ Heading of multiannual financial framework 
+ Budget line 
+ Type of 
+ expenditure 
+ Contribution 
+ Number 
+ Diff./Non-diff. 
+ 60 
+ from EFTA countries 
+ 61 
+ from candidate countries 
+ 62 
+ from third countries 
+ within the meaning of Article 21(2)(b) of the Financial Regulation 
+ 2b 
+ 07.010401 – Support expenditure for Creative Europe 
+ Non-diff. 
+ YES 
+ YES 
+ YES 
+ NO 
+ 2b 
+ 07.050300 – Creative Europe Cross-sectoral strand 
+ Diff 
+ YES 
+ YES 
+ YES 
+ NO 
+ 2b 
+ 07.050200 – Creative Europe Media strand 
+ Diff 
+ YES 
+ YES 
+ YES 
+ NO 
+ · New budget lines requested 
+ N/A 
+ 3.2. Estimated financial impact of the proposal on appropriations 
+ 3.2.1. Summary of estimated impact on operational appropriations 
+ – ◻ 
+ The proposal/initiative does not require the use of operational appropriations 
+ – ☑ 
+ The proposal/initiative requires the use of operational appropriations, as explained below: 
+ Appropriations will be redeployed within the financial envelopes allocated to the Creative Europe Programme Media and Cross-sectoral strands as well as to the administrative support budget line in the 2021-2027 MFF. 
+ EUR million (to three decimal places) 
+ Heading of multiannual financial 
+ framework 
+ 2b 
+ COHESION, RESILIENCE AND VALUES 
+ DG CNECT 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ Post-2027 
+ TOTAL 
+ • Operational appropriations (reallocated within the Creative Europe programme) 
+ 07.050200 – Creative Europe Media strand 
+ Commitments 
+ (1a) 
+ 0.500 
+ 0.500 
+ 0.500 
+ 0.500 
+ 2.000 
+ Payments 
+ (2a) 
+ 0.250 
+ 0.500 
+ 0.500 
+ 0.500 
+ 0.250 
+ 2.000 
+ 07.050300 – Creative Europe Cross-sectoral strand 
+ Commitments 
+ (1b) 
+ 0.500 
+ 0.500 
+ 0.500 
+ 0.500 
+ 2.000 
+ Payments 
+ (2b) 
+ 0.250 
+ 0.500 
+ 0.500 
+ 0.500 
+ 0.250 
+ 2.000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 63 
+ 07.010401 – Support expenditure for Creative Europe 
+ (3) 
+ 0.200 
+ 0.200 
+ 0.200 
+ 0.200 
+ 0.800 
+ TOTAL appropriations 
+ for DG CNECT 
+ Commitments 
+ =1a+1b +3 
+ 1.200 
+ 1.200 
+ 1.200 
+ 1.200 
+ 4.800 
+ Payments 
+ =2a+2b 
+ +3 
+ 0.700 
+ 1.200 
+ 1.200 
+ 1.200 
+ 0.500 
+ 4.800 
+ • TOTAL operational appropriations 
+ Commitments 
+ (4) 
+ 1.000 
+ 1.000 
+ 1.000 
+ 1.000 
+ 4.000 
+ Payments 
+ (5) 
+ 0.500 
+ 1.000 
+ 1.000 
+ 1.000 
+ 0.500 
+ 4.000 
+ • TOTAL appropriations of an administrative nature financed from the envelope for specific programmes 
+ (6) 
+ 0.200 
+ 0.200 
+ 0.200 
+ 0.200 
+ 0.800 
+ TOTAL appropriations 
+ under HEADING 2b 
+of the multiannual financial framework 
+ Commitments 
+ =4+ 6 
+ 1.200 
+ 1.200 
+ 1.200 
+ 1.200 
+ 4.800 
+ Payments 
+ =5+ 6 
+ 0.700 
+ 1.200 
+ 1.200 
+ 1.200 
+ 0.500 
+ 4.800 
+ Heading of multiannual financial 
+ framework 
+ 7 
+ ‘Administrative expenditure’ 
+ EUR million (to three decimal places) 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ Post-2027 
+ TOTAL 
+ DG CNECT 
+ ⊗ Human resources 
+ 0.644 
+ 1.288 
+ 1.288 
+ 1.288 
+ 4.508 
+ □ Other administrative expenditure 
+ TOTAL DG CNECT 
+ Appropriations 
+ 0.644 
+ 1.288 
+ 1.288 
+ 1.288 
+ 4.508 
+ TOTAL appropriations 
+ under HEADING 7 
+of the multiannual financial framework 
+ (Total commitments = Total payments) 
+ 0.644 
+ 1.288 
+ 1.288 
+ 1.288 
+ 4.508 
+ EUR million (to three decimal places) 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ Post-2027 
+ TOTAL 
+ TOTAL appropriations 
+ under HEADINGS 1 to 7 
+of the multiannual financial framework 
+ Commitments 
+ 1.844 
+ 2.488 
+ 2.488 
+ 2.488 
+ 9.308 
+ Payments 
+ 1.344 
+ 2.488 
+ 2.488 
+ 2.488 
+ 0.500 
+ 9.308 
+ 3.2.2. Estimated output funded with operational appropriations 
+ N/A 
+ 3.2.3. Summary of estimated impact on administrative appropriations 
+ – ◻ 
+ The proposal/initiative does not require the use of appropriations of an administrative nature 
+ – ☑ 
+ The proposal/initiative requires the use of appropriations of an administrative nature, as explained below: 
+ EUR million (to three decimal places) 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ Post-2027 
+ TOTAL 
+ HEADING 7 
+ of the multiannual financial framework 
+ Human resources 
+ 0.644 
+ 1.288 
+ 1.288 
+ 1.288 
+ 4.508 
+ Other administrative expenditure 
+ Subtotal HEADING 7 
+ of the multiannual financial framework 
+ 0.644 
+ 1.288 
+ 1.288 
+ 1.288 
+ 4.508 
+ Outside HEADING 7 
+ 64 
+ of the multiannual financial framework 
+ Human resources 
+ Other expenditure 
+ of an administrative nature 
+ Subtotal 
+ outside HEADING 7 
+ of the multiannual financial framework 
+ TOTAL 
+ 0.644 
+ 1.288 
+ 1.288 
+ 1.288 
+ 4.508 
+ The appropriations required for human resources and other expenditure of an administrative nature will be met by appropriations from the DG that are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints. 
+ Estimated requirements of human resources 
+ – ◻ 
+ The proposal/initiative does not require the use of human resources. 
+ – ☑ 
+ The proposal/initiative requires the use of human resources, as explained below: 
+ Estimate to be expressed in full time equivalent units 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ • Establishment plan posts (officials and temporary staff) 
+ 20 01 02 01 (Headquarters and Commission’s Representation Offices) 
+ 3 
+ 6 
+ 6 
+ 6 
+ 20 01 02 03 (Delegations) 
+ 01 01 01 01 (Indirect research) 
+ 01 01 01 11 (Direct research) 
+ Other budget lines (specify) 
+ • External staff (in Full Time Equivalent unit: FTE) 
+ 65 
+ 20 02 01 (AC, END, INT from the ‘global envelope’) 
+ 2 
+ 4 
+ 4 
+ 4 
+ 20 02 03 (AC, AL, END, INT and JPD in the delegations) 
+ XX 01 xx yy zz 
+ 66 
+ - at Headquarters 
+ - in Delegations 
+ 01 01 01 02 (AC, END, INT - Indirect research) 
+ 01 01 01 12 (AC, END, INT - Direct research) 
+ Other budget lines (specify) 
+ TOTAL 
+ 5 
+ 10 
+ 10 
+ 10 
+ The human resources required will be met by staff from the DG who are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints. 
+ Description of tasks to be carried out: 
+ Officials and temporary staff 
+ Supervision of the correct implementation of the obligations set by the Regulation for private companies, Member States and the national regulatory authorities and bodies gathered in the Board 
+ Represent the Commission in the Board and engage with the Board on its activities, including also on the annual work programme and the rules of procedure 
+ Managing of procedures under the Regulation, in particular with regard to the tasks of the Board 
+ Providing support to the Board on its tasks under the Regulation 
+ Administrative and logistical support to the Board, in particular with regard to the organisation of the day-to-day organisation and the organisation of meetings 
+ Supporting the cooperation and coordination of national regulatory authorities or bodies at EU level 
+ Procuring and managing external studies related to the Regulation and the activities of the Board 
+ External staff 
+ Providing support to the Board on its tasks under the Regulation 
+ Administrative and logistical support to the Board, in particular with regard to the organisation of the day-to-day organisation and the organisation of meetings 
+ Supporting the cooperation and coordination of national regulatory authorities or bodies at EU level 
+ 3.2.4. Compatibility with the current multiannual financial framework 
+ The proposal/initiative: 
+ – ☑ 
+ can be fully financed through redeployment within the relevant heading of the Multiannual Financial Framework (MFF). 
+ Appropriations will be redeployed within the financial envelope allocated to the Creative Europe Programme Media and Cross-sectoral strands as well as to the administrative support budget line in the 2021-2027 MFF. It will not have a significant impact on any other activities of the Programme as it will be absorbed evenly across the actions. 
+ – ◻ 
+ requires use of the unallocated margin under the relevant heading of the MFF and/or use of the special instruments as defined in the MFF Regulation. 
+ – ◻ 
+ requires a revision of the MFF. 
+ 3.2.5. Third-party contributions 
+ The proposal/initiative: 
+ – ☑ 
+ does not provide for co-financing by third parties 
+ – ◻ 
+ provides for the co-financing by third parties estimated below: 
+ Appropriations in EUR million (to three decimal places) 
+ Year 
+ N 
+ Year 
+ N+1 
+ Year 
+ N+2 
+ Year 
+ N+3 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ Total 
+ Specify the co-financing body 
+ TOTAL appropriations co-financed 
+ 3.3. Estimated impact on revenue 
+ – ☑ 
+ The proposal/initiative has no financial impact on revenue. 
+ – ◻ 
+ The proposal/initiative has the following financial impact: 
+ – ◻ 
+ on own resources 
+ – ◻ 
+ on other revenue 
+ – please indicate, if the revenue is assigned to expenditure lines ◻ 
+ EUR million (to three decimal places) 
+ Budget revenue line: 
+ Appropriations available for the current financial year 
+ Impact of the proposal/initiative 
+ 67 
+ Year 
+ N 
+ Year 
+ N+1 
+ Year 
+ N+2 
+ Year 
+ N+3 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ Article …………. 
+ For assigned revenue, specify the budget expenditure line(s) affected. 
+ Other remarks (e.g. method/formula used for calculating the impact on revenue or any other information 
+ (1) 
+ 2021 State of the Union Address by President von der Leyen, Strasbourg, 15 September 2021. 
+ (2) 
+ COM(2021) 645 final. 
+ (3) 
+ COM/2021/350 final and SWD/2021/351 final. 
+ (4) 
+ Additionally media services should be provided in compliance with the accessibility requirements of Directive (EU) 2019/882 (the European Accessibility Act) , OJ L 151, 7.6.2019, p. 70-115 . 
+ (5) 
+ In order to respond to the need for increased cooperation in the field of audiovisual media services, ERGA members have agreed a voluntary Memorandum of Understanding, which sets out non-binding mechanisms for cross-border cooperation. In the Communication on Europe’s Media in the Digital Decade - an Action Plan to Support Recovery and Transformation, the Commission announced that it would follow the application of the Memorandum of Understanding closely to assess whether the cooperation within ERGA would need to be further reinforced. In light of such assessment the Commission considers that there is a need for a legal framework for structured cooperation between media regulatory authorities or bodies. 
+ (6) 
+ 2020 Rule of Law Report, Communication and Country Chapters (COM(2020) 580 final and SWD(2020) 300-326 final); 2021 Rule of Law Report, Communication and Country Chapters (COM(2021) 700 final and SWD(2021) 701-727 final); 2022 Rule of Law Report, Communication and Country Chapters (COM(2022) 500 final and SWD(2022) 501-527 final). 
+ (7) 
+ Centre for Media Pluralism and Media Freedom, Media Pluralism Monitor 
+ . 
+ (8) 
+ Public service media occupy a crucial place in the media market, given their public service mission. They constitute an important, if not the essential, source of media for a substantial number of citizens and companies. 
+ (9) 
+ Audience measurement has a direct impact on the allocation and the prices of advertising, which represents a key revenue source for the media sector. It is a crucial tool to evaluate the performance of media content and understand the preferences of audiences in order to plan the future production of content. Relevant market players have traditionally agreed upon a set of methodological standards to develop impartial benchmarks to assess the return on their investments. Self-regulation mechanisms bringing together key stakeholders of the media and advertising industry, such as self-regulatory Joint Industry Committees, have been established in several Member States in order to organise and carry out audience measurement in a transparent, inclusive and reliable manner. 
+ (10) 
+ The distribution and transparency of state advertising are in some regards regulated through a fragmented framework of media-specific measures and general public procurement laws, which, however, do not cover all state advertising expenditure nor offer sufficient protection against preferential or biased distribution. In particular, Directive 2014/24/EU of the European Parliament and of the Council does not apply to public service contracts for the acquisition, development, production or co-production of programme material intended for audiovisual media services or radio media services. 
+ (11) 
+ See also analyses of national state advertising rules in the annual Rule of Law Report. 
+ (12) 
+ Resolution of 21 May 2013 on the EU Charter, 2011/2246(INI); Resolution of 3 May 2018 on Media pluralism and media freedom in the EU, 2017/2209(INI); Resolution of 25 November 2020 on strengthening media freedom: protecting journalists in Europe, hate speech, disinformation and the role of platforms (2020/2009(INI)); Resolution of 20 October 2021 on Europe’s Media in the Digital Decade: an Action Plan to Support Recovery and Transformation (2021/2017(INI)); Resolution of 11 November 2021 on strengthening democracy and media freedom and pluralism in the EU, 2021/2036(INI); Resolution of 9 March 2022 on foreign interference in all democratic processes in the European Union, including disinformation (2020/2268(INI)). 
+ (13) 
+ Council conclusions on media freedom and pluralism in the digital environment, OJ C 32, 4.2.2014; Council conclusions on safeguarding a free and pluralistic media system, OJ C 422, 7.12.2020; Council conclusions on ‘Europe’s Media in the Digital Decade: An Action Plan to Support Recovery and Transformation’ , 8727/21 , 18.5.2021 ; Council conclusions on building a European Strategy for the Cultural and Creative Industries Ecosystem, OJ C 160, 13.4.2022; 
+ Declaration 
+ of the European Ministers responsible for Culture, Audiovisual and Media meeting in Angers on 7 and 8 March 2022. 
+ (14) 
+ Conference on the Future of Europe – Report on the Final Outcome , May 2022, in particular Proposal 27 (1) and 37 (4) . 
+ (15) 
+ See also analyses of transparency of media ownership in the annual Rule of Law Report. 
+ (16) 
+ Directive 2010/13/EU of the European Parliament and of the Council of 10 March 2010 on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media service, OJ L 95, 15.4.2010, p. 1-24, as revised by Directive (EU) 2018/1808 , OJ L 303, 28.11.2018, p. 69-92 . 
+ (17) 
+ For this reason the proposal contains a targeted amendment of Directive 2010/13/EU, limited to repealing its Article 30b, which establishes ERGA, and a replacement of references to ERGA and its tasks as a consequence. In accordance with the notion of the ‘parallélisme des formes’, a legal instrument should in principle be amended by a legal instrument of the same form. The amendment of Directive 2010/13/EU by this Regulation is targeted and limited to a provision which does not need to be transposed by Member States. It is therefore justified. 
+ (18) 
+ Directive (EU) 2019/790 of the European Parliament and of the Council of 17 April 2019 on copyright and related rights in the Digital Single Market and amending Directives 96/9/EC and 2001/29/EC, OJ L 130, 17.5.2019 , p. 92-125 . 
+ (19) 
+ Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market ('Directive on electronic commerce'), OJ L 178, 17.7.2000 , p. 1-16 . 
+ (20) 
+ Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services, OJ L 186, 11.7.2019 , p. 57-79 . 
+ (21) 
+ COM(2020) 825 final. 
+ (22) 
+ COM(2020) 842 final. 
+ (23) 
+ Proposal for a Regulation of the European Parliament and of the Council on the transparency and targeting of political advertising, COM/2021/731 final. 
+ (24) 
+ Directive (EU) 2015/849 of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, OJ L 141, 5.6.2015, p. 73–117. 
+ (25) 
+ Directive (EU) 2017/1132 of 14 June 2017 relating to certain aspects of company law, OJ L 169, 30.6.2017, p. 46–127. 
+ (26) 
+ Treaty of Amsterdam amending the Treaty on European Union, the Treaties establishing the European Communities and certain related acts - Protocol annexed to the Treaty of the European Community - Protocol on the system of public broadcasting in the Member States, OJ C 340 , 10.11.1997, p. 109. 
+ (27) 
+ Strategic C ompass for Security and Defence. 
+ (28) 
+ Council Conclusions. Complementary efforts to enhance resilience and counter hybrid threats, 14972/19, 10.12. 2019; Council conclusions on strengthening resilience and countering hybrid threats, including disinformation in the context of the COVID-19 pandemic , 14064/20 , 15.12. 2020, and Council conclusions on Foreign Information Manipulation and Interference (FIMI), 11429/22, 18.7. 2022. 
+ (29) 
+ Recommendation CM/Rec(2012)1 of the Committee of Ministers to member States on public service media governance (Adopted by the Committee of Ministers on 15 February 2012 at the 1134 th meeting of the Ministers’ Deputies). 
+ (30) 
+ COM(2020) 790 final. 
+ (31) 
+ C(2021) 6650 final. 
+ (32) 
+ COM(2022) 177 final. 
+ (33) 
+ Commission Recommendation (EU) 2022/758 of 27 April 2022 on protecting journalists and human rights defenders who engage in public participation from manifestly unfounded or abusive court proceedings (‘Strategic lawsuits against public participation’) OJ L 138, 17.5.2022, p. 30–44. 
+ (34) 
+ COM(2022) 28 final. 
+ (35) 
+ COM(2020) 784 final. 
+ (36) 
+ The other two mission areas are the ‘societal transformations related to the green transition’ and ‘equality and inclusion’. 
+ (37) 
+ European Parliament, Committee on Culture and Education, Report on Europe’s Media in the Digital Decade: an Action Plan to Support Recovery and Transformation (2021/2017(INI)). 
+ (38) 
+ Council conclusions on the protection and safety of journalists and other media professionals, OJ C 245, 28.6.2022. 
+ (39) 
+ Judgments of 13 December 1979, Hauer , 44/79, EU:C:1979:290, paragraphs 14-16; 20 May 2003, Österreichischer Rundfunk , joined Cases C-465/00, C-138/01 and C-139/01, EU:C:2003:294, paragraphs 68 et seq.; of 9 November 2010, Schecke, joined cases C-92/09 and C-93/09, EU:C:2010:662, paragraph 46. 
+ (40) 
+ Judgments of 15 September 2016, Mc Fadden , C-484/14, EU:C:2016:170, paragraphs 68 et seq.; of 26 April 2022, Poland v Parliament and Council (“copyright Directive”) , C‑401/19, EU:C:2022:29, paragraph 66. 
+ (41) 
+ European Commission (2022). 
+ Outcome of the Call for Evidence 
+ . A total of 1 470 submissions were received via the Have your say portal, while three additional ones were received outside the site but within the timeline of the consultation and were therefore included in the responses. 
+ (42) 
+ European Commission (2022). 
+ Outcome of the public consultation 
+ . 
+ (43) 
+ PwC, Intellera and Open evidence, “Support for the preparation of an impact assessment to accompany an EU initiative on the European Media Freedom Act”, VIGIE 2021 - 644; European University Institute, Katholieke Universiteit Leuven, Universiteit van Amsterdam and Vrije Universiteit Brussel, “Study on media plurality and diversity online”, VIGIE 2020-825. 
+ (44) 
+ F.J. Cabrera Blázquez, M. Cappello, J. Talavera Milla, S. Valais, Governance and independence of public service media, IRIS Plus, European Audiovisual Observatory, Strasbourg, 2022; and ERGA, Internal Media Plurality in Audiovisual Media Services in the EU: Rules & Practices, 2018. 
+ (45) 
+ See Recommendation CM/Rec(2012)1 of the Committee of Ministers to member States on public service media governance (Adopted by the Committee of Ministers on 15 February 2012 at the 1134th meeting of the Ministers’ Deputies) and Recommendation CM/Rec(2018)1[1] of the Committee of Ministers to member States on media pluralism and transparency of media ownership. 
+ (46) 
+ Conference on the Future of Europe – Report on the Final Outcome, May 2022, in particular proposal 27 (1) and 37 (4). 
+ (47) 
+ Centro Europa 7 S.R.L. and Di Stefano v. Italy [GC], no 38433/09, § 134, ECHR 2012. 
+ (48) 
+ Directive 2010/13/EU of the European Parliament and of the Council of 10 March 2010 on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services (Audiovisual Media Services Directive) (OJ L 95, 15.4.2010, p. 1 -24 ). 
+ (49) 
+ Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73 -117 ). 
+ (50) 
+ Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19 -76 ). 
+ (51) 
+ OJ C , , p. . 
+ (52) 
+ Directive (EU) 2018/1808 of the European Parliament and of the Council of 14 November 2018 amending Directive 2010/13/EU on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services (Audiovisual Media Services Directive) in view of changing market realities (OJ L 303, 28.11.2018, p. 69 -92 ). 
+ (53) 
+ Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market ('Directive on electronic commerce') (OJ L 178, 17.7.2000 , p. 1-16 ). 
+ (54) 
+ Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services (OJ L 186, 11.7.2019, p. 57 -79 ). 
+ (55) 
+ Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings (the EC Merger Regulation) ( OJ L 24, 29.1.2004, p. 1 -22 ). 
+ (56) 
+ Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, p. 65 -242 ). 
+ (57) 
+ Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39 -98 ). 
+ (58) 
+ Council Framework Decision 2002/584/JHA of 13 June 2002 on the European arrest warrant and the surrender procedures between Member States (OJ L 190, 18.7.2002, p. 1 -20 ). 
+ (59) 
+ As referred to in Article 58(2)(a) or (b) of the Financial Regulation. 
+ (60) 
+ Diff. = Differentiated appropriations / Non-diff. = Non-differentiated appropriations. 
+ (61) 
+ EFTA: European Free Trade Association. 
+ (62) 
+ Candidate countries and, where applicable, potential candidates from the Western Balkans. 
+ (63) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (64) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (65) 
+ AC = Contract Staff; AL = Local Staff; END = Seconded National Expert; INT = agency staff; JPD = Junior Professionals in Delegations. 
+ (66) 
+ Sub-ceiling for external staff covered by operational appropriations (former ‘BA’ lines). 
+ (67) 
+ As regards traditional own resources (customs duties, sugar levies), the amounts indicated must be net amounts, i.e. gross amounts after deduction of 20 % for collection costs.

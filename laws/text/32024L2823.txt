@@ -1,0 +1,508 @@
+### Design Directive (recast) | CELEX 32024L2823 | text version 32024L2823 | role adopted
+Official Journal 
+of the European Union
+ EN
+ L series
+ 2024/2823
+ 18.11.2024
+ DIRECTIVE (EU) 2024/2823 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 23 October 2024
+ on the legal protection of designs
+ (recast)
+ (Text with EEA relevance)
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114(1) thereof,
+ Having regard to the proposal from the European Commission,
+ After transmission of the draft legislative act to the national parliaments,
+ Having regard to the opinion of the European Economic and Social Committee ( 1 ) ,
+ Acting in accordance with the ordinary legislative procedure ( 2 ) ,
+ Whereas:
+ (1)
+ A number of amendments are to be made to Directive 98/71/EC of the European Parliament and of the Council ( 3 ) . In the interests of clarity, that Directive should be recast.
+ (2)
+ Directive 98/71/EC harmonised key provisions of substantive design law of Member States, which at the time of its adoption were considered to be those most directly affecting the functioning of the internal market by impeding the free movement of goods and the freedom to provide services in the Union.
+ (3)
+ Design protection in national law of Member States coexists with protection available at Union level through European Union designs (‘EU designs’) which are unitary in character and valid throughout the Union as laid down in Council Regulation (EC) No 6/2002 ( 4 ) . The coexistence and balance of design protection systems at Union and national level constitute a cornerstone of the Union’s approach to intellectual property protection.
+ (4)
+ In line with its Communication of 19 May 2015 entitled ‘Better regulation for better results – An EU agenda’ and its commitment to review Union policies regularly, the Commission carried out an extensive evaluation of the design protection systems in the Union, involving a comprehensive economic and legal assessment, supported by a series of studies.
+ (5)
+ In its conclusions of 10 November 2020 on intellectual property policy and the revision of the industrial design system in the Union, the Council called on the Commission to present proposals for the revision of Regulation (EC) No 6/2002 and Directive 98/71/EC. The revision was requested due to the need to modernise industrial design systems and to make design protection more attractive for individual designers and businesses, especially small and medium-sized enterprises (SMEs). In particular, that revision was requested to address and consider amendments aimed at supporting and strengthening the complementary relationship between the Union, national and regional design protection systems, and is to involve further efforts to reduce areas of divergence within the design protection system in the Union.
+ (6)
+ Based on the final results of that evaluation, the Commission announced in its communication of 25 November 2020 entitled ‘Making the most of the EU’s innovative potential – An intellectual property action plan to support the EU’s recovery and resilience’ that, following the successful reform of EU’s trade mark legislation, it would revise the Union legislation on design protection with a view to simplifying the system and making it more accessible and efficient, and with a view to updating the regulatory framework in light of developments in relation to new technologies on the market.
+ (7)
+ In its resolution of 11 November 2021 on an intellectual property action plan to support the EU’s recovery and resilience ( 5 ) , the European Parliament welcomed the Commission’s willingness to modernise the Union legislation on design protection in order to better support the transition to the digital, sustainable and green economy, called on the Commission to further harmonise the application and invalidation procedures in the Member States, and suggested to reflect upon aligning Directive 98/71/EC and Regulation (EC) No 6/2002 with a view to creating greater legal certainty. In that resolution the European Parliament also stated that the EU design protection system should be aligned with the EU trade mark system in order to allow for design holders to prevent design infringing goods from entering the Union customs territory and called on the Commission to make it possible for brand owners to put a stop to design counterfeits transiting through the Union. It also noted that design protection for parts used for the repair of complex products was only partially harmonised and that this was creating fragmentation in the internal market and legal uncertainty.
+ (8)
+ The consultation and evaluation carried out by the Commission have revealed that, in spite of the previous harmonisation of national laws, there are still areas where further harmonisation could have a positive impact on competitiveness and growth, in particular, as a result of the increased accessibility SMEs would have to the design protection system.
+ (9)
+ In order to ensure a well-functioning internal market, and to facilitate, where appropriate, acquiring, administering and protecting design rights in the Union for the benefit of the growth and the competitiveness of businesses within the Union, in particular SMEs, while taking due account of the interests of consumers, it is necessary to extend the approximation of laws achieved by Directive 98/71/EC to other aspects of substantive design law governing designs protected through registration pursuant to Regulation (EC) No 6/2002.
+ (10)
+ Furthermore, it is also necessary to approximate procedural rules in order to facilitate acquiring, administering and protecting design rights in the Union. Therefore, certain principal procedural rules in the area of design registration in the Member States and in the EU design system should be aligned. As regards procedures under national law, it is sufficient to lay down general principles, leaving the Member States free to establish more specific rules.
+ (11)
+ This Directive does not exclude the application to designs of law providing for protection other than that conferred by registration or publication as a design, such as Union law relating to unregistered design rights, or Union or national law relating to trade marks, patents and utility models, unfair competition or civil liability.
+ (12)
+ It is important to establish the principle of cumulation of protection under specific law for registered designs protection and under copyright law, whereby designs protected by design rights should also be eligible to be protected as copyright works, provided that the requirements of copyright law are met.
+ (13)
+ The attainment of the objectives of the internal market requires that the conditions for obtaining a registered design right be harmonised in all the Member States. To that end, it is necessary to lay down unitary definitions of the notions of design and product, which are clear, transparent, and technologically up-to-date considering also the advent of new designs that are not embodied in physical products. Without the list of relevant products being intended to be exhaustive, it is appropriate to distinguish between products embodied in a physical object, products visualised in a graphic, or products that are apparent from the spatial arrangement of items intended to form an interior or exterior environment. In this context, it should be recognised that animation, such as movement or transition, of the features of a product, can contribute to the appearance of designs, in particular designs that are not embodied in a physical object. Furthermore, there is a need for a unitary definition of the requirements regarding novelty and individual character with which registered design rights should comply.
+ (14)
+ In order to facilitate the free movement of goods, it is necessary to ensure in principle that registered design rights confer upon the right holder equivalent protection in all Member States.
+ (15)
+ Protection is conferred upon the right holder, by way of registration of a design, for those design features of a product, in whole or in part, which are shown visibly in an application for registration of such design and made available to the public by way of publication or consultation of the relevant file relating to the application.
+ (16)
+ Apart from being shown visibly in an application for registration, design features of a product do not need to be visible at any particular time or in any particular situation of use in order to benefit from design protection. As an exception to this principle, protection should not be extended to those component parts which are not visible during normal use of a complex product, or to those features of such part which are not visible when the part is mounted, or which would not, in themselves, fulfil the requirements regarding novelty and individual character. Therefore, those design features of component parts of a complex product which are excluded from protection for those reasons should not be taken into consideration for the purpose of assessing whether other design features fulfil the requirements for protection.
+ (17)
+ While an indication of the products should be part of an application for registration of a design, it should not affect the scope of protection of the design as such. Together with the representation of the design, indications of the products can nevertheless serve to determine the nature of the product in which the design is incorporated or to which it is intended to be applied. Furthermore, indications of the products improve the searchability of designs in the register of designs kept by an industrial property office and increase the transparency and accessibility of a register. Therefore, prior to registration, indications of the products need to be accurate, without creating an undue burden on applicants for a registered design.
+ (18)
+ The assessment as to whether a design has individual character should be based on whether the overall impression produced on an informed user viewing the design differs from that produced on that user by any other design that forms part of the existing design corpus; this assessment should take into consideration the nature of the product to which the design is applied or in which it is incorporated, and in particular the industrial sector to which it belongs and the degree of freedom of the designer in developing the design.
+ (19)
+ Technological innovation should not be hampered by granting design protection to designs consisting exclusively of features or the arrangement of features dictated solely by a technical function. It is understood that this does not entail that a design needs to have an aesthetic quality. A registered design right could be declared invalid where no considerations other than the need for that product to fulfil a technical function, in particular those related to the visual aspect, have played a role in the choice of the features of appearance.
+ (20)
+ Likewise, the interoperability of products of different makes should not be hindered by extending protection to the design of mechanical fittings.
+ (21)
+ The mechanical fittings of modular products can nevertheless constitute an important element of the innovative characteristics of modular products and represent a major marketing asset, and therefore should be eligible for protection.
+ (22)
+ A design right should not subsist in a design which is contrary to public policy or to accepted principles of morality. This Directive does not constitute a harmonisation of national concepts of public policy or accepted principles of morality.
+ (23)
+ It is fundamental for the smooth functioning of the internal market to unify the term of protection afforded by registered design rights.
+ (24)
+ This Directive is without prejudice to the application of the competition rules under Articles 101 and 102 of the Treaty on the Functioning of the European Union.
+ (25)
+ For reasons of legal certainty, the substantive grounds for non-registrability and the substantive grounds for the invalidation of registered design rights in all the Member States should be exhaustively enumerated in this Directive.
+ (26)
+ In order to prevent the improper use of symbols of particular public interest in a Member State, other than those referred to in Article 6ter of the Convention for the Protection of Industrial Property signed in Paris on 20 March 1883 (the ‘Paris Convention’), Member States should however be free to provide for specific grounds for non-registrability. In order to prevent the improper registration and misappropriation of elements belonging to cultural heritage that are of national interest, Member States should also be free to provide for specific grounds for non-registrability and invalidity. Such elements of cultural heritage, considered within the meaning of the Convention Concerning the Protection of the World Cultural and Natural Heritage adopted by the Unesco General Conference on 16 November 1972 or, to the extent they constitute a tangible manifestation of intangible cultural heritage, within the meaning of the Convention for the Safeguarding of the Intangible Cultural Heritage adopted by the Unesco General Conference at its 32nd session on 17 October 2003, include, for example, monuments or a group of buildings, artefacts, handicrafts or costumes.
+ (27)
+ In view of the growing deployment of 3D printing technologies in different areas of industry, including with the help of artificial intelligence, as well as the resulting challenges for design right holders to effectively prevent illegitimate copying of their protected designs, it is appropriate to provide that the creation, downloading, copying and making available of any medium or software which records the design for the purpose of reproduction of a product that infringes the protected design, constitutes use of the design which should be subject to the right holder’s authorisation.
+ (28)
+ In order to strengthen design protection and combat counterfeiting more effectively, and in line with international obligations of the Member States under the World Trade Organization (WTO) framework, in particular Article V to the General Agreement on Tariffs and Trade (GATT 1947) on freedom of transit, and, as regards generic medicines, the Doha Declaration on the TRIPS Agreement and Public Health, adopted by the WTO Ministerial Conference on 14 November 2001, the holder of a registered design right should be entitled to prevent third parties from bringing products, in the course of trade, from third countries into the Member State where the design is registered, without being released for free circulation there, where, without right holder’s authorisation, the design is identically incorporated in or applied to such products, or the design cannot be distinguished in its essential aspects from such products.
+ (29)
+ To that end, it should be permissible for registered design right holders to prevent the entry of infringing products and the placement of such products in all customs situations, including, in particular transit, transhipment, warehousing, free zones, temporary storage, inward processing or temporary admission, also when such products are not intended to be placed on the market of the Member State concerned. In performing customs controls, the customs authorities should make use of the powers and procedures laid down in Regulation (EU) No 608/2013 of the European Parliament and of the Council ( 6 ) , including at the request of the right holders. In particular, the customs authorities should carry out the relevant controls on the basis of risk analysis criteria.
+ (30)
+ In order to reconcile the need to ensure the effective enforcement of design rights with the necessity to avoid hampering the free flow of trade in legitimate products, the entitlement of the design right holder should lapse where, during proceedings initiated before the judicial or other authority competent to take a substantive decision on whether the registered design right has been infringed, the declarant or the holder of the products is able to prove that the owner of the registered design right is not entitled to prohibit the placing of the products on the market in the country of final destination.
+ (31)
+ The exclusive rights conferred by a registered design right should be subject to an appropriate set of limitations. Apart from acts carried out privately and for non-commercial purposes and those carried out for experimental purposes, such list of permissible uses should include acts of reproduction for the purpose of making citations or of teaching, referential use in the context of comparative advertising, and use for the purpose of comment, critique or parody, provided that those acts are compatible with fair trade practices and do not unduly prejudice the normal exploitation of the design. Use of a design by third parties for the purpose of artistic expression should be considered as to be fair as long as it is in accordance with honest practices in industrial and commercial matters. Furthermore, this Directive should be applied in a way that ensures full respect of fundamental rights and freedoms, in particular the freedom of expression.
+ (32)
+ The purpose of design protection is to grant exclusive rights to the appearance of a product, but not a monopoly over the product as such. Protecting designs for which there is no practical alternative would lead in fact to a product monopoly. Such protection would come close to an abuse of the design protection regime. If third parties are allowed to produce and distribute spare parts, competition is maintained. If design protection is extended to spare parts, such third parties infringe those rights, competition is eliminated and the holder of the design right is de facto given a product monopoly.
+ (33)
+ The differences in the laws of the Member States on the use of protected designs for the purpose of permitting the repair of a complex product so as to restore its original appearance, where the product incorporating the design or to which the design is applied constitutes a form-dependent component part of a complex product, directly affect the establishment and functioning of the internal market. Such differences distort competition and trade within the internal market and create legal uncertainty. The repairability of products is at the core of a sustainable economy, as highlighted in the Commission communication of 11 December 2019 on ‘The European Green Deal’.
+ (34)
+ It is therefore necessary for the smooth functioning of the internal market and in order to ensure fair competition to approximate the design protection laws of Member States as regards the use of protected designs for the purpose of permitting the repair of a complex product so as to restore its original appearance through the insertion of a ‘repair clause’ similar to that already contained in Regulation (EC) No 6/2002 and applicable to EU designs at Union level but explicitly applying to form-dependent component parts of complex products only. As the intended effect of that repair clause is to make design rights unenforceable where the design of the component part of a complex product is used for the purpose of the repair of a complex product so as to restore its original appearance, the repair clause should be one of the defences provided for under this Directive to design right infringement. In addition, in order to ensure that consumers are not mislead and are able to make an informed decision between competing products that can be used for the repair, it should be explicitly provided for that the repair clause cannot be invoked by a manufacturer or seller of a component part who has failed to duly inform consumers about the commercial origin, and the identity of the manufacturer, of the product to be used for the purpose of the repair of the complex product. That detailed information should be provided through a clear and visible indication on the product or, where that is not possible, on its packaging or in a document accompanying the product, and should include at least the trade mark under which the product is marketed, and the name of the manufacturer.
+ (35)
+ With a view to preserving the effectiveness of the liberalisation of the spare parts aftermarket sought by this Directive and in line with the case law ( 7 ) of the Court of Justice of the European Union, in order to be able to benefit from the repair clause exemption from design protection, the manufacturer or seller of a component part of a complex product is under a duty of diligence to ensure, through appropriate means, in particular contractual means, that downstream users do not intend to use the component parts at issue for purposes other than that of repair so as to restore the original appearance of the complex product. This however should not require the manufacturer or seller of a component part of a complex product to guarantee, objectively and in all circumstances, that the parts they make or sell are, ultimately, actually used by end users for the sole purpose of repair so as to restore the original appearance of that complex product.
+ (36)
+ In order to avoid divergent conditions in the Member States regarding prior use causing differences in the legal strength of the same design in different Member States, it is appropriate to ensure that any third person who can establish that, before the date of filing of a design application, or, if priority is claimed, before the date of priority, that third person has in good faith commenced use within a Member State, or has made serious and effective preparations to that end, of a design included within the scope of protection of a registered design right, which has not been copied from the latter, is entitled to a limited exploitation of that design.
+ (37)
+ In order to facilitate the marketing of design-protected products, in particular by SMEs and individual designers, and to increase awareness of the design registration regimes existing both at Union and national level, a commonly accepted notice consisting of the symbol 
+ D
+ should be available for use by design right holders and others with their consent. 
+ (38)
+ In order to improve and facilitate access to design protection and to increase legal certainty and predictability, the procedure for the registration of designs in the Member States should be efficient and transparent and should follow rules similar to those applicable to EU designs.
+ (39)
+ It is necessary to lay down essential common rules regarding the requirements and technical means for the representation of designs in any form of visual reproduction at the stage of filing the application for registration, taking into account technical advances in relation to the visualisation of designs and the needs of Union industry in relation to new digital designs. In addition, Member States should establish harmonised standards by means of convergence of practices.
+ (40)
+ For greater efficiency it is also appropriate to allow applicants for registered designs to combine several designs in one multiple application without being subject to the condition that the products in which the designs are intended to be incorporated or to which they are intended to be applied all belong to the same class of the International Classification for Industrial Designs (‘Locarno Classification’), established by the Locarno Agreement (1968).
+ (41)
+ The usual publication following registration of a design could in some cases destroy or jeopardise the success of a commercial operation involving the design. The facility of a deferment of publication affords a solution in such cases. For the sake of coherence and greater legal certainty, thereby helping businesses reduce costs in managing design portfolios, deferment of publication should be subject to the same rules across the Union.
+ (42)
+ In order to ensure a level playing field for businesses, and provide the same level of access to design protection across the Union by keeping the registration and other procedural burdens for applicants to a minimum, all central industrial property offices of the Member States and the Benelux Office for Intellectual Property should limit, as the European Union Intellectual Property Office (EUIPO) does at Union level, their substantive examination of their own motion to the absence of the grounds for non-registrability exhaustively enumerated in this Directive.
+ (43)
+ For the purpose of offering another means of declaring design rights invalid, Member States should be allowed to provide for an administrative procedure for the declaration of invalidity which is aligned to the extent appropriate to that applicable to registered EU designs.
+ (44)
+ It is desirable that Member States’ central industrial property offices and the Benelux Office for Intellectual Property cooperate with each other and with the EUIPO in all fields of design registration and administration in order to promote the convergence of practices and tools, such as the creation and updating of common or connected databases and portals for consultation and search purposes. The Member States should further ensure that their central industrial property offices and the Benelux Office for Intellectual Property cooperate with each other and with the EUIPO in all other areas of their activities which are relevant for the protection of designs in the Union.
+ (45)
+ Since the objectives of this Directive, namely to foster and create a well-functioning internal market and to facilitate the registration, administration and protection of design rights in the Union to the benefit of growth and competitiveness where appropriate, cannot be sufficiently achieved by the Member States but can rather, by reason of its scale and effects, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.
+ (46)
+ The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council ( 8 ) .
+ (47)
+ The obligation to transpose this Directive into national law should be confined to those provisions which represent a substantive amendment as compared with Directive 98/71/EC. The obligation to transpose the provisions which are unchanged arises under that earlier Directive.
+ (48)
+ This Directive should be without prejudice to the obligations of the Member States relating to the time limit for the transposition into national law of the Directive set out in Annex I to this Directive,
+ HAVE ADOPTED THIS DIRECTIVE:
+ CHAPTER 1
+ GENERAL PROVISIONS 
+ Article 1
+ Scope
+ 1. This Directive applies to:
+ (a)
+ design rights registered with the central industrial property offices of the Member States;
+ (b)
+ design rights registered at the Benelux Office for Intellectual Property;
+ (c)
+ design rights registered under international arrangements which have effect in a Member State;
+ (d)
+ applications for the design rights referred to in points (a), (b) and (c).
+ 2. For the purpose of this Directive, design registration shall also comprise the publication following filing of the design with the industrial property office of a Member State in which such publication has the effect of bringing a design right into existence.
+ Article 2
+ Definitions
+ For the purposes of this Directive, the following definitions apply:
+ (1)
+ ‘office’ means the central industrial property office of the Member State or the Benelux Office for Intellectual Property, entrusted with the registration of designs;
+ (2)
+ ‘register’ means the register of designs kept by an office;
+ (3)
+ ‘design’ means the appearance of the whole or a part of a product resulting from the features, in particular the lines, contours, colours, shape, texture and/or materials, of the product itself and/or of its decoration, including the movement, transition or any other sort of animation of those features;
+ (4)
+ ‘product’ means any industrial or handicraft item other than a computer program, regardless of whether it is embodied in a physical object or materialises in a non-physical form, including:
+ (a)
+ packaging, sets of articles, spatial arrangements of items intended to form an interior or exterior environment, and parts intended to be assembled into a complex product;
+ (b)
+ graphic works or symbols, logos, surface patterns, typographic typefaces, and graphical user interfaces;
+ (5)
+ ‘complex product’ means a product that is composed of multiple components which can be replaced, permitting disassembly and reassembly of the product.
+ CHAPTER 2
+ SUBSTANTIVE LAW ON DESIGNS 
+ Article 3
+ Protection requirements
+ 1. Member States shall protect designs solely through the registration of those designs, and shall confer exclusive rights upon their holders in accordance with this Directive.
+ 2. A design shall be protected by a design right if it is new and has individual character.
+ 3. A design applied to or incorporated in a product which constitutes a component part of a complex product shall only be considered to be new and to have individual character:
+ (a)
+ if the component part, once it has been incorporated into the complex product, remains visible during normal use of the latter; and
+ (b)
+ to the extent that those visible features of the component part fulfil in themselves the requirements as to novelty and individual character.
+ 4. ‘Normal use’ within the meaning of paragraph 3, point (a), shall mean use by the end user, excluding maintenance, servicing or repair work.
+ Article 4
+ Novelty
+ A design shall be considered new if no identical design has been made available to the public before the date of filing of the application for registration or, if priority is claimed, the date of priority. Designs shall be deemed to be identical if their features differ only in immaterial details.
+ Article 5
+ Individual character
+ 1. A design shall be considered to have individual character if the overall impression it produces on the informed user differs from the overall impression produced on such a user by any design which has been made available to the public before the date of filing of the application for registration or, if priority is claimed, the date of priority.
+ 2. In assessing individual character, the degree of freedom of the designer in developing the design shall be taken into consideration.
+ Article 6
+ Disclosure
+ 1. For the purpose of applying Articles 4 and 5, a design shall be deemed to have been made available to the public if it has been published following registration or otherwise, or exhibited, used in trade or otherwise disclosed, except where these events could not reasonably have become known in the normal course of business to the circles specialised in the sector concerned, operating within the Union, before the date of filing of the application for registration or, if priority is claimed, the date of priority. The design shall not, however, be deemed to have been made available to the public for the sole reason that it has been disclosed to a third person under explicit or implicit conditions of confidentiality.
+ 2. A disclosure shall not be taken into consideration for the purpose of applying Articles 4 and 5 if the disclosed design, which is identical or does not differ in its overall impression from the design for which protection is claimed under a registered design right of a Member State, has been made available to the public:
+ (a)
+ by the designer, the designer’s successor in title, or a third person as a result of information provided or action taken by the designer, or the designer’s successor in title; and
+ (b)
+ during the 12-month period preceding the date of filing of the application or, if priority is claimed, the date of priority.
+ 3. Paragraph 2 shall also apply if the design has been made available to the public as a consequence of an abuse in relation to the designer or the designer’s successor in title.
+ Article 7
+ Designs dictated by their technical function and designs of interconnections
+ 1. A design right shall not subsist in features of appearance of a product which are solely dictated by its technical function.
+ 2. A design right shall not subsist in features of appearance of a product which must necessarily be reproduced in their exact form and dimensions in order to permit the product in which the design is incorporated or to which it is applied to be mechanically connected to or placed in, around or against another product so that either product may perform its function.
+ 3. Notwithstanding paragraph 2 of this Article, a design right shall, under the conditions set out in Articles 4 and 5, subsist in a design serving the purpose of allowing multiple assembly or connection of mutually interchangeable products within a modular system.
+ Article 8
+ Designs contrary to public policy or morality
+ A design right shall not subsist in a design which is contrary to public policy or to accepted principles of morality.
+ Article 9
+ Scope of protection
+ 1. The scope of the protection conferred by a design right shall include any design which does not produce on the informed user a different overall impression.
+ 2. In assessing the scope of protection, the degree of freedom of the designer in developing his design shall be taken into consideration.
+ Article 10
+ Commencement and term of protection
+ 1. Protection of a design right shall arise upon registration by the office.
+ 2. A design shall be registered for a period of five years calculated from the date of filing of the application for registration. The right holder may renew the registration, in accordance with Article 32, for one or more periods of five years each, up to a total term of protection of 25 years from the date of filing of the application for registration.
+ Article 11
+ Right to the registered design
+ 1. The right to the registered design shall vest in the designer or the designer’s successor in title.
+ 2. If two or more persons have jointly developed the design, the right to the registered design shall vest in them jointly.
+ 3. However, the right to the registered design shall vest in the employer where a design is developed by an employee in the execution of the employee’s duties or following the instructions given by the employee’s employer, unless otherwise agreed between the parties concerned or laid down in national law.
+ Article 12
+ Presumption in favour of the registered holder of the design
+ The person in whose name the design right is registered, or, prior to registration, the person in whose name the application is filed, shall be deemed to be the person entitled to act in any proceedings before the office in the territory of which protection is claimed as well as in any other proceedings.
+ Article 13
+ Grounds for non-registrability
+ 1. A design shall be refused registration where:
+ (a)
+ the design is not a design within the meaning of Article 2, point (3);
+ (b)
+ the design is contrary to public policy or to accepted principles of morality, as provided for in Article 8; or
+ (c)
+ the design constitutes an improper use of any of the items listed in Article 6ter of the Paris Convention for the Protection of Industrial Property, unless the consent of the competent authorities to the registration has been given.
+ 2. Member States may provide that a design is to be refused registration where the design constitutes an improper use of badges, emblems and escutcheons other than those covered by Article 6ter of the Paris Convention and which are of a particular public interest in the Member State concerned, unless the consent of the competent authority to its registration has been given in conformity with the law of the Member State.
+ 3. Member States may provide that a design is to be refused registration where it contains a total or partial reproduction of elements belonging to cultural heritage that are of national interest.
+ Article 14
+ Grounds for invalidity
+ 1. If the design has been registered, the design right shall be declared invalid in any of the following situations:
+ (a)
+ the design is not a design within the meaning of Article 2, point (3);
+ (b)
+ the design does not fulfil the requirements provided for in Articles 3 to 8;
+ (c)
+ the design has been registered in breach of Article 13(1), point (c), or of Article 13(2);
+ (d)
+ by virtue of a decision of the competent court or authority, the holder of the design right is not entitled to it under the law of the Member State concerned;
+ (e)
+ the design is in conflict with a prior design which has been made available to the public prior to or after the date of filing of the application or, if priority is claimed, the date of priority of the design, and which is protected from a date prior to the date of filing of the application, or if priority is claimed, the date of priority of the design:
+ (i)
+ by a registered EU design, or an application for a registered EU design subject to its registration;
+ (ii)
+ by a registered design right of the Member State concerned, or by an application for such a right subject to its registration;
+ (iii)
+ by a design right registered under international arrangements which have effect in the Member State concerned, or by an application for such a right subject to its registration;
+ (f)
+ a distinctive sign is used in a subsequent design, and Union law or the law of the Member State concerned governing that sign confers on the right holder of the sign the right to prohibit such use;
+ (g)
+ the design constitutes an unauthorised use of a work protected under the copyright law of the Member State concerned.
+ 2. If the design has been registered, Member States may provide that the design right is to be declared invalid, where the design contains a total or partial reproduction of elements belonging to cultural heritage that are of national interest.
+ 3. The grounds for invalidity provided for in paragraph 1, points (a) and (b), may be invoked by the following:
+ (a)
+ any natural or legal person; or
+ (b)
+ any group or body set up for the purpose of representing the interests of manufacturers, producers, suppliers of services, traders or consumers, if that group or body has the capacity to sue and be sued in its own name under the law governing it.
+ 4. The ground for invalidity provided for in paragraph 1, point (c), may be invoked solely by the person or entity concerned by the improper use.
+ 5. The ground for invalidity provided for in paragraph 1, point (d), may be invoked solely by the person who is entitled to the design right under the law of the Member State concerned.
+ 6. The grounds for invalidity provided for in paragraph 1, points (e), (f) and (g), may be invoked solely by the following:
+ (a)
+ the applicant for or the holder of the earlier right;
+ (b)
+ the persons who are entitled under Union law or the law of the Member State concerned to exercise the right; or
+ (c)
+ a licensee authorised by the proprietor of the earlier right.
+ 7. A registered design right shall not be declared invalid where the applicant for or a holder of a right referred to in paragraph 1, points (e), (f) and (g), consented expressly to the registration of the design before submitting the application for a declaration of invalidity or the counterclaim.
+ 8. A design right may be declared invalid even after it has lapsed or has been surrendered.
+ Article 15
+ Object of protection
+ Protection shall be conferred for those features of appearance of a registered design which are shown visibly in the application for registration.
+ Article 16
+ Rights conferred by the design right
+ 1. The registration of a design shall confer on its holder the exclusive right to use it and to prevent any third party not having the consent of the holder from using it.
+ 2. The following, in particular, may be prohibited under paragraph 1:
+ (a)
+ making, offering, placing on the market or using a product in which the design is incorporated or to which it is applied;
+ (b)
+ importing or exporting a product referred to in point (a);
+ (c)
+ stocking a product referred to in point (a) for the purposes mentioned in points (a) and (b);
+ (d)
+ creating, downloading, copying and sharing or distributing to others any medium or software which records the design for the purpose of enabling a product referred to in point (a) to be made.
+ 3. The holder of a registered design right shall be entitled to prevent all third parties from bringing products, in the course of trade, from third countries into the Member State where the design is registered, that are not released for free circulation in that Member State, where the design is identically incorporated in or applied to those products, or the design cannot be distinguished in its essential aspects from such products, and the right holder’s authorisation has not been given.
+ The right referred to in the first subparagraph of this paragraph shall lapse, if, during the proceedings to determine whether the registered design right has been infringed, initiated in accordance with Regulation (EU) No 608/2013, evidence is provided by the declarant or the holder of the products that the holder of the registered design right is not entitled to prohibit the placing of the products on the market in the country of final destination.
+ Article 17
+ Presumption of validity
+ 1. In infringement proceedings it shall be presumed, in the favour of the holder of the registered design right, that the requirements for the legal validity of a registered design right provided for in Articles 3 to 8 are met, and that the design right has not been registered in breach of Article 13(1), point (c).
+ 2. The presumption of validity referred to in paragraph 1 shall be rebuttable by any procedural means available in the jurisdiction of the Member State concerned, including counterclaims.
+ Article 18
+ Limitation of the rights conferred by the design right
+ 1. The rights conferred by a design right upon registration shall not be exercised in respect of:
+ (a)
+ acts carried out privately and for non-commercial purposes;
+ (b)
+ acts carried out for experimental purposes;
+ (c)
+ acts of reproduction for the purposes of making citations or of teaching;
+ (d)
+ acts carried out for the purpose of identifying or referring to a product as that of the design right holder;
+ (e)
+ acts carried out for the purposes of comment, critique or parody;
+ (f)
+ the equipment on ships and aircraft registered in another country when these temporarily enter the territory of the Member State concerned;
+ (g)
+ the importation in the Member State concerned of spare parts and accessories for the purpose of repairing ships and aircraft referred to in point (f);
+ (h)
+ the execution of repairs on ships and aircraft referred to in point (f).
+ 2. Paragraph 1, points (c), (d) and (e), shall only apply where the acts are compatible with fair trade practices and do not unduly prejudice the normal exploitation of the design, and in the case referred to in point (c), where mention is made of the source of the product in which the design is incorporated or to which the design is applied.
+ Article 19
+ Repair clause
+ 1. Protection shall not be conferred on a registered design which constitutes a component part of a complex product upon whose appearance the design of the component part is dependent, and which is used within the meaning of Article 16(1) for the sole purpose of the repair of that complex product so as to restore its original appearance.
+ 2. Paragraph 1 shall not be invoked by the manufacturer or the seller of a component part of a complex product who failed to duly inform consumers, through a clear and visible indication on the product or in another appropriate form, about the commercial origin, and the identity of the manufacturer, of the product to be used for the purpose of the repair of the complex product, so that they can make an informed choice between competing products that can be used for the repair.
+ 3. The manufacturer or seller of a component part of a complex product shall not be required to guarantee that the component parts they make or sell are ultimately used by end users for the sole purpose of repair so as to restore the original appearance of the complex product.
+ 4. Where on 8 December 2024, the national law of a Member State provides protection for designs within the meaning of paragraph 1, the Member State shall, by way of derogation from paragraph 1, continue until 9 December 2032 to provide that protection for designs for which registration has been applied for before 8 December 2024.
+ Article 20
+ Exhaustion of rights
+ The rights conferred by a design right upon registration shall not extend to acts relating to a product in which a design included within the scope of protection of the design right is incorporated or to which it is applied, when the product has been placed on the market in the Union by the holder of the design right or with the holder’s consent.
+ Article 21
+ Rights of prior use in respect of a registered design right
+ 1. A right of prior use shall exist for any third party who can establish that, before the date of filing of the application, or, if priority is claimed, before the date of priority, the third party has in good faith commenced use within the Member State concerned, or has made serious and effective preparations to that end, of a design included within the scope of protection of a registered design right, which has not been copied from the latter.
+ 2. The right of prior use referred to in paragraph 1 shall entitle the third party to exploit the design for the purposes for which its use has been effected, or for which serious and effective preparations had been made, before the filing of the application or priority date of the registered design right.
+ Article 22
+ Relationship to other forms of protection
+ This Directive shall be without prejudice to any provisions of Union law relating to unregistered design rights, or to any provisions of Union law or the law of the Member State concerned relating to trade marks or other distinctive signs, patents and utility models, typefaces, civil liability or unfair competition.
+ Article 23
+ Relationship to copyright
+ A design protected by a design right registered in or in respect of a Member State in accordance with this Directive shall also be eligible for protection by copyright as from the date on which the design was created or fixed in any form provided that the requirements of copyright law are met.
+ Article 24
+ Registration symbol
+The holder of a registered design right may inform the public that the design is registered by displaying on the product in which the design is incorporated or to which it is applied the letter D enclosed within a circle ( 
+ D
+). Such design notice may be accompanied by the registration number of the design or hyperlinked to the entry of the design in the register.
+ CHAPTER 3
+ PROCEDURES 
+ Article 25
+ Application requirements
+ 1. An application for registration of a design shall contain at least all of the following:
+ (a)
+ a request for registration;
+ (b)
+ information identifying the applicant;
+ (c)
+ a sufficiently clear representation of the design which permits the subject matter for which protection is sought to be determined;
+ (d)
+ an indication of the products in which the design is intended to be incorporated or to which it is intended to be applied.
+ 2. The application for design registration shall be subject to the payment of a fee determined by the Member State concerned.
+ 3. The indication of the products as referred to in paragraph 1, point (d), shall not affect the scope of protection of the design. That shall also apply to a description, and to any verbal disclaimers included therein, explaining the representation of the design if such a description is provided for by a Member State.
+ Article 26
+ Representation of the design
+ 1. The design shall be represented in any form of visual reproduction, either in black and white or in colour. The reproduction may be static, dynamic or animated and shall be effected by any appropriate means, using generally available technology, including drawings, photographs, videos, computer imaging or computer modelling.
+ 2. The reproduction shall show all the aspects of the design for which protection is sought in one or more views. In addition, other types of views may be provided with the purpose of further detailing specific features of the design.
+ 3. Where the representation contains different reproductions of the design or includes more than one view, those shall be consistent with each other, and the subject matter of the registration shall be determined by all the visual features of those views or reproductions combined.
+ 4. The design shall be represented alone, to the exclusion of any other matter.
+ 5. Matter for which no protection is sought shall be indicated by way of visual disclaimers. Any such visual disclaimers shall be used consistently.
+ 6. The Member States’ central industrial property offices and the Benelux Office for Intellectual Property shall cooperate with each other and with the European Union Intellectual Property Office to establish common standards to be applied to the requirements and means of design representation, in particular as regards the types and number of views to be used, the types of acceptable visual disclaimers, as well as the technical specifications for the means to be used for the reproduction, storage and filing of designs, such as the formats and size of the relevant electronic files.
+ Article 27
+ Multiple applications
+ Several designs may be combined in one multiple application for registered designs. That possibility shall not be subject to the condition that the products in which the designs are intended to be incorporated or to which they are intended to be applied all belong to the same class of the Locarno Classification.
+ Article 28
+ Date of filing
+ 1. The date of filing of a design application shall be the date on which the documents containing the information specified in Article 25(1), points (a), (b) and (c), are filed with the office by the applicant.
+ 2. Without prejudice to paragraph 1 of this Article, the date of filing may be accorded where one or more of the elements required by Article 26 are missing, provided that the representation of the design as a whole is sufficiently clear within the meaning of Article 25(1), point (c).
+ 3. Member States may, in addition, provide that the accordance of the date of filing is to be subject to the payment of a fee as referred to in Article 25(2).
+ Article 29
+ Scope of substantive examination
+ The offices shall limit their examination of whether the design applied for is eligible for registration to the absence of the substantive grounds for non-registrability referred to in Article 13.
+ Article 30
+ Deferment of publication
+ 1. The applicant for a registered design may request, when filing the application, that the publication of the registered design be deferred for a period of up to 30 months from the date of filing the application or, if priority is claimed, from the date of priority.
+ 2. Once the design has been registered, neither the representation of the design nor any file relating to the application shall be open to public inspection, subject to provisions of national law safeguarding legitimate interests of third parties.
+ 3. A mention of the deferment of the publication of the registered design shall be published.
+ 4. At the expiry of the period of deferment, or at any earlier date requested by the right holder, the office shall open to public inspection all the entries in its register and the file relating to the application and shall publish the registered design.
+ 5. The right holder may prevent the publication of the registered design as referred to in paragraph 4, by submitting a request for surrender of the registered design.
+ 6. Member States may provide, by way of derogation from paragraphs 4 and 5, that the office is to publish the registered design only at the request of the right holder. Where a Member State provides for the payment of a publication fee, the receipt of payment of that fee may be deemed to constitute such a request.
+ Article 31
+ Procedure for declaration of invalidity
+ 1. Without prejudice to the right of the parties to appeal to the courts, Member States may provide for an efficient and expeditious administrative procedure before their offices for the declaration of invalidity of a registered design right.
+ 2. The administrative procedure for invalidity referred to in paragraph 1 shall provide that the design right is to be declared invalid at least on the following grounds:
+ (a)
+ the design should not have been registered because it does not comply with the definition laid down in Article 2, point (3), or with the requirements provided for in Articles 3 to 8;
+ (b)
+ the design should not have been registered because it is in breach of Article 13(1)(c);
+ (c)
+ the design should not have been registered because of the existence of a prior design within the meaning of Article 14(1), point (e).
+ 3. The administrative procedure referred to in paragraph 1 shall provide that the following persons are to be entitled to file an application for a declaration of invalidity:
+ (a)
+ in the case of paragraph 2, point (a), of this Article, the persons, groups or bodies referred to in Article 14(3);
+ (b)
+ in the case of paragraph 2, point (b), of this Article, the person or entity referred to in Article 14(4);
+ (c)
+ in the case of paragraph 2, point (c), of this Article, at least the persons referred to in Article 14(6), points (a) and (b).
+ Article 32
+ Renewal
+ 1. Registration of a design shall be renewed at the request of the holder of the registered design right or any person authorised to request the renewal by law or by contract, provided that the renewal fees have been paid. Member States may provide that receipt of payment of the renewal fees is to be deemed to constitute such a request.
+ 2. The office shall inform the holder of the registered design right of the expiry of the registration at least six months before the date of such expiry. The office shall not be held liable if it fails to give such information and such failure shall not affect the expiry of the registration.
+ 3. The request for renewal shall be submitted and the renewal fees shall be paid within a period of at least six months immediately preceding the expiry of the registration.
+ Failing that, the request may be submitted within a further period of six months immediately following the expiry of the registration or of the subsequent renewal thereof. The renewal fees and an additional fee shall be paid within that further period.
+ 4. In the case of a multiple registration, where the renewal fees paid are insufficient to cover all the designs for which renewal is requested, registration shall be renewed in respect of those designs which the amount paid is clearly intended to cover.
+ 5. Renewal shall take effect from the day following the date on which the existing registration expires. The renewal shall be recorded in the register.
+ Article 33
+ Communication with the office
+ Parties to the proceedings or, where appropriate, their representatives, shall designate an official address for all official communication with the office. Member States shall have the right to require that such an official address be situated in the European Economic Area.
+ CHAPTER 4
+ ADMINISTRATIVE COOPERATION 
+ Article 34
+ Cooperation in the area of design registration, administration and invalidity
+ The offices shall be free to cooperate effectively with each other and with the European Union Intellectual Property Office in order to promote convergence of practices and tools in relation to the examination, registration and invalidation of designs.
+ Article 35
+ Cooperation in other areas
+ The offices shall be free to cooperate effectively with each other and with the European Union Intellectual Property Office in all areas of their activities other than those referred to in Article 34 which are of relevance for the protection of designs in the Union.
+ CHAPTER 5
+ FINAL PROVISIONS 
+ Article 36
+ Transposition
+ 1. Member States shall bring into force the laws, regulations or administrative provisions necessary to comply with Articles 2 and 3, Article 6, Articles 10 to 19, Article 21, Articles 23 to 30 and Articles 32 and 33 by 9 December 2027. They shall immediately communicate the text of those measures to the Commission.
+ When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the Directive repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+ 2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+ Article 37
+ Repeal
+ Directive 98/71/EC is repealed with effect from 9 December 2027, without prejudice to the obligations of the Member States relating to the time-limit for the transposition into national law of the Directive set out in Annex I.
+ References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table set out in Annex II.
+ Article 38
+ Entry into force
+ This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union .
+ However, Articles 4, 5, 7, 8, 9, 20 and 22 shall apply from 9 December 2027.
+ Article 39
+ Addressees
+ This Directive is addressed to the Member States.
+ Done at Strasbourg, 23 October 2024.
+ For the European Parliament 
+ The President 
+ R. METSOLA
+ For the Council 
+ The President 
+ ZSIGMOND B. P.
+ ( 1 ) 
+ OJ C 184, 25.5.2023, p. 39 .
+ ( 2 ) Position of the European Parliament of 14 March 2024 (not yet published in the Official Journal) and decision of the Council of 10 October 2024.
+ ( 3 ) Directive 98/71/EC of the European Parliament and of the Council of 13 October 1998 on the legal protection of designs ( OJ L 289, 28.10.1998, p. 28 ).
+ ( 4 ) Council Regulation (EC) No 6/2002 of 12 December 2001 on Community designs ( OJ L 3, 5.1.2002, p. 1 ).
+ ( 5 ) 
+ OJ C 205, 20.5.2022, p. 26 .
+ ( 6 ) Regulation (EU) No 608/2013 of the European Parliament and of the Council of 12 June 2013 concerning customs enforcement of intellectual property rights and repealing Council Regulation (EC) No 1383/2003 ( OJ L 181, 29.6.2013, p. 15 ).
+ ( 7 ) Judgment of the Court of Justice of 20 December 2017, Acacia Srl v Pneusgarda Srl and Audi AG and Acacia Srl and Rolando D’Amato v Dr Ing. h.c.F. Porsche AG , joined Cases C-397/16 and C-435/16, ECLI:EU:C:2017:992.
+ ( 8 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC ( OJ L 295, 21.11.2018, p. 39 ).
+ ANNEX I
+ Time limit for transposition into national law (referred to in Article 37)
+ Directive
+ Time limit for transposition
+ 98/71/EC
+ 28 October 2001
+ ANNEX II
+ Correlation table
+ Directive 98/71/EC
+ This Directive
+ Article 1, introductory wording
+ Article 2, introductory wording
+ —
+ Article 2, points (1) and (2)
+ Article 1, point (a)
+ Article 2, point (3)
+ Article 1, point (b)
+ Article 2, point (4)
+ Article 1, point (c)
+ Article 2, point (5)
+ Article 2
+ Article 1
+ Articles 3 to 10
+ Articles 3 to 10
+ —
+ Articles 11 and 12
+ Article 11
+ Articles 13 and 14
+ —
+ Article 15
+ Article 12(1)
+ Article 16(1) and (2), points (a), (b) and (c)
+ —
+ Article 16(2), point (d)
+ —
+ Article 16(3)
+ Article 12(2)
+ —
+ —
+ Article 17
+ Article 13(1), points (a), (b) and (c)
+ Article 18(1), points (a), (b) and (c)
+ —
+ Article 18(1), points (d) and (e)
+ Article 13(2), points (a), (b) and (c)
+ Article 18(1), points (f), (g) and (h)
+ —
+ Article 18(2)
+ Article 14
+ —
+ —
+ Article 19
+ Article 15
+ Article 20
+ —
+ Article 21
+ Article 16
+ Article 22
+ Article 17
+ Article 23
+ —
+ Articles 24 to 35
+ Article 18
+ —
+ Article 19
+ Article 36
+ —
+ Article 37
+ Article 20
+ Article 38
+ Article 21
+ Article 39
+ —
+ Annex I
+ —
+ Annex II
+ ELI: http://data.europa.eu/eli/dir/2024/2823/oj
+ ISSN 1977-0677 (electronic edition)

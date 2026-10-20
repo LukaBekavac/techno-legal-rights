@@ -1,0 +1,294 @@
+### Directive on combating fraud and counterfeiting of non-cash means of payment | CELEX 32019L0713 | text version 32019L0713 | role in_force
+10.5.2019 
+ EN
+ Official Journal of the European Union
+ L 123/18
+ DIRECTIVE (EU) 2019/713 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 17 April 2019
+ on combating fraud and counterfeiting of non-cash means of payment and replacing Council Framework Decision 2001/413/JHA
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 83(1) thereof,
+ Having regard to the proposal from the European Commission,
+ After transmission of the draft legislative act to the national parliaments,
+ Having regard to the opinion of the European Economic and Social Committee ( 1 ) ,
+ Acting in accordance with the ordinary legislative procedure ( 2 ) ,
+ Whereas:
+ (1)
+ Fraud and counterfeiting of non-cash means of payment are threats to security, as they represent a source of income for organised crime and are therefore enablers for other criminal activities such as terrorism, drug trafficking and trafficking in human beings.
+ (2)
+ Fraud and counterfeiting of non-cash means of payment also represent obstacles to the digital single market, as they erode consumers' trust and cause direct economic loss.
+ (3)
+ Council Framework Decision 2001/413/JHA ( 3 ) needs to be updated and complemented in order to include further provisions on offences in particular with regard to computer-related fraud, and on penalties, prevention, assistance to victims and cross-border cooperation.
+ (4)
+ Significant gaps and differences in Member States' laws in the areas of fraud and of counterfeiting of non-cash means of payment can obstruct the prevention, detection and sanctioning of those types of crime and other serious and organised crimes related to and enabled by them, and make police and judicial cooperation more complicated and therefore less effective, with negative consequences for security.
+ (5)
+ Fraud and counterfeiting of non-cash means of payment have a significant cross-border dimension, accentuated by an increasing digital component, which underlines the need for further action to approximate criminal legislation in the areas of fraud and of counterfeiting of non-cash means of payment.
+ (6)
+ Recent years have brought not only an exponential increase in the digital economy, but also a proliferation of innovation in many areas, including payment technologies. New payment technologies involve the use of new types of payment instruments, which, while creating new opportunities for consumers and businesses, also increase opportunities for fraud. Consequently, the legal framework must remain relevant and up-to-date against the background of those technological developments, on the basis of a technology-neutral approach.
+ (7)
+ Fraud is not only used to fund criminal groups, but also limits the development of the digital single market and makes citizens more reluctant to make online purchases.
+ (8)
+ Common definitions in the areas of fraud and of counterfeiting of non-cash means of payment are important to ensure a consistent approach in Member States' application of this Directive and to facilitate information exchange and cooperation between competent authorities. The definitions should cover new types of non-cash payment instruments which allow for transfers of electronic money and virtual currencies. The definition of non-cash payment instruments should acknowledge that a non-cash payment instrument may consist of different elements acting together, for example a mobile payment application and a corresponding authorisation (e.g. a password). Where this Directive uses the concept of a non-cash payment instrument, it should be understood that the instrument puts the holder or user of the instrument in a position to actually enable a transfer of money or monetary value or to initiate a payment order. For example, unlawfully obtaining a mobile payment application without the necessary authorisation should not be considered as an unlawful obtainment of a non-cash payment instrument as it does not actually enable the user to transfer money or monetary value.
+ (9)
+ This Directive should apply to non-cash payment instruments only insofar as the instrument's payment function is concerned.
+ (10)
+ This Directive should cover virtual currencies only insofar as they can be commonly used for making payments. The Member States should be encouraged to ensure in their national law that future currencies of a virtual nature issued by their central banks or other public authorities will enjoy the same level of protection against fraudulent offences as non-cash means of payment in general. Digital wallets that allow the transfer of virtual currencies should be covered by this Directive to the same extent as non-cash payment instruments. The definition of the term ‘digital means of exchange’ should acknowledge that digital wallets for transferring virtual currencies may provide, but do not necessarily provide, the features of a payment instrument and should not extend the definition of a payment instrument.
+ (11)
+ Sending fake invoices to obtain payment credentials should be considered as an attempt at unlawful appropriation within the scope of this Directive.
+ (12)
+ By using criminal law to give legal protection primarily to payment instruments that make use of special forms of protection against imitation or abuse, the intention is to encourage operators to provide such special forms of protection to payment instruments issued by them.
+ (13)
+ Effective and efficient criminal law measures are essential to protect non-cash means of payment against fraud and counterfeiting. In particular, a common criminal law approach is needed as regards the constituent elements of criminal conduct that contribute to or prepare the way for the actual fraudulent use of a non-cash means of payment. Conduct such as the collection and possession of payment instruments with the intention to commit fraud, through, for instance, phishing, skimming or directing or redirecting payment service users to imitation websites, and their distribution, for example by selling credit card information on the internet, should thus be made a criminal offence in its own right without requiring the actual fraudulent use of a non-cash means of payment. Such criminal conduct should therefore cover circumstances where possession, procurement or distribution does not necessarily lead to fraudulent use of such payment instruments. However, where this Directive criminalises possession or holding, it should not criminalise mere omission. This Directive should not sanction the legitimate use of a payment instrument, including and in relation to the provision of innovative payment services, such as services commonly developed by fintech companies.
+ (14)
+ With regard to the criminal offences referred to in this Directive, the concept of intent applies to all elements constituting those criminal offences in accordance with national law. It is possible for the intentional nature of an act, as well as any knowledge or purpose required as an element of an offence, to be inferred from objective, factual circumstances. Criminal offences which do not require intent should not be covered by this Directive.
+ (15)
+ This Directive refers to classical forms of conduct, like fraud, forgery, theft and unlawful appropriation that had already been shaped by national law before the era of digitalisation. The extended scope of this Directive with regard to non-corporeal payment instruments therefore requires the definition of equivalent forms of conduct in the digital sphere, complementing and reinforcing Directive 2013/40/EU of the European Parliament and of the Council ( 4 ) . The unlawful obtainment of a non-corporeal non-cash payment instrument should be a criminal offence, at least when it involves the commission of one of the offences referred to in Articles 3 to 6 of Directive 2013/40/EU or the misappropriation of a non-corporeal non-cash payment instrument. ‘Misappropriation’ should be understood to mean the action of a person entrusted with a non-corporeal non-cash payment instrument, to knowingly use the instrument without the right to do so, to his own benefit or to the benefit of another. The procurement for fraudulent use of such an unlawfully obtained instrument should be punishable without it being necessary to establish all the factual elements of the unlawful obtainment and without requiring a prior or simultaneous conviction for the predicate offence which led to the unlawful obtainment.
+ (16)
+ This Directive also refers to tools which can be used in order to commit the offences referred to in it. Given the need to avoid criminalisation where such tools are produced and placed on the market for legitimate purposes and, though they could be used to commit criminal offences, are therefore not in themselves a threat, criminalisation should be limited to those tools which are primarily designed or specifically adapted for the purpose of committing the offences referred to in this Directive.
+ (17)
+ The sanctions and penalties for fraud and counterfeiting of non-cash means of payment should be effective, proportionate and dissuasive throughout the Union. This Directive is without prejudice to the individualisation and application of penalties and execution of sentences in accordance with the circumstances of the case and the general rules of national criminal law.
+ (18)
+ As this Directive provides for minimum rules, Member States are free to adopt or maintain more stringent criminal law rules with regard to fraud and counterfeiting of non-cash means of payment, including a broader definition of offences.
+ (19)
+ It is appropriate to provide for more severe penalties where a crime is committed in the framework of a criminal organisation, as defined in Council Framework Decision 2008/841/JHA ( 5 ) . Member States should not be obliged to provide for specific aggravating circumstances where national law provides for separate criminal offences and this may lead to more severe sanctions. When an offence referred to in this Directive has been committed in conjunction with another offence referred to in this Directive by the same person, and one of those offences de facto constitutes a necessary element of the other, a Member State may, in accordance with general principles of national law, provide that such conduct is regarded as an aggravating circumstance to the main offence.
+ (20)
+ Jurisdictional rules should ensure that the offences referred to in this Directive are prosecuted effectively. In general, offences are best dealt with by the criminal justice system of the country in which they occur. Each Member State should therefore establish jurisdiction over offences committed on its territory and over offences committed by its nationals. Member States may also establish jurisdiction over offences that cause damage in their territory. They are strongly encouraged to do so.
+ (21)
+ Recalling the obligations under Council Framework Decision 2009/948/JHA ( 6 ) and Council Decision 2002/187/JHA ( 7 ) , competent authorities are encouraged in cases of conflicts of jurisdiction to use the possibility of conducting direct consultations with the assistance of the European Union Agency for Criminal Justice Cooperation (Eurojust).
+ (22)
+ Given the need for special tools to effectively investigate fraud and counterfeiting of non-cash means of payment, and their relevance to effective international cooperation between national authorities, investigative tools that are typically used for cases involving organised crime or other serious crime should be available to competent authorities in all Member States, if and to the extent that the use of those tools is appropriate and commensurate with the nature and gravity of the offences as defined in national law. In addition, law enforcement authorities and other competent authorities should have timely access to relevant information in order to investigate and prosecute the offences referred to in this Directive. Member States are encouraged to allocate adequate human and financial resources to the competent authorities in order to properly investigate and prosecute the offences referred to in this Directive.
+ (23)
+ National authorities investigating or prosecuting offences referred to in this Directive should be empowered to cooperate with other national authorities within the same Member State and their counterparts in other Member States.
+ (24)
+ In many cases, criminal activities are behind incidents that should be notified to the relevant national competent authorities under Directive (EU) 2016/1148 of the European Parliament and of the Council ( 8 ) . Such incidents may be suspected to be of a criminal nature even if there is insufficient evidence of a criminal offence at that stage. In such a context, relevant operators of essential services and digital service providers should be encouraged to share the reports required under Directive (EU) 2016/1148 with law enforcement authorities so as to form an effective and comprehensive response and to facilitate attribution and accountability by the perpetrators for their actions. In particular, promoting a safe, secure and more resilient environment requires systematic reporting of incidents of a suspected serious criminal nature to law enforcement authorities. Moreover, when relevant, computer security incident response teams designated under Directive (EU) 2016/1148 should be involved in law enforcement investigations with a view to providing information, as considered appropriate at national level, and also to providing specialist expertise on information systems.
+ (25)
+ Major security incidents as referred to in Directive (EU) 2015/2366 of the European Parliament and of the Council ( 9 ) may be of criminal origin. Where relevant, payment service providers should be encouraged to share with law enforcement authorities the reports they are required to submit to the competent authority in their home Member State under Directive (EU) 2015/2366.
+ (26)
+ A number of instruments and mechanisms exist at Union level to enable the exchange of information among national law enforcement authorities for the purposes of investigating and prosecuting crimes. To facilitate and speed up cooperation among national law enforcement authorities and make sure that those instruments and mechanisms are used to the fullest extent, this Directive should strengthen the importance of the operational points of contact introduced by Framework Decision 2001/413/JHA. It should be possible for Member States to decide to make use of the existing networks of operational points of contact, such as the one set up in Directive 2013/40/EU. The points of contact should provide effective assistance, for example by facilitating the exchange of relevant information and the provision of technical advice or legal information. To ensure the network runs smoothly, each point of contact should be able to communicate quickly with the point of contact in another Member State. Given the significant trans-border dimension of crimes covered by this Directive and in particular the volatile nature of electronic evidence, Member States should be able to deal promptly with urgent requests from the network and provide feedback within eight hours. In very urgent and serious cases, Member States should inform the European Union Agency for Law Enforcement Cooperation (Europol).
+ (27)
+ Reporting crime to public authorities without undue delay is of great importance in combating fraud and counterfeiting of non-cash means of payment, as it is often the starting point of criminal investigations. Measures should be taken to encourage reporting by natural and legal persons, in particular financial institutions, to law enforcement and judicial authorities. Those measures can be based on various types of action, including legislative acts containing obligations to report suspected fraud, or non-legislative actions, such as setting up or supporting organisations or mechanisms favouring the exchange of information, or awareness raising. Any such measure that involves processing of the personal data of natural persons should be carried out in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council ( 10 ) . In particular, any transmission of information for the purposes of preventing and combating offences relating to fraud and counterfeiting of non-cash means of payment should comply with the requirements laid down in that Regulation, notably the lawful grounds for processing.
+ (28)
+ In order to facilitate the prompt and direct reporting of crime, the Commission should carefully assess the establishment of effective online fraud-reporting systems by Member States and standardised reporting templates at Union level. Such systems could facilitate the reporting of non-cash fraud which often takes place online, thereby strengthening support for victims, the identification and analysis of cybercrime threats and the work and cross-border cooperation of national competent authorities.
+ (29)
+ The offences referred to in this Directive often have a cross-border nature. Therefore, combating these offences relies on close cooperation between the Member States. Member States are encouraged to ensure, to the extent appropriate, effective application of mutual recognition and legal assistance instruments in relation to the offences covered by this Directive.
+ (30)
+ Investigation and prosecution of all types of fraud and counterfeiting of non-cash means of payment, including those involving small amounts of money, are particularly important in order to combat them effectively. Reporting obligations, information exchange and statistical reports are efficient ways to detect fraudulent activities, especially similar activities that involve small amounts of money when considered separately.
+ (31)
+ Fraud and counterfeiting of non-cash means of payment can result in serious economic and non-economic consequences for its victims. Where such fraud involves, for example, identity theft, its consequences are often aggravated because of reputational and professional damage, damage to an individual's credit rating and serious emotional harm. Member States should adopt assistance, support and protection measures aimed to mitigate those consequences.
+ (32)
+ Often a considerable amount of time can pass before victims find out that they have suffered a loss from fraud and counterfeiting offences. During that time a spiral of interlinked crimes might develop, thereby aggravating the negative consequences for the victims.
+ (33)
+ Natural persons who are victims of fraud related to non-cash means of payment have rights conferred under Directive 2012/29/EU of the European Parliament and of the Council ( 11 ) . Member States should adopt measures of assistance and support to such victims which build on the measures required by that Directive but respond more directly to the specific needs of victims of fraud related to identity theft. Such measures should include, in particular, the provision of a list of dedicated institutions covering different aspects of identity-related crime and victim support, specialised psychological support and advice on financial, practical and legal matters, as well as assistance in receiving available compensation. Member States should be encouraged to set up a single national online information tool to facilitate access to assistance and support for victims. Specific information and advice on protection against the negative consequences of such crime should be offered to legal persons as well.
+ (34)
+ This Directive should provide for the right for legal persons to access information in accordance with national law about the procedures for making complaints. This right is necessary in particular for small and medium-sized enterprises and should contribute to creating a friendlier business environment for small and medium-sized enterprises. Natural persons already benefit from this right under Directive 2012/29/EU.
+ (35)
+ Member States should, with the assistance of the Commission, establish or strengthen policies to prevent fraud and counterfeiting of non-cash means of payment and measures to reduce the risk of such offences occurring by means of information and awareness-raising campaigns. In this context, Member States could develop and keep up to date a permanent online awareness-raising tool with practical examples of fraudulent practices, in a format that is easy to understand. That tool could be linked to or be part of the single national online information tool for victims. Member States could also put in place research and education programmes. Special attention should be paid to the needs and interests of vulnerable persons. Member States are encouraged to ensure that sufficient funding is made available for such campaigns.
+ (36)
+ It is necessary to collect statistical data on fraud and counterfeiting of non-cash payment instruments. Member States should therefore be obliged to ensure that an adequate system is in place for the recording, production and provision of existing statistical data on the offences referred to in this Directive.
+ (37)
+ This Directive aims to amend and expand the provisions of Framework Decision 2001/413/JHA. Since the amendments to be made are substantial in number and nature, Framework Decision 2001/413/JHA should, in the interests of clarity, be replaced in its entirety for the Member States bound by this Directive.
+ (38)
+ In accordance with Articles 1 and 2 of Protocol No 21 on the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the Treaty on European Union (TEU) and to the Treaty on the Functioning of the European Union (TFEU), and without prejudice to Article 4 of that Protocol, those Member States are not taking part in the adoption of this Directive and are not bound by it or subject to its application.
+ (39)
+ In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark annexed to TEU and to TFEU, Denmark is not taking part in the adoption of this Directive and is not bound by it or subject to its application.
+ (40)
+ Since the objectives of this Directive, namely to subject fraud and counterfeiting of non-cash means of payment to effective, proportionate and dissuasive criminal penalties and to improve and encourage cross-border cooperation both between competent authorities and between natural and legal persons and competent authorities, cannot be sufficiently achieved by the Member States, but can rather, by reason of their scale or effects, be better achieved at Union level, the Union may adopt measures in accordance with the principle of subsidiarity as set out in Article 5 TEU. In accordance with the principle of proportionality as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.
+ (41)
+ This Directive respects fundamental rights and observes the principles recognised in particular by the Charter of Fundamental Rights of the European Union, including the right to liberty and security, the respect for private and family life, the protection of personal data, the freedom to conduct a business, the right to property, the right to an effective remedy and to a fair trial, the presumption of innocence and right of defence, the principles of the legality and proportionality of criminal offences and penalties, as well as the right not to be tried or punished twice in criminal proceedings for the same criminal offence. This Directive seeks to ensure full respect for those rights and principles and should be implemented accordingly,
+ HAVE ADOPTED THIS DIRECTIVE:
+ TITLE I
+ SUBJECT MATTER AND DEFINITIONS 
+ Article 1
+ Subject matter
+ This Directive establishes minimum rules concerning the definition of criminal offences and sanctions in the areas of fraud and counterfeiting of non-cash means of payment. It facilitates the prevention of such offences, and the provision of assistance to and support for victims.
+ Article 2
+ Definitions
+ For the purpose of this Directive, the following definitions apply:
+ (a)
+ ‘non-cash payment instrument’ means a non-corporeal or corporeal protected device, object or record, or a combination thereof, other than legal tender, and which, alone or in conjunction with a procedure or a set of procedures, enables the holder or user to transfer money or monetary value, including through digital means of exchange;
+ (b)
+ ‘protected device, object or record’ means a device, object or record safeguarded against imitation or fraudulent use, for example through design, coding or signature;
+ (c)
+ ‘digital means of exchange’ means any electronic money as defined in point (2) of Article 2 of Directive 2009/110/EC of the European Parliament and of the Council ( 12 ) or virtual currency;
+ (d)
+ ‘virtual currency’ means a digital representation of value that is not issued or guaranteed by a central bank or a public authority, is not necessarily attached to a legally established currency and does not possess a legal status of a currency or money, but is accepted by natural or legal persons as a means of exchange, and which can be transferred, stored and traded electronically;
+ (e)
+ ‘information system’ means information system as defined in point (a) of Article 2 of Directive 2013/40/EU;
+ (f)
+ ‘computer data’ means computer data as defined in point (b) of Article 2 of Directive 2013/40/EU;
+ (g)
+ ‘legal person’ means an entity having legal personality under the applicable law, except for states or public bodies in the exercise of state authority and for public international organisations.
+ TITLE II
+ OFFENCES 
+ Article 3
+ Fraudulent use of non-cash payment instruments
+ Member States shall take the necessary measures to ensure that, when committed intentionally, the following conduct is punishable as a criminal offence:
+ (a)
+ the fraudulent use of a stolen or otherwise unlawfully appropriated or obtained non-cash payment instrument;
+ (b)
+ the fraudulent use of a counterfeit or falsified non-cash payment instrument.
+ Article 4
+ Offences related to the fraudulent use of corporeal non-cash payment instruments
+ Member States shall take the necessary measures to ensure that, when committed intentionally, the following conduct is punishable as a criminal offence:
+ (a)
+ the theft or other unlawful appropriation of a corporeal non-cash payment instrument;
+ (b)
+ the fraudulent counterfeiting or falsification of a corporeal non-cash payment instrument;
+ (c)
+ the possession of a stolen or otherwise unlawfully appropriated, or of a counterfeit or falsified corporeal non-cash payment instrument for fraudulent use;
+ (d)
+ the procurement for oneself or another, including the receipt, appropriation, purchase, transfer, import, export, sale, transport or distribution of a stolen, counterfeit or falsified corporeal non-cash payment instrument for fraudulent use.
+ Article 5
+ Offences related to the fraudulent use of non-corporeal non-cash payment instruments
+ Member States shall take the necessary measures to ensure that, when committed intentionally, the following conduct is punishable as a criminal offence:
+ (a)
+ the unlawful obtainment of a non-corporeal non-cash payment instrument, at least when this obtainment has involved the commission of one of the offences referred to in Articles 3 to 6 of Directive 2013/40/EU, or misappropriation of a non-corporeal non-cash payment instrument;
+ (b)
+ the fraudulent counterfeiting or falsification of a non-corporeal non-cash payment instrument;
+ (c)
+ the holding of an unlawfully obtained, counterfeit or falsified non-corporeal non-cash payment instrument for fraudulent use, at least if the unlawful origin is known at the time of the holding of the instrument;
+ (d)
+ the procurement for oneself or another, including the sale, transfer or distribution, or the making available, of an unlawfully obtained, counterfeit or falsified non-corporeal non-cash payment instrument for fraudulent use.
+ Article 6
+ Fraud related to information systems
+ Member States shall take the necessary measures to ensure that performing or causing a transfer of money, monetary value or virtual currency and thereby causing an unlawful loss of property for another person in order to make an unlawful gain for the perpetrator or a third party is punishable as a criminal offence, when committed intentionally by:
+ (a)
+ without right, hindering or interfering with the functioning of an information system;
+ (b)
+ without right, introducing, altering, deleting, transmitting or suppressing computer data.
+ Article 7
+ Tools used for committing offences
+ Member States shall take the necessary measures to ensure that producing, procurement for oneself or another, including the import, export, sale, transport or distribution, or making available a device or an instrument, computer data or any other means primarily designed or specifically adapted for the purpose of committing any of the offences referred to in points (a) and (b) of Article 4, in points (a) and (b) of Article 5 or in Article 6, at least when committed with the intention that these means be used, is punishable as a criminal offence.
+ Article 8
+ Incitement, aiding and abetting and attempt
+ 1. Member States shall take the necessary measures to ensure that inciting or aiding and abetting an offence referred to in Articles 3 to 7 is punishable as a criminal offence.
+ 2. Member States shall take the necessary measures to ensure that an attempt to commit an offence referred to in Article 3, in point (a), (b) or (d) of Article 4, in point (a) or (b) of Article 5 or in Article 6 is punishable as a criminal offence. With regard to point (d) of Article 5, Member States shall take the necessary measures to ensure that at least the attempted fraudulent procurement of an unlawfully obtained, counterfeit or falsified non-corporeal non-cash payment instrument for oneself or another is punishable as a criminal offence.
+ Article 9
+ Penalties for natural persons
+ 1. Member States shall take the necessary measures to ensure that the offences referred to in Articles 3 to 8 are punishable by effective, proportionate and dissuasive criminal penalties.
+ 2. Member States shall take the necessary measures to ensure that the offences referred to in Article 3, in points (a) and (b) of Article 4 and in points(a) and (b) of Article 5 are punishable by a maximum term of imprisonment of at least two years.
+ 3. Member States shall take the necessary measures to ensure that the offences referred to in points (c) and (d) of Article 4 and in points (c) and (d) of Article 5 are punishable by a maximum term of imprisonment of at least one year.
+ 4. Member States shall take the necessary measures to ensure that the offence referred to in Article 6 is punishable by a maximum term of imprisonment of at least three years.
+ 5. Member States shall take the necessary measures to ensure that the offence referred to in Article 7 is punishable by a maximum term of imprisonment of at least two years.
+ 6. Member States shall take the necessary measures to ensure that the offences referred to in Articles 3 to 6 are punishable by a maximum term of imprisonment of at least five years if they are committed within the framework of a criminal organisation, as defined in Framework Decision 2008/841/JHA, irrespective of the penalty provided for in that Decision.
+ Article 10
+ Liability of legal persons
+ 1. Member States shall take the necessary measures to ensure that legal persons can be held liable for offences referred to in Articles 3 to 8 committed for their benefit by any person, acting either individually or as part of an organ of the legal person, and having a leading position within the legal person, based on one of the following:
+ (a)
+ a power of representation of the legal person;
+ (b)
+ an authority to take decisions on behalf of the legal person;
+ (c)
+ an authority to exercise control within the legal person.
+ 2. Member States shall take the necessary measures to ensure that legal persons can be held liable where the lack of supervision or control by a person referred to in paragraph 1 has made possible the commission of any of the offences referred to in Articles 3 to 8 for the benefit of the legal person by a person under its authority.
+ 3. Liability of legal persons pursuant to paragraphs 1 and 2 shall not exclude criminal proceedings against natural persons who are perpetrators or inciters of, or accessories to, any of the offences referred to in Articles 3 to 8.
+ Article 11
+ Sanctions for legal persons
+ Member States shall take the necessary measures to ensure that a legal person held liable pursuant to Article 10(1) or (2) is subject to effective, proportionate and dissuasive sanctions, which shall include criminal or non-criminal fines and which may include other sanctions, such as:
+ (a)
+ exclusion from entitlement to public benefits or aid;
+ (b)
+ temporary exclusion from access to public funding, including tender procedures, grants and concessions;
+ (c)
+ temporary or permanent disqualification from the practice of commercial activities;
+ (d)
+ placing under judicial supervision;
+ (e)
+ judicial winding-up;
+ (f)
+ temporary or permanent closure of establishments which have been used for committing the offence.
+ TITLE III
+ JURISDICTION AND INVESTIGATION 
+ Article 12
+ Jurisdiction
+ 1. Each Member State shall take the necessary measures to establish its jurisdiction over the offences referred to in Articles 3 to 8 where one or more of the following apply:
+ (a)
+ the offence is committed in whole or in part on its territory;
+ (b)
+ the offender is one of its nationals.
+ 2. For the purposes of point (a) of paragraph 1, an offence shall be considered to have been committed in whole or in part on the territory of a Member State where the offender commits the offence when physically present on that territory and irrespective of whether the offence is committed using an information system on that territory.
+ 3. A Member State shall inform the Commission where it decides to establish jurisdiction over an offence referred to in Articles 3 to 8 committed outside its territory, including where:
+ (a)
+ the offender has his or her habitual residence in its territory;
+ (b)
+ the offence is committed for the benefit of a legal person established in its territory;
+ (c)
+ the offence is committed against one of its nationals or a person who is a habitual resident in its territory.
+ Article 13
+ Effective investigations and cooperation
+ 1. Member States shall take the necessary measures to ensure that investigative tools, such as those which are used in countering organised crime or in other serious crime cases, are effective, proportionate to the crime committed and available to the persons, units or services responsible for investigating or prosecuting the offences referred to in Articles 3 to 8.
+ 2. Member States shall take the necessary measures to ensure that, where national law obliges natural and legal persons to submit information regarding offences referred to in Articles 3 to 8, such information reaches the authorities investigating or prosecuting those offences without undue delay.
+ TITLE IV
+ EXCHANGE OF INFORMATION AND REPORTING OF CRIME 
+ Article 14
+ Exchange of information
+ 1. For the purpose of exchanging information relating to the offences referred to in Articles 3 to 8, Member States shall ensure that they have an operational national point of contact available 24 hours a day, seven days a week. Member States shall also ensure that they have procedures in place so that urgent requests for assistance are promptly dealt with and the competent authority replies within eight hours of receipt, by at least indicating whether the request will be answered and the form of such an answer and the estimated time within which it will be sent. Member States may decide to make use of the existing networks of operational points of contact.
+ 2. Member States shall inform the Commission, Europol and Eurojust of their appointed point of contact referred to in paragraph 1. They shall update that information as necessary. The Commission shall forward that information to the other Member States.
+ Article 15
+ Reporting of crime
+ 1. Member States shall take the necessary measures to ensure that appropriate reporting channels are made available in order to facilitate reporting of the offences referred to in Articles 3 to 8 to law enforcement authorities and other competent national authorities without undue delay.
+ 2. Member States shall take the necessary measures to encourage financial institutions and other legal persons operating in their territory to report suspected fraud to law enforcement authorities and other competent authorities without undue delay, for the purpose of detecting, preventing, investigating or prosecuting offences referred to in Articles 3 to 8.
+ Article 16
+ Assistance and support to victims
+ 1. Member States shall ensure that natural and legal persons who have suffered harm as a result of any of the offences referred to in Articles 3 to 8 being committed by misusing personal data, are:
+ (a)
+ offered specific information and advice on how to protect themselves against the negative consequences of the offences, such as reputational damage; and
+ (b)
+ provided with a list of dedicated institutions that deal with different aspects of identity-related crime and victim support.
+ 2. Member States are encouraged to set up single national online information tools to facilitate access to assistance and support for natural or legal persons who have suffered harm as a result of the offences referred to in Articles 3 to 8 being committed by misusing personal data.
+ 3. Member States shall ensure that legal persons that are victims of the offences referred to in Articles 3 to 8 of this Directive are offered the following information without undue delay after their first contact with a competent authority:
+ (a)
+ the procedures for making complaints with regard to the offence and the victim's role in such procedures;
+ (b)
+ the right to receive information about the case in accordance with national law;
+ (c)
+ the available procedures for making complaints if the competent authority does not respect the victim's rights in the course of criminal proceedings;
+ (d)
+ the contact details for communications about their case.
+ Article 17
+ Prevention
+ Member States shall take appropriate action, including through the internet, such as information and awareness-raising campaigns and research and education programmes, aimed to reduce overall fraud, raise awareness and reduce the risk of becoming a victim of fraud. Where appropriate, Member States shall act in cooperation with stakeholders.
+ Article 18
+ Monitoring and statistics
+ 1. By 31 August 2019, the Commission shall establish a detailed programme for monitoring the outputs, results and impacts of this Directive. The monitoring programme shall set out the means by which and the intervals at which the necessary data and other evidence will be collected. It shall specify the action to be taken by the Commission and by the Member States in collecting, sharing and analysing the data and other evidence.
+ 2. Member States shall ensure that a system is in place for the recording, production and provision of anonymised statistical data measuring the reporting, investigative and judicial phases involving the offences referred to in Articles 3 to 8.
+ 3. The statistical data referred to in paragraph 2 shall, as a minimum, cover existing data on the number of offences referred to in Articles 3 to 8 registered by the Member States and on the number of persons prosecuted for and convicted of the offences referred to in Articles 3 to 7.
+ 4. Member States shall transmit the data collected pursuant to paragraphs 1, 2 and 3 to the Commission on an annual basis. The Commission shall ensure that a consolidated review of the statistical reports is published each year and submitted to the competent specialised Union agencies and bodies.
+ Article 19
+ Replacement of Framework Decision 2001/413/JHA
+ Framework Decision 2001/413/JHA is replaced with regard to the Member States bound by this Directive, without prejudice to the obligations of those Member States with regard to the date for transposition of that Framework Decision into national law.
+ With regard to Member States bound by this Directive, references to Framework Decision 2001/413/JHA shall be construed as references to this Directive.
+ Article 20
+ Transposition
+ 1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 31 May 2021. They shall immediately inform the Commission thereof.
+ When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+ 2. Member States shall communicate to the Commission the text of the measures of national law which they adopt in the field covered by this Directive.
+ Article 21
+ Evaluation and reporting
+ 1. The Commission shall, by 31 May 2023, submit a report to the European Parliament and to the Council, assessing the extent to which the Member States have taken the necessary measures to comply with this Directive. Member States shall provide the Commission with the necessary information for the preparation of that report.
+ 2. The Commission shall, by 31 May 2026, carry out an evaluation of the impact of this Directive on combating fraud and counterfeiting of non-cash means of payment, as well as on fundamental rights, and submit a report to the European Parliament and to the Council. Member States shall provide the Commission with necessary information for the preparation of that report.
+ 3. In the context of the evaluation referred to in paragraph 2 of this Article, the Commission shall also report on the necessity, feasibility and effectiveness of creating national secure online systems to allow victims to report any of the offences referred to in Articles 3 to 8, as well as of establishing a standardised Union reporting template to serve as a basis for Member States.
+ Article 22
+ Entry into force
+ This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union .
+ This Directive is addressed to the Member States in accordance with the Treaties.
+ Done at Strasbourg, 17 April 2019.
+ For the European Parliament 
+ The President 
+ A. TAJANI
+ For the Council 
+ The President 
+ G. CIAMBA
+ ( 1 ) 
+ OJ C 197, 8.6.2018, p. 24 .
+ ( 2 ) Position of the European Parliament of 13 March 2019 (not yet published in the Official Journal) and decision of the Council of 9 April 2019.
+ ( 3 ) Council Framework Decision 2001/413/JHA of 28 May 2001 combating fraud and counterfeiting of non-cash means of payment ( OJ L 149, 2.6.2001, p. 1 ).
+ ( 4 ) Directive 2013/40/EU of the European Parliament and of the Council of 12 August 2013 on attacks against information systems and replacing Council Framework Decision 2005/222/JHA ( OJ L 218, 14.8.2013, p. 8 ).
+ ( 5 ) Council Framework Decision 2008/841/JHA of 24 October 2008 on the fight against organised crime ( OJ L 300, 11.11.2008, p. 42 ).
+ ( 6 ) Council Framework Decision 2009/948/JHA of 30 November 2009 on prevention and settlement of conflicts of exercise of jurisdiction in criminal proceedings ( OJ L 328, 15.12.2009, p. 42 ).
+ ( 7 ) Council Decision 2002/187/JHA of 28 February 2002 setting up Eurojust with a view to reinforcing the fight against serious crime ( OJ L 63, 6.3.2002, p. 1 ).
+ ( 8 ) Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union ( OJ L 194, 19.7.2016, p. 1 ).
+ ( 9 ) Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC ( OJ L 337, 23.12.2015, p. 35 ).
+ ( 10 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) ( OJ L 119, 4.5.2016, p. 1 ).
+ ( 11 ) Directive 2012/29/EU of the European Parliament and of the Council of 25 October 2012 establishing minimum standards on the rights, support and protection of victims of crime, and replacing Council Framework Decision 2001/220/JHA ( OJ L 315, 14.11.2012, p. 57 ).
+ ( 12 ) Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC ( OJ L 267, 10.10.2009, p. 7 ).

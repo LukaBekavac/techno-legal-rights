@@ -1,0 +1,1744 @@
+### Strategic Technologies for Europe Platform (STEP) | CELEX 52023PC0335 | text version 52023PC0335 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 20.6.2023
+ COM(2023) 335 final
+ 2023/0199(COD)
+ Proposal for a
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ establishing the Strategic Technologies for Europe Platform (‘STEP’) and amending Directive 2003/87/EC, Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ • Reasons for and objectives of the proposal 
+ The EU’s long-term commitment to a green and digital transition and the impact on industry in the EU. 
+ The EU is an attractive destination for sustainable investments. The European Single Market has over the last 30 years delivered very significant economic benefits, delivering to the EU a GDP that is up to 9% higher in the long run, than would have been the case without the Single Market . 
+ 1 
+ The European business model is based on openness and the EU offers a business-friendly environment. The European social model provides high quality and inclusive education and training , well-functioning social protection systems , as well as public health and environmental protection. Together with fair competition and an unparalleled regulatory framework geared towards the twin digital and green transitions and resilience , this is helping to provide the necessary predictability for investors. 
+ Strengthening the competitiveness and resilience in strategic sectors and reducing the dependencies of the European economy through the green and digital transformations has been the EU compass over the last years. With NextGenerationEU, 
+ 2 
+ the EU’s flagship economic recovery programme, the EU has closed the gap with pre-pandemic output levels already in the summer of 2021. The funds directed to the twin green and digital transition are making our economy more competitive. The unprecedented efforts by Member States to implement crucial reforms increase the EU ’s resilience . 
+ The EU industry has proven its inbuilt resilience but is being challenged. High inflation, labour and skills shortages, demographic change, post-COVID supply chains disruptions, rising interest rates, and spikes in energy costs and input prices are weighing on the competitiveness of the EU industry. This is paired with strong, but not always fair, competition on the fragmented global market. The uptake and scaling up of certain critical and emerging technologies in strategic sectors within the Union will be essential to seize the opportunities and meet the objectives of the green and digital transitions to reduce strategic dependencies and to facilitate cross-border investments across the Single Market. Therefore, immediate action is required to support the development or manufacturing in the Union, or safeguarding and strengthening their value chains, of critical technologies in the following fields: deep and digital technologies, clean technologies, and biotechnologies. The Union also needs to address labour and skills shortages in those strategic sectors. 
+ The EU has already put forward several initiatives to support its industry. The Green Deal Industrial Plan 
+ 3 
+ seeks to enhance the competitiveness of Europe's net-zero industry , secure the volumes needed for critical raw materials and support the fast transition to climate neutrality. It provides a more supportive environment for the scaling up of the EU's manufacturing capacity in clean-tech. The plan is based on four pillars: a predictable and simplified regulatory environment, speeding up access to finance, enhancing skills, and open trade for resilient supply chains. With the European Innovation Agenda, 
+ 4 
+ the EU has sought to position Europe at the forefront of the new wave of deep tech innovation and start-ups. One of its main objectives is to improve access to finance for European start-ups and scale-ups, for example, by mobilising untapped sources of private capital and simplifying listing rules. Moreover, the Commission has in March 2023 adopted a new Temporary Crisis and Transition Framework for State aid. 
+ 5 
+ Member States have more flexibility to design and implement support measures in sectors that are key for the transition to climate neutrality. Member States are also currently amending their national recovery and resilience plans to include REPowerEU Chapters, 
+ 6 
+ which is a crucial opportunity to provide immediate support to companies and boost their competitiveness, without creating unnecessary strategic dependencies . 
+ While these solutions provide fast and targeted support, the EU needs a more structural answer to the investment needs of its industries. As indicated by President von der Leyen in the State of the Union address of 14 September 2022, 
+ 7 
+ there is a need to ensure that the future of industry is made in Europe. Moreover, a common European industrial policy requires common European funding . 
+ 8 
+ Hence, the need to set up a Strategic Technologies for Europe Platform (‘STEP’ ) . 
+ The Platform should help preserve a European edge on critical and emerging technologies relevant to the green and digital transitions, from computing-related technologies, including microelectronics, quantum computing, and artificial intelligence; to biotechnology and biomanufacturing, and net-zero technologies. The European Council recognised the need to address the issue and recommended to ‘ ensure full mobilisation of available funding and existing financial instruments and deploy them in a more flexible manner, so as to provide timely and targeted support in strategic sectors with out affecting the cohesion policy objectives ’ . 
+ 9 
+ This way, the STEP should also help to mobili s e private capital to support the competitiveness of European businesses in these technologies in the global arena, which in turn will lead to domestic capacity building. 
+ Placing the STEP at the heart of the EU budget is the most effective solution. The transition to climate neutrality, resilience and digital technologies are already guiding principles of the multiannual financial framework: 30% of the EUR 2 trillion 2021-2027 MFF which includes the NextGenerationEU recovery programmes are being spent on climate actions and more than 20% of the Recovery and Resilience Facility is dedicated to digital policies. Besides, the Digital Europe Programme supports bringing digital technology to businesses, citizens and public administrations. The EU budget is also the ultimate EU tool to underpin the Single Market and common action with value-added at EU level, securing economies of scale, effectiveness, solidarity and passing a clear political message that the EU stands together in the face of challenges. 
+ The creation of the STEP is fully aligned with the ambitions set by Europe’s partners. The United States’ Inflation Reduction Act will mobilise over USD 360 billion by 2032 (approximately EUR 330 billion). Japan's green transformation plans aim to raise up to JPY 20 trillion (approximately EUR 140 billion). 
+ 10 
+ India has put forward the Production Linked Incentive Scheme to enhance competitiveness in sectors like solar photovoltaics and batteries. The United Kingdom, Canada and many others have also put forward their investment plans in clean technologies. It is important for all actors to ensure that funding be designed and implemented in the least distortive manner practicable. Reinforcing transparency and deliberation on industrial subsidies internationally is equally key to safeguard and improve the existing – but incomplete - level playing field on which the EU’s and global prosperity has been built. 
+ Overview of the EU budget to the green and digital transition 
+ The EU has several funds and programmes on- and off-budget to provide support to deep and digital technologies, clean technologies, and biotechnologies. These instruments include in particular cohesion policy funds, the Recovery and Resilience Facility, the Innovation Fund, InvestEU, the European Defence Fund and Horizon Europe: 
+ – C ohesion policy supports the green (EUR 110 billion) and digital (EUR 36.6 billion) transition in Member States and regions, inclu d ing a total of EUR 85 billion under the European Regional Development Fund (ERDF) , the Cohesion Fund (CF) and the Just Transition Fund (JTF) – the EU’s main funds under regional development policy – to support the EU energy transition. 
+ – The Recovery and Resilience Facility and REPowerEU, the EU's plan to make Europe independent from Russian fossil fuels, offer unprecedented opportunities to Member States to finance green and digital investments and reforms . 
+ – Drawing on the revenues from the EU Emission Trading System (ETS) 
+ 11 
+ – The Modernisation Fund (EUR 60 billion) provides substantial support to 13 beneficiary Member States to accelerate their energy transition. 
+ – T he Social C limate F und (EUR 86 billion) will provide substantial support to Member States to help addressing for vulnerable groups the consequences of the green transition. 
+ – The Innovation Fund (EUR 43 billion) will provide until 2030 funding for innovative low-carbon technologies, including for the manufacturing of these technologies, for instance to help energy-intensive industries, develop carbon capture and storage, innovative renewable energy generation or energy storage. 
+ – InvestEU contributes both to the green transition and to digitisation. Overall 30% of the InvestEU guarantee (i.e. EUR 7.8 billion) and 60% of the Sustainable Infrastructure Window (EUR 5.9 billion) contribute to climate objectives. Further , it is expected that more than EUR 2 billion could contribute to digital objectives and over EUR 1 billion to biotech and medicines related investments . 
+ – Horizon Europe, the EU's main research and innovation programme , will dedicate EUR 20.2 billion to research and development of clean tech; EUR 11.5 billion to biotech and medicines, and EUR 19.3 billion to digital technologies. 
+ – The Digital Europe Programme, with a total budget allocation of EUR 7 .6 billion, is providing support to digital technologies. 
+ – The European Defence Fund, with a budget of EUR 8 billion, supports research and development of state-of-the-art and interoperable defence technology and equipment. 
+ While the EU has been providing steady financing both to the green and digital transitions, the funds are generally spread across various spending programmes and following different rules. Leveraging on existing instruments and governance frameworks will speed-up the implementation and allow to mobilise higher amounts of financial support. This is the aim of the STEP. 
+ Strategic Technologies for Europe Platform (STEP) 
+ The STEP will create the necessary conditions for a more effective, efficient and targeted use of existing EU funds while contributing to achieving a level playing field in the Single Market and thereby safeguarding cohesion. It will also help to direct existing funding towards the relevant projects and speed up implementation on a subset of areas which will be identified as crucial for Europe’s leadership. The choice of streamlining and making a better use of existing instruments over creating a brand-new instrument responds to the call by the European Council and has three main advantages. First, timing. With the creation of a new instrument taking at least 12 to 18 months, bringing existing instruments together can be done much more quickly. This would be an indisputable advantage for the beneficiaries of EU funding as they would have the chance to reap the benefits of EU funding more swiftly. Second, adapting the existing instruments would increase the possibilities of blending different sources of financing – under both direct and shared management – thereby leading to a more efficient use of resources. And finally, building on those existing instruments will also be simpler for project promoters and programme managers. With the help of the Sovereignty Portal, all the information about funding opportunities will be centralised. Moreover, it will limit the administrative burden for project promoters and programme managers and minimise the risk of overlaps amongst instruments. 
+ The STEP would allow the Union to react quickly in the face of risks for companies critical for Union’s value chains and to develop a top up for multi country projects, such as Important Projects of Common European Interest (IPCEIs), to enhance all Member State’s access to such projects, thereby safeguarding cohesion, and to strengthen the Single Market and counter unequal availability of State Aid. 
+ On that basis, the objective of the STEP is three-fold: 
+ 1. Providing flexibility in existing instruments 
+ 2. Reinforcing the firepower of existing instruments 
+ 3. Creating synergies among existing instruments 
+ Providing flexibility in existing instruments to better support relevant investments 
+ Cohesion funds represent the largest single EU policy financed through the EU budget. To incentivise Member States, the Commission proposes a new priority across all major funds - the European Regional Development Fund (ERDF), Cohesion Fund (CF), and the Just Transition Fund (JTF). The Commission also proposes to open up those funds for large companies in less developed and transition regions, as well as in more developed regions of Member States with a GDP per capita below the EU average, to unleash greater investments in the target areas of the STEP. By providing financial incentives in the form of higher pre-financing and EU financing, Member States are encouraged to reprioritise their programmes. Under those funds, the Commission also proposes a 30% pre-financing in 2024 to incentivise uptake and an increase the EU financing to 100% for STEP projects. 
+ Moreover, it is proposed to provide additional flexibilities for Member States to be able to implement the 2014-2020 cohesion policy programmes. The regulatory framework for the implementation of the 2014-2020 programmes for cohesion policy and the Fund for European Aid to the Most Deprived (FEAD) has already been adapted to provide Member States and regions with additional flexibility in terms of implementation rules of cohesion policy and more liquidity to tackle the effects of the COVID-19 pandemic and the war or aggression against Ukraine. 
+ 12 
+ These measures, introduced at the end of the programming period, require sufficient time and administrative resources to be fully exploited and implemented. Therefore, it is proposed to extend the deadlines for the submission of the closure documentation under the 2014-2020 period by 12 months. This should help the Member States that will face additional workload linked to the revision of the operational programmes for the purpose of the STEP . 
+ To incentivise Member States to provide resources to InvestEU, the EU flagship programme to boost investments in critical industries, the Commission proposes to increase the transfers to InvestEU from the recovery and resilience plans from 4% to 10%. This additional flexibility to use Member States’ resources under InvestEU will help them to benefit from the established structures and market expertise of the InvestEU implementing partners, to select and finance the most promising companies. In this respect, where a Member State decides to transfer resources to InvestEU national compartments for implementing an existing InvestEU financial product developed for the EU compartment by the Commission with Union implementing partners and international implementing partners, such as the European Investment Bank Group and the European Bank for Reconstruction and Development, meaning that the Member State has no discretionary input into the design of the financial product, such a decision does not render the design of the financial product imputable to the State and hence such a decision does not in itself entail State aid. This is without prejudice to the obligation of Union financial instruments and budgetary guarantees to be consistent with State aid rules pursuant to Article 209(2)(c) of the Financial Regulation. 
+ Moreover, t o facilitate the RRF related contributions to the Member State compartment of InvestEU and its uptake, the Commission will adapt the Technical guidance on the application of ‘do no significant harm’ under Regulation (EU) 2021/241 to ensure that financial products implemented under the InvestEU Fund can indicate, where applicable the absence of significant harm to the six environmental objectives set out in Article 17 of Regulation (EU) 2020/852 by applying InvestEU rules in combination with the relevant implementing partner’s policies. 
+ In addition, new STEP priorities will be included in the Innovation Fund, which is a funding programme for the deployment of net-zero and innovative technologies; the European Defence Fund, which is a funding programme for the research and development of defence technology, and the European Innovation Council (EIC) under Horizon Europe, which is Europe’s flagship innovation programme to identify, develop and scale up breakthrough technologies. Moreover, it will be possible for the EIC to provide equity-only support to non-bankable small mid-caps. 
+ Equity support for STEP sectors 
+ Companies looking for investments to start up or scale must overcome a series of interconnected problems from securing patient capital to accessing critical networks and capabilities if they are to remain in Europe and compete effectively in the current wave of innovation. 
+ Figure: Venture capital by destination and by stage (2020-Q1 2023). 
+ Source: Global venture capital – Dealroom Q1 2023 update. 
+ The EU has two main instruments providing equity support for European companies, namely the InvestEU Programme and the European Innovation Council. InvestEU is the EU flagship programme to catalyse private investments in the EU economy. The InvestEU Fund is delivered through implementing partners, including the European Investment Bank (EIB) and the European Investment Fund (EIF), which deploy financial products providing debt (including guarantee), equity and quasi-equity support to companies and projects operating in sectors relevant for the European sovereignty. 
+ In particular, the EIF deploys two equity products with the total EU guarantee allocation of EUR 5.2 billion and an indicative portfolio of EUR 8.7 billion, targeting research, development, commercialisation and scaling of clean technologies or environmental sustainability solutions and digital and sustainable infrastructure projects. As of mid-2023, the EIF has approved more than 100 investments in funds expected to mobilise close to EUR 30 billion of investment. The EIB provides equity-type support under high-risk thematic and venture debt products, focusing inter alia on green transition, strategic digital technologies and key enabling technologies. 
+ The types of support that can be provided through the EIC involve blended finance, grant-only and equity-only under certain conditions. In accordance with the existing legislation, equity-only support can be provided to non-bankable SMEs, including start-ups, which have already received a grant-only support. This initiative expands that definition by allowing to provide equity-only to non-bankable SMEs and small mid-caps carrying out breakthrough and disruptive innovation in critical technologies and regardless of whether they previously received other types of support from the EIC Accelerator. The proposed extension would provide equity-only support to high risk, high potential companies targeting investments in the range of EUR 15 to 50 million and catalysing financing rounds with co-investors in the range of EUR 50 to 250 million. 
+ The EIC was established under Horizon Europe to identify and provide scale up support for breakthrough technologies and innovations, with a focus on higher risk, earlier stage companies. A key component of the EIC is the EIC Fund, which is designed to take risks that the market will not take alone and bridges a critical financing gap for deep tech companies. The EIC Fund has been fully operational since Autumn 2022 and has already made over 130 investment decisions. However, the EIC Fund cannot accommodate the needs of an increasing number of companies that require follow-on financing rounds or larger investment amounts. This is particularly the case for critical and emerging technologies that remain high risk but also require large amounts of capital to reach the market. The new EIC Fund compartment would meet the needs for larger investment amounts (above EUR 15 million), as well as complementing other EU financial instruments and products, including those under Invest EU. 
+ Demand for investments in deep tech in Europe remains strong, with over 5000 applications received in the first two years of EIC operation resulting in support for over 400 companies. Of these, 245 companies have been recommended for the unique blend of non-dilutive grant alongside investment through the EIC and 131 of these companies have received an investment recommendation of EUR 5 million or above. It is estimated that approximately 25% of the companies that have been awarded investment of over EUR 5 million from the EIC will require follow-on funding of on average EUR 25-35 million: representing a pipeline of 20-30 companies a year 
+ 13 
+ requiring EUR 0.5 to 1 bn per year. 
+ Based on current experience from the EIC, this EU-backed investment would leverage additional private investment of up to five times and therefore significantly address the market gap. Without additional support, many of these companies could relocate outside of Europe to access larger financing rounds or could be overtaken by third country competitors that are better financed. 
+ Reinforcing the firepower of existing instruments to speed up relevant investments 
+ In terms of resources, it is proposed that an additional total amount of EUR 10 billion is allocated to support existing and well-proven EU investment schemes aimed at strengthening STEP investments, while preserving the cohesion objectives and contributing to a level playing field in the Single Market by ensuring a geographically balanced distribution of projects financed under the STEP via the respective mandates of the participating programmes, taking into account the demand-driven nature of certain implementing programmes. 
+ InvestEU 
+ The deployment is well on track with 85% of the initial guarantee already contracted with implementing partners, representing EUR 22.3 billion. The fast absorption of the EU guarantee reveals the large market interest for the funding opportunities offered by InvestEU. This calls for reinforcing the EU guarantee by an additional EUR7.5 billion; requiring a financial top-up of EUR 3 billion with a 40% provisioning rate. This additional guarantee should be exclusively used for project contributing to STEP priorities and has the potential to trigger up to EUR 75 billion of investments with an average multiplier of 10. 
+ A new STEP policy window will be set under InvestEU to provide an additional volume of budgetary guarantee to the implementing partners, which will deploy debt (including guarantees) and equity financial products for companies, including SMEs, and projects in the sectors supported by the STEP, including investment in manufacturing and supply chains. InvestEU will leverage additional investment, particularly from the private sector, by addressing market failures and sub-optimal investment situations experienced in the sectors targeted by the STEP. InvestEU is already able to support projects falling within Important Projects of Common European Interest (IPCEIs) within the meaning of Article 107(3)(b) TFEU and its reinforcement through the fifth window will therefore enhance its possibility to do so for critical projects within the scope of application of STEP. 
+ The European Innovation Council 
+ The EIC is the leading mean for providing seed capital to fast growing start-ups. Given its expertise, the EIC is well suited to reinforce the funding in companies seeking scale-up capital beyond the first innovation phase. A EUR 0.5 billion budgetary reinforcements combined with EUR 2.13 billion from redeployment and de-commitments will enable the EIC to provide unprecedented equity investments for tickets between EUR 15 million and EUR 50 million. With an average multiplier of 5, this can lead to EUR 13 billion of fresh equity support to non-bankable SMEs and small mid-caps. 
+ Innovation Fund 
+ The Innovation Fund, financed from the auctioning of allowances under the EU Emissions Trading System, is one of the world’s largest funding programmes for the deployment of net-zero and innovative technologies. It aims to bring to market industrial solutions to decarbonise Europe and focuses on highly innovative technologies and processes. The goal to create the right financial incentives for companies to invest in clean tech and to empower them to become global clean tech leaders is fully aligned with the STEP objectives. To respond to the growing needs for innovation to maintain the EU’s competitiveness on global markets, the size of the Innovation Fund should be increased by EUR 5 billion. In line with the objectives of ensuring cohesion and promoting the Single Market, and in order to support the green transition and the development of clean technologies throughout the Union, the additional financial envelope shall be made available through calls for proposals open to entities from Member States whose average GDP per capita is below the EU average of the EU-27 measured in purchasing power standards (PPS) and calculated on the basis of Union figures for the period 2015-2017. Taking into account experience to date, this should result in overall investments of around EUR 20 billion. 
+ European Defence Fund 
+ The European Defence Fund is critical to enhance the competitiveness, innovation, efficiency and technological autonomy of the Union’s defence industry, thereby contributing to the Union’s open strategic autonomy. It also supports the cross-border cooperation between Member States as well as cooperation between enterprises, research centres, national administrations, international organisations and universities throughout the Union, both in the research and in the development phases of defence products and technologies. To respond to growing needs, the European Defence Fund should be increased by EUR 1.5 billion. Taking into account the limited experience to date, this could result in overall investments of around EUR 2 billion. 
+ Taken together, the reinforcements of the foregoing four programmes and instruments (InvestEU, European Innovation Council, Innovation Fund, European Defence Fund) can be expected to lead to additional investments in the critical technologies covered by STEP of around EUR 110 billion. 
+ By providing financial incentives in cohesion policy funds in the form of higher pre-financing and co-financing, Member States are encouraged to reprioritise their programmes. Every 5% of reprogramming towards STEP priorities leads to EUR 18.9 billion of resources made available, in addition to EUR 6 billion to be paid out from the Just Transition Fund. The increase of the ceiling under the RRF to use resources for InvestEU products via its national compartments represents an additional flexibility for Member States of EUR 30 billion potentially available for such sovereignty investments. 
+ Altogether, the total estimated amount of new investments through STEP could reach up to EUR 160 billion. 
+ Creating synergies among instruments to better support relevant investments 
+ To access those funds, companies and project promoters will be able to consult a new publicly available website (the ‘Sovereignty Portal’). This Portal will provide information about relevant funding opportunities with the ongoing and upcoming calls under the EU programmes contributing to the STEP objectives as well as guidance and contacts to the existing advisory hubs. 
+ Moreover, a ‘Sovereignty Seal’ will be awarded to projects contributing to the STEP objectives, provided that the project has been assessed and complies with the minimum quality requirements, in particular eligibility, exclusion and award criteria, provided by a call for proposals under Horizon Europe, the Digital Europe programme, the EU4Health programme, the European Defence Fund or the Innovation Fund, and regardless of whether the project has received funds under those instruments. These minimum quality requirements will be established with a view to identify high quality projects. This Seal offers a unique opportunity to build on the applicable high-quality evaluation processes under those instruments. This Seal will be used as a quality label and will help projects attract public and private investments by certifying its contribution to the objectives of the STEP and therefore guiding market participants in their investment decisions. Moreover, the Seal will promote better access to EU funding and financing, notably by facilitating cumulative or combined funding from several Union instruments. This would, for instance, allow Member States to grant support from ERDF and ESF+ to projects having been awarded a Sovereignty Seal directly, subject to compliance with applicable State aid rules. 
+ The Commission is also working to ensure synergies between the rules of the Innovation Fund and the State aid rules to ensure a more streamlined process. The Commission will further align criteria and streamline processes to ensure that the decision on State aid is taken at the same time as the funding decision from the Innovation Fund, provided a complete notification by the Member State occurs in due time. Such synergies are also being assessed for other selected EU instruments, including the EIC Fund. 
+ The Commission will also consult Member States on a proposal to enable higher rates of aid via a bonus for projects within the scope of STEP in assisted regions to spur further economic development, while preserving cohesion objectives. 
+ Authorities in charge of programmes falling under STEP should also be encouraged to consider support for strategic projects identified in accordance with the Net Zero Industry and the Critical Raw Materials Acts that fall under the scope of Article 2 of the Regulation, subject to compliance with applicable State aid rules. 
+ STEP– focus on investments 
+ To be successful, the STEP should focus on few but well-targeted investment areas. The Platform should ensure and preserve a European edge on critical and emerging technologies and related manufact uring in the following fields : 
+ 14 
+ deep and digital technologies, clean technologies, and biotechnologies . The scope of the STEP would therefore focus on leading edge technologies to advance the green and digital transitions, supporting both the manufacturing side and the value chains. 
+ Deep and digital technologies 
+ Innovation, and in particular its new wave of deep-tech innovation, is the European reply to bring down greenhouse gas emissions, to make our economies more digital and to guarantee Europe’s food, energy and secure raw materials supply and security. Deep tech innovation, which is rooted in cutting edge science, technology and engineering, often combining advances in the physical, biological and digital spheres and with the potential to deliver transformative solutions in the face of global challenges. Those innovations have the potential to drive innovation across the economy and society, thus transforming the EU’s business landscape. 
+ The European Innovation Agenda already aims to position Europe at the forefront of the new wave of deep tech innovation and start-ups. One of its main objectives is to improve access to finance for European start-ups and scale-ups, for example, by mobilising untapped sources of private capital and simplifying listing rules. 
+ The STEP would add another dimension to the EU commitment to the delivery on this agenda. The EU will steer further funding, and also define a clear investment direction. This will further support deep tech investments in Europe, to the benefit of the EU economies and the society as a whole. 
+ Digital technologies have a profound impact on the competitiveness of the EU economy as a whole, boosting efficiency and innovation. Their adoption and integration across the economy will be vital to the overall competitiveness and productivity. 
+ 15 
+ To maintain its industrial leadership, the EU needs to attain a leading role in key digital technology . 
+ Clean technologies 
+ EU’s competitiveness in the clean energy sector entails the capacity to produce and use affordable, reliable and accessible clean energy and compete in the global clean energy markets, with the overall aim of supporting the transition to climate neutrality and bringing benefits to the EU economy and people. The EU is currently facing technological and non-technological challenges, such as high energy prices, critical raw materials supply chain disruptions and skills shortages. Strengthening the competitiveness of the EU clean energy sector will contribute to increasing the EU's technology leadership , and shape a more resilient, independent, secure and affordable energy system needed to meet these challenges . In that context, the Commission’s communication on the Green Deal Industrial Plan presented a comprehensive plan for enhancing the competitiveness of Europe’s net-zero industry and supporting the fast transition to climate neutrality ; and the Net-Zero Industry Act 
+ 16 
+ establishes a framework of measures for strengthening Europe’s net-zero energy technologies manufacturing ecosystem. 
+ Since 2020, the European Commission has published yearly progress reports on competitiveness of clean energy technologies that present the current and projected state of play for different clean and low-carbon energy technologies and solutions. According to the 2022 Competitiveness Progress Report , 
+ 17 
+ which the Commission publishes in the context of the Governance of the Energy Union and Climate Action framewor k, ‘ The rapid development and deployment of home-grown clean energy technologies in the EU is key to a cost-effective, climate friendly and socially fair response to the current energy crisis ’. The report also confirms that more public and private investments in clean energy research and innovation, scale-up and affordable deployment are of pivotal importance. The EU’s regulatory and financial frameworks have a crucial role to play here. Together with the implementation of the New European Innovation Agenda, EU funding programmes, enhanced cooperation between Member States, and a continuous monitoring of national R&I activities, are crucial to design an impactful EU R&I ecosystem, and to bridge the gap between research and innovation and market uptake, thus reinforcing EU competitiveness. 
+ Biotechnologies 
+ Biotechnology and biomanufacturing are key for the modernisation of the European industry. They are used in a variety of industrial sectors such as healthcare and pharmaceuticals, agriculture, materials, and bioeconomy. Reaping the full benefits of biotechnology can help the EU economy grow and provides new jobs, while also supporting sustainable development, public health, and environmental protection. 
+ The coronavirus pandemic has proven the importance of biotech with vaccine manufacturers having played a key role in reversing the course of the pandemic. And while Europe continues to be a leader in life science innovation, its biotech industry remains approximately a quarter of the size of the US in terms of both the number of companies and the value of venture financing. 
+ 18 
+ In addition, financing – both at the earliest stages and later on – is deemed more limited in Europe than in the US. This constrains companies’ ability to invest in larger diversified pipelines and leaves them reliant on their initial investors. 
+ • Consistency with existing policy provisions in the policy area 
+ The Green Deal Industrial Plan is the EU’s roadmap to secure the long-term competitiveness of Europe's industry and support the fast transition to climate neutrality. The Net-Zero Industry Act represents its regulatory arm. The act seeks to ensure a simpler and fast-track permitting, promoting European strategic projects, and developing standards to support the scale-up of technologies across the Single Market. It is complemented by the Critical Raw Materials Act, 
+ 19 
+ to ensure sufficient access to those materials, like rare earths, that are vital for manufacturing technologies that are key for the twin transition . Another key instrument to support the competitiveness of the European industry is the European Chips Act. 
+ 20 
+ It seeks to bolster Europe’s resilience in semiconductor technologies and applications, and boost the EU's share of the global microchips market. 
+ • 
+ Consistency with other Union policies 
+ The proposal falls within the EU’s overall efforts to secure the green and digital transformation of its economy. It contributes to the objectives of parts of the Fit for 55 package 
+ 21 
+ that focus on decarbonising EU industry. 
+ The proposal will also contribute to the EU’s resilience and open strategic autonomy by strengthening the EU’s capacity as regards critical technologies, including key energy-related technologies, which is crucial for supporting the development of other sectors of the economy. 
+ It relies on existing EU policies that seek to achieve the same objective – from cohesion, through recovery investments to research and innovation financing – which seek to support European economy and channel EU funds towards the green and digital transformation. 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ • Legal basis 
+ This Regulation pursues the general objective of setting up a legal framework which supports the channelling of EU funds towards STEP projects. The objectives of the STEP will be achieved through the following programmes: 
+ – European Regional Development Fund (ERDF) and Cohesion Fund (CF) , established under Regulation (EU) 2021/1058 ; 
+ 22 
+ the Just Transition Fund (JTF) , established under Regulation (EU) 2021/1056 ; 
+ 23 
+ the European Social Fund Plus (ESF+), established under Regulation 2021/1057; 
+ 24 
+ the Common Provisions Regulation (EU) 2021/1060 . 
+ 25 
+ – Recovery and Resilience Facility, established under Regulation (EU) 2021/241 . 
+ 26 
+ – InvestEU, established under Regulation (EU) 2021/523 
+ 27 
+ – Digital Europe, established under Regulation 2021/694 ; 
+ 28 
+ Horizon Europe, established under Regulation 2021/695 ; 
+ 29 
+ European Defence Fund, established under Regulation (EU) 2021/697 
+ 30 
+ and the Innovation Fund, established under Directive 2003/87/EC . 
+ 31 
+ – The STEP will also be implemented within the EU4Health programme, established under Regulation (EU) 2021/522 
+ 32 
+ , concerning the objective to reinforce the development of biotechnologies in the Union. 
+ Therefore, considering the above, Article 164, Article 173, Article 175(3), Article 176, Article 177, Article 178, Article 182(1) and Article 192(1) are the relevant legal bases for the implementation of this Regulation. 
+ • Subsidiarity (for non-exclusive competence) 
+ The objectives of the proposal cannot be achieved by Member States acting alone, as the problems are of a cross-border nature, and not limited to single Member States or to a subset of Member States. The proposed actions focus on areas where there is a demonstrable value added in acting at Union level due to the scale, speed and scope of the efforts needed within the Single Market. 
+ Given the challenges for accelerating the deployment of net-zero and digital technologies, intervention at the level of the Union helps coordinate responses to address the Union’s needs for additional manufacturing capacities and to prevent structural dependencies. Action at Union level can clearly drive European actors towards a common vision and implementation strategy. This is key to generate economies of scale and of scope and to generate critical mass necessary for scaling up green and digital technologies manufacturing in the EU, while limiting fragmentation of efforts, deepening of regional imbalances and self-harming subsidy races between the Member States. 
+ • Proportionality 
+ The proposal is designed to help developing a manufacturing ecosystem via measures to facilitate investments. The objective is to support the longer-term competitiveness and innovation capacity of European industry via manufacturing capabilities, de-risking of investments into strategic projects, as well as by start-ups, scale-ups and SMEs. 
+ The measures do not go beyond what is necessary to achieve these goals. The STEP does not consist of a new fund structure but relies on existing EU funding instruments and the proposed additional resources are proportionate to the need to accelerate Platform investments in the short term. 
+ • Choice of the instrument 
+ A Regulation is the appropriate instrument as it provides directly applicable rules for the support. 
+ 3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ • Stakeholder consultations 
+ No stakeholder consultation was carried out specifically. This initiative takes into account stakeholder consultations conducted for the preparation of other related initiatives, such as the Critical Raw Materials Act, the Net-Zero Industry Act, the European Innovation Agenda, the Fit for 55 package, the European Chips Act, and the Digital Decade Compass. Moreover, the European Commission has long-standing and regular contacts with industry stakeholders, Member States and trade associations, which enabled the collection of feedback relevant to the proposal. 
+ • Impact assessment 
+ This proposal does not create a new instrument but is implemented through existing tools under the EU budget, which are amended to be able to better mobilise investment resources into critical technologies. Those existing tools, such as cohesion funds , InvestEU and Horizon Europe, have been subject to an impact assessment . 
+ 33 
+ Moreover, t he proposal builds on existing proposals which have been subject to impact analysis, such as the Critical Raw Materials Act, the European Innovation Agenda, the Fitfor55 package, the European Chips Act, and the Digital Decade Compass as well as the investment needs assessment published on 23 March 2023 . This analysis, carried out in impact assessments or analytical staff working documents, 
+ 34 
+ covers the most significant impacts of this proposal. For those reason, another impact assessment is not needed . The explanatory memorandum also reflects the ex-ante assessment carried out by the Commission in relation to the equity-only support to be provided under the EIC for non-bankable SMEs and small mid-caps . 
+ • Regulatory fitness and simplification 
+ The proposal is not linked to regulatory fitness and simplification but contains a number of provisions to simplify the implementation of existing EU instruments. The reporting requirements have been kept to a minimum to limit the administrative burden on Member States’ authorities and companies, while not undermining the sound financial management principles. 
+ • Fundamental rights 
+ Article 15 of the Charter provides for the freedom to choose an occupation and the right to engage in work. Supporting the competitiveness of the European industry will ensure economic growth and make sure it continues to offer job opportunities to citizens and residents of the Union. 
+ Article 16 of the Charter of Fundamental Rights of the European Union (‘the Charter’) provides for the freedom to conduct a business. The measures under this proposal support the creation of innovation capacity and the deployment of clean energy technologies, which can reinforce the freedom to conduct a business in accordance with Union law and national laws and practices. 
+ BUDGETARY IMPLICATIONS 
+ The proposal will result in additional pre-financing to be paid under JTF in 2024, financed by the European Recovery Instrument NextGenerationEU. It will also result in additional pre-financing to be paid under the ERDF, CF and ESF+ in 2024 for amounts programmed under priorities dedicated to operations contributing to strengthening STEP objectives. The additional pre-financing payments for the JTF in 2024 will be financed only from external assigned revenues and will result in a frontloading of NGEU payment appropriations from year 2026 to year 2024. All amounts will be available as external assigned revenues, within the meaning of Article 21(5) of Regulation (EU, Euratom) 2018/1046 stemming from the Next GenerationEU borrowing operations. 
+ The additional pre-financing payments for the ERDF, CF and ESF+ in 2024 will result in a frontloading of payment appropriations to 2024 and is budgetary neutral over the 2021-2027 period. This additional pre-financing was not envisaged in the draft budget. The Commission will monitor the amounts programmed by Member States under priorities dedicated to operations contributing to STEP objectives and assess their impact on the payment needs in the context of the global transfer exercise in 2024. The amount paid as additional pre-financing shall be totally cleared from the Commission accounts not later than closure of the respective programmes, such that the total amount of payments made under the concerned Funds will remain unchanged with this proposal. The proposed modification does not require changes in the Multiannual Financial Framework annual ceilings for commitments and payments as per Annex I to Council Regulation (EU, Euratom) 2020/2093, and does not imply changes to the overall payment needs over the 2021-27 programming period. 
+ As for Horizon Europe, the proposal consists in reinforcing the envelope of the EIC by EUR 2.63 billion in total: 
+ – EUR 0.8 billion are proposed to be redeployed from the resources allocated to Pillar II 'Global Challenges and European Industrial Competitiveness' for the period 202[x] to 2027 ; 
+ – EUR 0.13 billion from the reflows of the EIC pilot of Horizon 2020 
+ – EUR 1.2 billion resulting f rom total or partial non-implementation of research projects supported by Horizon Europe and its predecessors , are proposed to be made available again , in line with Article 15(3) of the Financial Regulation, to the benefit of the EIC strand of Horizon Europe ; and 
+ – EUR 0.5 billion budgetary reinforcement 
+ In addition, the Innovation Fund should be reinforced by EUR 5 billion, the European Defence Fund by EUR 1.5 billion and the InvestEU should benefit from a reinforcement of EUR 3 billion resulting in a guarantee of EUR 7.5 billion. 
+ The total budgetary implications for the MFF is therefore EUR 10 billion. 
+ 5. OTHER ELEMENTS 
+ • Implementation plans and monitoring, evaluation and reporting arrangements 
+ The Commission will monitor the implementation of the Platform and measure the achievement of the objectives under this Regulation in a targeted and proportionate manner. The Commission will ensure that data for monitoring the implementation of the activities and results are collected efficiently, effectively and in a timely manner. 
+ To monitor the implementation of the Platform, the Commission will compile the expenditures related to the STEP from the relevant programmes. The respective climate spending targets under the relevant programmes continue to apply. This requires the following: 
+ – Common Provisions Regulation : updat ing Annex I of the R egulation to inclu de additional intervention fields ; 
+ – Recovery and Resilience Facility: tagging and reporting based on a break-down of the estimated expenditure by the Commission in accordance with article 29(3) of that Regulation of investment s related to the STEP objectives; 
+ – InvestEU: tracking of expenditure s by the Commission . 
+ – Direct m anagement programmes (Horizon Europe, Innovation Fund , European Defence Fund, Digital Europe Programme , EU4Health Programme ) : tracking of expenditure s by the Commission . 
+ To monitor and assess the performance of the programme, the Commission will compile the results of performance indicators related to the STEP from the relevant programmes. 
+ The implementation of the performance indicators related to the STEP requires: 
+ – Cohesion instruments : amend ing of the annexes of the fund-specific regulation containing the performance indicators ; 
+ – InvestEU: amend ing A nnex III of the InvestEU R egulation containing the key performance and monitoring indicators ; 
+ – Recovery and Resilience Facility: relying on the existing reporting framework 
+ – Direct m anagement programmes (Horizon Europe, Innovation Fund , European Defence Fund, Digital Europe Programme , EU4Health Programme ): information to be gathered by the Commission . 
+ • Detailed explanation of the specific provisions of the proposal 
+ Chapter 1 of this Regulation (Articles 1 to 8) sets out the common provisions necessary for the creation of the STEP, while Chapter 2 contains the amendments to other relevant pieces of EU legislation (Articles 9 to 19). 
+ Subject matter and Platform objectives (Articles 1 and 2) 
+ Article 1 explains the subject matter of the Regulation, and Article 2 defines the objectives and scope of the instrument. In accordance with Article 2, the STEP has a twofold objective: (i) to support the development or manufacturing of critical technologies in the Union or safeguarding and strengthening their value chains; and (ii) reducing labour and skills shortages in those strategic sectors. Article 2 also defines the fields for those critical technologies, namely deep and digital technologies, clean technologies, and biotechnologies. This provision further specifies that, in order for a technology to be deemed as critical for the purposes of the Platform, it should meet the following conditions: (i) bring an innovative, element with significant economic potential to the Single Market; or (ii) contribute to reduce or prevent the strategic dependencies of the Union. It is also clarified that, where an IPCEI approved pursuant to Article 107(3)(b) TFEU relates to any of the technology fields referred to in Article 2(1)(a), the relevant technologies should be deemed to be critical. Article 2 also provides with further guidance as to the meaning of ‘value chain’. 
+ Financial support (Article 3) 
+ This provision lays down the additional EU funding which is used to reinforce the firepower of several instruments, namely InvestEU, Horizon Europe, European Defence Fund and the Innovation Fund. 
+ Sovereignty Seal and cumulative funding (Article 4) 
+ Article 4 creates a ‘Sovereignty Seal’, which is a new label intended to help project promoters attract public and private investments by certifying its contribution to the STEP objectives. The Sovereignty Seal would be awarded under directly managed programmes, namely Horizon Europe, the Innovation Fund, the Digital Europe programme, the EU4Health programme, and the European Defence Fund. The Seal builds on the existing ‘Seal of Excellence’, which is a quality label for eligible projects that could not be funded due to lack of budget available. Unlike the Seal of Excellence, the Sovereignty Seal is defined only by reference to the objectives pursued by the projects to which it has been awarded, and regardless of whether the project has been able to receive EU funding as long as it has been successfully evaluated under Horizon Europe, the Innovation Fund, the Digital Europe programme, the EU4Health programme or the European Defence Fund. This is a way to promote that projects which have been partly funded can also receive cumulative or combined funding with another Union instrument (Article 4(1)(b)). Moreover, the Sovereignty Seal would also apply to cases where a project has not been able to receive EU funds under one programme, in order to promote that it receives support under another programme (Article 4(1)(a)). 
+ This provision also indicates that projects having been awarded a Sovereignty Seal should be prioritised by Member States when proposing their Recovery and Resilience Plans and when deciding on investment projects to be financed from its share of the Modernisation Fund. As regards the InvestEU Programme (see also Article 15), the Sovereignty Seal should be taken into account by the Commission in the context of the procedure provided for in Article 19 of the EIB Statute and of the policy check laid down in Article 23 of Regulation (EU) 2021/523. In addition, the implementing partners should be requested to examine projects having been awarded the Sovereignty Seal in case they fall within their geographic and activity scope. Concerning cohesion policy, it is proposed that managing authorities are able to grant support from the ERDF or the ESF+ directly, subject to compliance with applicable State aid rules, for operations attributed a Sovereignty Seal (see Article 13). 
+ Strategic projects identified in accordance with the Net Zero Industry and the Critical Raw Materials Acts that fall under the scope of Article 2 of the Regulation may benefit from cumulative funding across relevant Programmes. 
+ Monitoring and implementation (Article 5) 
+ Article 5 defines how the Commission shall monitor the implementation of the STEP, the results and progress towards the achievement of its objectives. 
+ Sovereignty Portal (Article 6) 
+ Article 6 sets out the obligation for the Commission to set up a new publicly available website (the Sovereignty Portal) to provide support to companies and project promoters seeking funds for STEP investments. To that end, the Portal is required to display in particular the following information: ongoing and upcoming calls for proposals linked to the STEP objectives (Article 6(1)(a)) and contacts to the national competent authorities designated to act as the main point of contact for the implementation of the STEP at national level (Article 6(1)(d)). Moreover, the Portal should inform about the projects which have been awarded a Sovereignty Seal label, in order to give them visibility towards potential investors (Article 6(1)(b)), as well as strategic projects identified under the NZIA and the CRMA (Article 6(1)(c)). Moreover, the Platform should present the information about the implementation of the Platform (Article 6(2)). Article 6(4) requires Member States to designate one national competent authority to act as the main point of contact for those priorities, with the objective to ensure the consistent application of the STEP throughout the Union, and in order to facilitate the combination of available funding for Platform projects, notably under directly managed programmes and shared management programmes. 
+ Annual report and evaluation (Articles 7 and 8). 
+ Articles 7 sets out the obligation for the Commission to provide an annual report to the European Parliament and the Council on the progress made in implementing the STEP objectives. 
+ Article 8 lays down the rules on the evaluation of the Platform. The Commission is required to provide an evaluation report to the European Parliament and the Council by 31 December 2025. 
+ Amendments to Directive 2003/87/EC (EU ETS Directive) (Article 9) 
+ Article 9 amends the EU ETS Directive to specify the amount of additional funds to be implemented through the Innovation Fund for projects aimed at supporting the development or manufacturing in the Union of clean technologies. This additional support is made available only to Member States whose average GDP per capita is below the EU average of the EU-27 measured in purchasing power standards (PPS) and calculated on the basis of Union figures for the period 2015-2017. 
+ Amendments to Regulation (EU) 2021/1058, Regulation on the European Regional Development Fund and on the Cohesion Fund (Article 10), Regulation on the Just Transition Fund (Article 11), and to Regulation (EU) 2021/1057, Regulation establishing the European Social Fund Plus (Article 12) 
+ Article 10 amends the Regulation on the European Regional Development Fund (ERDF) and on the Cohesion Fund (CF) to create new specific objectives under Policy Objective 1 (a more competitive and smarter Europe by promoting innovative and smart economic transformation and regional ICT connectivity) and Policy Objective 2 (a greener, low-carbon transitioning towards a net zero carbon economy and resilient Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate change mitigation and adaptation, risk prevention and management, and sustainable urban mobility). It is also made possible to support productive investments in enterprises other than SMEs, in less developed and transition regions, as well as in more developed regions in Member States whose average GDP per capita is below the EU average of the EU-27 measured in purchasing power standards (PPS) and calculated on the basis of Union figures for the period 2015-2017. 
+ Article 11 amends the Regulation on the Just Transition Fund (JTF) to indicate that such a programme can support investments linked to the STEP objectives. 
+ Moreover, in order to help accelerate those investments and providing the necessary liquidity, an exceptional pre-financing of 30% will be available for the year 2024. It is also set out that Member States should be able to apply an increased EU financing rate of up to 100%. This is reflected for the three Regulations above, by including the same provisions under Articles 10, 11, and 12. 
+ Annexes I and II of the ERDF and CF regulation are amended to include the indicators related to the new STEP objectives. 
+ Amendments to Regulation (EU) 2021/1060, Regulation laying down common provisions applicable amongst others to the ERDF, CF, JTF and ESF+ (Article 13) 
+ This Regulation is also amended to allow that projects having been awarded a Sovereignty Seal could benefit from better access to EU funding, notably by facilitating cumulative or combined funding from several Union instruments. To that end, managing authorities will be able to grant support from the ERDF or the ESF+ directly, for operations attributed a Sovereignty Seal. It is also set out that Member States should be able to apply an increased EU financing rate of up to 100%. 
+ Article 49 of the CPR Regulation is amended to ensure that the managing authorities identify and submit to the Commission the planned calls for proposals related to the STEP objectives in order to publish them on the Sovereignty portal, as well as a dedicated secondary theme for the ESF +. 
+ The amendment to Annex I of the CPR Regulation incorporates supplementary intervention fields that will allow to track the expenditure related to the new Platform objectives. 
+ Amendments to Regulation (EU) No 1303/2013 (Article 14) and Regulation (EU) No 223/2014 (Article 15) 
+ This amendment to provide with additional flexibilities for Member States to be able to implement the 2014-2020 cohesion policy programmes , the EMFF and the Fund for European Aid to the Most Deprived (FEAD). The regulatory framework for the implementation of the 2014-2020 programmes has already been adapted to provide Member States and regions with additional flexibility in terms of implementation rules and more liquidity to tackle the effects of the COVID-19 pandemic and the war or aggression against Ukraine. 
+ 35 
+ These measures, introduced at the end of the programming period, require sufficient time and administrative resources to be fully exploited and implemented. This is linked to the need for the Member States to focus administrative resources on the revision of the operational programmes towards the STEP . 
+ Therefore, the deadline for the submission of that final payment application should be extended by 12 months. Furthermore, the deadline for the submission of the closure documents should also be extended by 12 months so that the necessary controls and audits allowing for an orderly closure of programmes under the 2014-2020 programming period can be carried out. In order to ensure a sound implementation of the EU budget and respect for the payment ceilings, payments to be made in 2025 should be capped at 1 % of the financial appropriations from resources under the Multiannual Financial Framework per programme. It should be clarified that amounts due exceeding the ceiling of 1% of programme appropriations per fund for 2025 would not be paid in 2025 nor in subsequent years but only used for the clearance of pre-financing. Unused amounts shall be decommitted in accordance with the general rules for decommitment at closure. 
+ Amendments to Regulation (EU) 2021/523, establishing the InvestEU Programme (Article 16) 
+ This provision creates a new policy area (fifth window) aimed at supporting STEP investments under InvestEU, and it accommodates the additional amount of EUR [...] billion proposed in the context of the MFF review by amending the amounts of the EU guarantee for the purposes of the STEP. Amendments are also made to reflect the Sovereignty Seal dimension into InvestEU, as explained under Article 4. 
+ It also proposes additional flexibilities and clarifications to better pursue the objectives of this initiative. In relation to the combination of portfolios, it is specified that when support from the financial instruments referred to in Article 7(1) is combined in a financial product in a subordinated position to the EU guarantee under this Regulation and/or EU guarantee established by Regulation (EU) 2015/1017, the losses, revenues and repayments as well as potential recoveries may also be attributed on a non pro rata basis. This amendment aims at facilitating synergies between the InvestEU and other Union programmes by increasing the flexibility on the design of blending operations. 
+ To facilitate the uptake of the Member State compartment, it is proposed to slightly increase the time period available to conclude a guarantee agreement from nine to twelve months from the conclusion of the contribution agreement. The rules on the membership of the Investment Committee are also amended to clarify that a non-permanent member may be assigned to a maximum of two configurations to apply a selection process that allows to constitute the Investment Committee for the new fifth window in a swift manner. 
+ Annex III of InvestEU Regulation is amended to include the indicators related to the new STEP window. 
+ Amendments to Regulation (EU) 2021/695, establishing Horizon Europe (Article 17) 
+ This provision aims at providing additional flexibility and funding for the EIC Accelerator. The Accelerator under Horizon Europe should be able to provide equity-only support to non-bankable SMEs, including start-ups, and non-bankable small mid-caps, carrying out innovation in the technologies supported by STEP. Moreover, the unused funds committed for the EIC Pilot under Horizon2020 should be made available for the purposes of the EIC Accelerator under Horizon Europe. 
+ Amendments to Regulation (EU) 2021/697, establishing the European Defence Fund (Article 18) 
+ Article 18 amends the Regulation on the European Defence Fund to specify the amount of additional funds to be implemented through the European Defence Fund. 
+ Amendments to Regulation (EU) 2021/241, establishing the Recovery and Resilience Facility (Article 19) 
+ This Regulation is amended to increase the ceiling for the amount of estimated costs of the recovery and resilience plans that Member States can use for the Member State compartment of InvestEU. In addition to the applicable ceiling of 4% of the recovery and resilience plan’s financial allocation, Member States can decide to allocate a further 6% to support STEP investments, therefore up to a total of 10%. Article 29 is amended to ensure the Member States identify and submit to the Commission the planned calls for proposals related to the Platform objectives in order to publish them on the Sovereignty portal. 
+ Entry into force and application (Article 20) 
+ It is proposed that this Regulation, which is directly applicable in all Member States, enters into force on the day following that of its publication. 
+ 2023/0199 (COD) 
+ Proposal for a 
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ establishing the Strategic Technologies for Europe Platform (‘STEP’) and amending Directive 2003/87/EC, Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 164, Article 173, Article 175, third paragraph, Article 176, Article 177, Article 178, Article 182(1) and Article 192(1) thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard to the opinion of the European Economic and Social Committee 
+ 36 
+ , 
+ Having regard to the opinion of the Committee of the Regions 
+ 37 
+ , 
+ Acting in accordance with the ordinary legislative procedure, 
+ Whereas: 
+ (1) Strengthening the competitiveness and resilience of the European economy through the green and digital transformations has been the EU compass over the last years. The green and digital transitions anchored in the European Grean Deal 
+ 38 
+ and the Digital Decade, 
+ 39 
+ spurs growth and the modernisation of the EU economy, opening up new business opportunities and helping gain a competitive advantage on the global markets. The European Green Deal sets out the roadmap for making the Union’s economy climate neutral and sustainable in a fair and inclusive manner, tackling climate and environmental-related challenges. Moreover, the Digital Decade Policy Programme 2030 sets out a clear direction for the digital transformation of the Union and for the delivery of digital targets at Union level by 2030, notably concerning digital skills, digital infrastructures, and the digital transformation of businesses and public services. 
+ (2) The EU industry has proven its inbuilt resilience but is being challenged. High inflation, labour shortages, post-COVID supply chains disruptions, rising interest rates, and spikes in energy costs and input prices are weighing on the competitiveness of the EU industry. This is paired with strong, but not always fair, competition on the fragmented global market. The EU has already put forward several initiatives to support its industry , such as the Green Deal Industrial Plan , 
+ 40 
+ the Critical Raw Materials Act 
+ 41 
+ , the Net Zero Industry Act 
+ 42 
+ , the new Temporary Crisis and Transition Framework for State aid , 
+ 43 
+ and REPowerEU . 
+ 44 
+ While these solutions provide fast and targeted support, the EU needs a more structural answer to the investment needs of its industries , safeguarding cohesion and the level playing field in the Single Market and to reduce the EU’s strategic dependencies . 
+ (3) The uptake and scaling up in the Union of deep and digital technologies, clean technologies, and biotechnologies will be essential to seize the opportunities and meet the objectives of the green and digital transitions, thus promoting the competitiveness of the European industry and its sustainability . Therefore, immediate action is required to support the development or manufacturing in the Union of such technologies, safeguarding and strengthening their value chains thereby reducing the Union’s strategic dependencies, and addressing existing labour and skills shortages in those sectors through trainings and apprenticeships and the creation of attractive, quality jobs accessible to all . 
+ (4) There is a need to support critical technologies in the following fields : deep and digital technologies, clean technologies, and biotechnologies (including the respective critical raw materials value chains) , in particular projects, companies and sectors with a critical role for EU ’s competitiveness and resilience and its value chains . By way of example, d eep technologies and digital technologies should include microelectronics, high-performance computing, quantum technologies (i.e., computing, communication and sensing technologies) , cloud computing, edge computing, and artificial intelligence , cybersecurity technologies, robotics , 5G and advanced connectivity and virtual realities , including actions related to d eep and digital technologies for the development of defence and aerospace applications . C lean technologies should include, among others, renewable energy; electricity and heat storage; heat pumps; electricity grid; renewable fuels of non-biological origin; sustainable alternative fuels; electrolysers and fuel cells; carbon capture, utilisation and storage; energy efficiency; hydrogen and its related infratructure ; smart energy solutions; technologies vital to sustainability such as water purification and desalination; advanced materials such as nanomaterials, composites and future clean construction materials , and technologies for the sustainable extraction and processing of critical raw materials . B iotechnology should be considered to include technologies such as biomolecules and its applications, pharmaceuticals and medical technol ogies vital for health security, crop biotechnology , and industrial biotechnology, such as for waste disposal , and biomanufacturing . The Commission may issue guidance to further specify the scope of the technologies in these three fields considered to be critical in accordance with this Regulation, in order to promote a common interpretation of the projects, companies and sectors to be supported under the respective programmes in light of the common strategic objective . Moreover, technologies in any of these three fields which are subjects of an Important Project of Common European Interest (IPCEI) approved by the Commission pursuant to Article 107(3), point (b) TFEU should be deemed to be critical, and individual projects within the scope of such an IPCEI should be eligible for funding, in accordance with the respective programme rules, to the extent that the identified funding gap and the eligible costs have not yet been completely covered . 
+ (5) Strengthening the manufacturing capacity of key technologies in the Union will not be possible without a sizeable skilled workforce. However, l abour and skills shortages have increased in all sectors including those considered key for the green and digital transition and endanger the rise of key technologies , also in the context of demographic change . Therefore, it is necessary to boost the activation of more people to the labour market relevant for strategic sectors , in particular through the creation of jobs and apprenticeships for young, disadvantaged persons, in particular, young people not in employment, education or training . Such support will complement a number of other actions aimed at meeting the skills needs stemming from the transition , outlined in the EU Skills Agenda . 
+ 45 
+ (6) The scale of investments needed for the transition require a full mobilisation of funding available under existing EU programmes and funds , inclusive those granting a budgetary guarantee for financing and investment operations and implementation of financial instruments and blending operations . Such fund ing should be deployed in a more flexible manner, to provide timely and targeted support for critical technologies in strategic sectors. Therefore, a Strategic Technologies for Europe Platform (‘STEP’ ) should give a structural answer to the Union investment needs by helping to better channel the existing EU funds towards critical investments aimed at supporting the development or manufacturing of critical technologies , while preserving a level playing field in the Single Market , thereby preserving cohesion and aiming at a geographically balanced distribution of projects financed under the STEP in accordance with the respective programme mandates . 
+ (7) The STEP should identify resources which should be implemented within the existing Union programmes and funds, the InvestEU, Horizon Europe , European Defence Fund and Innovation Fund. This should be accompanied by providing additional funding of EUR 10 billion . Of this, EUR 5 billion should be used to increase the endowment of the Innovation Fund 
+ 46 
+ and EUR 3 billion to increase the total amount of the EU guarantee available for the EU compartment under the InvestEU Regulation to EUR 7,5 billion , 
+ 47 
+ taking into account the relevant provisioning rate. EUR 0.5 billion should be made available to increase the financial envelope under the Horizon Europe Regulation, 
+ 48 
+ which should be amended accordingly ; and EUR 1.5 billion to the European Defence Fund. 
+ 49 
+ (8) A Sovereignty Seal should be awarded to projects contributing to the STEP objectives, provided that the project has been assessed and complies with the minimum quality requirements , in particular eligibility , exclusion and award criteria , provided by a call for proposals under Horizon Europe, the Digital Europe programme, 
+ 50 
+ the EU4Health programme, 
+ 51 
+ the European Defen c e Fund or the Innovation Fund , and regardless of whether the project has received funding under those instruments. These minimum quality requirements will be established with a view to identify high quality projects. This Seal should be used as a quality label, to help projects attract public and private investments by certifying its contribution to the STEP objectives . Moreover, the Seal will promote better access to EU funding, notably by facilitating cumulative or combined funding from several Union instruments. 
+ (9) To that end, it should be possible to rely on assessments made for the purposes of other Union programmes in accordance with Articles 126 and 127 of Regulation (EU, Euratom) 2018/1046 , 
+ 52 
+ in order to reduce administrative burden for beneficiaries of Union funds and encourage investment in priority technologies. Provided they comply with the provisions of the RRF Regulation, 
+ 53 
+ Member States should consider including actions awarded the Sovereignty Seal when preparing their recovery and resilience plans and when proposing their Recovering and Resilience Plans and when deciding on investment projects to be financed from its share of the Modernisation Fund. T he Sovereignty Seal should also be taken into account by the Commission in the context of the procedure provided for in Article 19 of the EIB Statute and of the policy check laid down in Article 23 of the InvestEU Regulation . In addition, the implementing partners should be required to examine projects having been awarded the Sovereignty Seal in case they fall within their geographic and activity scope in accordance with Article 26(5) of that Regulation . Authorities in charge of programmes falling under STEP should also be encouraged to consider support for strategic projects identified in accordance with the Net Zero Industry and the Critical Raw Materials Acts that are within the scope of Article 2 of the Regulation and for which rules on cumulative funding may apply . 
+ (10) A new publicly available website (the ‘Sovereignty Portal’) should be set up by the Commission to provide information on available support to companies and project promoters seeking funds for STEP investments. To that end, it should display in an accessible and user-friendly manner the funding opportunities for STEP investments available under the EU budget. This should include information about directly managed programmes, such as Horizon Europe, the Digital Europe programme, the EU4Health programme, and the Innovation Fund, and also other programmes such as InvestEU, the RRF, and cohesion policy funds. Moreover, the Sovereignty Portal should help increase the visibility for STEP investments towards investors, by listing the projects that have been awarded a Sovereignty Seal. The Portal should also list the national competent authorities responsible for acting as contact points for the implementation of the STEP at national level. 
+ (11) While the STEP relies on the reprogramming and reinforc ement of existing programmes for supporting strategic investments , it is also an important element for testing the feasibility and prepar ation of new interventions as a step towards a European Sovereignty Fund. T he evaluation in 2025 will assess the relevance of the actions undertaken and serve as basis for assessing the need for an upscaling of the support towards strategic sectors. 
+ (12) Directive 2003/87/EC 
+ 54 
+ should be amended to allow for additional financing with a financial envelope for the period 2024-2027 of EUR 5 billion . The Innovation Fund supports investments in innovative low-carbon technologies , which is a scope that is to be covered by the STEP . The increase in volume of the Innovation Fund should therefore allow to provide financing respond ing to the objective of supporting the development or manufacturing in the Union of critical clean technologies. In line with the objectives of ensuring cohesion and promoting the Single Market, and i n or der to support the green transition and the development of clean technologies throughout the Union , th e additional financial envelope should be made available through calls for proposals open to entities from Member States whose average GDP per capita is below the EU average of the EU-27 measured in purchasing power standards (PPS) and calculated on the basis of Union figures for the period 2015-2017 . 
+ (13) In order to extend support possibilities for investments aimed at strengthening industrial development and reinforcement of value chains in strategic sectors, the scope of support from the ERDF should be extended by providing for new specific objectives under the ERDF, without prejudice to the rules on eligibility of expenditure and climate spending as set out in Regulation (EU) 2021/1060 
+ 55 
+ and Regulation (EU) 2021/1058 
+ 56 
+ . In strategic sectors, i t should also be possible to support productive investments in enterprises other than SMEs, which can make a significant contribution to the development of less developed and transition regions, as well as in more developed regions of Member States with a GDP per capita below the EU average. Managing authorities are encouraged to promote the collaboration between large enterprises and local SMEs , supply chains, innovation and technology ecosystems . This would allow reinforcing Europe’s overall capacity to strengthen its position in those sectors through providing access to all Member States for such investments, thus counteracting the risk of increasing disparities. 
+ (14) The scope of support of the JTF , laid down in Regulation (EU) 2021/1056, 
+ 57 
+ should also be extended to cover investments in clean technologies contributing t o the objectives of the STEP by large enterprises, provided that they are compatible with the expected contribution to the transition to climate neutrality as set out in the territorial just transition plans. The support provided for such investments should not require a revision of the territorial just transition plan where that revision would be exclusively linked to the gap analysis justifying the investment from the perspective of job creation. 
+ (15) The ESF+, 
+ 58 
+ being the main EU Fund for investment in people, provides a key contribution to promote the development of skills. In order to facilitate the use of th at Fund for the STEP objectives , it should be possible to use the ESF+ to cover investments aimed at achieving a skilled and resilient workforce ready for the future world of work. 
+ (16) In order to help accelerate investments and provide immediate liquidity for investments supporting the S TEP objectives under the ERDF , the ESF+ 
+ 59 
+ and the JTF , an additional amount of exceptional pre-financing should be provided in the form of a one - off payment with respect to the priorities dedicated to investments supporting the STEP objectives . The additional pre-financing should apply to the whole of the JTF allocation given the need to accelerate its implementation and the strong links of the JTF to support Member States towards the STEP objectives. The rules applying for those amounts of exceptional pre-financing should be consistent with the rules applicable to pre-financing set out in Regulation (EU) 2021/1060. Moreover, to further incentivise the uptake of such investments and ensure its faster implementation, the possibility for an increased EU financing rate of 100% for the STEP priorities should be available. When implementing the new STEP objectives, managing authorities are encouraged to apply ce rtain social criteria or promote social positive outcomes , suc h as creating apprenticeships and jobs for young disadvantaged persons, in particular young persons not in employment, education or training, applying the social award criteria in the Directives on public procurement when a project is implemented by a body subject to public procurement, and paying the applicable wages as agreed through collective bargaining . 
+ (17) The Common Provisions Regulation 
+ 60 
+ should be amended to allow that projects having been awarded a Sovereignty Seal could benefit from better access to EU funding, notably by facilitating cumulative or combined funding from several Union instruments. To that end, it should be possible for managing authorities to grant support from the ERDF or the ESF+ directly, for operations attributed a Sovereignty Seal. 
+ (18) The regulatory framework for the implementation of the 2014-2020 programmes has been adapted over the past years to provide Member States and regions with additional with additional flexibility in terms of implementation rules and more liquidity to tackle the effects of the COVID-19 pandemic and the war or aggression against Ukraine. These measures, introduced at the end of the programming period, require sufficient time and administrative resources to be fully exploited and implemented; also at a time where Member States will focus resources on revising the 2021-2027 operational programmes linked to the STEP objectives. With a view to alleviate the administrative burden on programme authorities and to prevent possible loss of funds at closure for purely administrative reasons, the deadlines for the administrative closure of the programmes under the 2014-2020 period should be extended in Regulation (EU) No 1303/2013 
+ 61 
+ and Regulation (EU) No 223/2014 
+ 62 
+ . More specifically, the deadline for the submission of that final payment application should be extended by 12 months. Furthermore, the deadline for the submission of the closure documents should also be extended by 12 months. In the context of this amendment, it is appropriate to clarify that d istribution of food and material bought until the end of the eligibility period (end-2023) may continue after that date . In order to ensure a sound implementation of the EU budget and respect for the payment ceilings, payments to be made in 2025 should be capped at 1 % of the financial appropriations from resources under the Multiannual Financial Framework per programme. Amounts due exceeding the ceiling of 1% of programme appropriations per fund for 2025 would not be paid in 2025 nor in subsequent years but only used for the clearance of pre-financing. Unused amounts shall be decommitted in accordance with the general rules for decommitment at closure . 
+ (19) InvestEU is the EU flagship programme to boost investment, especially the green and digital transition, by providing demand-driven financing, including through blending mechanisms , and technical assistance . Such approach contributes to crowd in additional public and private capital. Given the high market demand of InvestEU guarantee , the EU compartment of InvestEU should be reinforced to correspond to the objectives of the STEP . This will, among other things, reinforce InvestEU’s existing possibility to invest in projects forming part of an IPCEI , within the identified critical technology sectors . In addition, Member States are encouraged to contribute to the InvestEU Member State compartment to support financial products in line with the STEP objectives , without prejudice to applicable State aid rules. I t should be possible for Member States to include as a measure in their recovery and resilience plans a cash contribution for the purpose of the Member State compartment of InvestEU to support objectives of the STEP . T hat additional contribution to support objectives of the STEP could reach up to 6 % of their recovery and resilience plan’s total financial allocation to the Member State compartment of InvestEU. Additional flexibility and clarifications should also be introduced to better pursue the objectives of the STEP . 
+ (20) Horizon Europe is the EU’s key funding programme for research and innovation, and its European Innovation Council (EIC) provides for support for innovations with potential breakthrough and disruptive nature with scale-up potential that may be too risky for private investors. Additional flexibility should be provided for under Horizon Europe, so that the EIC Accelerator can provide equity-only support to non-bankable SMEs, including start-ups, and non-bankable SMEs and small mid-caps, carrying out innovation in the technologies supported by the STEP and regardless of whether they previously received other types of support from the EIC Accelerator . The implementation of the EIC Fund is currently limited to a maximum investment amount of EUR 15 million except in exceptional cases and cannot accommodate follow-on financing rounds or larger investment amounts. A llowing for equity-only support for non-bankable SMEs and small mid-caps would address the existing market gap with investments needs in the range of EUR 15 to 50 million. Moreover, experience has shown that the amounts committed for the EIC Pilot under Horizon2020 are not fully used. These unused funds should be made available for the purposes of the EIC Accelerator under Horizon Europe. The Horizon Europe Regulation should also be amended to reflect the increased envelope for the European Defence Fund. 
+ (21) The European Defence Fund is the leading programme for enhancing the competitiveness, innovation, efficiency and technological autonomy of the Union’s defence industry , thereby contributing to the Union’s open strategic autonomy. The development of defence capabilities is crucial, as it underpins the capacity and the autonomy of the European industry to develop defence products and the independence of Member States as the end-users of such products . The additional envelope should therefore be made available to support actions in the field of deep and digital technologies contributing to the development of defence applications . 
+ (22) Since the objectives of this Regulation , namely to strengthen European sovereignty, accelerate the Union’s green and digital transitions and enhance its competitiveness, and reduce its strategic dependencies cannot be sufficiently achieved by the Member States, but can rather be better achieved at Union level, the Union may adopt measures in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Regulation does not go beyond what is necessary to achieve those objectives. 
+ HAVE ADOPTED THIS REGULATION: 
+ CHAPTER 1 
+ STEP 
+ Article 1 
+ Subject matter 
+ This Regulation establishes a Strategic Technologies for Europe Platform (‘STEP’ or ‘the Platform’) to support critical and emerging strategic technologies . 
+ It lays down the objectives of the Platform, the amount of financial support available under the Platform, and rules for the implementation of the Sovereignty Seal and Sovereignty portal and for reporting on the Platform objectives. 
+ Article 2 
+ STEP objectives 
+ 1. To strengthen European s overeignty and security , accelerate the Union’s green and digital transitions and enhance its competitiveness, reduce its strategic dependencies , favour a level playing field in the Single Market for investments throughout the Union, and promote inclusive access to attractive, quality jobs , t he Platform shall pursue the following objectives: 
+ (a) supporting the development or manufacturing throughout the Union , or safeguarding and strengthening the respective value chains , of critical technologies in the following fields : 
+ (i) deep and digital technologies 
+ (ii) clean technologies 
+ (iii) biotechnologies 
+ (b) addressing shortages of labour and skills critical to all kinds of quality jobs in support of the objective under point (a) . 
+ 2. The technologies referred to in point (a) of the first paragraph , shall be deemed to be critical whe re they meet at least one of the following conditions: 
+ (a) b ring an innovative , cutting-edge element with significant economic potential to the Single Market ; 
+ (b) c ontribute to reduce or prevent strategic dependencies of the Union . 
+ 3. Where an Important Project of Common European Interest (IPCEI) approved by the Commission pursuant to Article 107(3 ), point (b) TFEU relates to an y of the technology fields referred to in point (a) of paragraph 1 , the relevant technologies shall be deemed to be critical . 
+ 4. The value chain for the manufacturing of critical technologies referred to in the first paragraph relates to final products, as well as key components , specific machinery and critical raw materials primarily used for the production of those products . 
+ Article 3 
+ Financial Support 
+ 1. Implementation of the Platform sh all be supported , in particular, through : 
+ (a) a Union guarantee referred to in Article 4(1) of Regulation (EU) 2021/523 with the indicative amount of EUR 7 500 000 000 That guarantee shall be implemented in accordance with Regulation (EU) 2021/523 ; 
+ (b) an amount of EUR 500 000 000 in current prices of the financial envelope referred to in point ( i ) of Article 12(2) (c ) of Regulation (EU) 2021/695. That amount shall be implemented in accordance with Regulation (EU) 2021/695; 
+ (c) an amount of EUR 5 000 000 000 in current prices of the financial envelope referred to in the sixth subparagraph of Article 10a(8) of Directive 2003/87/EC. That amount shall be implemented within the Innovation Fund in accordance with the rules of Article 10a(8) of Directive 2003/87/EC and Commission Delegated Regulation [2019/856]. 
+ (d) An amount of EUR 1 500 000 000 in current prices of the financial envelope refered to in Article 4( 1 ) of Regulation (EU) 20 21 / 697 . That amount shall be implemented in accordance with Regulation (EU) 20 21 / 697 . 
+ 2. The amounts referred to in the paragraph 1 shall be used with the aim of achieving the objectives referred to in Article 2. 
+ Article 4 
+ Sovereignty Seal and cumulative funding 
+ 1. The Commission shall award a Sovereignty Seal to any action contributing to any of the Platform objectives, provided the action has been assessed and complies with the minimum quality requirements , in particular eligibility, exclusion and award criteria, provided by a call for proposals under Regulation (EU) 2021/695 , Regulation (EU) 2021/694 , Regulation (EU) 2021/ 697, Regulation (EU) 2021/522 , or Commission Delegated Regulation (EU) 2019/856 . 
+ 2. The Sovereignty Seal may be used as a quality label, in particular for the purposes of: 
+ (a) receiving support for the action under another Union fund or programme in accordance with the rules applicable to that fund or programme, or 
+ (b) financing the action through cumulative or combined funding with another Union instrument in line with the rules of the applicable basic acts. 
+ 3. When revising their r ecovery and r esilience p lans in accordance with Regulation (EU) 2021/241, Member States shall , without prejudice to the provisions of that Regulation, consider as a priority action which have been awarded a Sovereignty Seal in accordance with paragraph 1 . 
+ 4. When deciding on investment projects to finance from their respective shares of the Modernisation Fund in accordance with Article 10d of Directive 2003/87/EC, Member States shall consider as a priority project for critical clean technologies which have received the Sovereignty Seal in accordance with paragraph 1 . In addition, Member States may decide to grant national support to projects with a Sovereignty Seal contributing to the Platform objective referred to in Article 2 (1) , point (a)( i i) . 
+ 5. Under Regulation (EU) 2021/523, the Sovereignty Seal shall be taken into account in the context of the procedure provided for in Article 19 of the European Investment Bank Statute and of the policy check as laid down in Article 23(3) of that Regulation. In addition, the implementing partners shall examine projects having been awarded the Sovereignty Seal in case they fall within their geographic and activity scope as laid down in Article 26(5) of that Regulation. 
+ 6. Strategic projects identified in accordance with the [Net Zero Industry Act] and the [Critical Raw Materials Act] within the scope of Article 2 that receive a contribution under the Programmes refered to in Article 3 may also receive a contribution from any other Union programme, including Funds under shared management, provided that the contributions do not cover the same costs . The rules of the relevant Union programme shall apply to the corresponding contribution to the strategic project. The cumulative funding shall not exceed the total eligible costs of the strategic project. The support from the different Union programmes may be calculated on a pro-rata basis in accordance with the documents setting out the conditions for support. 
+ 7. 
+ The award of a Sovereignty Seal and provision of cumulative funding is without prejudice to applicable State aid rules and to the Union’s international obligations . 
+ Article 5 
+ Monitoring of implementation 
+ 1. The Commission shall monitor the implementation of the Platform and measure the achievement of the Platform objectives set out in Article 2. The monitoring of implementation shall be targeted and proportionate to the activities carried out under the Platform . 
+ 2. The monitoring system of the Commission shall ensure that data for monitoring the implementation of the activities carried out under the Platform and the results of those activities are collected efficiently, effectively and in a timely manner. 
+ 3. The Commission shall report on the expenditure financed by the Platform . It shall, as appropriate, report on the achievements related to each of the specific Platform objectives. 
+ Article 6 
+ Sovereignty portal 
+ 1. The Commission shall establish a dedicated publicly available website (the ‘Sovereignty portal’), providing investors with information about funding opportunities for projects linked to the Platform objectives and grant visibility to those projects, in particular by displaying the following information: 
+ (a) ongoing and upcoming calls for proposals and calls for tender linked to the Platform objectives under the respective programmes and funds ; 
+ (b) projects that have been awarded a Sovereignty Seal quality label in accordance with Article 4 ; 
+ (c) projects that have been identified as strategic projects u nd er the [Net-Zero Ind u stry Act] and the [Critical Raw Materials Act], to the extent that they fall within the scope of Article 2; 
+ (d) contacts to the national competent authorities designated in accordance with paragraph 4; 
+ 2. The Sovereignty portal shall also display information about the implementation of the Platform and in relation to Union budget expenditure as referred to in Article 5 , as well as the performance indicators defined under the respective programmes . 
+ 3. The Sovereignty portal shall be launched at the [ date of the entry into force of this Regulation ] and shall be updated by the Commission regularly . 
+ 4. By [3 months after the entry into force of this Regulation], Member State shall designate one national competent authority to act as the main point of contact for the implementation of the Platform at national level. 
+ Article 7 
+ Annual report 
+ 1. The Commission shall provide an annual report to the European Parliament and the Council on the implementation of the Platform . 
+ 2. The annual report shall include consolidated information on the progress made in implementing the Platform objectives under each of the programmes and funds . 
+ 3. The annual report shall also include the following information: 
+ (a) overall expenditure of the STEP financed under the respective programmes; 
+ (b) the performance of the STEP based on the performance indicators defined under the respective programmes . 
+ Article 8 
+ Evaluation of the Platform 
+ 1. B y 31 December 2025, the Commission shall provide the European Parliament and the Council with an evaluation report on the implementation of the Platform . 
+ 2. The evaluation report shall, in particular, assess to which extent the objectives have been achieved, the efficiency of the use of the resources and the European added value. It shall also consider the continued relevance of all objectives and actions , in view of their potential upscaling . 
+ 3. Where appropriate, the evaluation shall be accompanied by a proposal for amendments of this Regulation . 
+ CHAPTER 2 
+ AMENDMENTS 
+ Article 9 
+ Amendments to Directive 2003/87/EC [ETS] 
+ Directive 2003/87/EC is amended as follows: 
+ (1) In Article 10a(8), the following sixth subparagraph is inserted: 
+ ‘ In addition to the allowances referred to in the first to fifth subparagraphs of this paragraph , t he Innovation Fund shall also implement a financial envelope for the period from 1 January 2024 to 31 December 2027 of EUR 5 000 000 000 in current prices for supporting investments contributing to the STEP objective referred to in Article 2 , point (a)(i i ) of Regulation .../... 
+ 63 
+ [ STEP Regulation ]. Th is financial envelope shall be made available to support investments only in Member States whose average GDP per capita is below the EU average of the EU-27 measured in purchasing power standards (PPS) and calculated on the basis of Union figures for the period 2015-2017 ’ 
+ Article 10 
+ Amendments to Regulation (EU) 2021/1058 [ERDF and CF] 
+ Regulation (EU) 2021/1058 is amended as follows: 
+ (1) In Article 3(1) , point (a), the following point is added: 
+ ‘(vi) supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation .../... 
+ 64 
+ [ STEP Regulation ] ’ 
+ (2) In Article 3(1) , point (b), the following point is added: 
+ ‘(ix) supporting investments contributing to the STEP objective referred to in Article 2(1), point (a)(ii) of Regulation .../... [STEP Regulation]’ 
+ (3) In Article 3, the following paragraph 1a is inserted: 
+ The resources under the specific objective referred to in Article 3(1), first subparagraph, points (a)(vi) and (b)(ix) shall be programmed under dedicated priorities corresponding to the respective policy objective. 
+ The Commission shall pay 30 % of the ERDF allocation to that priority as set out in the decision approving the programme amendment as exceptional one-off pre-financing in addition to the yearly pre-financing for the programme provided for in Article 90(1) and (2) of Regulation (EU) 2021/1060 or in Article 51(2), (3) and (4) of Regulation (EU) 2021/1059. The exceptional pre-financing shall be paid by 31 December 2024, provided the Commission has adopted the decision approving the programme amendment by 31 October 2024. 
+ In accordance with Article 90 (5) of Regulation (EU) 2021/1060 and Article 51(5) of Regulation (EU) 2021/1059, the amount paid as exceptional pre-financing shall be cleared no later than with the final accounting year. 
+ In accordance with Article 90(6) of Regulation (EU) 2021/1060, any interest generated by the exceptional pre-financing shall be used for the programme concerned in the same way as the ERDF and shall be included in the accounts for the final accounting year. 
+ In accordance with Article 97(1) of Regulation (EU) 2021/1060, the exceptional pre-financing shall not be suspended. 
+ In accordance with Article 105 (1) of Regulation (EU) 2021/1060, the pre-financing to be taken into account for the purposes of calculating amounts to be de-committed shall include the exceptional pre-financing paid. 
+ By way of derogation from Article 112 of Regulation (EU) 2021/1060, the maximum co-financing rates for dedicated priorities established to support the STEP objectives shall be increased to 100 %.’ 
+ (4) In Article 5(2), the following point (e) is inserted: 
+ ‘(e) when they contribute to the specific objective under PO 1 set out in Article 3(1), first subparagraph, point (a)(vi) or to the specific objective under PO 2 set out in point (b)(ix) of that subparagraph, in less developed and transition regions, as well as more developed regions in Member States whose average GDP per capita is below the EU average of the EU-27 measured in purchasing power standards (PPS) and calculated on the basis of Union figures for the period 2015-2017. 
+ Point (e) shall apply to Interreg programmes where the geographical coverage of the programme within the Union consists exclusively of categories of regions set out in that point.’ 
+ (5) In Article 5, the following new paragraph 3a is inserted: 
+ ‘3a. In order to contribute to the specific objectives under PO 1 set out in Article 3(1), first subparagraph, point (a)(vi) and under PO 2 set out in point (b)(ix) of that subparagraph, the ERDF shall also support training, life-long learning, reskilling and education activities’. 
+ (6) In Annex I, Table I , the following row is added under policy objective 1 : 
+ (vi) supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation .../... [STEP Regulation] 
+ Any RCO listed for specific objectives (i), (iii) and (iv) 
+ RCO125 Firms: Enterprises supported linked primarily to deep and digital technologies productive investments 
+ RCO126 Firms: Enterprises supported linked primarily to clean technologies productive investments 
+ RCO127 Firms: Enterprises supported linked primarily to biotechnologies productive investments 
+ [These indicators are to be reported as subsets of RC001-RCO04] 
+ Any RCR listed for specific objectives (i), (iii) and (iv) 
+ (7) In Annex I, Table I , the following row is added under policy objective 2 : 
+ (ix) supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation .../... [STEP Regulation] 
+ Any RCO listed for specific objectives (i), (iii), (iv) and (vi) under policy objective 1 
+ RCO125 Firms: Enterprises supported linked primarily to deep and digital technologies productive investments 
+ RCO126 Firms: Enterprises supported linked primarily to clean technologies productive investments 
+ RCO127 Firms: Enterprises supported linked primarily to biotechnologies productive investments 
+ [These indicators are to be reported as subsets of RC001-RCO04] 
+ Any RCR listed for specific objectives (i), (iii) and (iv) under policy objective 1 
+ (8) In the Table of Annex II, the following row is added under policy objective 1: 
+ (vi) supporting investments contributing to the STEP objectives referred to Article 2 of Regulation .../... [STEP Regulation] 
+ Any CCO listed for specific objectives (i), (iii) and (iv) under policy objective 1 
+ Any CCR listed for specific objectives (i), (iii) and (iv) under policy objective 1 
+ (9) In the Table of Annex II, the following row is added under policy objective 2: 
+ (ix) supporting investments contributing to the STEP objectives referred to Article 2 of Regulation .../... [STEP Regulation] 
+ Any CCO listed for specific objectives (i), (iii) and (iv) under policy objective 1 
+ Any CCR listed for specific objectives (i), (iii) and (iv) under policy objective 1 
+ Article 11 
+ Amendments to Regulation (EU) 2021/1056 [JTF] 
+ Regulation (EU) 2021/1056 is amended as follows: 
+ (1) Article 2 is replaced by the following: 
+ ‘In accordance with the second subparagraph of Article 5(1) of Regulation (EU) 2021/1060, the JTF shall contribute to the specific objective of enabling regions and people to address the social, employment, economic and environmental impacts of the transition towards the Union’s 2030 targets for energy and climate and a climate-neutral economy of the Union by 2050, based on the Paris Agreement. The JTF may also support investments contributing to the STEP objective referred to in Article 2(1), point (a)(ii) of Regulation .../... [STEP Regulation].’ 
+ (2) In Article 8(2) the following subparagraph is inserted: 
+ ‘ T he JTF may also support productive investments in enterprises other than SMEs contributing to the STEP objectives referred to in Article 2 of Regulation .../... 
+ 65 
+ [ STEP Regulation ] . Th at support may be provided irrespective of whether the gap analysis was carried out in accordance with Article 11(2)(h) and irrespective of its outcome. Such investments shall only be eligible where they do not lead to relocation as defined in point (27) of Article 2 of Regulation (EU) 2021/1060. The provision of such support shall not require a revision of the territorial just transition plan where that revision would be exclusively linked to the gap analysis.’ 
+ (3) In Article 10, the following paragraph 4 is added: 
+ ‘The Commission shall pay 30% of the JTF allocation, including amounts transferred in line with Article 27 of Regulation EU 2021/1060, to a programme as set out in the decision approving the programme as exceptional one-off pre-financing in addition to the yearly pre-financing for the programme provided for in Article 90(1) and (2) of Regulation (EU) 2021/1060. The exceptional pre-financing shall be paid as from [entry into force of this Regulation]. 
+ In accordance with Article 90(5) of Regulation (EU) 2021/1060, the amount paid as exceptional pre-financing shall be cleared no later than with the final accounting year. 
+ In accordance with Article 90(6) of Regulation (EU) 2021/1060, any interest generated by the exceptional pre-financing shall be used for the programme concerned in the same way as the ERDF and shall be included in the accounts for the final accounting year. 
+ In accordance with Article 97(1) of Regulation (EU) 2021/1060, the exceptional pre-financing shall not be suspended. 
+ In accordance with Article 105(1) of Regulation (EU) 2021/1060, the pre-financing to be taken into account for the purposes of calculating amounts to be de-committed shall include the exceptional pre-financing paid. 
+ By way of derogation from Article 112 of Regulation (EU) 2021/1060, the maximum co-financing rates for dedicated priorities established to support the STEP objectives shall be increased to 100 %.’ 
+ Article 12 
+ Amendments to Regulation (EU) 2021/1057 [ESF+] 
+ Regulation (EU) 2021/1057 is amended as follows: 
+ (1) A new article 12a is inserted: 
+ ‘Article 12a 
+ In addition to the pre-financing for the programme provided for in Article 90(1) and (2) of Regulation (EU) 2021/1060, where the Commission approves an amendment of a programme including one or more priorities dedicated to operations supported by the ESF+ contributing to the STEP objectives referred to in Article 2 of Regulation .../... 
+ 66 
+ [ STEP Regulation] , it shall make an exceptional pre-financing of 30% on the basis of the allocation to those priorities. The exceptional pre-financing shall be paid by 31 December 2024, provided the Commission has adopted the decision approving the programme amendment by 31 October 2024. 
+ In accordance with Article 90(5) of Regulation (EU) 2021/1060, the amount paid as exceptional pre-financing shall be cleared no later than with the final accounting year. 
+ In accordance with Article 90(6) of Regulation (EU) 2021/1060, any interest generated by the exceptional pre-financing shall be used for the programme concerned in the same way as the ESF+ and shall be included in the accounts for the final accounting year. 
+ In accordance with Article 97(1) of Regulation (EU) 2021/1060, the exceptional pre-financing shall not be suspended. 
+ In accordance with Article 105(1) of Regulation (EU) 2021/1060, the pre-financing to be taken into account for the purposes of calculating amounts to be de-committed shall include the exceptional pre-financing paid. 
+ By way of derogation from Article 112 of Regulation (EU) 2021/1060, the maximum co-financing rates for dedicated priorities established to support the STEP objectives shall be increased to 100 %.’ 
+ Article 13 
+ Amendments to Regulation (EU) 2021/1060 [CPR] 
+ Regulation (EU) 2021/1060 is amended as follows: 
+ (1) In Article 2, point (45) is replaced by the following : 
+ ‘(45) ‘Seal of Excellence’ means the quality label attributed by the Commission in respect of a proposal, which shows that the proposal which has been assessed in a call for proposals under a Union instrument is deemed to comply with the minimum quality requirements of that Union instrument, but could not be funded due to lack of budget available for that call for proposals, and might receive support from other Union or national sources of funding ; or the ‘Sovereignty Seal’ referred to in A rticle 4 of Regulation .../... 
+ 67 
+ [ STEP Regulation] . ’ 
+ (2) In Article 14(5), the first subparagraph is replaced by the following: 
+ ‘In accordance with the second subparagraph of Article 10(4) of the InvestEU Regulation, where a guarantee agreement has not been concluded within 12 months from the conclusion of the contribution agreement, the contribution agreement shall be terminated or prolonged by mutual agreement.’ 
+ (3) In Article 49, the following paragraph 2 a is inserted: 
+ ‘Where support is programmed for the STEP objectives referred to in Article 2 of Regulation .../... [STEP Regulation], the managing authority shall ensure that all the information to be published in accordance with paragraph 2 of this Article is also submitted to the Commission in the format set out in paragraph 4 of this Article for publication on the Sovereignty Portal set out in Article 6 of Regulation .../... [STEP Regulation], including a timetable of the planned calls for proposals that is updated at least three times a year, as well as the link to the calls for proposals on the day of their publication.’ 
+ (4) In the Annex I , Table 1, the following rows are added: 
+ INTERVENTION FIELD 
+ Coefficient for the calculation of support to climate change objectives 
+ Coefficient for the calculation of support to environmental objectives 
+ 145a 
+ Support for the development of skills or access to employment in deep and digital technologies, biotechnologies. 
+ 0% 
+ 0% 
+ 145b 
+ Support for the development of skills or access to employment in clean technologies. 
+ 100% 
+ 40% 
+ 188 
+ Productive investments in large enterprises linked primarily to clean technologies. 
+ 100% 
+ 40% 
+ 189 
+ Productive investments in SMEs linked primarily to clean technologies. 
+ 100% 
+ 40% 
+ 190 
+ Productive investments in large enterprises linked primarily to biotechnologies. 
+ 0% 
+ 0% 
+ 191 
+ Productive investments in SMEs linked primarily to biotechnologies. 
+ 0% 
+ 0% 
+ 192 
+ Productive investments in large enterprises linked primarily to deep and digital technologies. 
+ 0% 
+ 0% 
+ 193 
+ Productive investments in SMEs linked primarily to deep and digital technologies. 
+ 0% 
+ 0% 
+ (5) In Annex I, Table 6, the following row is added: 
+ 11 
+ Contributing to skills and jobs in deep and digital technologies, clean technologies, biotechnologies 
+ 0% 
+ 0% 
+ Article 14 
+ Amendments to Regulation (EU) No 1303/2013 [CPR] 
+ Regulation (EU) No 1303/2013 is amended as follows: 
+ (1) In Article 135, the following paragraph 6 is added: 
+ ‘6. By way of derogation from paragraph 2, the deadline for the submission of the final application for an interim payment for the final accounting year shall be 31 July 2025. The last application for interim payment submitted by 31 July 2025 shall be deemed to be the final application for an interim payment for the final accounting year. 
+ Amounts from resources other than REACT-EU reimbursed by the Commission as interim payments in 2025 shall not exceed 1 % of the total financial appropriations to the programme concerned by Fund, REACT-EU resources excluded. Amounts that would be due to be paid by the Commission in 2025 exceeding this percentage shall not be paid and shall be used exclusively for the clearing of pre-financing at closure.’ 
+ (2) In Article 138, the following subparagraph is added: 
+ ‘By way of derogation from the deadline set out in the first subparagraph, Member States may submit the documents referred to under points (a), (b) and (c) for the final accounting year by 15 February 2026.’ 
+ Article 15 
+ Amendment to Regulation (EU) No 223/2014 [FEAD] 
+ Regulation (EU) No 223/2014 is amended as follows: 
+ (1) In Article 13, paragraph 5 is replaced by the following: 
+ ‘5. The Member State shall submit a final report on implementation of the operational programme together with the closure documents as set out in Article 52, by 15 February 2026 at the latest.’ 
+ (2) In Article 22, the following paragraph 2a is added: 
+ ‘2a. In the case of costs reimbursed pursuant to points (b), (c), (d) and (e) of Article 26(2), the corresponding actions being reimbursed shall be carried out by the submission of the final application for an interim payment for the final accounting year in accordance with Article 45(6).’ 
+ (3) In Article 45, the following paragraph 6 is added: 
+ ‘6. By way of derogation from paragraph 2, the deadline for the submission of the final application for an interim payment for the final accounting year shall be 31 July 2025. The last application for interim payment submitted by 31 July 2025 shall be deemed to be the final application for an interim payment for the final accounting year. 
+ Amounts reimbursed by the Commission as interim payments in 2025 shall not exceed 1 % of the total financial appropriations to the programme concerned. Amounts that would be due to be paid by the Commission in 2025 exceeding this percentage shall not be paid and shall be used exclusively for the clearing of pre-financing at closure.’ 
+ (4) In Article 48, the following subparagraph is added: 
+ ‘By way of derogation from the deadline set out in the first subparagraph, Member States may submit the documents referred to under points (a), (b) and (c) for the final accounting year by 15 February 2026.’ 
+ Article 16 
+ Amendments to Regulation (EU) 2021/523 [InvestEU] 
+ Regulation (EU) 2021/523 is amended as follows: 
+ (1) Article 3 is amended as follows: 
+ (a) the following point is added in paragraph 1: 
+ ‘(h) supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation .../... 
+ 68 
+ [ STEP Regulation] ’ 
+ (b) the following point is added in paragraph 2: 
+ ‘(e) supporting financing and investment operations related to the areas referred to in Article 8(1), point (e).’ 
+ (2) Article 4 is amended as follows: 
+ (a) In paragraph 1, the first subparagraph is replaced by the following: 
+ ‘The EU guarantee for the purposes of the EU compartment referred to in Article 9(1), point (a), shall be EUR 33 652 310 073 in current prices. It shall be provisioned at the rate of 40 %. The amount referred to in Article 35(3), first subparagraph, point (a), shall be also taken into account for contributing to the provisioning resulting from that provisioning rate.‘; 
+ (b) paragraph 2 , second subparagraph is replaced by the following: 
+ ‘An amount of EUR 18 827 310 073 in current prices of the amount referred to in the first subparagraph of paragraph 1 of this Article shall be allocated for the objectives referred to in Article 3(2).’; 
+ (c) the fourth subparagraph of paragraph 2 is replaced by the following: 
+ ‘The indicative distribution of the EU guarantee for the purposes of the EU compartment is set out in Annex I to this Regulation. Where appropriate, the Commission may depart from the amounts referred to in Annex I by up to 15 % for each objective referred to in Article 3(2), points (a) to (e) . The Commission shall inform the European Parliament and the Council of any such departure.’ 
+ (3) In Article 7(3) , a second subparagraph is added: 
+ ‘By way of derogation from the first subparagraph, when support from the financial instruments is combined in a financial product in a subordinated position to the EU guarantee under this Regulation and/or EU guarantee established by Regulation (EU) 2015/1017, the losses, revenues and repayments from financial products as referred to in paragraph 1, as well as potential recoveries, may also be attributed on a non pro rata basis between the financial instruments and the EU guarantee under this Regulation and/or EU guarantee established by Regulation (EU) 2015/1017.’ 
+ (4) Article 8 is amended as follows: 
+ (a) In paragraph 1, the introductory wording is replaced by the following: 
+ ‘1. 
+ The InvestEU Fund shall operate through the following five policy windows that shall address market failures or suboptimal investment situations with their specific scope:’; 
+ (b) In paragraph 1, the following point (e) is added: 
+ ‘(e) 
+ a STEP policy window, which comprises investments contributing to the STEP objectives referred to in Article 2 of Regulation .../... [ STEP Regulation] ’. 
+ (5) In Article 10 , the second subparagraph of paragraph 4 is replaced by the following: 
+ ‘Where no guarantee agreement has been concluded within 12 months from the conclusion of the contribution agreement, the contribution agreement shall be terminated or prolonged by mutual agreement. Where the amount of a contribution agreement has not been fully committed under one or more guarantee agreements within twelve months from the conclusion of the contribution agreement, that amount shall be amended accordingly. The unused amount of provisioning attributable to amounts allocated by Member States pursuant to the provisions on the use of the ERDF, the ESF+, the Cohesion Fund and the EMFAF delivered through the InvestEU Programme laid down in Regulation (EU) 2021/1060 or to the provisions on the use of the EAFRD delivered through the InvestEU Programme laid down in the CAP Strategic Plans Regulation shall be re-used in accordance with those respective Regulations. The unused amount of provisioning attributable to amounts allocated by a Member State under Article 4(1), third subparagraph, of this Regulation shall be paid back to the Member State.’ 
+ (6) Article 13 (4) is replaced by the following : 
+ ‘4. At least 75 % of the EU guarantee under the EU compartment as referred to in Article 4(1), first subparagraph, amounting to at least EUR 25 239 232 554 , shall be granted to the EIB Group. The EIB Group shall provide an aggregate financial contribution amounting to at least EUR 6 309 808 138 . That contribution shall be provided in a manner and form that facilitates the implementation of the InvestEU Fund and the achievement of the objectives set out in Article 15(2).’; 
+ (7) In Article 23, the following p aragraph 3 is added : 
+ ‘3. In the context of the procedures referred to in paragraphs 1 and 2 of this Article, the Commission shall take into account any Sovereignty Seal awarded under Article 4 of Regulation .../... [STEP Regulation] to a project’. 
+ (8) Article 24 (2) is amended as follows: 
+ (a) the first subparagraph is replaced by the following: 
+ ‘The Investment Committee shall meet in five different configurations, corresponding to the five policy windows referred to in Article 8(1).’ 
+ (b) The fifth subparagraph is replaced by the following: 
+ ‘Four members of the Investment Committee shall be permanent members of each of the five configurations of the Investment Committee. At least one of the permanent members shall have expertise in sustainable investment. In addition, each of the five configurations shall have two experts with experience in investment in sectors covered by the corresponding policy window. The Steering Board shall assign the Investment Committee members to the appropriate configuration or configurations. A non-permanent member may be assigned to maximum two configurations, subject to fulfilling the requirements for both of them . The Investment Committee shall elect a chairperson from among its permanent members.’ 
+ (9) In Article 25, point ( j) is added to paragraph 2 as follows: 
+ ‘( j ) 
+ provide advisory support to equity fund managers active in the areas referred to in point (e) of Article 8(1).’ 
+ (10) In Article 26, the following paragraph 5 is added: 
+ ‘5. In addition to paragraph 4, implementing partners shall also examine projects having been awarded the Sovereignty Seal under Article 4 of Regulation .../... [STEP Regulation] whenever those projects fall within their geographic and activity scope’. 
+ (11) In Article 35, paragraph 5 is added as follows: 
+ ‘5. By way of derogation from Article 16, second subparagraph, of this Regulation, financing and investment operations approved by the implementing partner as of 1 January 2023 until the signature of a guarantee agreement or of an amendment to an existing one encompassing the STEP Window may be covered by the EU guarantee, provided that those operations are indicated in the guarantee agreement, pass the policy check referred to in Article 23(1) or receive a favourable opinion within the framework of the procedure provided for in Article 19 of the EIB Statute and are in both cases approved by the Investment Committee in accordance with Article 24.’ 
+ (12) In Annex I, point (e) is added as follows: 
+ ‘(e) 
+ up to EUR 7 500 000 000 for objectives referred to in Article 3(2 ), point (e) .’ 
+ (13) In Annex II, point (16) is inserted as follows: 
+ ‘(16) scaling up, deployment and large-scale manufacturing of the critical technologies referred to in Article 2(1), point (a) of Regulation .../... [STEP Regulation], as well as the respective value chain referred to in Article 2(4) of that Regulation.’ 
+ (14) In Annex III , point (9) i s inserted as follows: 
+ ‘7a. STEP 
+ 7a.1 Investment mobilised by technology area: i) deep and digital technologies, ii) clean technologies and iii) biotechnologies.’ 
+ 7a.2 Jobs created or supported. 
+ 7a.2 Number of enterprises supported by technology area: i) deep and digital technologies, ii) clean technologies and iii) biotechnologies. 
+ Article 17 
+ Amendments to Regulation (EU) 2021/695 [Horizon Europe] 
+ Regulation (EU) 2021/695 is amended as follows: 
+ (1) Article 12 is amended as follows: 
+ (a) paragraph 1 is replaced by the following: 
+ ‘1. The financial envelope for the implementation of the Programme for the period from 1 January 2021 to 31 December 2027 shall be EUR 86 623 000 000 in current prices for the specific programme referred to in point (a) of Article 1(2) and for the EIT and EUR 9 453 000 000 in current prices for the specific programme referred to in point (c) of Article 1(2). ’ 
+ (b) in paragraph 2 , point s (b) and (c) are replaced by the following: 
+ ‘(b) EUR 46 628 000 000 for Pillar II 'Global Challenges and European Industrial Competitiveness' for the period 2021 to 2027, of which: 
+ (i) EUR 6 775 000 000 for cluster 'Health'; 
+ (ii) EUR 1 350 000 000for cluster 'Culture, Creativity and Inclusive Society'; 
+ (iii) EUR 1 276 000 000 for cluster 'Civil Security for Society'; 
+ (iv) EUR 13 229 000 000 for cluster 'Digital, Industry and Space'; 
+ (v) EUR 13 229 000 000 for cluster 'Climate, Energy and Mobility'; 
+ (vi) EUR 8 799 000 000 for cluster 'Food, Bioeconomy, Natural Resources, Agriculture and Environment'; 
+ (vii) EUR 1 970 000 000 for the non-nuclear direct actions of the JRC; 
+ (c) EUR 13 237 000 000 for Pillar III 'Innovative Europe' for the period 2021 to 2027, of which: 
+ (i) EUR 10 052 000 000 for the EIC; 
+ (ii) EUR 459 000 000 for European innovation ecosystems; 
+ (iii) EUR 2 726 000 000 for the EIT;’ 
+ (2) In Article 46, the following paragraph 4a is inserted: 
+ ‘ 4a. By derogation from Article 209(3) of the Financial Regulation, r epayments including reimbursed advances, revenues and unused amounts net of fees and costs of EIC blended finance of the EIC pilot under Horizon 2020 shall be considered to be internal assigned revenues in accordance with Article 21(3) , point (f ) and Article 21 (4) and (5) of the Financial Regulation . The time restriction of two years set out in the second subparagraph of Article 209(3) of the Financial Regulation shall apply as from the date of entry into force of Regulation .../... 
+ 69 
+ [ STEP Regulation] ’ . 
+ (3) In Article 48, the following point (d) is added in the first subparagraph : 
+ ‘(d) equity-only support required for scale-up to non-bankable SMEs, including start-ups, and non-bankable small mid-caps, including entities which have already received support in line with points (a) to (c), carrying out breakthrough and disruptive non-bankable innovation in the critical technologies referred to in Article 2(1)(a) of Regulation .../... [STEP Regulation], financed under Article 3(b) of that Regulation. ’ 
+ Article 18 
+ Amendments to Regulation (EU) 2021/697 [EDF] 
+ Regulation (EU) 2021/697 is amended as follows: 
+ (1) Article 4 is amended as follows 
+ (a) Paragraph 1 is replaced by the following : 
+ ‘1. In accordance with Article 12(1) of Regulation (EU) 2021/695, the financial envelope for the implementation of the Fund for the period from 1 January 2021 to 31 December 2027 shall be EUR 9 453 000 000 in current prices.’ 
+ (b) i n paragraph 2 , point s (a) and (b) are replaced by the following : 
+ ‘(a) EUR 3 151 000 000 for research actions; 
+ (b) EUR 6 302 000 000 for development actions.’ 
+ (c) P aragraph 5 is added: 
+ ‘ An amount of EUR 1 500 000 000 in current prices of the amount referred to in paragraph 2 shall be allocated to calls for proposals or awards of funding supporting investments contributing to the STEP objectives referred to in Article 2 (1) , point (a)(i) of Regulation .../... 
+ 70 
+ [STEP Regulation]. ’ 
+ Article 19 
+ Amendments to Regulation (EU) 2021/241 [RRF] 
+ Regulation (EU) 2021/241 is amended as follows: 
+ (1) In Article 7, the following paragraph 3 is added: 
+ ‘3. Without prejudice to paragraph 2, Member States may also propose to include in their recovery and resilience plan, as estimated costs, the amount of the cash contribution for the purpose of the Member State compartment pursuant to the relevant provisions of the InvestEU Regulation exclusively for measures supporting investment operations contributing to the STEP objectives referred to in Article 2 of Regulation .../... 
+ 71 
+ [ STEP Regulation] . Those costs shall not exceed 6 % of the recovery and resilience plan’s total financial allocation, and the relevant measures, as set out in the recovery and resilience plan, shall respect the requirements of this Regulation.’ 
+ (2) In Article 29 the following paragraph 6 is inserted: 
+ ‘6. Prior to launching any calls for proposals or tendering procedures related to the STEP objectives, as defined in Article 2 of Regulation .../... [STEP Regulation], Member States shall make available the following information on the Sovereignty portal referred to in Article 6 of that Regulation: 
+ (a) g eographical area covered by the call for proposal; 
+ (b) investment concerned ; 
+ (c) t ype of eligible applicants; 
+ (d) t otal amount of support for the call; 
+ (e) s tart and end date of the call; 
+ (f) l ink to the website where the call will be published. ’ 
+ CHAPTER 3 
+ FINAL PROVISIONS 
+ Article 20 
+ Entry into force and application 
+ This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union . 
+ This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+ Done at Brussels, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The President 
+ LEGISLATIVE FINANCIAL STATEMENT 
+ Contents 
+ 1. FRAMEWORK OF THE PROPOSAL/INITIATIVE 
+ 1.1. Title of the proposal/initiative 
+ 1.2. Policy area(s) concerned 
+ 1.3. The proposal/initiative relates to: 
+ 1.4. Objective(s) 
+ 1.4.1. General objective(s) 
+ 1.4.2. Specific objective(s) 
+ 1.4.3. Expected result(s) and impact 
+ 1.4.4. Indicators of performance 
+ 1.5. Grounds for the proposal/initiative 
+ 1.5.1. Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative 
+ 1.5.2. Added value of Union involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this point 'added value of Union involvement' is the value resulting from Union intervention which is additional to the value that would have been otherwise created by Member States alone. 
+ 1.5.3. Lessons learned from similar experiences in the past 
+ 1.5.4. Compatibility with the Multiannual Financial Framework and possible synergies with other appropriate instruments 
+ 1.5.5. Assessment of the different available financing options, including scope for redeployment 
+ 1.6. Duration and financial impact of the proposal/initiative 
+ 1.7. Management mode(s) planned 
+ 2. MANAGEMENT MEASURES 
+ 2.1. Monitoring and reporting rules 
+ 2.2. Management and control system(s) 
+ 2.2.1. Justification of the management mode(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed 
+ 2.2.2. Information concerning the risks identified and the internal control system(s) set up to mitigate them 
+ 2.2.3. Estimation and justification of the cost-effectiveness of the controls (ratio of "control costs ÷ value of the related funds managed"), and assessment of the expected levels of risk of error (at payment & at closure) 
+ 2.3. Measures to prevent fraud and irregularities 
+ 3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE 
+ 3.1. Heading(s) of the multiannual financial framework and expenditure budget line(s) affected 
+ 3.2. Estimated financial impact of the proposal on appropriations 
+ 3.2.1. Summary of estimated impact on operational appropriations 
+ 3.2.2. Estimated output funded with operational appropriations 
+ 3.2.3. Summary of estimated impact on administrative appropriations 
+ 3.2.4. Compatibility with the current multiannual financial framework 
+ 3.2.5. Third-party contributions 
+ 3.3. Estimated impact on revenue 
+ 1. FRAMEWORK OF THE PROPOSAL 
+ 1.1. Title of the proposal/initiative 
+ Proposal for a Regulation of the European Parliament and of the Council establishing the Strategic Technologies for Europe Platform (‘STEP’) and amending Directive 2003/87/EC, Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 
+ 1.2. Policy area(s) concerned 
+ Industrial policy 
+ European Green Deal 
+ Europe fit for the digital age 
+ Single Market 
+ 1.3. The proposal/initiative relates to: 
+  a new action 
+  a new action following a pilot project/preparatory action 
+ 72 
+  the extension of an existing action 
+  a merger or redirection of one or more actions towards another/a new action 
+ 1.4. Objective(s) 
+ 1.4.1. General objective (s) 
+ The EU has put in place over the last years a comprehensive set of instruments to support the decarbonisation and digitalisation of Europe. While the EU has been providing steady financing both to the green and digital transitions, the funds are generally spread across various spending programmes and following different rules. Ensuring coherence among these existing funds towards a common objective has the potential to enhance their effectiveness and accelerate the support to the industrial sectors critical for the twin transition. 
+ The STEP aims to strengthen European edge on critical and emerging technologies relevant to the green and digital transitions, from computing-related technologies, including microelectronics, quantum computing, and artificial intelligence; to biotechnology and biomanufacturing, and net-zero technologies. 
+ The STEP aims to achieve its objectives through the following means: 
+ 1. 
+ Providing flexibility in existing instruments 
+ 2. 
+ Reinforcing the firepower of existing instruments 
+ 3. 
+ Creating synergies among instruments towards the common goal 
+ 1.4.2. Specific objective(s) 
+ (a) 
+ supporting the development or manufacturing throughout the Union, or safeguarding and strengthening the respective value chains, of critical technologies in the following fields, provided those technologies meet certain conditions: 
+ (i) 
+ deep and digital technologies 
+ (ii) 
+ clean technologies 
+ (iii) 
+ biotechnologies 
+ (b) 
+ addressing shortages of labour and skills critical to all kinds of quality jpbs in support of the objective under point (a). 
+ 1.4.3. Expected result(s) and impact 
+ Specify the effects which the proposal/initiative should have on the beneficiaries/groups targeted. 
+ The expected impact of the Platform includes a substantial strengthening of the European Union's industrial capabilities and competitiveness in the areas of clean, biotech and deeptech technologies. This impact is projected to reinforce the EU's position as a global leader in these critical areas ultimately enhancing the EU's economic growth, sustainable development and international competitiveness. 
+ 1.4.4. Indicators of performance 
+ Specify the indicators for monitoring progress and achievements. 
+ Indicators: 
+ 1. Enterprises supported 
+ 2. Number of participants in trainings 
+ 3. Total investment mobilised 
+ 4. Number of jobs created or maintained 
+ 1.5. Grounds for the proposal/initiative 
+ 1.5.1. Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative 
+ The Regulation should be fully applicable shortly after its adoption, i.e. the day following its publication in the Official Journal of the European Union. However, some actions will start as of the date of adoption of the proposal by the Commission: 
+ - The Commission will start integrating the STEP objectives in the ongoing implementation of programmes, such as under Horizon Europe or the Innovation Fund. 
+ - The Commission is establishing the One-Stop-Shop as of now to act as the central coordinator among EU instruments for the purpose of the Platform. The structure will grow over time to integrate additional resources. 
+ The two actions above should be able to produce results as of end 2023. 
+ Subject to the adoption of this proposal by the co-legislators, the Commission intends to deploy very quickly the additional resources in the selected programmes so that beneficiaries could start receiving financial support or implementing additional EU guarantee as of 2024. 
+ 1.5.2. Added value of Union involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this point 'added value of Union involvement' is the value resulting from Union intervention, which is additional to the value that would have been otherwise created by Member States alone. 
+ The EU as whole is at the forefront for implementing the actions required to pursue the green and digital transitions. By acting together, Member States are better able to pool resources for achieving these objectives and reinforce the effectiveness of the actions. 
+ Sustaining the green and digital transitions with a strong industrial base requires a coordinated action among Member States, also in view of the global competition to attract capital and investments. 
+ 1.5.3. Lessons learned from similar experiences in the past 
+ The EU has adopted in previous years regulatory changes to accelerate the deployment of EU funds, for instance CARE and FAST CARE are examples where the cohesion funds have been subject to targeted changes to face emerging crisis. 
+ The EU has also adopted recently the REPowerEU Regulation to reinforce the firepower of an existing instrument, the Recovery and Resilience Facility, and flexibilise at the same time the possibility to use other funds for the REPowerEU purposes. 
+ These experiences have been taken into account in the design of this proposal. 
+ 1.5.4. Compatibility with the Multiannual Financial Framework and possible synergies with other appropriate instruments 
+ This Regulation creates the necessary conditions for a more effective, efficient and targeted use of existing EU funds in the name of greater support to STEP projects. The EU has put in place over the last years a comprehensive set of instruments to support the decarbonisation and digitalisation of Europe. 
+ The choice of streamlining and making a better use of existing instruments over creating a brand new instrument has two main advantages. First, timing. With the creation of a new instrument potentiallly taking a long time, bringing existing instruments together can be done much more quickly. This would be an indisputable advantage for the beneficiaries of EU funding as they would have the chance to reap the benefits of EU funding more swiftly. Second, blending different sources of financing – under direct, indirect and shared management – could also lead to a more efficient use of resources. 
+ While the STEP proposal is fully embedded in the exising MFF and the current instruments, it also requires additional resources to achieve the objectives. As such, as part of the mid-term review of the MFF, the Commission is proposing targeted reinforcements for the STEP. 
+ 1.5.5. Assessment of the different available financing options, including scope for redeployment 
+ N/A 
+ 1.6. Duration and financial impact of the proposal/initiative 
+  limited duration 
+ –  in effect from [DD/MM]YYYY to 31/12/2030 
+ –  
+ Financial impact from 2023 to 2027 for commitment appropriations and from 2023 to 2030 for payment appropriations. 
+  unlimited duration 
+ – Implementation with a start-up period from YYYY to YYYY, 
+ – followed by full-scale operation. 
+ 1.7. Method(s) of budget implementation planned 
+ 73 
+  Direct management by the Commission 
+ –  by its departments, including by its staff in the Union delegations; 
+ –  
+ by the executive agencies 
+  Shared management with the Member States 
+  Indirect management by entrusting budget implementation tasks to: 
+ –  third countries or the bodies they have designated; 
+ –  international organisations and their agencies (to be specified); 
+ –  the EIB and the European Investment Fund; 
+ –  bodies referred to in Articles 70 and 71 of the Financial Regulation; 
+ –  public law bodies; 
+ –  bodies governed by private law with a public service mission to the extent that they are provided with adequate financial guarantees; 
+ –  bodies governed by the private law of a Member State that are entrusted with the implementation of a public-private partnership and that are provided with adequate financial guarantees; 
+ –  bodies or persons entrusted with the implementation of specific actions in the CFSP pursuant to Title V of the TEU, and identified in the relevant basic act. 
+ – If more than one management mode is indicated, please provide details in the ‘Comments’ section. 
+ 2. MANAGEMENT MEASURES 
+ 2.1. Monitoring and reporting rules 
+ Specify frequency and conditions. 
+ In accordance with Article 7 of the STEP Regulation, the Commission shall provide an annual report to the European Parliament and the Council on the implementation of the STEP. The annual report shall provide consolidated information on the progress made in implementing the STEP objectives under each of the programmes referred to in Article 2, including: 
+ (a) overall STEP expenditure financed under the respective programmes 
+ (b) the performance of the STEP investments based on the common indicators 
+ In addition, in accordance with Article 8 of the STEP Regulation, the Commission will draw up an evaluation report on the implementation of the Fund no later than 31/12/2025 and submit it to the European Parlimament and the Council. The evaluation report shall, in particular, assess to which extent the objectives have been achieved, the efficiency of the use of the resources and the European added value. It shall also consider the continued relevance of all objectives and actions. 
+ 2.2. Management and control system(s) 
+ 2.2.1. Justification of the management mode(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed 
+ The STEP shall be implemented in accordance with the management mode, payment modalities and control strategy applicable to the programmes referred to in Article 3 of the Regulation. 
+ 2.2.2. Information concerning the risks identified and the internal control system(s) set up to mitigate them 
+ The STEP will rely on existing EU instruments, including their control set-ups, and as such should not result in additional risks. 
+ 2.2.3. Estimation and justification of the cost-effectiveness of the controls (ratio of "control costs ÷ value of the related funds managed"), and assessment of the expected levels of risk of error (at payment & at closure) 
+ The budget will be implemented in accordance with the management mode, payment modalities and control strategy applicable to the programmes referred to in Article 3 of the regulation. This approach guarantees an efficient implementation of funds, using proven control systems that are already established. 
+ 2.3. Measures to prevent fraud and irregularities 
+ Specify existing or envisaged prevention and protection measures, e.g. from the Anti-Fraud Strategy. 
+ The Platform shall be implemented through the programmes referred to in Article 3 of the Regulation. The prevention and protection measures will be those already in place for those programmes. 
+ 3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE 
+ 3.1. Heading(s) of the multiannual financial framework and expenditure budget line(s) affected 
+ · Existing budget lines 
+ In order of multiannual financial framework headings and budget lines. 
+ Heading of multiannual financial framework 
+ Budget line 
+ Type of 
+ expenditure 
+ Contribution 
+ Number 
+ Diff./Non-diff. 
+ 74 
+ from EEA- EFTA countries 
+ 75 
+ from candidate countries and potential candidates 
+ 76 
+ from other third countries 
+ other assigned revenue 
+ 1 
+ 01.020210 Cluster “Health” (Horizon Europe) 
+ Diff 
+ Yes 
+ Yes 
+ Yes 
+ Yes 
+ 1 
+ 01.020220 Cluster ‘Culture, Creativity and Inclusive Society’ (Horizon Europe) 
+ Diff 
+ Yes 
+ Yes 
+ Yes 
+ Yes 
+ 1 
+ 01.020230 Cluster ‘Civil Security for Society’ (Horizon Europe) 
+ Diff 
+ Yes 
+ Yes 
+ Yes 
+ Yes 
+ 1 
+ 01.020240 Cluster ‘Digital, Industry and Space’ (Horizon Europe) 
+ Diff 
+ Yes 
+ Yes 
+ Yes 
+ Yes 
+ 1 
+ 01.020250 Cluster ‘Climate, Energy and Mobility’ (Horizon Europe) 
+ Diff 
+ Yes 
+ Yes 
+ Yes 
+ Yes 
+ 1 
+ 01.020260 Cluster ‘Food, Bioeconomy, Natural Resources, Agriculture and Environment’ (Horizon Europe) 
+ Diff 
+ Yes 
+ Yes 
+ Yes 
+ Yes 
+ 1 
+ 01.0200301 European Innovation Council (Horizon Europe) 
+ Diff 
+ Yes 
+ Yes 
+ Yes 
+ Yes 
+ 1 
+ 02.0202 (InvestEU - provisioning) 
+ Diff 
+ Yes 
+ No 
+ No 
+ Yes 
+ 2a 
+ 05.02.01 European Regional Development Fund (ERDF) Operational Expenditure 
+ 05.03.01 Cohesion Fund (CF) Operational Expenditure 
+ 07.02.01 European Social Fund Plus (ESF+) shared management strand – Operational Expenditure 
+ Diff. 
+ No 
+ No 
+ No 
+ External assigned revenue from NGEU for the JTF 
+ 3 
+ 09.03.01 Just Transition Fund (JTF) - Operational Expenditure 
+ Diff 
+ No 
+ No 
+ No 
+ Yes 
+ · New budget lines requested 
+ In order of multiannual financial framework headings and budget lines. 
+ Heading of multiannual financial framework 
+ Budget line 
+ Type of 
+ expenditure 
+ Contribution 
+ Number 
+ Diff./Non-diff. 
+ from EFTA countries 
+ from candidate countries and potential candidates 
+ from other third countries 
+ other assigned revenue 
+ 3 
+ 09.05.01 Innovation Fund (IF) - operational expenditure 
+ 09.01.04.01 Support expenditure for the Innovation Fund 
+ 09.01.04.74 European Climate, Infrastructure and Environment Executive Agency – Contribution from the Innovation Fund 
+ Diff. and Non-diff. 
+ No 
+ No 
+ No 
+ Yes 
+ 3.2. Estimated financial impact of the proposal on appropriations 
+ 3.2.1. Summary of estimated impact on operational appropriations 
+ –  
+ The proposal/initiative does not require the use of operational appropriations 
+ –   The proposal/initiative requires the use of operational appropriations, as explained below: 
+ EUR million (to three decimal places) 
+ Heading of multiannual financial 
+ framework 
+ Number 
+ 1 
+ Horizon Europe 
+ 2023 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ TOTAL 
+ Operational appropriations redeployed from Horizon Europe Pillar II to the European Innovation Council 
+ 01.020210 Cluster “Health” 
+ Commitments 
+ (1a) 
+ -14,700 
+ -44,200 
+ -59,100 
+ -118,000 
+ 01.020220 Cluster ‘Culture, Creativity and Inclusive Society’ 
+ Commitments 
+ (1a) 
+ -4,400 
+ -13,300 
+ -18,300 
+ -36,000 
+ 01.020230 Cluster ‘Civil Security for Society’ 
+ Commitments 
+ (1a) 
+ -3,300 
+ -10,000 
+ -13,700 
+ -27,000 
+ 01.020240 Cluster ‘Digital, Industry and Space’ 
+ Commitments 
+ (1a) 
+ -29,200 
+ -87,500 
+ -116,300 
+ -233,000 
+ 01.020250 Cluster ‘Climate, Energy and Mobility’ 
+ Commitments 
+ (1a) 
+ -29,200 
+ -87,500 
+ -116,300 
+ -233,000 
+ 01.020260 Cluster ‘Food, Bioeconomy, Natural Resources, Agriculture and Environment’ 
+ Commitments 
+ (1a) 
+ -19,200 
+ -57,500 
+ -76,300 
+ -153,000 
+ 01.020301 European Innovation Council 
+ Commitments 
+ (1a) 
+ 100,000 
+ 300,000 
+ 400,000 
+ 800,000 
+ Operational appropriations stemming from decommitments made available again (Article 15(3) of the Financial Regulation) (current prices) 
+ 01.020301 European Innovation Council 
+ Commitments 
+ (1a) 
+ 500,000 
+ 400,000 
+ 200,000 
+ 100,000 
+ 1 200,000 
+ Operational appropriations stemming from the Mid-Term Revision of the Multiannual Financial Framework 2021-2027 
+ 01.020301 European Innovation Council 
+ Commitments 
+ (1a) 
+ 125,000 
+ 125,000 
+ 125,000 
+ 125,000 
+ 500,000 
+ Estimated operational appropriations stemming from repayments from the European Innovation Council Pilot under Horizon 2020 
+ 01.00301 European Innovation Council 
+ Commitments 
+ (1a) 
+ p.m. 
+ p.m. 
+ p.m. 
+ p.m. 
+ 130,000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 77 
+ p.m. 
+ p.m. 
+ p.m. 
+ p.m. 
+ Total appropriations for Horizon Europe 
+ 01.020301 European Innovation Council 
+ Commitments 
+ (1a) 
+ 625,000 
+ 625,000 
+ 625,000 
+ 625,000 
+ 2 630,000* 
+ Payments 
+ (2a) 
+ 625,000 
+ 625,000 
+ 625,000 
+ 625,000 
+ 2 630,000* 
+ * of which an estimated amount of EUR 130 million of assigned revenue stemming from the European Innovation Council Pilot under Horizon 2020, for which the annual profile cannot be known in advance. 
+ DG: ECFIN 
+ 2023 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ TOTAL 
+ □ Operational appropriations 
+ 02.0202 - Provisioning of InvestEU Guarantee 
+ Commitments 
+ (1a) 
+ 750,000 
+ 750,000 
+ 750,000 
+ 750,000 
+ 3000,000 
+ Payments 
+ (2a) 
+ 750,000 
+ 750,000 
+ 750,000 
+ 750,000 
+ 3000,000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 78 
+ p.m. 
+ p.m. 
+ p.m. 
+ p.m. 
+ TOTAL appropriations 
+ for DG ECFIN 
+ Commitments 
+ =1a 
+ 750,000 
+ 750,000 
+ 750,000 
+ 750,000 
+ 3000,000 
+ Payments 
+ =2a 
+ 750,000 
+ 750,000 
+ 750,000 
+ 750,000 
+ 3000,000 
+ Heading of multiannual financial 
+ framework 
+ Number 
+ 3 
+ DG: Regional and Urban Policy 
+ 2023 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ 2028 
+ 2029 
+ TOTAL 
+ □ Operational appropriations 
+ 09.0301 - Just Transition Fund (JTF) - Operational Expenditure* 
+ Commitments 
+ (1a) 
+ 0,000 
+ 0,000 
+ 0,000 
+ 0,000 
+ 0,000 
+ Payments 
+ (2a) 
+ 5 935,000 
+ -5 935,000 
+ 0,000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 79 
+ p.m. 
+ p.m. 
+ p.m. 
+ p.m. 
+ TOTAL appropriations 
+ for DG Regional and Urban Policy 
+ Commitments 
+ =1a+1b +3 
+ 0,000 
+ 0,000 
+ 0,000 
+ 0,000 
+ 0,000 
+ Payments 
+ =2a+2b 
+ +3 
+ 5 935,000 
+ 0,000 
+ -5 935,000 
+ 0,000 
+ 0,000 
+ 0,000 
+ 0,000 
+ * The additional pre-financing payments for the JTF in 2024 will be financed only from external assigned revenues and will result in a frontloading of NGEU payment appropriations from year 2026 to year 2024. Additional pre-financing amounts to be paid under the ERDF, CF and ESF+ will depend on Member State’s programming decisions and will be entirely financed by MFF resources. 
+ Heading of multiannual financial 
+ framework 
+ Number 
+ 3 
+ DG: CLIMA 
+ 2023 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ TOTAL 
+ □ Operational appropriations 
+ 09.0501 - Innovation Fund (IF) - operational expenditure 
+ Commitments 
+ (1a) 
+ 1 250,000 
+ 1 250,000 
+ 1 250,000 
+ 1 250,000 
+ 5 000,000 
+ Payments 
+ (2a) 
+ 500,000 
+ 1 125,000 
+ 1 150,000 
+ 2 225,000 
+ 5 000,000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 80 
+ p.m. 
+ p.m. 
+ p.m. 
+ p.m. 
+ TOTAL appropriations 
+ for DG CLIMA 
+ Commitments 
+ =1a+1b +3 
+ 1 250,000 
+ 1 250,000 
+ 1 250,000 
+ 1 250,000 
+ 5 000,000 
+ Payments 
+ =2a+2b 
+ +3 
+ 500,000 
+ 1 125,000 
+ 1 150,000 
+ 2 225,000 
+ 5 000,000 
+ Heading of multiannual financial 
+ framework 
+ Number 
+ 5 
+ European Defence Fund 
+ 2023 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ TOTAL 
+ □ Operational appropriations 
+ 13.0301 – Defence 
+ Commitments 
+ (1a) 
+ 375,000 
+ 376,000 
+ 375,000 
+ 374,000 
+ 1 500,000 
+ Payments 
+ (2a) 
+ 375,000 
+ 376,000 
+ 375,000 
+ 374,000 
+ 1 500,000 
+ Appropriations of an administrative nature financed from the envelope of specific programmes 
+ 81 
+ p.m. 
+ p.m. 
+ p.m. 
+ p.m. 
+ TOTAL appropriations 
+ for European Defence Fund 
+ Commitments 
+ =1a+1b +3 
+ 375,000 
+ 375,000 
+ 375,000 
+ 375,000 
+ 1 500,000 
+ Payments 
+ =2a+2b 
+ +3 
+ 375,000 
+ 376,000 
+ 375,000 
+ 374,000 
+ 1 500,000 
+ □ TOTAL operational appropriations 
+ Commitments 
+ (4) 
+ Payments 
+ (5) 
+ □ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes 
+ (6) 
+ TOTAL appropriations 
+ under HEADING <….> 
+of the multiannual financial framework 
+ Commitments 
+ =4+ 6 
+ Payments 
+ =5+ 6 
+ If more than one operational heading is affected by the proposal / initiative, repeat the section above: 
+ □ TOTAL operational appropriations (all operational headings) 
+ Commitments 
+ (4) 
+ Payments 
+ (5) 
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes (all operational headings) 
+ (6) 
+ TOTAL appropriations 
+ under HEADINGS 1 to 6 
+of the multiannual financial framework 
+ (Reference amount) 
+ Commitments 
+ =4+ 6 
+ Payments 
+ =5+ 6 
+ Heading of multiannual financial 
+ framework 
+ 7 
+ ‘Administrative expenditure’ 
+ This section should be filled in using the 'budget data of an administrative nature' to be firstly introduced in the 
+ Annex to the Legislative Financial Statement 
+ (Annex 5 to the Commission decision on the internal rules for the implementation of the Commission section of the general budget of the European Union), which is uploaded to DECIDE for interservice consultation purposes. 
+ EUR million (to three decimal places) 
+ 2023 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ 2028 
+ 2029 
+ TOTAL 
+ DG: <…….> 
+ □ Human resources 
+ 3,026 
+ 3,026 
+ 3,026 
+ 3,026 
+ 1,037 
+ 1,037 
+ 14,178 
+ □ Other administrative expenditure 
+ 0.257 
+ 0.385 
+ 0.385 
+ 0.257 
+ 0.182 
+ 0.182 
+ 1,648 
+ TOTAL DG <…….> 
+ Appropriations 
+ 3,283 
+ 3,411 
+ 3,411 
+ 3,283 
+ 1,219 
+ 1,219 
+ 15,826 
+ TOTAL appropriations 
+ under HEADING 7 
+of the multiannual financial framework 
+ (Total commitments = Total payments) 
+ 3,283 
+ 3,411 
+ 3,411 
+ 3,283 
+ 1,219 
+ 1,219 
+ 15,826 
+ EUR million (to three decimal places) 
+ 2023 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ 2028 
+ 2029 
+ TOTAL 
+ TOTAL appropriations 
+ under HEADINGS 1 to 7 
+of the multiannual financial framework 
+ Commitments 
+ Payments 
+ 3.2.2. Estimated output funded with operational appropriations 
+ Commitment appropriations in EUR million (to three decimal places) 
+ Indicate objectives and outputs 
+  
+ 2023 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ 2028 
+ 2029 
+ TOTAL 
+ OUTPUTS 
+ Type 
+ 82 
+ Average cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ No 
+ Cost 
+ Total No 
+ Total cost 
+ SPECIFIC OBJECTIVE No 1 
+ 83 
+ … 
+ - Output 
+ - Output 
+ - Output 
+ Subtotal for specific objective No 1 
+ SPECIFIC OBJECTIVE No 2 ... 
+ - Output 
+ Subtotal for specific objective No 2 
+ TOTALS 
+ 3.2.3. Summary of estimated impact on administrative appropriations 
+ –  
+ The proposal/initiative does not require the use of appropriations of an administrative nature 
+ –  
+ The proposal/initiative requires the use of appropriations of an administrative nature, as explained below: 
+ EUR million (to three decimal places) 
+ 2023 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ 2028 
+ 2029 
+ TOTAL 
+ HEADING 7 
+ of the multiannual financial framework 
+ Human resources 
+ 3.026 
+ 3.026 
+ 3.026 
+ 3.026 
+ 1.037 
+ 1.037 
+ 14,178 
+ Other administrative expenditure 
+ 0.257 
+ 0.385 
+ 0.385 
+ 0.257 
+ 0.182 
+ 0.182 
+ 1.648 
+ Subtotal HEADING 7 
+ of the multiannual financial framework 
+ 3.283 
+ 3.411 
+ 3.411 
+ 3.283 
+ 1.219 
+ 1.219 
+ 15,826 
+ Outside HEADING 7 
+ 84 
+ of the multiannual financial framework 
+ Human resources 
+ Other expenditure 
+ of an administrative nature 
+ Subtotal 
+ outside HEADING 7 
+ of the multiannual financial framework 
+ TOTAL 
+ 3,283 
+ 3,411 
+ 3,411 
+ 3,283 
+ 1,219 
+ 1,219 
+ 15,826 
+ The appropriations required for human resources and other expenditure of an administrative nature will be met by appropriations from the DG that are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints. 
+ 3.2.3.1. Estimated requirements of human resources 
+ –  
+ The proposal/initiative does not require the use of human resources. 
+ –  
+ The proposal/initiative requires the use of human resources, as explained below: 
+ Estimate to be expressed in full time equivalent units 
+ 2023 
+ 2024 
+ 2025 
+ 2026 
+ 2027 
+ 2028 
+ 2029 
+ □ Establishment plan posts (officials and temporary staff) 
+ 20 01 02 01 (Headquarters and Commission’s Representation Offices) 
+ 15 
+ 15 
+ 15 
+ 15 
+ 5 
+ 5 
+ 20 01 02 03 (Delegations) 
+ 01 01 01 01 (Indirect research) 
+ 01 01 01 11 (Direct research) 
+ Other budget lines (specify) 
+ □ External staff (in Full Time Equivalent unit: FTE) 
+ 85 
+ 20 02 01 (AC, END, INT from the ‘global envelope’) 
+ 5 
+ 5 
+ 5 
+ 5 
+ 2 
+ 2 
+ 20 02 03 (AC, AL, END, INT and JPD in the delegations) 
+ XX 01 xx yy zz 
+ 86 
+ - at Headquarters 
+ - in Delegations 
+ 01 01 01 02 (AC, END, INT - Indirect research) 
+ 01 01 01 12 (AC, END, INT - Direct research) 
+ Other budget lines (specify) 
+ TOTAL 
+ 20 
+ 20 
+ 20 
+ 20 
+ 7 
+ 7 
+ XX is the policy area or budget title concerned. 
+ The human resources required will be met by staff from the DG who are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints. 
+ Description of tasks to be carried out: 
+ Officials and temporary staff 
+ 15 FTEs (12 AD and 3 AST) will be required to set up and start the first activities of the one-stop-shop in 2024. The same number of FTEs will be needed until the end of the current MFF period, before decreasing to 5 FTEs in 2028 and 2029 
+ The One-Stop-Shop will consist of an additional unit to be established within DG BUDG in the Commission. However, these needs will be covered through internal redeployment within the Commission. 
+ External staff 
+ 2 Contract Agents and 3 Seconded National Experts until 2027 and 2 Contract Agents afterwards. The 2 contract agents will be covered from internal redeployment within the Commission. 
+ 3.2.4. Compatibility with the current multiannual financial framework 
+ The proposal/initiative: 
+ –  
+ can be fully financed through redeployment within the relevant heading of the Multiannual Financial Framework (MFF). 
+ Explain what reprogramming is required, specifying the budget lines concerned and the corresponding amounts. Please provide an excel table in the case of major reprogramming. 
+ –  
+ requires use of the unallocated margin under the relevant heading of the MFF and/or use of the special instruments as defined in the MFF Regulation. 
+ Explain what is required, specifying the headings and budget lines concerned, the corresponding amounts, and the instruments proposed to be used. 
+ –  requires a revision of the MFF. 
+ B1’s input needed 
+ 3.2.5. Third-party contributions 
+ The proposal/initiative: 
+ –  
+ does not provide for co-financing by third parties 
+ –  
+ provides for the co-financing by third parties estimated below: 
+ Appropriations in EUR million (to three decimal places) 
+ Year 
+ N 
+ 87 
+ Year 
+ N+1 
+ Year 
+ N+2 
+ Year 
+ N+3 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ Total 
+ Specify the co-financing body 
+ TOTAL appropriations co-financed 
+ 3.3. Estimated impact on revenue 
+ –  
+ The proposal/initiative has no financial impact on revenue. 
+ –  
+ The proposal/initiative has the following financial impact: 
+ –  
+ on own resources 
+ –  
+ on other revenue 
+ – please indicate, if the revenue is assigned to expenditure lines  
+ EUR million (to three decimal places) 
+ Budget revenue line: 
+ Appropriations available for the current financial year 
+ Impact of the proposal/initiative 
+ 88 
+ Year 
+ N 
+ Year 
+ N+1 
+ Year 
+ N+2 
+ Year 
+ N+3 
+ Enter as many years as necessary to show the duration of the impact (see point 1.6) 
+ Article …………. 
+ For assigned revenue, specify the budget expenditure line(s) affected. 
+ Other remarks (e.g. method/formula used for calculating the impact on revenue or any other information). 
+ (1) 
+ Communication on The Single Market at 30, COM(2023) 162 final. 
+ (2) 
+ https://next-generation-eu.europa.eu/index_en 
+ (3) 
+ Communication on A Green Deal Industrial Plan for the Net-Zero Age, COM(2023) 62 final. 
+ (4) 
+ Communication on A New European Innovation Agenda, COM(2022) 332 final. 
+ (5) 
+ Communication on a Temporary Crisis and Transition Framework for State Aid measures ( O J C 101, 17.3.2023, p. 3 ) . 
+ (6) 
+ Regulation (EU) 2023/435 as regards REPowerEU ( OJ L 63, 28.2.2023, p. 1 ). 
+ (7) 
+ https://state-of-the-union.ec.europa.eu/state-union-2022_en 
+ (8) 
+ Speech of 4 December 2022, 
+ https://ec.europa.eu/commission/presscorner/detail/es/speech_22_7487 
+ (9) 
+ European Council conclusions of 23 March 2023, EUCO 4/23 
+ (10) 
+ COM(2023) 62 final. 
+ (11) 
+ Based on a carbon price of EUR 80 / ton CO2eq 
+ (12) 
+ T he additional REACT-EU resources stemming from the NextGenerationEU have increased the funding available in 2021 and 2022 ( without national co-financing required ) to provide Member States with rapid assistance for fostering crisis repair and resilient recovery. Other measures include the Cohesion’s Action for Refugees in Europe (CARE) package, and the Supporting Affordable Energy initiative (SAFE). See Regulation (EU) 2022/562 as regards Cohesion’s Action for Refugees in Europe (CARE) (OJ L 109 , 8.4.2022, p. 1) ; Regulation (EU) 2022/2039 as regards Flexible Assistance for Territories (FAST-CARE) (OJ L 275, 25.10.2022, p. 23 ); and Regulation (EU) 2023/435 as regards REPowerEU (OJ L 63, 28.2.2023, p. 1). 
+ (13) 
+ The figure is based on EIC Accelerator funding awards in 2021-22 . 
+ (14) 
+ In accordance with the New European Innovation Agenda, deep t ech innovation has the potential to drive innovation across the economy and society . The Communication on the long-term competitiveness of the EU highlighted clean technology, biotechnology and digital as key relevant areas for the future due to its high-growth p otential and higher labour productivity. 
+ (15) 
+ Communication on the Long-term competitiveness of the EU: looking beyond 2030, COM(2023) 168 final . 
+ (16) 
+ Proposal for a regulation establishing a framework of measures for strengthening Europe’s net-zero technology products manufacturing ecosystem , COM(2023) 161 final. 
+ (17) 
+ Progress report on competitiveness of clean energy technologies, COM(2022) 643 final. 
+ (18) 
+ Gong J. , Romet-Lemonne J-L . , House r B. , ‘Bridging the gap between innovation and later-stage financing for biotech in Europe’, Nature Reviews Drug Discovery 22 , 2023 , pp. 438-439 . 
+ (19) 
+ Proposal for a regulation establishing a framework for ensuring a secure and sustainable supply of critical raw materials, COM(2023) 160 final. 
+ (20) 
+ Proposal for a regulation establishing a framework of measures for strengthening Europe’s semiconductor ecosystem, COM(2022) 46 final. 
+ (21) 
+ Communication on the Fit for 55, COM(2021) 550 final ; and accompanying proposals. 
+ (22) 
+ OJ L 224, 24.6.2021, p. 31 . 
+ (23) 
+ OJ L 231, 30.6.2021, p. 1. 
+ (24) 
+ OJ L 231, 30.6.2021, p. 21 . 
+ (25) 
+ OJ L 231, 30.6.2021, p. 159. 
+ (26) 
+ OJ L 57, 18.2.2021, p. 17 . 
+ (27) 
+ OJ L 107, 26.3.2021, p. 30 . 
+ (28) 
+ OJ L 166, 11.5.2021, p. 1 . 
+ (29) 
+ OJ L 170, 12.5.2021, p. 1. 
+ (30) 
+ OJ L 170 , 12.5.2021, p. 149. 
+ (31) 
+ OJ L 275 25.10.2003, p. 32. 
+ (32) 
+ OJ L 107, 26.3.2021, p.1. 
+ (33) 
+ I n particular ERDF and CF ( SWD(2018) 282 final ) , ESF+ (SWD(2018) 289 final) , InvestEU ( SWD(2018) 3 14 final) , and Horizon Europe (SWD(2018) 307 final) . 
+ (34) 
+ SWD(2023) 161 final, SWD(2022) 187 final, SWD(2020) 176 final, SWD(2022) 147 final, and SWD(2021) 247 final , and SWD(2023)68 final , respectively. 
+ (35) 
+ T he additional REACT-EU resources stemming from the NextGenerationEU have increased the funding available in 2021 and 2022 ( without national co-financing required ) to provide Member States with rapid assistance for fostering crisis repair and resilient recovery. Other measures include the Cohesion’s Action for Refugees in Europe (CARE) package, and the Supporting Affordable Energy initiative (SAFE). 
+ (36) 
+ OJ C [...], [...], p. [...] 
+ (37) 
+ OJ C [...], [...], p. [...] 
+ (38) 
+ Communication on The European Green Deal, COM(2019) 640 final. See also European Parliament resolution of 15 January 2020, and European Council conclusions of 11 December 2020. 
+ (39) 
+ Decision (EU) 2022/2481 of the European Parliament and of the Council of 14 December 2022 establishing the Digital Decade Policy Programme 2030 (OJ L 323, 19.12.2022, p. 4). 
+ (40) 
+ Communication on A Green Deal Industrial Plan for the Net-Zero Age, COM(2023) 62 final. 
+ (41) 
+ COM(2023) 160 final 
+ (42) 
+ COM(2023) 161 final 
+ (43) 
+ Communication on a Temporary Crisis and Transition Framework for State Aid measures ( OJ C 101, 17.3.2023, p. 3 ). 
+ (44) 
+ Regulation (EU) 2023/435 as regards REPowerEU ( OJ L 63, 28.2.2023, p. 1 ). 
+ (45) 
+ Communication on a European Skills Agenda for sustainable competitiveness, social fairness and resilience, COM(2020) 274 final. 
+ (46) 
+ Directive 2003/87/EC establishing a scheme for greenhouse gas emission allowance trading (OJ L 275, 25.10.2003, p. 32). 
+ (47) 
+ Regulation (EU) 2021/523 establishing the InvestEU Programme ( OJ L 107, 26.3.2021, p. 30 ). 
+ (48) 
+ Regulation (EU) 2021/695 establishing Horizon Europe ( OJ L 170, 12.5.2021, p. 1 ). 
+ (49) 
+ Regulation (EU) 2021 / 697 establishing the European Defense Fund ( OJ L 170, 12.5.2021, p. 149 . ) 
+ (50) 
+ Regulation (EU) 2021/694 establishing the Digital Europe Programme ( OJ L 166, 11.5.2021, p. 1 ). 
+ (51) 
+ Regulation (EU) 2021/522 establishing a Programme for th e Union’s action in the field of health , EU4Health Programme ( OJ L 107, 26.3.2021, p. 1). 
+ (52) 
+ Regulation (EU, Euratom) 2018/1046 on the financial rules applicable to the general budget of the Union (OJ L 193, 30.7.2018, p. 1). 
+ (53) 
+ Regulation (EU) 2021/241 establishing the Recovery and Resilience Facility (OJ L 57, 18.2.2021, p. 17 ). 
+ (54) 
+ Directive 2003/87/EC establishing a scheme for greenhouse gas emission allowance trading ( OJ L 275, 25.10.2003, p. 32). 
+ (55) 
+ Regulation (EU) 2021/1060 laying down common provisions ( OJ L 231, 30.6.2021, p. 159 ). 
+ (56) 
+ Regulation (EU) 2021/1058 on the European Regional Development Fund and on the Cohesion Fund ( OJ L 224, 24.6.2021, p. 31 ). 
+ (57) 
+ Regulation (EU) 2021/1056 establishing the Just Transition Fund ( OJ L 231, 30.6.2021, p. 1). 
+ (58) 
+ Regulation (EU) 2021/1057 establishing the European Social Fund Plus (ESF+) (OJ L 231 30.6.2021, p.21). 
+ (59) 
+ Regulation (EU) 2021/1057 establishing the European Social Fund Plus (ESF+) (OJ L 231, 30.6.2021, p. 21 ). 
+ (60) 
+ Regulation (EU) 2021/1060 laying down common provisions (OJ L 231, 30.6.2021, p. 159). 
+ (61) 
+ Regulation (EU) 1303/2013 laying down common provisions (OJ L 347, 20.12.2013, p. 320). 
+ (62) 
+ Regulation (EU) 223/2014 on the Fund for European Aid on the Most Deprived ( OJ L 72, 12.3.2014, p. 1 ). 
+ (63) 
+ Regulation …/… of the European Parliament and of the Council … [ insert full title and OJ reference ]. 
+ (64) 
+ Regulation …/… of the European Parliament and of the Council … [insert full title and OJ reference]. 
+ (65) 
+ Regulation …/… of the European Parliament and of the Council … [insert full title and OJ reference]. 
+ (66) 
+ Regulation …/… of the European Parliament and of the Council … [insert full title and OJ reference]. 
+ (67) 
+ Regulation …/… of the European Parliament and of the Council … [insert full title and OJ reference]. 
+ (68) 
+ Regulation …/… of the European Parliament and of the Council … [insert full title and OJ reference]. 
+ (69) 
+ Regulation …/… of the European Parliament and of the Council … [insert full title and OJ reference]. 
+ (70) 
+ Regulation …/… of the European Parliament and of the Council … [insert full title and OJ reference]. 
+ (71) 
+ Regulation …/… of the European Parliament and of the Council … [insert full title and OJ reference]. 
+ (72) 
+ As referred to in Article 58(2)(a) or (b) of the Financial Regulation. 
+ (73) 
+ Details of budget implementation methods and references to the Financial Regulation may be found on the BUDGpedia site: 
+ https://myintracomm.ec.europa.eu/corp/budget/financial-rules/budget-implementation/Pages/implementation-methods.aspx 
+ (74) 
+ Diff. = Differentiated appropriations / Non-diff. = Non-differentiated appropriations. 
+ (75) 
+ EFTA: European Free Trade Association. 
+ (76) 
+ Candidate countries and, where applicable, potential candidates from the Western Balkans. 
+ (77) 
+ Technical and/or administrative assistance and expenditure are not detailed but included in the overall amounts indicated under operational lines. They should roughly correspond to the same percentages compared to administrative lines as the one occurred in the 2021-2024 period. 
+ (78) 
+ Technical and/or administrative assistance and expenditure are not detailed but included in the overall amounts indicated under operational lines. They should roughly correspond to the same percentages compared to administrative lines as the one occurred in the 2021-2024 period. 
+ (79) 
+ Technical and/or administrative assistance and expenditure are not detailed but included in the overall amounts indicated under operational lines. They should roughly correspond to the same percentages compared to administrative lines as the one occurred in the 2021-2024 period. 
+ (80) 
+ Technical and/or administrative assistance and expenditure are not detailed but included in the overall amounts indicated under operational lines. They should roughly correspond to the same percentages compared to administrative lines as the one occurred in the 2021-2024 period. 
+ (81) 
+ Technical and/or administrative assistance and expenditure are not detailed but included in the overall amounts indicated under operational lines. They should roughly correspond to the same percentages compared to administrative lines as the one occurred in the 2021-2024 period. 
+ (82) 
+ Outputs are products and services to be supplied (e.g.: number of student exchanges financed, number of km of roads built, etc.). 
+ (83) 
+ As described in point 1.4.2. ‘Specific objective(s)…’ 
+ (84) 
+ Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former ‘BA’ lines), indirect research, direct research. 
+ (85) 
+ AC= Contract Staff; AL = Local Staff; END= Seconded National Expert; INT = agency staff; JPD= Junior Professionals in Delegations. 
+ (86) 
+ Sub-ceiling for external staff covered by operational appropriations (former ‘BA’ lines). 
+ (87) 
+ Year N is the year in which implementation of the proposal/initiative starts. Please replace "N" by the expected first year of implementation (for instance: 2021). The same for the following years. 
+ (88) 
+ As regards traditional own resources (customs duties, sugar levies), the amounts indicated must be net amounts, i.e. gross amounts after deduction of 20 % for collection costs.

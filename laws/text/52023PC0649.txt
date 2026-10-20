@@ -1,0 +1,417 @@
+### Consumer rights: adapting ADR to digital markets | CELEX 52023PC0649 | text version 52023PC0649 | role proposal
+EUROPEAN COMMISSION
+ Brussels, 17.10.2023
+ COM(2023) 649 final
+ 2023/0376(COD)
+ Proposal for a
+ DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ amending Directive 2013/11/EU on alternative dispute resolution for consumer disputes, as well as Directives (EU) 2015/2302, (EU) 2019/2161 and (EU) 2020/1828
+ (Text with EEA relevance)
+ {SEC(2023) 347 final} - {SWD(2023) 334 final} - {SWD(2023) 335 final} - {SWD(2023) 337 final}
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+ Reasons for and objectives of the proposal 
+ Directive 2013/11/EU 
+ 1 
+ on consumer Alternative Dispute Resolution (ADR Directive) gives EU consumers the possibility to resolve their disputes stemming from contractual obligations against traders established in the EU using quality out-of-court procedures. The main objective is to ensure that in all Member States, ADR entities which comply with common quality criteria can be accessed to resolve disputes across all consumer market sectors fast, amicably, in an affordable and fair manner. This legislation has been key to provide a high level of consumer protection in the internal market enabling consumers to resolve low-value disputes for which they are reluctant to go to court , due to the cost and time that might be involved . F or traders , the Directive contributes to help them retain a good reputation, i n participat ing in ADR procedures and comply ing with ADR outcomes. 
+ The Directive, however, was drafted more than 10 years ago and does not cater well for disputes resulting from new consumer market trends. Indeed, EU consumers are purchasing much more online including from non-EU traders. Unfortunately , this goes in parallel with an increase d exposure to unfair practices - through online interfaces - that materially distort or impair, either on purpose or in effect, the ability of recipients of the service to make autonomous and informed choices or decisions (dark patterns), hidden advertising, fake reviews, distorted price presentations or lack of important pre-contractual information. These trends also impact offline purchases to a certain extent as consumers are increasingly influenced by digital marketing affecting the consumers’ affinity for specific brands and traders . These developments jeopardise consumer trust in digital markets and exploit consumer vulnerabilities 
+ . This means that consumers need efficient procedures to handle disputes which are becoming more and more complex. 
+ The 2023 Commission evaluation of the implementation of the ADR Directive across the E U concluded that ADR, notably cross-border ADR , is still under-used in many Member States due to a number of factors such as costs, complex procedures, language and applicable law. The scope of the ADR Directive , which is narrowly defined , is not fit to resolve a wide range of disputes that arise, notably in digital markets. T he approach of minimum harmonisation taken in the ADR Directive has enabled Member States to tailor-make their own ADR framework which tally with their culture, investment, resources, infrastructure, awareness, etc. Against this background, the Commission announced the Consumer Enforcement Package in its legislative Work Programme for 2023 
+ 2 
+ which foresaw Commission’s proposals with targeted amendments to the ADR Directive and the repeal of the Online Dispute Resolution (ODR) Regulation 
+ 3 
+ . 
+ This proposal aims at maintaining the current minimum harmonisation approach and only amending it to make it better fit to modern consumer markets. 
+ The objectives of the revised ADR Directive are to: 
+ · make the ADR framework fit to digital markets by explicitly covering a broad range of EU consumer rights that may not be explicitly described in contracts or which relate to pre-contractual stages ; 
+ · enhance the use of ADR in cross-border disputes through more customised assistance to consumers and traders; 
+ · simplify ADR procedures to the benefit of all actors; including reducing reporting obligations of ADR entities and information obligations of traders whilst encouraging traders to increase their engagement in ADR claims through the introduction of a duty to reply. 
+ To attain these objectives, the following elements are put forward in this proposal: 
+ · Scope of application: clarifying and broadening the material and geographical scope of the ADR Directive to cover: 
+ · all kinds of EU consumer law disputes (i.e. not limited to those relating to a contract). A problem with the current Directive is that its scope is narrowly defined and thus may exclude disputes related to pre-contractual stages or statutory rights such as switching of service providers or to be protected against geoblocking ; 
+ · covering disputes between EU consumers and non-EU traders ( that will be able to participate in the ADR procedures on a voluntary basis , in the same way as for EU traders). 
+ · Duty to reply : requiring that traders reply to an ADR entity enquiry, whether they intend to participate in the proposed ADR process or not (but not imposing participation in ADR processes). 
+ · Information obligations : removing the obligation upon traders to inform consumers about ADR entities in case they do not intend to engage . 
+ · Cross-border ADR : conferring upon relevant bodies and especially European Consumer Centres (ECCs) a new supporting role in assisting and signposting consumers in cross-border disputes and for the Commission to introduce user-friendly digital tools to help consumers being signposted to a competent body to resolve their disputes. 
+ In its Communication on ‘Long-term competitiveness of the EU: looking beyond 2030’ 
+ 4 
+ , the Commission has stressed the importance of a regulatory system that ensures that Union objectives are reached at minimum costs. It has committed therefore to a fresh push to rationalise and simplify reporting requirements, with the ultimate aim to reduce such burdens by 25%, without undermining the related policy objectives. Hence, t he ADR/ODR review features under the Rationalisation Package. 
+ Reporting requirements play a key role in ensuring correct enforcement and proper monitoring of legislation. Their costs are overall largely offset by the benefit they bring, in particular, in monitoring and ensuring compliance with key policy measures. Reporting requirements can however also impose disproportionate burdens on stakeholders, particularly affected SMEs and micro-companies. Their cumulation over time can result in redundant, duplicating or obsolete obligations, inefficient frequency and timing, or inadequate methods of collection. By further streamlining the ADR framework across the EU, the initiative should generate cost savings and less administrative burden both for the ADR competent authorities and traders in line with the REFIT and “one-in-out-out” principles and also contribute to a greater level-playing field for EU and non-EU traders. 
+ Streamlining reporting obligations and reducing administrative burden is therefore a priority. 
+ In this context, the present proposal aims to simplify initiatives included in consumer redress by: 
+ (a) r emoving ADR information obligations for traders; 
+ (b) ADR entities would have to provide bi e nn i al reports of their activities instead of yearly reports to the ADR Competent Authoritie s and they no longer have to report on their cooperation within networks of ADR entities which facilitate the resolution of cross-border disputes, if applicable ; 
+ (c) ADR entities will no longer have to provide to competent authorities every two years assessment of the effectiveness of their cooperation within networks of ADR entities, the training provided to their staff and an assessment of the effectiveness of the ADR procedure offered by the entity and of possible ways of improving its performance. 
+ Consistency with existing policy provisions in the policy area 
+ The ADR Directive is a procedural directive providing quality criteria to be applied by ADR entities in a similar manner across the Union and the procedures for Member States to accredit such entities, monitor their compliance with the criteria and ensure an effective level of transparency about the existence and functioning of such entities. 
+ The amendments proposed aim to ensure that all consumer disputes, in particular those arising on digital markets, including non-contractual obligations, and those related to extra-contractual statutory rights can be dealt with by ADR entities. In clarifying and extending the scope of the ADR Directive, amendments will increase its consistency with existing consumer legislation by permitting ADR entities to deal with a broader range of disputes which are specified in its annex. The improvements will therefore positively affect the achievement of objectives in the policy area. 
+ The proposal is also part of a first package of measures to rationalise reporting requirements. This is a step in a continuous process looking comprehensively at existing reporting requirements, with a view to assess their continued relevance and to make them more efficient. The rationalisation introduced by these measures will not affect the achievement of objectives in the policy area. Nevertheless, saving costs and time invested in reporting obligations, which do not improve the ADR process in any way, is to the advantage of the businesses and ADR entities. 
+ Consistency with other Union policies 
+ Article 21 Digital Services Act on out-of-court dispute settlement is without prejudice to the ADR Directive (Art. 21(9)). Furthermore, it regulates how users of intermediary services can complain about content moderation decisions of the intermediary in relation to illegal or harmful content, including where the service provider decides not to take action following a notice. Even if such illegal content or content that is otherwise incompatible with the intermediary terms and conditions may concern a third-party trader’s bad commercial practices, the dispute pursuant to Article 21 DSA will be settled between the intermediary and the recipient concerned by the content moderation decision and is limited to the restrictions applicable to the content or account in question. The ADR Directive will remain applicable for consumer disputes with the third party trader that generally concern how to get money back, how to get faulty product repaired, how to stop a contract that was based on unfair terms, etc. The ADR Directive, therefore, provides complementary means to consumers so that they resolve issues linked to illegal commercial practices of the trader and not to content moderation performed by the intermediary. 
+ Under the Regulatory Fitness and Performance Programme (REFIT), the Commission ensures that its legislation is fit for purpose, targeted to the needs of stakeholders and minimises burdens while achieving its objectives. These proposals are therefore part of the REFIT programme, reducing the complexity of reporting burdens arising from the EU legal environment. 
+ While certain reporting requirements are essential, they need to be as efficient as possible, avoiding overlaps, removing unnecessary burdens and using as much as possible digital and interoperable solutions. 
+ The rationalisation introduced by the targeted amendments to the ADR Directive will not affect the achievement of objectives in the policy area, for the following reasons: 
+ · Compulsory ADR information on traders’ website is not effective for those traders who do not intend to engage in ADR procedures and are not obliged to do so in accordance with national or EU law. On the contrary traders who actively engage on ADR will be free to promote this fact to their customers in an adequate manner. 
+ · Reporting obligation of ADR entities are simplified to reduce the frequency of their reports from one year to two years. This will allow to have more information to compile and thus a better data basis to assess their functioning on a medium term horizon. Some items should not be mandatory as it is for ADR entities to decide what information is most relevant to publish and or transmit to competent authorities. Cost and time saved should be used to other purposes such as training their staff. 
+ 2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+ Legal basis 
+ The legal basis for the proposed revised ADR Directive is Article 114 TFEU on internal market completion, with due regard to Article 169 TFEU 
+ 5 
+ . It confers upon the EU the competence to enact measures for the approximation of national rules regarding the establishment and functioning of the internal market. By creating a high level of consumer protection, the proposal aims to help the internal market function smoothly. 
+ Subsidiarity 
+ The revised ADR directive will provide improved access to all consumers and traders to high quality and cost-efficient out-of-court dispute resolution adapted to digital markets. Making ADR simpler and more cost-effective to solve disputes with a cross-border dimension, promoting the bundling of similar cases in one procedure help increasing the efficiency of dispute resolution including in a cross-border context. This in turn should boost consumer trust in online shopping but also consumption of tourism and travel services within the EU and beyond. 
+ The objectives of the proposed action cannot be sufficiently achieved by Member States alone and can therefore, by reason of the scale or effects of the proposed action, be better achieved by the EU. EU action would ensure a consistently high level of consumer protection, more consumer trust in ADR and more networking and exchange of best practices at EU level (e.g. on the use of digital tools to make ADR more cost-efficient and consistent, case-handling procedures, sector-specific ADR, etc). 
+ The reporting requirements that are simplified are imposed by EU law. Rationalisation is therefore better done at EU level to ensure legal certainty and consistency of reporting for data comparability purposes when evaluating the implementation and progress of ADR across the Member States. 
+ Proportionality 
+ The impact assessment carried out a proportionality test to ensure that proposed policy options are proportionate based on costs and resources. The proposal has an ambitious and future-proof approach leading to higher benefits for consumers and society in general thanks to an extension and clarification of the scope. This will allow more disputes to be addressed out of court, increasing the consumer trust in markets and making markets more efficient. Easier dispute resolution is also facilitating consumer after sales management for businesses while their transparency burden will be decreased. The introduction of a duty for traders to reply to requests from ADR entities will allow procedures to be swifter as it will be rapidly clear whether the trader agrees to engage or not. The proposal does not go beyond what is strictly necessary to achieve its objectives. 
+ It maintains the minimum harmonisation approach, providing a degree of flexibility for the Member States including in deciding whether trader participation in ADR is mandatory or voluntary, or mixed depending on the market sectors. 
+ Despite the high number of consumers using dispute resolution systems provided by online market places as part of their intermediary services, the Commission is not proposing to regulate such services. Instead, it adopted a recommendation addressed to online marketplaces and EU trade associations, to make it clear that their dispute resolution systems are important alternative dispute resolution tools, which can resolve many consumer disputes and greatly improve access to cross-border disputes. If these systems are set up in-house, they should be in line with the quality criteria in the ADR Directive to ensure independence and fairness for both consumers and traders parties in the dispute. Furthermore, the ODR Regulation is proposed to be repealed as it does not bring a significant benefit in terms of access to quality ADR for online consumers. This repeal will substantially decrease the burden for businesses as the obligation for all online traders established in the EU to provide a link to the ODR platform and maintain a dedicated email address are abolished. 
+ The rationalisation of reporting requirements to ADR entities reduces the administrative burden by introducing some changes to existing requirements that do not affect the substance of the wider policy objective. The proposal is limited to those changes that are necessary to ensure efficient reporting without changing any of the substantial elements of the legislation concerned. 
+ Choice of the instrument 
+ The chosen instrument is a Directive amending Directive 2013/11/EU. A directive is binding as to the result of achieving the functioning of the internal market, but it leaves to the national authorities the choice of form and methods. This will enable Member States to amend the legislation in force (as a result of having transposed Directive 2013/11/EU) to the extent necessary to ensure compliance, hence minimising the impact of such a reform on their legislative systems. 
+ In parallel to this review, it is proposed to repeal Regulation (EU) No 524/2013 
+ 6 
+ on online dispute resolution (ODR) for consumer disputes and to discontinue the ODR platform that it provides due to the inefficiency of this system and disproportionate costs for EU businesses. It is therefore necessary to amend EU Directive s which contai n references to the ODR Regulation . 
+ 3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS 
+ Ex-post evaluations/fitness checks of existing legislation 
+ In 2023, the Commission carried out a fully-fledged evaluation 
+ 7 
+ in line with the 5 criteria (effectiveness, efficiency, relevance, coherence, EU added value) in the Better Regulation Toolbox. The main question of the exercise was to assess to what extent has the ADR Directive assisted consumers to resolve their disputes with traders in a satisfactory manner and in line with its harmonised quality requirements as spelt out in Chapter II of the ADR Directive. 
+ Overall, the ADR Directive has been correctly implemented by all Member States. Given the minimum harmonisation approach, Member States decide on the governance, architecture and structure of the national ADR framework. Trader participation varies widely across Member States, depending on whether their participation is mandatory or voluntary, whether the outcome is binding or not, or whether there are name and shame practices, inter alia . 
+ Access to ADR depends on fees, available assistance, user-friendly procedures, awareness, etc. There are many barriers in accessing ADR, notably in cross-border cases (in relation to applicable law, language, costs, complex procedures). Investments by ADR entities in digitalisation have proved to make ADR cheaper in the long-term and improve consistency in ADR outcome. ADR costs vary significantly between Member States depending on the existing infrastructure, funding model, number of ADR entities accredited and monitored, consumer and trader fees as well as whether there were previously existing ADR structures. The lack of data on costing, makes it difficult to calculate the cost-effectiveness of ADR. However, compared to costs that would be incurred by consumers, traders and Member States if all consumer disputes had to be dealt with in court, the ADR system is much more cost-efficient. Some cost savings could possibly be made by reducing certain reporting burdens that have been assessed as disproportionate by many stakeholders. 
+ The restriction of the scope to traders established in the EU is however depriving many consumers from accessing fair redress systems. In crises situations, e.g. COVID-19 pandemic and the recent energy crisis, ADR procedures proved to be important mechanisms to deal with the increased number of consumer issues that the crises generated. These crises therefore do not question the relevance of the Directive, but the question is whether certain mechanisms should be strengthened notably to allow ADR entities to deal with more cases at the same time through bundling of cases. 
+ The minimum harmonisation approach has been welcomed and it has been strongly recommended by stakeholders to be maintained. ADR entities benefitted from EU-level actions which offered them a platform for exchange of best practices and financial assistance to improve their infrastructure including their case-handling, capacity building and ADR awareness. 
+ The evaluation conclusions triggered the Commission to reflect on a legislative proposal to amend the current ADR Directive to make it better fit notably for digital markets . 
+ Stakeholder consultations 
+ For an evidence-based approach in its policy-making, the Commission: 
+ (a) carried out two multi-lingual public consultations with a backward and forward-looking approach on ADR; and published a Call for Evidence which highlighted the policy measures for the revision of the ADR Directive on its Have your Say website; 
+ (b) organised various physical and hybrid consultation workshops including the ADR assembly 2021; a panel discussion at the Consumer Summit and Cross-border ADR roundtable in 2022; 
+ (c) designed a questionnaire to help ADR competent authorities compiling their ADR national reports 2022 in line with Article 26 ADR Directive; 
+ (d) took part in various events to collect feedback on how ADR could be improved (eg. anniversary events of ADR entities, ADR network events of FIN-Net and Travel-net, information sessions, etc); 
+ (e) commissioned a study which focused on the implementation of ADR on the ground in 4 jurisdictions and an ADR behavioural study; 
+ (f) looked into recent position papers on ADR by main stakeholders including ECC-Net 
+ 8 
+ , BEUC 
+ 9 
+ , etc. 
+ As vast majority of stakeholders across all categories emphasised the need to revise the ADR Directive by widening its scope to explicitly include disputes related to consumer statutory rights independently of the existence or not of a contract or what is in the contract, making the ADR framework more accessible and thus cost-effective, in particular to deal with cross-border disputes. There have been divergent views on whether to incentivise collective ADR through the bundling of cases due to limited resources and capacity of some ADR entities. In the context of the open public consultation, 58% of the 111 respondents expressed their support for collective ADR. The cross-border roundtable also concluded that collective ADR should be encouraged as a way to ensure the sustainability of ADR entities in times of crisis. However, stakeholders highlighted that the design of collective ADR should be left to the Member States. 
+ Some stakeholders believe that upgrading the role of ODR contact points to become de facto ADR contact points would notably improve the potential to resolve cross-border disputes. The majority of stakeholders thought that the ODR platform being ineffective, it was necessary to provide user-friendly tools for better consumer signposting on their redress possibilities and the possible ADR entities to use. 
+ Stakeholders also stressed that ECCs play a very important role to assist consumers with problems with their cross-border purchases. For example, the informal ministerial on consumer affairs organised by the Czech Council Presidency in September 2022 confirmed that all Member States are satisfied with the assistance provided by the ECC-Net to consumers in their cross-border disputes and see their role strengthened in the future. 
+ The participants at the ADR Assembly of 2021 emphasized the importance of reducing reporting obligations for ADR entities to free up resources that could be used to expand their outreach. 
+ Collection and use of expertise 
+ The Commission commissioned three ADR-related studies to external contractors: 
+ (1) Data collection study: i.e. to analyse the feedback received from the backward-looking public consultation, the national ADR reports submitted to the Commission from all EU M ember S tates , Norway and Iceland, and 5 case studies which were based on desk research and interviews in the following sectors (e-commerce, travel, finance, AI in ADR, and accreditation of ADR entities). 
+ (2) ADR behavioural study on how to nudge consumers to use ADR and how would AI-assisted lawbot assist consumers better understand their redress and find the right ADR entity. 
+ (3) A legal study which looked into academic literature on ADR/ODR in 4 EU Member States. 
+ All studies will be published on the Commission ADR page: 
+ https://commission.europa.eu/live-work-travel-eu/consumer-rights-and-complaints/resolve-your-consumer-complaint/alternative-dispute-resolution-consumers_en 
+ The proposal to reduce the reporting burden have been identified following a process of internal scrutiny of existing reporting obligations and based on the experience from implementation of the related legislation. Since this is a step in the process of continuous assessment of reporting requirements arising from EU legislation, the scrutiny of such burden and of their impact on stakeholders will continue. 
+ Impact assessment 
+ The Impact Assessment analysed 4 different options. The preferred one referred to the extension of the material scope of the Directive, the simplification of cross-border ADR and the introduction of the duty of reply for traders. 
+ This option would make the number of potential ADR disputes increase by about 4.5% as a direct consequence of the extension of the material scope of the Directive to consumer disputes going beyond strict contractual issues, as additional disputes concerning statutory rights that are not explicitly mentioned in a contract or related to questions stemming from consumer rights such as switching between service providers, discrimination, price transparency and pre-contractual information, or portability of content could be included. Currently, as seen in the problem definition of the impact assessment, there are approximately 2,250,000 consumers experiencing issues and who potentially would like to resolve them with ADR. However, this high number of consumers interested in ADR decreases substantially when it comes to actually requesting an ADR procedure. This is due to various phenomena such as the lack of knowledge about existing ADR entities, long delays to be expected etc. Consumers balance the amount of their loss with the burden they foresee and will decide to request an ADR procedure only if the amount in question is relatively high. ADR bodies perform eligibility tests for example on the scope of rights concerned and on the type of evidence to be provided in relation to previous contacts with the trader. These tests, reduce further the number of cases that are finally subject to an ADR process. According to data transmitted by 23 national competent authorities, only 300,000 cases per year on average, in the whole EU are accepted as eligible to be resolved through an ADR procedure. About half of those will not proceed as traders are in most cases not obliged to agree to participate, or the trader and consumer agree to settle the dispute before the ADR process is finished, or cannot find an acceptable solution and decide to abandon the ADR process. 
+ Of the 2,250,000 consumer s interested in carrying out an ADR , approximately 4.5% ha ve a dispute that today would fall outside the scope of the ADR Directive and would thus be ineligible for ADR (100,000 disputes). Therefore, potential disputes with this measure increase from 300,000 actual disputes to 400,000. For each eligible dispute, a notification is sent by the ADR entity who receives a complaint to the business concerned for initiating the dispute out-of-court. Out of these 400,000 notifications sent by ADR entities to businesses, 240,000 would become disputes, 
+ 10 
+ while approximately 128,000 would go unanswered. 
+ 11 
+ If a duty to reply is introduced in the Directive, it is estimated that the cost for businesses to send a single reply is around EUR 20 (including preparation, processing and sending), resulting in a total cost for businesses of EUR 2.6 million per year, or EUR 23 million in 10 years. 
+ 12 
+ A share of the 128,000 potential disputes for which businesses would now have to reply 
+ 13 
+ could turn into actual disputes, with negative answers from businesses resulting in enhanced certainty for consumers, who could decide to bring their claim (or not) elsewhere. Out of the 128,000 potential disputes, it is estimated that approximately 77,000 would turn into actual disputes 
+ 14 
+ (mostly those linked to businesses previously unaware of ADR, for a total of nearly 200,000 new disputes under this policy option 
+ 15 
+ ). If consumers win 90% of the times (with businesses accepting the ADR outcome), it would reduce detriment by EUR 33 million annually, 
+ 16 
+ i.e. EUR 290 million in 10 years. However, handling these 200,000 new disputes might cost up to EUR 60 million annually 
+ 17 
+ (EUR 527 million in 10 years) for ADR entities, which could be funded in various ways 
+ 18 
+ . Enabling the bundling of similar cases against a specific trader by ADR entities would generate savings for them (as a result of more efficient handling), offsetting their costs by EUR 11 million annually (i.e. EUR 97 million in 10 years) 
+ 19 
+ . The net extra costs for ADR entities, taking into account economies of scale, could range from EUR 0 to EUR 49 million annually (EUR 25 million on average), or from EUR 0 to EUR 430 million in 10 years (EUR 215 million on average). ADR entities incurring costs can also pass them on to the traders, knowing that they would still save compared to going to court. The duty of reply would replace the current requirement to disclose information on ADR, for businesses who do not intend nor are obliged to resolve disputes through ADR (64% 
+ 20 
+ of traders) 
+ 21 
+ . It is known from the Impact Assessment linked to the current ADR Directive 
+ 22 
+ that the inflation adjusted cost of providing information to consumers is about EUR 310 per business. 
+ 23 
+ This is mostly a one-off cost. Every year, for newly established businesses who do not adhere to any ADR entities, 
+ 24 
+ the total savings would amount to EUR 99 million annually, 
+ 25 
+ i.e. EUR 870 million in 10 years; a share of the costs stemming from “adding information on ADR in contracts, invoices, receipts, websites, brochures/leaflets” 
+ 26 
+ would then be saved also for current businesses, for a total of EUR 165 million per year, i.e. EUR 1.4 billion in 10 years (EUR 2.3 billion in 10 years in total as savings for businesses). 
+ Granting ECCs (or other bodies) a supporting role means that ECCs would have to assist ADRs with questions about applicable law in other Member States , translating correspondence and documents relevant for the case, etc. This is estimated to require about 50 full time equivalents ( FTEs ) in the whole EU, re-absorbing the equivalent number of posts acting as ODR contact points in the Member States. This zero-cost measure 
+ 27 
+ would in turn further decrease consumer detriment and save costs to the ADR entities. 
+ Social impacts : The certainty to rapidly obtain an answer to their complaints brought to a proper ADR would reduce drastically the stress of consumers who would better assess the feasibility of the various possibilities to resolve disputes. The extended scope of application of the Directive would also reduce court backlogs as currently consumers can only have their solution in court. Replacing the ODR Platform would have no social impact on employment as MS contact point (about 50 FTEs throughout the EU) would be absorbed by ECCs with new cross-border ADR responsibilities. 
+ Environmental impacts : Expanding the scope of the Directive to include extra-contractual disputes would allow consumers to seek redress for damages resulting from unfair commercial practices, including those related to misleading green claims. The possibility of obtaining redress against greenwashing through ADR would reinforce the efforts of public consumer protection authorities and contribute to achieving the goals of the European Green Deal strategy. Within the same context, consumers would also be able to file ADR claim on other cases with environmental impact such as those related to misleading pre-contractual information with regards to energy contracts or to environmental claims. 
+ The proposal concerns limited and targeted changes of legislation in view of rationalising reporting requirements. They are based on experience from implementing legislation. The changes do not have significant impacts on the policy, but only ensure a more efficient and effective implementation. Their targeted nature and the lack of relevant policy options make an impact assessment not necessary. 
+ Regulatory fitness and simplification 
+ The measures in the proposed review will provide the following opportunities for improved efficiency, calculated on an annual basis: 
+ · EUR 370M ongoing adjustment cost savings for businesses (replacing of EU ODR Platform); 
+ · EUR 264M ongoing adjustment cost savings for businesses (removal of ADR disclosure of information obligations). 
+ The preferred option comes with the following small annual adjustment costs: 
+ · EUR 2.6M ongoing adjustment costs for businesses (from duty of reply); 
+ · EUR 25M ongoing adjustment costs for ADR entities (handling additional disputes); 
+ · EUR 11M related to compliance for private ODR platform providers. 
+ This total of EUR 39 million per year is highly compensated by the EUR 634 million of annual cost savings coming from simplification. 
+ It is not known how many disputes are with SMEs and how many are with large businesses, so the costs associated to the duty of reply could in principle be shared with SMEs. However, as SMEs are the wide majority of businesses, they will also be the main beneficiaries of the information provision cost savings both connected to the replacing of the ODR platform and ADR in general. Competitiveness of EU SMEs will be impacted positively by this option, because the savings can be used to boost the attractiveness of their prices, and possibly foster innovation. 
+ A behavioural study conducted on ADR information requirements , showed that the currently requirement for traders to clearly disclose on their websites the ODR link does not positively impact on consumer’s intention to use ADR. Thus, removing it would not produce any negative consequences on consumer engagement in ADR. Businesses operating online would not need to maintain an e-mail address for ODR correspondence, saving EUR 100 per year. The total benefit for businesses would then be EUR 370 million saved per year, i.e. EUR 3.3 billion in 10 years . Also, newly established businesses in the EU in the next 10 years would not incur costs to provide ODR information on their website, but this estimate is already included in the calculations linked to the removal of ADR information. 
+ Fundamental rights 
+ The Commission proposal has an overall positive impact on fundamental rights. The widened material and geographical scope of the Directive would ensure that consumers have access to private redress for a broader range of disputes, thereby reinforcing their right to an effective remedy as laid down by Article 47 of the Charter of Fundamental Rights of the EU (CFREU). Although the introduction of a duty of reply would require traders to examine any potential disputes forwarded to them by ADR entities, the fact that businesses are not obliged by the Directive to participate in ADR ensures that their freedom to conduct business is observed. 
+ 4. BUDGETARY IMPLICATIONS 
+ The review to the ADR Directive will not imply new financial obligations for the Commission , hence no additional human and administrative resources are required for it . To support the new provisions added in the ADR Directive, existing credits earmarked to support consumer redress in the Single Market Programme 2021-2027 
+ 28 
+ will be used to improve access to the list of ADR entities which is already published by the Commission as part of the ODR platform , or to support European Consumer Centres to assist better consumers who seek advice on cross - border r edress solutions. The Single Market programme also permits t he awarding of grants to ADR entities to improve their cost - efficiency for example through digitalisation or training of their staff. 
+ 5. OTHER ELEMENTS 
+ Implementation plans and monitoring, evaluation and reporting arrangements 
+ The amending directive does not change the Commission’s monitoring obligations as provided by article 26 of the ADR directive: i.e. it will provide a report assessing the efficiency of the ADR directive (as amended) every four years based on existing data sources including the national reports that competent authorities have to produce also every four years to the Commission. 
+ Detailed explanation of the specific provisions of the proposal 
+ As the present directive is an amending directive, the following descriptions are made in relation to the ADR directive articles which are amended. 
+ Article 2 – Scope 
+ The ADR Directive current scope is limited to disputes which stem from contractual obligations for the sale of goods or services. Through this revision, the Commission is proposing to extend the scope to voluntary ADR processes against any traders selling goods or services, including digital content and digital services, to consumers residing in the EU and to disputes related to pre-contractual stages during which consumer rights exist irrespective of whether the consumer ultimately concludes a contract. This, for example, relates to misleading advertising, missing, unclear or misleading information, unfair terms or guarantee rights. Moreover, the extended scope aims to cover disputes related to other key statutory rights of consumers such as the right not to be subjected to geo-blocking practices, to switch telecommunication providers or to access to basic financial services. 
+ Article 4 – Definitions 
+ The definitions of “domestic disputes” and “cross border disputes” in the ADR Directive are in line with the current scope and therefore, make reference only to contractual disputes with traders established in the Union. The Commission is proposing to modify those definitions, in order to cover all disputes related to key statutory rights of consumers. Moreover, the new definition of a “cross-border dispute” aims to also cover cases where the trader is established outside of the Union. 
+ Article 5 – Access to ADR entities and ADR procedures 
+ As it stands now, Article 5(1) provides for the Members States to ensure the existence of ADR entities compliant with the requirements of ADR Directive that deal with disputes between consumers and traders established in their respective territories. With the proposed extension of the scope, traders established outside of the EU may also participate (on a voluntary basis) to ADR procedures. Therefore, the Commission proposes to create an obligation for Member States to establish ADR entities that will have the competence to deal with such disputes between consumers and non-EU traders. 
+ In order to safeguard consumers with limited digital literacy skills, Article 5(2)(a) refers to the possibility for vulnerable consumers to send and access documents in a non-digital format, upon request. Article 5(2)(b) accentuates the needs of vulnerable consumers to have an easy access to ADR procedures by means of inclusive tools, while Article 5(2)(c) ensures the right for the revision of an automated procedure by a natural person. Article 5(2)(d) strengthens the possibility already existing in certain Member States for ADR entities to bundle similar cases against one specific trader to save ADR resources and time for the trader and consumers concerned, giving the right to the consumers concerned to object to such bundling. 
+ Article 5(4)(a) clarifies that although consumers are obliged to try to resolve the dispute bilaterally with the trader, ADR entities should not put in place disproportionate rules on how to contact the trader before being able to proceed to ADR. 
+ Article 5(8) introduces the duty to reply on traders with the objective to incentivise them to participate more in ADR. Although they are not obliged to participate in ADR, unless specifically provided for in national legislation or EU sector-specific legislation, it is proposed that they are obliged to reply to a request by an ADR entity, within a period not exceeding 20 working days, as to whether they plan to participate in an ADR process against them, or not. 
+ Article 7 – Transparency 
+ The amendment from “annual” activity reports published by ADR entities to “biennial” activity reports is intended to alleviate the administrative burden and costs for such entities Although cooperation is encouraged, Article 7(2)(h) is deleted, hence ADR entities will no longer be required to report on cooperation of ADR entities within networks of ADR entities to facilitate cross-border dispute resolution. 
+ Article 13 – Consumer Information by Traders 
+ The Commission is proposing to delete Article 13(3) which imposes on traders to provide information on ADR to consumers whether or not they intend to use an ADR process. This article is redundant with Article 13(1) for traders which commit to engage in ADR while it obliges traders not willing to engage in ADR to inform consumers about this fact. The result is that such an information discourages consumers to opt for an ADR process. It is counterproductive and an unjustified burden imposed on traders. 
+ Article 14 – Assistance for Consumers 
+ In view of low ADR uptake in cross-border cases, the Commission proposes to boost consumer assistance by creating ADR contact points by preference as part of the European Consumer Centres which have already a strong role in assisting consumers for their cross-border purchases. These ADR contact points will promote the use of ADR, assist consumers and traders in ADR processes e.g. providing machine translation, signposting consumers to the competent ADR entity, explaining the different procedures, assisting with the submission of the complaint, etc. Such points may also assist in domestic cases should the Member States agree. 
+ Article 19 – Information to be notified to competent authorities by dispute resolution entities 
+ The Commission is proposing to delete Articles 19(3)(f)-(h) by which ADR entities are to inform ADR competent authorities about: a) an assessment of the effectiveness of ADR networks, b) information on trainings provided to staff and c) an assessment of how they intend to improve their performance. This is intended to reduce the administrative burden of the ADR entities and rather shifting the saved resources to handling more disputes or investing in productivity improvements. 
+ Article 20 – Role of the competent authorities and of the Commission 
+ In addition to Article 20(4) which requires Commission to publish the list of accredited ADR entities – currently published in the ODR platform website – new Article 20(8) provides that the Commission is to develop and maintain user-friendly tools to improve signposting of consumers, in other words to ensure that people looking for information on how to solve a consumer dispute will be able to rapidly get an answer on the best ADR entity to contact for their case. The new tools will integrate the existing multilingual list of ADR entities and will provide interactive solutions for consumers to seek the best ADR entities for their specific disputes. These tools should also offer information about other redress mechanisms and links to the newly set ADR contact points. 
+ Article 24 – Communication 
+ Article 24(4) obliges Member States to communicate the names and the contact details of the designated ADR contact points by a certain date. 
+ 2023/0376 (COD) 
+ Proposal for a 
+ DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+ amending Directive 2013/11/EU on alternative dispute resolution for consumer disputes, as well as Directives (EU) 2015/2302, (EU) 2019/2161 and (EU) 2020/1828 
+ (Text with EEA relevance) 
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, 
+ Having regard to the proposal from the European Commission, 
+ After transmission of the draft legislative act to the national parliaments, 
+ Having regard the opinion of the European Economic and Social Committee, 
+ Acting in accordance with the ordinary legislative procedure, 
+ Whereas: 
+ (1) Directive 2013/11/EU of the European Parliament and of the Council 
+ 29 
+ was adopted in order to ensure that consumers within the Union have access to high quality alternative dispute resolution (“ ADR ”) pro cedures to resolve the contractual disputes arising from the sale of goods or provision of services by traders established in the Union to consumers resident in the Union . It provides for the availability of ADR procedures for all types of domestic and cross-border consumer disputes within the Union , ensuring that ADR procedures meet minimum quality standards. It requires Member States to monitor the performance of ADR entities. To increase consumer awareness and promote the use of ADR, it also provides that traders should be required to inform their consumer s of the possibility to settle their dispute out-of-court through ADR procedures . 
+ (2) In 2019 the Commission adopted a report on the implementation of the Directive 2013/11/EU and o f Regulation (EU) No 524/2013 of the European Parliament and of the Council 
+ 30 
+ which revealed that Directive 2013/11/EU has led to increased coverage of consumer markets by quality ADR entities throughout the Union . However, the report also identified that consumer and business uptake of ADR procedures was lagging behind in some sectors and Member States. One reason for this was the low level of awareness of traders and consumers about such procedures in Member States where they ha d only recently been introduced . Another reason was the lack of trust of consumer s and traders in unregulated ADR entities. D ata provided by national competent authorities in early 2022, as well as the evaluation of the implementation of the Directive 2013/11/EU conducted in 2023, suggest that the uptake remained relatively stable (apart from a small increase of cases related to Covid-19 pandemic ) . Most stakeholders consulted in the context of that evaluation confirmed that the lack of awareness and understanding of ADR procedures by consumers, low engagement by traders, gaps in ADR coverage in certain Member States, high costs and complex national ADR procedures and differences in the competences of ADR entities, are frequent factors hindering the uptake of ADR procedures. There are additional barriers in cross-border ADR like language, lack of knowledge o f the applicable law, as well as specific access difficulties for vulnerable consumers. 
+ (3) Since at least two out of five online transactions made by consumers residing in the Union are with traders based in third countries , the scope of Directive 2013/11/EU should be extended to allow those third country traders willing to participate in an ADR procedure to do so . No procedural impediments should hinder consumers residing in the Union from resolving disputes against traders, irrespective of their establishment, if the traders accept to follow an ADR procedure through an ADR entity established in a Member State. 
+ (4) The complexity of consumer disputes has evolved significantly since the adoption of Directive 2011/13/EU . D igitilisation of goods and services, t he growing importance of e-commerce and digital advertising in the formation of consumer contracts has resulted in a rise in the number of consumers being exposed to misleading online information and manipulative interfaces preventing them from making informed purchasing decisions. It is, therefore, necessary to clarify that contractual disputes arising from the sale of goods or services include digital content and digital services , and to extend the scope of Directive 2011/13/EU, beyond such disputes so that consumers are also able to seek redress for practices harming them at a pre-contractual stage , irrespective of whether they later become bound by a contract. 
+ (5) Moreover, Directive 2011/13/EU should also cover consumer rights arising from Union legislation which governs relationships between consumers and traders when there is no relationship of a contractual nature, with respect to the right to access and to pay for goods and services without undergoing discrimination based on nationality, place of residence or of establishment, as provided for in Articles 4 and 5 of Regulation (EU) 2018/302 of the European Parliament and of the Council 
+ 31 
+ ; the right to open and switch bank accounts as provided for in Articles 9, 10, 11, and 16 of Directive 2014/92/EU of the European Parliament and of the Council 
+ 32 
+ and to not be discriminated against as provided for in Article 15 of that Directive ; the right to receive transparent information on retail conditions for roaming calls and SMS messages as provided for in Articles 13, 14 and 15 of Regulation (EU) 2022/612 of the European Parliament and of the Council 
+ 33 
+ , the right to price transparency in air fares and rates as provided for in Article 23 of Regulation (EC) No 1008/2008 of the European Parliament and of the Council 
+ 34 
+ . Therefore, it should be provided that disputes arising in relation to such categories of consumer rights can be dealt with in ADR procedures. 
+ (6) Member States should have the right to apply ADR procedures also to disputes that relate to other non-contractual rights stemming from Union law, including rights stemming from Articles 101 and 102 TFEU or rights of users provided in Regulation (EU) 2022/1925 of the European Parliament and of the Council 
+ 35 
+ . This is without prejudice of public enforcement of those rules. 
+ (7) Where a dispute arises between a provider of an online platform and a recipient of that service in relation to that provider's activities in moderating illegal or harmful content on its platform, Article 21 of Regulation (EU) 2022/2065 of the European Parliament and of the Council 
+ 36 
+ on out-of-court dispute settlement applies to that dispute, in accordance with Article 2(4) of that Regulation, given that it lays down more detailed rules in relation to such disputes. 
+ (8) The definitions of ‘domestic dispute’ and ‘cross-border dispute’ should be adapted accordingly to reflect the extension of the scope of Directive 2013/11/EU . 
+ (9) To ensure that ADR procedures are well-suited for the digital age where communication takes place online, including in a cross-border context, it is necessary to ensure swift and fair processes for all consumers . Member States should ensure that ADR entities established in their territories have the competence to provide dispute resolution procedures in disputes between trader s established outside of the Union and consumers residing in their territory . 
+ (10) Member States should ensure that ADR should enable consumer to initiate and follow ADR procedures also offline if requested . It should also be ensured that when digital tools are provided, those can be used by all consumers, including vulnerable consumers or those with varying levels of digital literacy . Members States should ensure that , upon request, parties to the disputes always have access to a review of automated procedures by a natural person. 
+ (11) Member States should also enable ADR entities to bundle similar cases against a specific trader , to make ADR outcomes consistent for consumers subjected to the same illegal practice , and more cost-efficient for ADR entities and for traders . Consumers should be informed accordingly and should be given the opportunity to refuse from having their dispute bundled. 
+ (12) Member States should also not allow the introduction of disproportionate rules as regards the reasons that an ADR entity may invoke to refuse the handling of a dispute, such as the obligation to use the company escalation system after a first negative contact with the complaints handling service, or the obligation to prove that a specific part of a company’s after sale s service was contacted. 
+ (13) Under Directive 2013/11/EU , Member States may introduce national legislation to make trader participation in ADR compulsory in sectors they deem fit , in addition to sector-specific Union legislation which provides for mandatory participation of traders in ADR . To encourage traders’ participation in the ADR procedures and to ensure due and swift ADR procedures, traders should be required, especially in cases where their participation is not compulsory, to respond within a specific period to enquiries made by ADR entities on whether they intend to participate to the proposed procedure. 
+ (14) To reduce information and reporting requirements and to save costs for ADR entities, national competent authorities and traders, reporting and information requirements should be simplified and the amount of information provided by ADR entities to the competent authorities should be reduced. 
+ (15) To provide effective assistance to consumers and traders in cross-border disputes, it is necessary to ensure that Member States establish ADR contact points with clearly defined tasks. European Consumer Centres ( “ ECCs ” ) are well placed to perform such tasks , as they are specialised in assisting consumers with issues with their cross - border purchases, but Member States should also be able to choose other bodies with relevant expertise. Those d esignated ADR contact points should be communicated to the Commission. 
+ (16) Despite the fact that ADR procedures are meant to be simple, consumers may be assisted by a third party of their choice during ADR procedures . Member States should ensure that such assistance is provided in good faith to allow a fair procedure and in full transparency , in particular regarding the possible fees require d in exchange for the assistance. 
+ (17) To ensure that consumers are able to easily find a suitable ADR entity, especially in a cross-border context, the Commission should develop and maintain a digital interactive tool that provide s information about ADR entities’ main characteristics and links to the webpages of the ADR entities , as notified to it . 
+ (18) Therefore, Directive 2013/11/EU should be amended accordingly. 
+ (19) As Regulation (EU) No 524/2013 is to be repealed by a separate act, it is also necessary to amend Directives (EU) 2015/2302 
+ 37 
+ , (EU) 2019/2161 
+ 38 
+ and (EU) 2020/1828 
+ 39 
+ of the European Parliament and of the Council, as a consequence of that repeal , 
+ HAVE ADOPTED THIS DIRECTIVE: 
+ Article 1 
+ Amendments to Directive 2013/11/EU 
+ Directive 2013/11/EU is amended as follows: 
+ 1. In Article 2 , paragraph 1 is replaced by the following : 
+ ‘1. This Directive shall apply to procedures for the out-of-court resolution of disputes between consumers resident in the Union and a traders offering goods or services, including digital content and digital services, to those consumers, through the intervention of an ADR entity which proposes or imposes a solution or brings the parties together with the aim of facilitating an amicable solution concerning one of the following: 
+ (a) contractual obligations stemming from sales contracts , including for the supply of digital content, or service contracts; 
+ (b) consumer rights applicable to non-contractual and pre-contractual situations and provided in Union law concerning : 
+ (i) unfair commercial practices and terms , 
+ (ii) compulsory precontractual information , 
+ (iii) non - discrimination on the basis of nationality or place of residence , 
+ (iv) access to services and deliverie s, 
+ (v) remedies in case of non - conformity of products and digital content , 
+ (vi) right to switch providers , and 
+ (vii) passenger and travellers’ right s . 
+ Member States may apply the ADR procedures set out in this Directive, also to categories of disputes other than those listed the first subparagraph, point (b).’. 
+ 2. In Article 4 (1) , points (e) and (f) are replaced replaced by the following : 
+ ‘(e) ‘domestic dispute’ means a dispute between a consumer and a trader, related to contractual obligations and/or consumer rights provided in in Union laws as referred to in article 2(1), where the consumer is resident in the same Member State as that in which the trader is established; 
+ (f) ‘cross-border dispute’ means a dispute between a consumer and a trader, related to contractual obligations and/or consumer rights provided in Union acts as referred to in article 2(1), where the consumer is resident in a Member State other than the Member State in which the trader is established or where the consumer is resident in a Member State and the trader is established outside of the Union;’. 
+ 3. Article 5 is amended as follows: 
+ (a) p aragraph 1 is replaced by the following: 
+ ‘1. Member States shall facilitate access by consumers to ADR procedures and shall ensure that disputes covered by this Directive and which involve a trader established on their respective territories, or a trader not established in the territory of any Member State but offering goods or services, including digital content and digital services, to consumers residing in their respective territories, can be submitted to an ADR entity which complies with the requirements set out in this Directive.’; 
+ (b) in p aragraph 2 , p oint s (a) to (d) are replaced by the following: 
+ ‘(a) ensure that consumers can submit complaints and the requisite supporting documents online in a traceable manner and ensure that consumers may also submit and access these documents in a non-digital format upon request; 
+ (b) offer digital ADR procedures through easily accessible and inclusive tools; 
+ (c) grant the right to the parties to the dispute to request that the outcome of the ADR procedure be reviewed by a natural person when the procedure was carried out by automated means; 
+ (d) may bundle similar cases against one specific trader into one procedure, under condition that the consumer concerned is informed and does not object to that;’ 
+ (c) i n paragraph 4 , point (a) is replaced by the following: 
+ ‘(a) the consumer did not attempt to contact the trader concerned in order to discuss the complaint and seek, as a first step, to resolve the matter directly with the trader, without introducing disproportionate rules about the format of such contact’; 
+ (d) t he following paragraph 8 is added : 
+ ‘8. Member States shall ensure that traders established in their territories that are contacted by an ADR entity from their country or from another Member State, inform that ADR entity whether, or not, they accept to participate in the proposed procedure and reply within a reasonable period of time that shall not exceed 20 working days.’. 
+ 4. A rticle 7, paragraph 2 is amended as follows: 
+ (a) in the introductory phrase, the first sentence is replaced by the following : 
+ ‘Member States shall ensure that ADR entities make publicly available on their websites, on a durable medium upon request, and by any other means they consider appropriate, biennial activity reports’. 
+ (b) p oint (h) is deleted. 
+ 5. In article 13, paragraph 3 is deleted. 
+ 6. Article 14 is replaced by the following: 
+ ‘Article 14 
+ Assistance for consumers 
+ 1. Member States shall ensure that, with regard to cross-border disputes, consumers and traders are able to obtain assistance to access the ADR entity or entities competent to deal with their cross-border dispute. 
+ 2. Each Member State shall designate an ADR contact point in charge of the task referred to in paragraph 1. Each Member State shall communicate the name and contact details of its ADR contact point to the Commission. Member States shall confer responsibility for the operation of the ADR contact points on their centre belonging to the European Consumer Centres Network, or, if not possible, on consumer organisations or on any other body dealing with consumer protection. 
+ 3. The ADR contact points shall facilitate communication between the parties and the competent ADR entity, which may include, in particular: 
+ (a) assisting with the submission of the complaint and, where appropriate, relevant documentation; 
+ (b) providing the parties and ADR entities with general information on EU consumer rights; 
+ (c) providing the parties with explanations on the procedural rules applied by the specific ADR entities; 
+ (d) informing the complainant party of other means of redress when a dispute cannot be resolved through an ADR procedure. 
+ 4. Member States may grant ADR contact points the right to provide assistance referred to in this Article to consumers and traders when accessing ADR entities also with regard to domestic disputes. 
+ 5. Member States shall ensure that any actors assisting consumers in cross-border or domestic disputes, act in good faith to allow parties to the dispute to reach an amicable settlement and provide relevant information to consumers in full transparency, including information regarding procedural rules and any applicable fees.’. 
+ 7. I n Article 19(3), p oints (f), (g) and (h) are deleted. 
+ 8. I n Article 20, the following paragraph is added : 
+ ‘8. The Commission shall develop and maintain a digital interactive tool that provides general information on consumer redress and links to the webpages of the ADR entities notified to it in accordance with paragraph 2 of this Article.’. 
+ 9. I n article 24, the following paragraph 4 is a dde d : 
+ ‘4. By [ insert date ] Member States shall communicate to the Commission the names and contact details of the ADR contact points designated in accordance with Article 14(2).’. 
+ Article 2 
+ Amendment to Directive (EU) 2015/2302 
+ In Article 7(2) of Directive (EU) 2015/2302, point (g) is replaced by the following: 
+ ‘(g) information on available in-house complaint handling procedures and on alternative dispute resolution (‘ADR’) mechanisms pursuant to Directive 2013/11/EU of the European Parliament and of the Council 
+ 40 
+ and, where applicable, on the ADR entity by which the trader is covered ; ’. 
+ Article 3 
+ Amendment to Directive (EU) 2019/2161 
+ In Article 5 of Directive (EU) 2019/2161, point (b) is replaced by the following: 
+ ‘ (b) submit a complaint to the competent centre of the European Consumer Centres Network, depending on the parties involved. ’. 
+ Article 4 
+ Amendment to Directive (EU) 2020/1828 
+ In Annex I to Directive (EU) 2020/1828, point (44) is deleted. 
+ Article 5 
+ Transposition 
+ 1. By [ dd/month/year - 1 year after entry into force ] , Member States shall adopt and publish the measures necessary to comply with Article 1 of this Directive. They shall immediately inform the Commission thereof . 
+ They shall apply those measures from [date]. 
+ 2. By [ dd/month/year… 1 year after entry into force of Regulation xx/…. [the proposal for a Regulation of the European Parliament and of the Council repealing Regulation (EU) No 524/2013 on online dispute resolution for consumers]], Member States shall adopt and publish the measures necessary to comply with Articles 2, 3 and 4 of this Directive. They shall immediately inform the Commission thereof. 
+ They shall apply those measures from [ insert date ]. 
+ 3. When Member States adopt the measures referred to in paragraphs 1 and 2 , they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States. 
+ 4. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive. 
+ Article 6 
+ Entry into force 
+ This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . 
+ Article 7 
+ Addressees 
+ This Directive is addressed to the Member States. 
+ Done at Brussels, 
+ For the European Parliament 
+ For the Council 
+ The President 
+ The President 
+ (1) 
+ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0011 
+ (2) 
+ See Row 8 of Annex II (Refit) 
+ https://commission.europa.eu/strategy-documents/commission-work-programme/commission-work-programme-2023_en 
+ (3) 
+ Regulation (EU) No 524/2013 of the European Parliament and of the Council of 21 May 2013 on online dispute resolution for consumer disputes and amending Regulation (EC) No 2006/2004 and Directive 2009/22/EC (Regulation on consumer ODR); 
+ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32013R0 
+ (4) 
+ COM (2023) 168 
+ (5) 
+ Article 169 TFEU states that the objectives of promoting the interests of consumers and ensuring a high level of consumer protection can be achieved through measures adopted pursuant to Article 114 TFEU. 
+ (6) 
+ Regulation (EU) No 524/2013 of the European Parliament and of the Council of 21 May 2013 on online dispute resolution for consumer disputes and amending Regulation (EC) No 2006/2004 and Directive 2009/22/EC (OJ L 165, 18.6.2013, p. 1 . 
+ (7) 
+ The evaluation is also being published as a package with the proposal . 
+ (8) 
+ https://www.eccnet.eu/publications 
+ (9) 
+ https://www.beuc.eu/sites/default/files/publications/beuc-x-2022-062_adr_position_paper.pdf 
+ (10) 
+ The ratio 180,000/300,000 applying now to 400,000. 
+ (11) 
+ 96,000 as seen in the problem definition, i.e. 32% of total, which out of 400,000 is 128,000. It is unknown how many unanswered notifications are from SMEs and how many from large businesses. 
+ (12) 
+ 3% discount factor applies for actualising values. 
+ (13) 
+ Note that, as seen in the Evaluation (Annex 6), in six Member States trader participation is already always required (DK, HU, IS, LT, LV, SK). In other seven Member States trader participation is mandatory in specific sectors (AT, CY, CZ, DE, EL, ES, NL) and in further four, trader participation is required under specific circumstances (BE, HR, PT, SE). For simplicity in the calculation, these estimates do not take into consideration this, which is acknowledged as a limitation. 
+ (14) 
+ Applying the same logic that approximately 60% of businesses, if solicited by ECCs, normally find an agreement with the consumers. Hence 60% of businesses who are solicited to reply would reply positively. 
+ (15) 
+ 300,000-180,000 in the baseline +77,000. 
+ (16) 
+ 200,000*90%*EUR 185. 
+ (17) 
+ EUR 300 per dispute, see problem definition. 
+ (18) 
+ However, one must take into account that ADR entities would experience economies of scale after a certain point, and only marginal costs of adding extra disputes should be taken into account. Also, the costs that these additional disputes entail pre-empt larger costs to be incurred by several parties if the cases end up in court. 
+ (19) 
+ This is a conservative estimate related to potential savings. It takes into account the number of potential disputes (380,000) and assumes that only 10% of them are bundled together. Considering that the average value of a dispute is EUR 300, the savings amount to EUR 11 millions 
+ (20) 
+ Consumer Conditions Scoreboard - Consumers at home in the Single Market, 2019, 
+ consumers-conditions-scoreboard-2019_pdf_en.pdf (europa.eu) 
+ . 
+ (21) 
+ In the behavioural study on ADR/ODR it was found that “information provided on ADR entity websites does not seem to be a major driver of usage”. This appl ies especially if the trader who has to disclose this information does not intend to engage. 
+ (22) 
+ Impact Assessment accompanying the document Proposal for a Directive of the European Parliament and of the Council on Alternative Dispute Resolution for consumer disputes (Directive on consumer ADR) and Proposal for a Regulation of the European Parliament and of the Council on Online Dispute Resolution for consumer disputes (Regulation on consumer ODR) {COM(2011) 793 final} {SEC(2011) 1409 final}. 
+ (23) 
+ EUR 254 x 1.2217 as cumulative inflation between 2012 and 2023 (in 2013dollars.com/Europe). 
+ (24) 
+ Eurostat: 500,000 new wholesalers and retailers every year in the EU x 64% = 320,000. 
+ (25) 
+ 320,000 (see footnote above) x EUR 310 (costs for traders to comply with obligation information). 
+ (26) 
+ 35% of the total costs (2011 Impact Assessment), i.e. EUR 109. We assume 10% of them would need reprint every year, for a cost of EUR 11 per existing business who does not adhere to an ADR entity (23,000,000 x 64% = 15,000,000). 
+ (27) 
+ ODR contact points are funded by MS budget, while ECC are co-financed by the EU. In shifting these jobs, M ember S tates would have less expenses and the EU some more. 
+ (28) 
+ Regulation (EU) 2021/690 of the European Parliament and of the Council of 28 April 2021 establishing a programme for the internal market, competitiveness of enterprises, including small and medium-sized enterprises, the area of plants, animals, food and feed, and European statistics (Single Market Programme) and repealing Regulations (EU) No 99/2013, (EU) No 1287/2013, (EU) No 254/2014 and (EU) No 652/2014 (Text with EEA relevance) OJ L 153, 3.5.2021, p. 1–47 
+ (29) 
+ Directive 2013/11/EU of the European Parliament and of the Council of 21 May 2013 on alternative dispute resolution for consumer disputes and amending Regulation (EC) No 2006/2004 and Directive 2009/22/EC (OJ L 165, 18.6.2013, p. 63). 
+ (30) 
+ Regulation (EU) No 524/2013 of the European Parliament and of the Council of 21 May 2013 on online dispute resolution for consumer disputes and amending Regulation (EC) No 2006/2004 and Directive 2009/22/EC (OJ L 165, 18.6.2013, p. 1 ). 
+ (31) 
+ Regulation (EU) 2018/302 of the European Parliament and of the Council of 28 February 2018 on addressing unjustified geo-blocking and other forms of discrimination based on customers' nationality, place of residence or place of establishment within the internal market and amending Regulations (EC) No 2006/2004 and (EU) 2017/2394 and Directive 2009/22/EC (OJ L 60I, 2.3.2018, p. 1). 
+ (32) 
+ Directive 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic feature (OJ L257, 28.8.2014, p. 214). 
+ (33) 
+ Regulation (EU) 2022/612 of the European Parliament and of the Council of 6 April 2022 on roaming on public mobile communications networks within the Union (OJ L 115, 13.4.2022, p. 1). 
+ (34) 
+ Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community (OJ L 293, 31.10.2008, p. 3). 
+ (35) 
+ Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) ( OJ L 265, 12.10.2022, p. 1 ). 
+ (36) 
+ Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (OJ L 277, 27.10.2022, p. 1) 
+ (37) 
+ Directive (EU) 2015/2302 of the European Parliament and of the Council of 25 November 2015 on package travel and linked travel arrangements, amending Regulation (EC) No 2006/2004 and Directive 2011/83/EU of the European Parliament and of the Council and repealing Council Directive 90/314/EEC (OJ L 326, 11.12.2015, p. 1). 
+ (38) 
+ Directive (EU) 2019/2161 of the European Parliament and of the Council of 27 November 2019 amending Council Directive 93/13/EEC and Directives 98/6/EC, 2005/29/EC and 2011/83/EU of the European Parliament and of the Council as regards the better enforcement and modernisation of Union consumer protection rules (OJ L 328, 18.12.2019, p. 7). 
+ (39) 
+ Regulation (EU) 2023/988 of the European Parliament and of the Council of 10 May 2023 on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and of the Council and Directive (EU) 2020/1828 of the European Parliament and the Council, and repealing Directive 2001/95/EC of the European Parliament and of the Council and Council Directive 87/357/EEC (OJ L 135, 23.5.2023, p. 1). 
+ (40) 
+ Directive 2013/11/EU of the European Parliament and of the Council of 21 May 2013 on alternative dispute resolution for consumer disputes and amending Regulation (EC) No 2006/2004 and Directive 2009/22/EC (Directive on consumer ADR) (OJ L 165, 18.6.2013, p. 63).’
